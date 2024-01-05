@@ -8,6 +8,10 @@ Roughly overlapping with the Intercontinental Dictionary Series word list in ter
 
 The full SALIST includes approximately 1'000 concepts in its current version. The original list focused on around 750 concepts for the purposes of phylogenetic analysis, therefore prioritising concepts with greater coverage in the database. However, as an effort to better incorporate the spirit of the [Concepticon](https://concepticon.clld.org/), the list has been expanded to include finer divisions not originally accounted for in the first version.
 
+## Definitions
+
+Many of the definitions at this time are generated from an LLM. This needs to change, and will. The plan is to match up with [IE-CoR](https://iecor.clld.org/parameters) as much as possible, diverging where necessary. It's on the to-do list.
+
 ## Structure
 
 SALIST concepts are defined in English, with glossing or short definitions definitions also given in in Hindi, Assamese, Mandarin, and Burmese, with Nagamese intended to be added in a future version.
