@@ -1,8 +1,18 @@
-# SALI&T
+# SALIST
 
-The Sal Area Lexicostatistical Inventory &amp; Typological dataset (SALI&amp;T, "sal-list") is an elicitation- and comparison-based word list based on Matisoff's (1978, 2000) _CALMSEA_ word list, itself presented as a "culturally appropriate" word list for South East Asia.
+The Sal Area Lexical Inventory for Sino-Tibetan (SALIST, "sal-list") is an elicitation and comparison focused word list spiritially based off of Matisoff's (1978, 2000) _CALMSEA_ word list, itself presented as a "culturally appropriate" word list for South East Asia.
 
-The SALI&T is further refined for Sal (Burling 1983) varietites in order to gather a slightly greater depth of concepts and stems than CALMSEA, with a primary focus on Bodo-Garo, Jinghpaw and Central Sal (Northern Naga) varieties. The list is meant to serve as both a tool to those undertaking documentation work in the region, as well as for phylogenetic analysis of Sal and related varieties in order to better categories relatedness within the cluster.
+Roughly overlapping with the Intercontinental Dictionary Series word list in terms of concepts, the SALIST word lsit is further refined for the proposed Sal (Burling 1983) language varietites in order to gather a slightly greater depth of concepts and stems than CALMSEA. The proposed Sal subfamily within Sino-Tibetan (Trans-Himalayan) is made up of Bodo-Garo, Jinghpaw, Sak and Patkaian (Northern Naga) branches. The list is meant to serve as both a tool to those undertaking documentation work in the region, as well as for phylogenetic analysis of Sal and neighbouring varieties in order to better categories relatedness within the cluster.
+
+## Inventory
+
+The full SALIST includes approximately 1'000 concepts in its current version. The original list focused on around 750 concepts for the purposes of phylogenetic analysis, therefore prioritising concepts with greater coverage in the database. However, as an effort to better incorporate the spirit of the [Concepticon](https://concepticon.clld.org/), the list has been expanded to include finer divisions not originally accounted for in the first version.
+
+## Structure
+
+SALIST concepts are defined in English, with glossing or short definitions definitions also given in in Hindi, Assamese, Mandarin, and Burmese, with Nagamese intended to be added in a future version.
+
+Each concept has a unique numerical identifier, a unique concept form as described at [patkaiist/dot.transcription](https://github.com/patkaiist/dot.transcription), a plain-English name based on that form, and a simplified form for interlinear glossing. Concepts are also matched to their corresponding Concepticon ID where possible.
 
 ## References 
 
