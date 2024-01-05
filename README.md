@@ -4,6 +4,10 @@ The Sal Area Lexical Inventory for Sino-Tibetan (SALIST, "sal-list") is an elici
 
 Roughly overlapping with the Intercontinental Dictionary Series word list in terms of concepts, the SALIST word lsit is further refined for the proposed Sal (Burling 1983) language varietites in order to gather a slightly greater depth of concepts and stems than CALMSEA. The proposed Sal subfamily within Sino-Tibetan (Trans-Himalayan) is made up of Bodo-Garo, Jinghpaw, Sak and Patkaian (Northern Naga) branches. The list is meant to serve as both a tool to those undertaking documentation work in the region, as well as for phylogenetic analysis of Sal and neighbouring varieties in order to better categories relatedness within the cluster.
 
+## Goals
+
+The purpose of this list is to have a concept list which covers "diagnostically" important concepts for languages of Northeast India and northwestern Myanmar, for the purposes of historical reconstruction, phylogenetic analyses, and investigations into semantic shifts in the history of the langauges of the region.
+
 ## Inventory
 
 The full SALIST includes approximately 1'000 concepts in its current version. The original list focused on around 750 concepts for the purposes of phylogenetic analysis, therefore prioritising concepts with greater coverage in the database. However, as an effort to better incorporate the spirit of the [Concepticon](https://concepticon.clld.org/), the list has been expanded to include finer divisions not originally accounted for in the first version.
