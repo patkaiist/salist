@@ -14,7 +14,7 @@ The full SALIST includes approximately 1'000 concepts in its current version. Th
 
 ## Definitions
 
-Many of the definitions at this time are generated from an LLM. This needs to change, and will. The plan is to match up with [IE-CoR](https://iecor.clld.org/parameters) as much as possible, diverging where necessary. It's on the to-do list.
+Many of the definitions at this time are generated from an LLM. This needs to change, and will. The plan is to match up with CONCEPTICON definitions and those of [IE-CoR](https://iecor.clld.org/parameters) as much as possible, diverging where necessary. This is still a work in progress.
 
 Many of the definitions will also include notes regarding typical patterns found in the languages regarding the occurrence of common borrowed terms, typical proto forms from PTB (as per Matisoff 2003 for the time being), or other relevant notes which may assist the data collector in elicitation.
 
