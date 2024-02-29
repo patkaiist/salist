@@ -12,6 +12,10 @@ The purpose of this list is to have a concept list which covers "diagnostically"
 
 The full SALIST includes approximately 1'000 concepts in its current version. The original list focused on around 750 concepts for the purposes of phylogenetic analysis, therefore prioritising concepts with greater coverage in the database. However, as an effort to better incorporate the spirit of the [Concepticon](https://concepticon.clld.org/), the list has been expanded to include finer divisions not originally accounted for in the first version.
 
+### Stages
+
+Ths list is split into multiple stages to simplify elicitation. The smallest list contains 100 concepts. Larger versions with 350, 800 and 1000 concepts are also available. These can either be collected in stages, or from the start with a larger concept list.
+
 ## Definitions
 
 Many of the definitions at this time are generated from an LLM. This needs to change, and will. The plan is to match up with CONCEPTICON definitions and those of [IE-CoR](https://iecor.clld.org/parameters) as much as possible, diverging where necessary. This is still a work in progress.
