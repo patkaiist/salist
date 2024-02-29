@@ -18,7 +18,7 @@ Ths list is split into multiple stages to simplify elicitation. The smallest lis
 
 ## Definitions
 
-Many of the definitions at this time are generated from an LLM. This needs to change, and will. The plan is to match up with CONCEPTICON definitions and those of [IE-CoR](https://iecor.clld.org/parameters) as much as possible, diverging where necessary. This is still a work in progress.
+Definitions are primarily those of CONCEPTICON, or else built upon CONCEPTICON definitions except in cases where there was a need to fill in gaps, and otherwise following those of [IE-CoR](https://iecor.clld.org/parameters) as much as possible, diverging where necessary. This is still a work in progress.
 
 Many of the definitions will also include notes regarding typical patterns found in the languages regarding the occurrence of common borrowed terms, typical proto forms from PTB (as per Matisoff 2003 for the time being), or other relevant notes which may assist the data collector in elicitation.
 
