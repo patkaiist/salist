@@ -1,6 +1,6 @@
 # SALIST
 
-The Sal Area Lexical Inventory for Sino-Tibetan (SALIST, "sal-list") is an elicitation and comparison focused word list spiritially based off of Matisoff's (1978, 2000) _CALMSEA_ word list, itself presented as a "culturally appropriate" word list for South East Asia.
+The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "sal-list", formerly _Sal Area Lexicostatistical Inventory & Typological database_ - SALI&T) is an elicitation and comparison focused word list spiritially based off of Matisoff's (1978, 2000) _CALMSEA_ word list, itself presented as a "culturally appropriate" word list for South East Asia.
 
 Roughly overlapping with the Intercontinental Dictionary Series word list in terms of concepts, the SALIST word lsit is further refined for the proposed Sal (Burling 1983) language varietites in order to gather a slightly greater depth of concepts and stems than CALMSEA. The proposed Sal subfamily within Sino-Tibetan (Trans-Himalayan) is made up of Bodo-Garo, Jinghpaw, Sak and Patkaian (Northern Naga) branches. The list is meant to serve as both a tool to those undertaking documentation work in the region, as well as for phylogenetic analysis of Sal and neighbouring varieties in order to better categories relatedness within the cluster.
 
