@@ -16,6 +16,11 @@ The full SALIST includes approximately 1'000 concepts in its current version. Th
 
 Ths list is split into multiple stages to simplify elicitation. The smallest list contains 100 concepts. Larger versions with 350, 800 and 1000 concepts are also available. These can either be collected in stages, or from the start with a larger concept list.
 
+## Principles (in progress)
+
+1. Specificity is preferred over generality, but not to the point of projecting it where it is not coded in the data. General terms should be used only in cases where specificity cannot be determined, as in "Greater hornbill" versus "hornbill (general)".
+2. Verb stems take precendence over noun stems in cases where a concept may occur as both in English. "To be hungry" is considered more basic than "hunger (sensation)". This is based on local typological features, where the latter is almost always derived from the former.
+
 ## Definitions
 
 Definitions are primarily those of CONCEPTICON, or else built upon CONCEPTICON definitions except in cases where there was a need to fill in gaps, and otherwise following those of [IE-CoR](https://iecor.clld.org/parameters) as much as possible, diverging where necessary. This is still a work in progress.
