@@ -1,0 +1,1001 @@
+concept_slno	concept_id	name	gloss	concept	concepticon_id	conc_name	stage	category	definition	hindi	assamese	mandarin	burmese	nagamese	comment
+0	0000.:zero	zero	zero	ᴢᴇʀᴏ	1294	ZERO	4.0	numbers	The integer zero (0).	शून्य	শূন্য	零	သုည		
+1	0001.:one	one	one	ᴏɴᴇ	1493	ONE	1.0	numbers	The default numeral for one (1). // It should not include a numeral classifier, but instead be only the bare numeral.	एक	এক	一	တစ်		
+2	0002.:two	two	two	ᴛᴡᴏ	1498	TWO	1.0	numbers	The natural number two (2). // It should not include a numeral classifier, but instead be only the bare numeral.	दो	দুই	二	နှစ်		
+3	0003.:three	three	three	ᴛʜʀᴇᴇ	492	THREE	1.0	numbers	The natural number three (3). // It should not include a numeral classifier, but instead be only the bare numeral.	तीन	তিনি	三	သုံး		
+4	0004.:four	four	four	ꜰᴏᴜʀ	1500	FOUR	1.0	numbers	The default numeral for four (4). It should not include a numeral classifier, but instead be only the bare numeral.	चार	চাৰি	四	လေး		
+5	0005.:five	five	five	ꜰɪᴠᴇ	493	FIVE	1.0	numbers	The default numeral for five (5). It should not include a numeral classifier, but instead be only the bare numeral.	पांच	পাঁচ	五	ငါး		
+6	0006.:six	six	six	ꜱɪx	1703	SIX	1.0	numbers	The natural number six (6). // It should not include a numeral classifier, but instead be only the bare numeral.	छह	ছয়	六	ခြောက်ခဲ့သည်		
+7	0007.:seven	seven	seven	ꜱᴇᴠᴇɴ	1704	SEVEN	1.0	numbers	The natural number seven (7). // It should not include a numeral classifier, but instead be only the bare numeral.	सात	সাত	七	ခုနှစ်		
+8	0008.:eight	eight	eight	ᴇɪɢʜᴛ	1705	EIGHT	1.0	numbers	The natural number eight (8). // It should not include a numeral classifier, but instead be only the bare numeral.	आठ	আঠ	八	ရှစ်		
+9	0009.:nine	nine	nine	ɴɪɴᴇ	1483	NINE	1.0	numbers	The default numeral for nine (9). It should not include a numeral classifier, but instead be only the bare numeral.	नौ	নৱ	九	ကိုး		
+10	0010.:ten	ten	ten	ᴛᴇɴ	1515	TEN	1.0	numbers	The default numeral for ten (10). It should not include a numeral classifier, but instead be only the bare numeral.	दस	দহ	十	ဆယ်		
+11	0011.:eleven	eleven	eleven	ᴇʟᴇᴠᴇɴ	1706	ELEVEN	4.0	numbers	The natural number eleven (11).						
+12	0012.:twelve	twelve	twelve	ᴛᴡᴇʟᴠᴇ	1707	TWELVE	4.0	numbers	The natural number twelve (12).						
+13	0013.:thirteen	thirteen	thirteen	ᴛʜɪʀᴛᴇᴇɴ	1708	THIRTEEN	4.0	numbers	The natural number thirteen (13).						
+14	0014.:fourteen	fourteen	fourteen	ꜰᴏᴜʀᴛᴇᴇɴ	2451	FOURTEEN	4.0	numbers	The natural number fourteen (14).						
+15	0015.:fifteen	fifteen	fifteen	ꜰɪꜰᴛᴇᴇɴ	1709	FIFTEEN	4.0	numbers	The natural number fifteen (15).						
+16	0016.:sixteen	sixteen	sixteen	ꜱɪxᴛᴇᴇɴ	2454	SIXTEEN	4.0	numbers	The natural number sixteen (16).						
+17	0017.:seventeen	seventeen	seventeen	ꜱᴇᴠᴇɴᴛᴇᴇɴ	2453	SEVENTEEN	4.0	numbers	The natural number seventeen (17).						
+18	0018.:eighteen	eighteen	eighteen	ᴇɪɢʜᴛᴇᴇɴ	1713	EIGHTEEN	4.0	numbers	The natural number eighteen (18).						
+19	0019.:nineteen	nineteen	nineteen	ɴɪɴᴇᴛᴇᴇɴ	1714	NINETEEN	4.0	numbers	The natural number nineteen (19).						
+20	0020.:twenty	twenty	twenty	ᴛᴡᴇɴᴛʏ	1710	TWENTY	2.0	numbers	The natural number twenty (20).	बीस	বিশ	二十	ပိသျှတ်		
+30	0030.:thirty	thirty	thirty	ᴛʜɪʀᴛʏ	1715	THIRTY	4.0	numbers	The natural number thirty (30).						
+40	0040.:forty	forty	forty	ꜰᴏʀᴛʏ	1716	FORTY	4.0	numbers	The natural number forty (40).						
+50	0050.:fifty	fifty	fifty	ꜰɪꜰᴛʏ	1717	FIFTY	4.0	numbers	The natural number fifty (50).						
+100	0100.:hundred	hundred	hundred	ʜᴜɴᴅʀᴇᴅ	1634	HUNDRED	2.0	numbers	The natural number one hundred (100).	सौ	শত	百	ရာ		
+300	0300.:three.hundred	three hundred	three.hundred	ᴛʜʀᴇᴇ.ʜᴜɴᴅʀᴇᴅ	3513	THREE HUNDRED	4.0	numbers	The natural number three hundred (300). // This is included in the concept list to determine composition of higher numbers.						
+400	0400.:four.hundred	four hundred	four.hundred	ꜰᴏᴜʀ.ʜᴜɴᴅʀᴇᴅ	3515	FOUR HUNDRED	4.0	numbers	The natural number four hundred (400). // This is included in the concept list to determine composition of higher numbers.						
+500	0500.:five.hundred	five hundred	five.hundred	ꜰɪᴠᴇ.ʜᴜɴᴅʀᴇᴅ	3516	FIVE HUNDRED	4.0	numbers	The natural number five hundred (500). // This is included in the concept list to determine composition of higher numbers.						
+501	1.du	1 du	1.du	1.ᴅᴜ	2634	WE TWO	2.0	pronouns	The speaker and exactly one other person. // The first person dual pronominal stem. In varieties which have this stem, it is typically derived from a proposed etymon #tsi. Varieties which lack stem suppletion for dual pronominal forms should have their compounds recorded as such.						
+502	1.du.excl	1 du excl	1.du.excl	1.ᴅᴜ.ᴇxᴄʟ	2636	WE TWO (EXCLUSIVE)	4.0	pronouns	Exclusive form of the dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.						
+503	1.du.incl	1 du incl	1.du.incl	1.ᴅᴜ.ɪɴᴄʟ	2637	WE TWO (INCLUSIVE)	4.0	pronouns	Inclusive form of the dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.						
+505	1.n.sg.excl	1 n sg excl	1.n.sg.excl	1.ɴ.ꜱɢ.ᴇxᴄʟ	1130	WE (EXCLUSIVE)	1.0	pronouns	Exclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.				ကျွန်တစ်ဦးတည်းနှင့်တကွ		
+506	1.n.sg.incl	1 n sg incl	1.n.sg.incl	1.ɴ.ꜱɢ.ɪɴᴄʟ	1131	WE (INCLUSIVE)	1.0	pronouns	Inclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.				ကျွန်မှာတော့		
+507	1.sg	1 sg	1.sg	1.ꜱɢ	1209	I	1.0	pronouns	The first-person singular pronominal stem, typically a reflex of PTB *ŋa or *ka.						
+509	1000.:thousand	thousand	thousand	ᴛʜᴏᴜꜱᴀɴᴅ	1843	THOUSAND	2.0	numbers	The natural number one thousand (1000).	हजार	হাজাৰ	千	ထောင်		
+510	2.n.sg	2 n sg	2.n.sg	2.ɴ.ꜱɢ	1213	YOU	1.0	pronouns	Second person non-singular pronominal stem. This will not likely have a suppletive dual counterpart.				သင့်တော်တို့		
+511	2.sg	2 sg	2.sg	2.ꜱɢ	1215	THOU	1.0	pronouns	The second-person singular pronominal stem, typically but not always a reflex of *naŋ.						
+516	3.n.sg	3 n sg	3.n.sg	3.ɴ.ꜱɢ	817	THEY	1.0	pronouns	Third person non-singular pronominal stem, unmarked for gender. If gendered forms are attested they should be added under separate concepts.				သူတို့		
+517	3.sg	3 sg	3.sg	3.ꜱɢ	262	HE OR SHE OR IT	1.0	pronouns	Third person singular pronominal stem. This may in some cases also be one of the demonstrative stems, as is the case in much of Bodo-Garo.						
+524	above:to.be	to be above	above	ᴀʙᴏᴠᴇ	1741	ABOVE	2.0		Situated in a higher place than something else.	ऊपर	উপৰ	上面	အထက်		
+528	accipitridae..raptor:::	Accipitridae (raptor)	Accipitridae	ᴀᴄᴄɪᴘɪᴛʀɪᴅᴀᴇ	2683	EAGLE OR HAWK	2.0	fauna	A bird of prey with broad wings and a hooked bill. Kites are the most common which occur in the area. This should be the most general term for this class of birds, and not a compound term for a specific species. Any specific genera/species names should be noted separately.	चील		鹰	သိမ်းငှက်၊ လင်းယုန် သို့မဟုတ် စွန်ရဲ		
+539	adolescent	adolescent	adolescent	ᴀᴅᴏʟᴇꜱᴄᴇɴᴛ	–	–	4.0		Telating to or characteristic of adolescence, typically between 13 and 19 years old. This may not be attested in all languages, but is may reflect the age range prior to being a full adult.	किशोरावस्था		青少年的	ဆယ်ကျော်သက်		
+544	afraid:to.be	to be afraid	afraid	ᴀꜰʀᴀɪᴅ			4.0								
+546	afternoon	afternoon	afternoon	ᴀꜰᴛᴇʀɴᴏᴏɴ	1807	AFTERNOON	3.0		The part of the day which follows noon, between noon and evening.	दोपहर	বিলাস	下午	နေ့လည်		
+548	age	age	age	ᴀɢᴇ	2676	TWO HUNDRED	4.0	numbers	The natural number two hundred (200).						
+549	age..grow.old:to	to age (grow old)	age	ᴀɢᴇ	–	–	4.0		To age and become older.	बूढ़ा होना		变老	လူအို၊		
+550	age..of.person	age (of person)	age	ᴀɢᴇ	1789	AGE	4.0		The length of time a person has been alive, usually measured in years.	उम्र	বয়স	年龄	လူတစ်ဦး၏အသက်		
+555	alcohol:brewed	brewed alcohol	brewed.alcohol	ʙʀᴇᴡᴇᴅ.ᴀʟᴄᴏʜᴏʟ	404	ALCOHOL (FERMENTED DRINK)	1.0		A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).	सुराही दार शराब	জলকীয় দ্রব	酿造酒	အရက်ချက်		
+556	alcohol:distilled	distilled alcohol	distilled.alcohol	ᴅɪꜱᴛɪʟʟᴇᴅ.ᴀʟᴄᴏʜᴏʟ	842	LIQUOR	2.0		Alcoholic beverages made through distillation, such as whiskey or vodka. This will often be a borrowing, either from Tai or IA, though some varieties will retain a native form.	अर्क	মদ	蒸馏酒	ပေါင်းခံအရက်		
+562	alive:to.be	to be alive	alive	ᴀʟɪᴠᴇ	1422	BE ALIVE	2.0		To have life and be living, not dead.	जीवित	জিৱন থাকিব	活着	အသက်ရှင်ဖို့		
+563	all	all	all	ᴀʟʟ	98	ALL	4.0		The whole quantity or extent of something. Or, everyone or everything considered together.	सब	সমগ্ৰ	所有	အားလုံး		
+567	amber	amber	amber	ᴀᴍʙᴇʀ	–	–	3.0		A hard, translucent fossilized resin, typically yellowish-brown in color. Used in some communities for ornaments such as earrings.	अंबर	বাঁশফুলীয়া	琥珀	ပယင်း		
+571	ancestors..general	ancestors (general)	ancestors	ᴀɴᴄᴇꜱᴛᴏʀꜱ	1669	ANCESTORS	4.0		The prople from whom one is descended, especially when more remote than a grandparent. This concept should be for figures which would not have been personally known by the speaker due to the distance in time.	पूर्वज	পূৰ্বজ	祖先	ဘိုးဘေး		
+573	angry:to.be	to be angry	angry	ᴀɴɢʀʏ	1826	ANGRY	3.0		Feeling or showing strong annoyance, displeasure, or hostility, usually toward someone or some thing.	गुस्सा	ৰাগী	生气	စိတ်ဆိုး		
+574	animal..affix:female	female animal (affix)	female.animal	ꜰᴇᴍᴀʟᴇ.ᴀɴɪᴍᴀʟ	3923	FEMALE ANIMAL	4.0		Of or denoting the sex that can bear offspring or produce eggs, distinguished biologically by the production of gametes (ova).	मादा		女性	အမျိုးသမီး		
+575	animal..affix:male	male animal (affix)	male.animal	ᴍᴀʟᴇ.ᴀɴɪᴍᴀʟ	3924	MALE ANIMAL	4.0		The marker used for animals which marks them as male.						
+576	animal..general	animal (general)	animal	ᴀɴɪᴍᴀʟ	619	ANIMAL	2.0	fauna	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	जानवर	পশু	动物	တိရစ္ဆာန်		
+583	answer.:respond:to	to respond	respond	ʀᴇꜱᴘᴏɴᴅ	1275	ANSWER	4.0		To communicate in response to something.						
+584	answer..question:to	to answer (question)	answer	ᴀɴꜱᴡᴇʀ	1275	ANSWER	4.0		To communicate a message of any form in reaction to something that has been asked or expressed, to the being who expressed it; to react verbally.	जवाब देना	উত্তৰ দিব	回答	အဖြေ၊ တုံ့ပြန်		
+585	ant::hill	anthill	anthill	ᴀɴᴛʜɪʟʟ	1873	ANTHILL	4.0		A mound of earth made by ants as they dig their nest.	चींटी का ढेर	হুঁটুলঘৰ	蚁丘	ပုရွက်ဆိတ်ကုန်း		
+590	ant.:termite	termite	termite	ᴛᴇʀᴍɪᴛᴇ	883	TERMITE	2.0	fauna	A soft-bodied insect of the order Isoptera; individuals feed on cellulose and live in colonies with a caste system comprising three types of functional individuals: sterile workers and soldiers, and the reproductives.	दीमक	হুঁটুল	白蚁	ခြကောင်		
+591	ant..general	ant (general)	ant	ᴀɴᴛ	587	ANT	1.0		Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	चींटी	পিঁপিলিকা	蚂蚁	ပုရွက်ဆိတ်		
+597	anxious:to.be	to be anxious	anxious	ᴀɴxɪᴏᴜꜱ	3869	ANXIOUS	4.0		Having the feeling of anxiety. To feel worried, uneasy, or nervous about something. Distinct from eagerness.	चिंतित होना	উদাসীন থাকিব	焦虑	စိတ်စောဖို့၊ ပေါ်လာဖို့		
+598	apologise:to	to apologise	apologise	ᴀᴘᴏʟᴏɢɪꜱᴇ	–	–	4.0		To express regret, remorse, sadness or accountability regarding something that one has done or failed to do.	माफ़ करना		对不起	စိတ်မကောင်းဖြစ်ရတယ်။		
+599	appear:to	to appear	appear	ᴀᴘᴘᴇᴀʀ	–	–	4.0		To come into sight or become visible from being previously invisible or absent.	दिखाई देना	দৃষ্টা পোৱা	出现	ပေါ်လာဖို့		
+605	area.under.house	area under house	area.under.house	ᴀʀᴇᴀ.ᴜɴᴅᴇʀ.ʜᴏᴜꜱᴇ	2632	AREA UNDER HOUSE	4.0		The large space below a traditional stilt house, used for storage, keeping animals or building looms.				အုတ်တံတိုင်းအိမ်အောက် ဧရိယာ		
+606	areca.nut	areca nut	areca.nut	ᴀʀᴇᴄᴀ.ɴᴜᴛ	217	BETELNUT	4.0	flora	The fruit of the areca palm, often chewed with betel leaf and other ingredients in many parts of Asia for its stimulant effects. Ofte called betel nut, but not coming from the same plant as the betel leaf.	सुपारी	তামুল	槟榔	ကွမ်းသီး၊		Concepticon has both BETEL NUTE and BETELNUT. This is marked as absent in Concepticon since betel is a different species, and the inconsistent labels in Concepticon create ambiguity.
+611	arm::pit	armpit	armpit	ᴀʀᴍᴘɪᴛ	1886	ARMPIT	3.0	body parts	The hollow beneath the junction of the arm and shoulder.	बगल	কখেলা	腋窝	ချိုင်း		
+612	arm:upper	upper arm	upper.arm	ᴜᴘᴘᴇʀ.ᴀʀᴍ	431	UPPER ARM	4.0	body parts	The part of the arm between the shoulder and the elbow. This concept may not be present in many language varieties.	बांह की ऊपरी हिस्सा	ভুজা	上臂	လက်မောင်းအပေါ်ပိုင်း		
+613	arm.:elbow	elbow	elbow	ᴇʟʙᴏᴡ	981	ELBOW	3.0	body parts	The joint between the forearm and the upper arm.	कोहनी	কুহুনি	肘部	တံတောင်ဆစ်		
+614	arm.:elbow:inner	inner elbow	inner.elbow	ɪɴɴᴇʀ.ᴇʟʙᴏᴡ	–	–	4.0	body parts	The inner part of the elbow where the arm bends.	कोहनी का अंदरूंग		肘窝	အတွင်းတံတောင်ဆစ်		
+616	arm.:forearm	forearm	forearm	ꜰᴏʀᴇᴀʀᴍ	–	–	4.0	body parts	The part of the arm between the elbow and the wrist. This concept may not be present in many language varieties.	कलाई	কলাই	前臂	လက်ဖျံ		
+617	arm.:shoulder	shoulder	shoulder	ꜱʜᴏᴜʟᴅᴇʀ	1482	SHOULDER	3.0	body parts	The joint connecting the upper arm and the torso, especially the top or outermost part.	कंधा		肩膀	ပခုံး		
+621	arm.:wrist	wrist	wrist	ᴡʀɪꜱᴛ	799	WRIST	3.0	body parts	The joint connecting the hand and the forearm. This will typically be a compund involving the general hand/arm stem, and is likely to be entirely distinct from the term for elbow.	कलाई का जोड़ा	কলাই	手腕	လက်ကောက်ဝတ်		
+623	arm..general	arm (general)	arm	ᴀʀᴍ	1673	ARM	2.0	body parts	One of the two upper extremeties of the human body, extending from the shoulder to the wrist. This should be the most general term, and will often include the hand as well. A term for arm which does not include the hand is not expected.	बांह	বাঁহ		လက်		
+626	arrive:to	to arrive	arrive	ᴀʀʀɪᴠᴇ	1387	ARRIVE	4.0		To come to a destination.	पहुंचना	আহা	到达	ရောက်ရှိရန်		
+627	arrow	arrow	arrow	ᴀʀʀᴏᴡ	977	ARROW	2.0		Pointed projectile that is shot with a bow.	तीर	বাণ	箭头	မြှား		
+630	ascend..move.upwards:to	to ascend (move upwards)	ascend	ᴀꜱᴄᴇɴᴅ	705	GO UP (ASCEND)	2.0		To move from a lower to a higher position by climbing. This should be distinct from the general go verbs which exist as part of systems of topographical deixis.	चढ़ना		爬	တက်ရန် သို့မဟုတ် တက်ရန်		
+631	ash	ash	ash	ᴀꜱʜ	646	ASH	1.0		The powdery incombustible residue left after the burning of a substance. Additional terms for different types of ash may be present, such as the stringy ash left over from burning dry bamboo. This concept is only for the most basic powdery type, but other forms should be documented as such.	राख	বলি	灰烬	ပြာ		
+632	ash..bamboo	ash (bamboo)	ash	ᴀꜱʜ	–	–	4.0		The stringy type of ash which is characteristic of burning dried bamboo.						
+633	ashamed:to.be	to be ashamed	ashamed	ᴀꜱʜᴀᴍᴇᴅ	1894	ASHAMED	2.0		Feeling shame or guilt. This is distinct from being shy.						
+634	ask..question:to	to ask (question)	ask	ᴀꜱᴋ	1309	ASK (INQUIRE)	4.0		To inquire about something or express a desire or need for information about something. This is distinct from requesting action or requesting an item from someone.	पूछना	জানাইছো	请求	တောင်းဆိုရန် သို့မဟုတ် တောင်းဆိုရန်		
+646	awaken:to	to awaken	awaken	ᴀᴡᴀᴋᴇɴ	1602	WAKE UP	2.0		To stop sleeping and become conscious, to stir or come into awareness.	जागना	জাগা	醒来	နိုးထရန်		
+647	axe..general	axe (general)	axe	ᴀxᴇ	677	AXE	3.0		A tool for felling trees or chopping wood consisting of a heavy metallic or stone head flattened to a blade on one side, and which is attached to a usually wooden handle.	कुल्हाड़ी	ফাঁস	斧头	ပုဆိန်		
+649	back..of.body	back (of body)	back	ʙᴀᴄᴋ	1291	BACK	3.0	body parts	The rear surface of the human body from the shoulders to the hips.	पीठ	পিছলৈ	背部	လူသားကဲ့သို့ ကျော၊		
+653	back..side.of.something	back (side of something)	back	ʙᴀᴄᴋ	2323	BACK (PART)	4.0		The backward part or surface, as of a building.						
+656	bad:to.be	to be bad	bad	ʙᴀᴅ	1292	BAD	3.0		Not good; unfavorable; negative.	बुरा होना	খৰাপ	不好	မကောင်းဘူး။		
+657	bag	bag	bag	ʙᴀɢ	2468	BAG	3.0		A container made of flexible material with an opening at the top, used for carrying or storing items.	थैला	থলতী	包	အိတ်		
+660	bald:to.be	to be bald	bald	ʙᴀʟᴅ	1125	BALD	4.0		Without hair on the head.	गंजा होना	উলোহ	秃头	ထိပ်ပြောင်ခြင်း။		
+661	bamboo	bamboo	bamboo	ʙᴀᴍʙᴏᴏ	1927	BAMBOO	1.0	flora	A group of woody perennial evergreen plants in the true grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae.	बांस	ভেতি	竹子	ဝါး		
+663	bamboo.shoot	bamboo shoot	bamboo.shoot	ʙᴀᴍʙᴏᴏ.ꜱʜᴏᴏᴛ	2494	BAMBOO SHOOT	2.0	flora	The edible shoots (new bamboo culms that come out of the ground) of many bamboo species // Often harvested as part of local cuisine, either used fresh, dried or fermented.	बांस की खोखली	কাজি কেচেক	竹笋	မျှစ်		
+667	bamboo.skin	bamboo skin	bamboo.skin	ʙᴀᴍʙᴏᴏ.ꜱᴋɪɴ	–	–	4.0	flora	The outer layer of a bamboo stalk, often used for making baskets and other woven goods.	बांस की छाल	ভেতি তামুল	竹皮	ဝါးအရေပြား		
+668	bamboo.strip	bamboo strip	bamboo.strip	ʙᴀᴍʙᴏᴏ.ꜱᴛʀɪᴘ	–	–	4.0	flora	A long, thin piece of bamboo used for various purposes.	बांस की पट्टी		竹片	ဝါးချွတ်		
+670	bamboo.tube	bamboo tube	bamboo.tube	ʙᴀᴍʙᴏᴏ.ᴛᴜʙᴇ	–	–	4.0	flora	A hollow tube made from a bamboo plant, used for carrying water, as a musical instrument, or for other utilitarian purposes.	बांस का छलनी	বাঁহৰ নলী	竹筒	ဝါးပြွန်		
+673	banana..fruit	banana (fruit)	banana	ʙᴀɴᴀɴᴀ	868	BANANA	2.0	flora	The fruit of the banana tree.	केला	কল	香蕉	ငှက်ပျောသီး		
+674	banana.tree	banana tree	banana.tree	ʙᴀɴᴀɴᴀ.ᴛʀᴇᴇ	1795	BANANA TREE	3.0	flora	The tropical treelike plant which bears clusters of bananas. The plant, of the genus Musa, has large, elongated leaves.						
+675	banyan..tree	banyan (tree)	banyan	ʙᴀɴʏᴀɴ	346	BANYAN	2.0	flora	A large, tropical tree belonging to the genus Ficus, typically Ficus benghalensis, with aerial roots that grow into new trunks, often used for shade or as a spiritual symbol in many cultures.	बरगद		榕树	ညောင်ပင်		
+678	bark..dog:to	to bark (dog)	bark	ʙᴀʀᴋ	1206	BARKING	4.0		The loud often sharp vocalisation of a domestic dog.	भौंकना		狗叫	ခွေးဟောင်ခြင်း၊		
+681	basket:firewood	firewood basket	firewood.basket	ꜰɪʀᴇᴡᴏᴏᴅ.ʙᴀꜱᴋᴇᴛ	–	–	4.0	artefacts	A basket primarily used for carrying firewood.						
+682	basket:rice	rice basket	rice.basket	ʀɪᴄᴇ.ʙᴀꜱᴋᴇᴛ	–	–	4.0	artefacts	The type of basket primarily used to carry paddy.						cf Mossang kən₂lɨŋ₂ smallest basket
+683	basket:small	small basket	small.basket	ꜱᴍᴀʟʟ.ʙᴀꜱᴋᴇᴛ	–	–	4.0	artefacts	Any particularly small basket.						
+686	basket..general	basket (general)	basket	ʙᴀꜱᴋᴇᴛ	1539	BASKET	2.0	artefacts	The general term for any kind of basket, a container woven typically from cane or bamboo used to store or carry many different kinds of items or materials.						cf Chang _kam_
+688	bat..animal	bat (animal)	bat	ʙᴀᴛ	1793	BAT	1.0	fauna	A small, flying mammal in the order Chiroptera with wings consisting of skin stretched over a framework of bones, typically active at night.	चमगादड़		蝙蝠	လင်းနို့		
+695	beak..bill	beak (bill)	beak	ʙᴇᴀᴋ	73	BEAK	4.0	body parts	The hard, pointed mouthpart of a bird, used for eating, grooming, and other activities.	चोंच		鸟嘴	နှုတ်သီး		
+696	beam..rafter	beam (rafter)	beam	ʙᴇᴀᴍ	1132	BEAM	4.0		A typically horizontal piece of wood or steel that supports the weight of a building, typically running from one side of the building to the other.	खंभा		房梁	အိမ်တစ်အိမ်၏အလင်းတန်း		
+698	bean..general	bean (general)	bean	ʙᴇᴀɴ	832	BEAN	2.0		Any of various leguminous plants grown for their edible seeds and pods.						
+701	bear..animal	bear (animal)	bear	ʙᴇᴀʀ	1820	BEAR	2.0		A large beast of prey of the family Ursidae, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet.	भालू		熊	ဝက်ဝံ		
+704	bear..fruit:to	to bear (fruit)	bear	ʙᴇᴀʀ	3054	BEAR FRUIT	4.0		To produce or yield fruits.						
+705	beard	beard	beard	ʙᴇᴀʀᴅ	678	BEARD	4.0	body parts	Facial hair of humans on the chin, cheeks and jaw.	दाढ़ी		胡须	မုတ်ဆိတ်မွေး		
+706	beat..someone:to	to beat (someone)	beat	ʙᴇᴀᴛ	1665	BEAT	4.0		To strike or pound repeatedly, usually in some sort of rhythm.						
+711	bed	bed	bed	ʙᴇᴅ	1663	BED	3.0		A piece of furniture used for sleeping or resting, typically consisting of a mattress and a frame.	बिस्तर		床	အိပ်ရာ		
+713	bee::hive	beehive	beehive	ʙᴇᴇʜɪᴠᴇ	88	BEEHIVE	3.0	fauna	A structure that provides a natural habitation for bees; as in a hollow tree.						
+714	bee::s::wax	beeswax	beeswax	ʙᴇᴇꜱᴡᴀx	1931	BEESWAX	4.0	fauna	A yellowish or dark brown wax secreted by honeybees for constructing honeycombs.						
+715	bee..general	bee (general)	bee	ʙᴇᴇ	665	BEE	1.0	fauna	Any pollenating flying insect belonging to the Anthophila clade within the order Hymenoptera. Typically having yellow and black colouring with a striped pattern on the abdoment.	मधुमक्खी		蜜蜂	ပျား		
+716	bee.colony	bee colony	bee.colony	ʙᴇᴇ.ᴄᴏʟᴏɴʏ	–	–	4.0	fauna	The honeycombed colony structure where bees live and produce honey.	मधुमक्खी का छत्ता		蜂窝	ပျားအုံ		
+718	beg:to	to beg	beg	ʙᴇɢ	3534	BEG	3.0		To ask for something, typically money or food, as charity or as a favor. This may be either due to need through poverty, or as an act of religious devotion such as among Buddhist monks.	भिख मांगना		乞讨	တောင်းရမ်းရန်		
+722	behind..something:to.be	to be behind (something)	behind	ʙᴇʜɪɴᴅ	1686	BEHIND	4.0		At or to the far side of something, typically so as to be hidden from view. Alternatively, on the back side of some person or thing from the frame of reference of that person or thing thing.	पीछे		后面	နောက်ကွယ်		
+727	belly..exterior	belly (exterior)	belly	ʙᴇʟʟʏ	1251	BELLY	2.0	body parts	The lower part of the front of the torso (or a comparable part of an animal), confined by the upper side by the midriff and the lowerside by the pelvis. Contains the intestines.	पेट		腹部	ဗိုက်၊အပြင်		
+729	below..under:to.be	to be below (under)	below	ʙᴇʟᴏᴡ	1485	BELOW OR UNDER	3.0		Situated in a lower place than something else.	नीचे		下面	အောက်၊ အောက်		
+739	big:to.be	to be big	big	ʙɪɢ	1202	BIG	3.0		Of great size or extent relative to some other thing.	बड़ा		大	ကြီးတယ်။		
+740	bind..hands:to	to bind (hands)	bind	ʙɪɴᴅ	1917	TIE	4.0		To tie or fasten something together with a rope, cord, or other material, to restrict or constrain something or someone.	बाँधना		捆绑	ချည်နှောင်ရန်		
+743	bird..general.term	bird (general term)	bird	ʙɪʀᴅ	937	BIRD	1.0	fauna	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	पक्षी		鸟	ငှက်၊ ယေဘူယျ		
+746	bite:to	to bite	bite	ʙɪᴛᴇ	1403	BITE	2.0		Clamping the teeth hard on something.	काटना		咬	ကိုက်ရန်		
+752	bitter:to.be	to be bitter	bitter	ʙɪᴛᴛᴇʀ	887	BITTER	2.0		Having an acrid taste, typical of citrus peel or bitter gourd Momordica charantia.	कड़वा		苦	ခါး		
+757	blanket	blanket	blanket	ʙʟᴀɴᴋᴇᴛ	806	BLANKET	4.0		A large piece of fabric or covering used for warmth, typically on a bed or to wrap around oneself.	रजाई		毛毯	စောင်		
+762	blind:to.be	to be blind	blind	ʙʟɪɴᴅ	1653	BLIND	4.0		Unable to see, either partially or completely.	अंधा होना		失明	မျက်မမြင်ဖြစ်ရန်		
+765	blister	blister	blister	ʙʟɪꜱᴛᴇʀ	1584	BLISTER	4.0		A small bubble on the skin, that contains watery fluid and is caused by heat, pressure or infection.						
+767	block..obstruct:to	to block (obstruct)	block	ʙʟᴏᴄᴋ	2762	BLOCK (THE WAY)	4.0		To obstruct or prevent something from passing through or being seen.	रोकना		阻止	ပိတ်ဆို့ရန်		
+768	blood	blood	blood	ʙʟᴏᴏᴅ	946	BLOOD	1.0	body parts	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	रक्त		血液	သွေး		
+769	bloom:to	to bloom	bloom	ʙʟᴏᴏᴍ	3287	BLOOM	2.0	flora	To bear flowers or to start bearing flowers; to blossom.	खिलना		开花	ပန်းတစ်ပွင့်၊		
+771	blow..wind:to	to blow (wind)	blow	ʙʟᴏᴡ	175	BLOW (OF WIND)	3.0		(Of the wind or a current of air) To move.	उड़ाना		吹	လေတိုက်ခြင်း၊		
+772	blow..with.mouth:to	to blow (with mouth)	blow	ʙʟᴏᴡ	176	BLOW (WITH MOUTH)	2.0		To expel air through persed lips.	उड़ाना		吹	မှုတ်ရန်		
+775	blunt..of.edge:to.be	to be blunt (of edge)	blunt	ʙʟᴜɴᴛ	379	BLUNT	4.0		Not having a sharp edge.	नुकीला		钝	တုံးတယ်။		
+776	blunt..of.point:to.be	to be blunt (of point)	blunt	ʙʟᴜɴᴛ	379	BLUNT	4.0		Not having a sharp point.						
+778	boat	boat	boat	ʙᴏᴀᴛ	1844	BOAT	4.0		A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.	जहाज		船	သင်္ဘော သို့မဟုတ် လှေ		
+779	body	body	body	ʙᴏᴅʏ	1480	BODY	3.0	body parts	The physical structure of a human or animal, including the bones, flesh, and organs.	शरीर		身体	ခန္ဓာကိုယ်		
+781	boil..liquid:to	to boil (liquid)	boil	ʙᴏɪʟ	792	BOIL (OF LIQUID)	2.0		To reach or cause to reach the temperature at which a liquid bubbles and turns to vapor by adding heat.	उबालना		煮沸	ပြုတ်ဖို့		
+782	bone	bone	bone	ʙᴏɴᴇ	1394	BONE	1.0	body parts	Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.	हड्डी		骨头	အရိုး		
+784	bone.marrow	bone marrow	bone.marrow	ʙᴏɴᴇ.ᴍᴀʀʀᴏᴡ	1835	MARROW	2.0	body parts	The spongy tissue in the hollow parts of bones.	हड्डी का मज्जा		骨髓	ရိုးတွင်းခြင်ဆီ		
+786	born:to.be	to be born	born	ʙᴏʀɴ	1090	BE BORN	2.0		To come into existence, typically through childbirth.	जन्म लेना		出生	မွေးဖွားလာဖို့ရန်		
+788	bos.frontalis..mithun:::	Bos frontalis (mithun)	Bos.frontalis	ʙᴏꜱ.ꜰʀᴏɴᴛᴀʟɪꜱ	–	–	3.0	fauna	A member of the Bos genus having a large size and posessing characteristic horns with a wide base. Important draught animal for local agriculture.						
+789	bos.gaurus..gaur:::	Bos gaurus (gaur)	Bos.gaurus	ʙᴏꜱ.ɢᴀᴜʀᴜꜱ	–	–	4.0	fauna	A large, dark-coated wild ox found in Southeast Asia and the Indian Subcontinent.	गौर		印度牛	ဂေါ်ရ်		
+796	bow	bow	bow	ʙᴏᴡ	994	BOW	2.0		A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows, or a weapon based on it, consisting of a bow mounted on a stock.	धनुष		弓	လေးကို		this should be split between bow and crossbow probably.
+797	bow:to	to bow	bow	ʙᴏᴡ	–	–	4.0		To bend the body forward or downward as a sign of respect or greeting, to curve or bend into a particular shape.	झुकना		鞠躬	ဦးညွှတ်ရန်		
+798	bow.:crossbow	crossbow	crossbow	ᴄʀᴏꜱꜱʙᴏᴡ	3193	CROSSBOW	3.0		A weapon based on the bow, consisting of a bow mounted on a stock.						
+799	bowl	bowl	bowl	ʙᴏᴡʟ	1530	BOWL	4.0		A roughly hemispherical container used to hold, mix or present food, such as salad, fruit or soup, or other items.	कटोरा		碗	ဇလုံ		
+803	bracelet	bracelet	bracelet	ʙʀᴀᴄᴇʟᴇᴛ	1754	BRACELET	4.0		Piece of jewellery worn around the wrist.	बांगड़ी		手镯	လက်ကောက်		
+805	brain	brain	brain	ʙʀᴀɪɴ	1583	BRAIN	2.0	body parts	The organ of the central nervous system of an animal or human located in the skull that controls the actions and thoughts of the animal or human.	मस्तिष्क		大脑	ဦးနှောက်		
+809	break..vt:to	to break (vt)	break	ʙʀᴇᴀᴋ	3020	BREAK (BREAKING)	3.0		To come apart or split into pieces (intransitive).	तोड़ना		打破	ချိုးရန်		
+811	breast	breast	breast	ʙʀᴇᴀꜱᴛ	1402	BREAST	2.0	body parts	The fleshy organ on the chest of a sexually mature human female containing mammary glands.	स्तन		乳房	ရင်သား		
+814	breathe:to	to breathe	breathe	ʙʀᴇᴀᴛʜᴇ	1407	BREATHE	4.0		To repeatedly draw air into, and expel it from, the lungs, in order to extract oxygen from it and excrete waste products.	सांस लेना		呼吸	အသက်ရှူရန်		
+817	bridge	bridge	bridge	ʙʀɪᴅɢᴇ	1011	BRIDGE	2.0		A structure that spans and provides a passage over a road, railway, river, or some other obstacle.	पुल		桥	တံတား		
+819	bright:to.be	to be bright	bright	ʙʀɪɢʜᴛ	679	BRIGHT	4.0		Emitting or reflecting light readily or in large amounts. [WN:679]	चमकीला		明亮	တောက်ပ၊ အလင်း		
+820	bring:to	to bring	bring	ʙʀɪɴɢ	692	BRING	3.0		To transport toward somewhere; to take something or somebody with oneself somewhere.	लाना		带来	ယူလာရန်		
+823	broom	broom	broom	ʙʀᴏᴏᴍ	245	BROOM	4.0		A tool used to sweep and clean the floor, made of a bundle of straws or twigs attached to a long handle.	झाड़ू		扫帚	တံမြက်စည်း		
+825	brother:elder	elder brother	elder.brother	ᴇʟᴅᴇʀ.ʙʀᴏᴛʜᴇʀ	1759	OLDER BROTHER	3.0	kinship	A male with more years of age than one or more of his siblings.	भाई		哥哥	အစ်ကိုအကြီး		
+827	brother:younger	younger brother	younger.brother	ʏᴏᴜɴɢᴇʀ.ʙʀᴏᴛʜᴇʀ	1760	YOUNGER BROTHER	4.0	kinship	A male with fewer years of age than one or more of his siblings.	भाई		弟弟	ညီအငယ်		
+832	bubalus.bubalis..water.buffalo:::	Bubalus bubalis (water buffalo)	Bubalus.bubalis	ʙᴜʙᴀʟᴜꜱ.ʙᴜʙᴀʟɪꜱ	2516	WATER BUFFALO	3.0	fauna	A large bovid originating in South Asia, Southeast Asia, and China.						
+839	bundle	bundle	bundle	ʙᴜɴᴅʟᴇ	2943	BUNDLE	4.0		A collection of objects, typically tied together, for ease of carrying or storage. In the case of firewood, it refers to a bundle of sticks or logs used as fuel for a fire.	बट्टा		捆	ထင်းကဲ့သို့ အစုအဝေး၊		
+845	burn..vi:to	to burn (vi)	burn	ʙᴜʀɴ	2102	BURN	2.0		To put fire on something or to be on fire.	जलाना		烧	မီးရှို့ရန်		
+848	burrow:to	to burrow	burrow	ʙᴜʀʀᴏᴡ	–	–	4.0		To dig a hole or tunnel in the ground, of animals which reside in such holes.	खोदना		挖掘	တွင်းတူးရန်		
+850	bury..deceased:to	to bury (deceased)	bury	ʙᴜʀʏ			3.0								
+851	bury..object:to	to bury (object)	bury	ʙᴜʀʏ	1719	BURY	3.0		To put in the ground and cover with earth.	दफ़नाना		埋	သင်္ဂြိုဟ်ရန်		
+855	butterfly	butterfly	butterfly	ʙᴜᴛᴛᴇʀꜰʟʏ	1791	BUTTERFLY	4.0	fauna	A lepidopteran that is active at day.	तितली		蝴蝶	လိပ်ပြာ		
+857	buy:to	to buy	buy	ʙᴜʏ	1869	BUY	2.0		To obtain in exchange for money or goods.	ख़रीदना		买	ဝယ်ရန်		
+862	cane..rattan	cane (rattan)	cane	ᴄᴀɴᴇ	2497	RATTAN	3.0	flora	Material from rattan palms which is used to create furniture.	साँई		藤条	ကြံ၊ ကြိမ်		
+868	carry..child.on.back:to	to carry (child on back)	carry	ᴄᴀʀʀʏ			1.0								
+869	carry..general:to	to carry (general)	carry	ᴄᴀʀʀʏ	700	CARRY	4.0		To lift and bring to somewhere else; to transport by lifting.	उठाना		搬运	သယ်ဆောင်ရန်		
+870	carry..in.arms:to	to carry (in arms)	carry	ᴄᴀʀʀʏ	–	–	4.0		To carry something in ones arms. This concept will typically overlap with the general carry term, but occurs separately here in cases where there may be a difference.						
+872	carry..in.hand:to	to carry (in hand)	carry	ᴄᴀʀʀʏ	412	CARRY IN HAND	4.0		To hold or to take something from one place to another by hands.						
+873	carry..in.pocket:to	to carry (in pocket)	carry	ᴄᴀʀʀʏ	465	CARRY ON BACK	4.0		To hold or to take something from one place to another on the back.						
+875	carry..on.head:to	to carry (on head)	carry	ᴄᴀʀʀʏ	414	CARRY ON HEAD	4.0		To hold or to take something from one place to another on top of the head.						
+876	carry..on.pole:to	to carry (on pole)	carry	ᴄᴀʀʀʏ	3438	CARRY (WITH POLE ON SHOULDER)	4.0		The act of transporting something by means of a carrying pole placed on one's shoulder.						
+877	carry..on.shoulder:to	to carry (on shoulder)	carry	ᴄᴀʀʀʏ	413	CARRY ON SHOULDER	4.0		To hold or to take something from one place to another on one shoulder.						
+878	carry..under.arm:to	to carry (under arm)	carry	ᴄᴀʀʀʏ	415	CARRY UNDER ARM	4.0		To hold or to take something from one place to another under the arm.						
+879	carve:to	to carve	carve	ᴄᴀʀᴠᴇ	228	CARVE	4.0		To cut or to chip in order to form something.	उकीरना		雕刻	ထွင်းထုရန်		
+883	cat..domestic	cat (domestic)	cat	ᴄᴀᴛ	1208	CAT	4.0	fauna	A common four-legged animal (Felis silvestris) that is often kept as a household pet.	बिल्ली		猫	ကြောင်		
+894	cattle..domestic	cattle (domestic)	cattle	ᴄᴀᴛᴛʟᴇ	1153	CATTLE	3.0	fauna	Domesticated bovine animals, including cows, steers and bulls, raised and bred on a ranch or farm.	गाय		家牛	အိမ်မွေးနွား		
+897	cave	cave	cave	ᴄᴀᴠᴇ	1155	CAVE	3.0		A large underground chamber or network of chambers.	गुफा		洞穴	ဂူ		
+904	centre..middle	centre (middle)	centre	ᴄᴇɴᴛʀᴇ	–	–	4.0		The middle of an object or places area, such as a target or focal point.	मध्य		中心	အလယ်၊ ဗဟို		
+912	charcoal	charcoal	charcoal	ᴄʜᴀʀᴄᴏᴀʟ	1188	CHARCOAL	4.0		The blackish residue consisting of carbon and any remaining ash left after the slow burning of wood or other organic matter in an oxygen-starved environment.	अंगारे		炭	မီးသွေး၊ မီးခိုး		
+916	cheek	cheek	cheek	ᴄʜᴇᴇᴋ	1730	CHEEK	3.0	body parts	The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.						
+917	chest	chest	chest	ᴄʜᴇꜱᴛ	1592	CHEST	3.0	body parts	The portion of the body from the base of the neck to the top of the abdomen; the thorax.	छाती		胸部	ရင်ဘတ်		
+918	chew:to	to chew	chew	ᴄʜᴇᴡ	321	CHEW	3.0		To crush with the teeth by repeated closing and opening of the jaws; done to food to soften it and break it down by the action of saliva before it is swallowed.	चबाना		咀嚼	ဝါးရန်		
+919	chicken	chicken	chicken	ᴄʜɪᴄᴋᴇɴ	1318	CHICKEN	4.0	fauna	A type of domesticated bird from the order of Galliformes which is often raised as a type of poultry (Gallus gallus domesticus).	मुर्गा		鸡	ကြက်သား		
+925	child	child	child	ᴄʜɪʟᴅ	2099	CHILD	2.0		A young human being below the age of puberty or below the legal age of majority.	बच्चा		儿童	ကလေး၊ မွေးကင်းစ		
+930	chili.pepper	chili pepper	chili.pepper	ᴄʜɪʟɪ.ᴘᴇᴘᴘᴇʀ	919	CHILI PEPPER	1.0	flora	Any fruit of a plant of the botanical genus Capsicum, noted for their spicy and burning flavour due to presence of capsaicin.	मिर्च		辣椒	ငရုတ်သီးမှုန့်		
+933	chin	chin	chin	ᴄʜɪɴ	1510	CHIN	3.0		The bottom of the face, below the mouth.	ठुड्डी		下巴	မေးစေ့		
+935	chisel..n	chisel (n)	chisel	ᴄʜɪꜱᴇʟ	1979	CHISEL	4.0		A tool with a sharp edge at the end, used for cutting or carving hard materials.	छेनी		凿子	ငရုပ်သီး		
+938	choose..between.things:to	to choose (between things)	choose	ᴄʜᴏᴏꜱᴇ	1750	CHOOSE	4.0		To make a choice from a number of alternatives.	चुनना		选择	ရွေးချယ်ရန်		
+944	cicada	cicada	cicada	ᴄɪᴄᴀᴅᴀ	2353	CICADA	4.0	fauna	Insects in the order Hemiptera, suborder Auchenorrhyncha.	तिड्डी		蝉	ပုစဉ်းရင်ကွဲ		
+947	civet.cat	civet cat	civet.cat	ᴄɪᴠᴇᴛ.ᴄᴀᴛ	3157	CIVET	4.0		A carnivorous mammal of the Viverridae family, found across South East Asia. // Often kept for its musky-scented secretion.	जंगली बिल्ली		狸猫			
+952	claw..animal	claw (animal)	claw	ᴄʟᴀᴡ	72	CLAW	2.0	body parts	The hard, keratin part growing at the feet of animals.	पंजा		爪子	ခြေသည်း		
+954	clay	clay	clay	ᴄʟᴀʏ	1399	CLAY	4.0		A loose, earthy, extremely fine-grained, natural sediment or soft rock composed primarily of clay-size or colloidal particles and characterized by high plasticity and by a considerable content of clay mineral and subordinate amounts of finely divided quartz, decomposed feldspar, carbonates, ferruginous matter, and other impurities; it forms a plastic, moldable mass when finely ground and mixed with water, retains its shape on drying, and becomes firm, rocklike and permanently hard on heating or firing.	मिट्टी		黏土	ရွှံ့		
+955	clean:to	to clean	clean	ᴄʟᴇᴀɴ	2235	CLEAN (SOMETHING)	4.0		To cause something to be no longer dirty.	साफ़ करना		清洁	သန့်ရှင်းရန်		
+958	clear..in.meaning:to.be	to be clear (in meaning)	clear	ᴄʟᴇᴀʀ	–	–	4.0		To be easy to understand or see.	स्पष्ट होना		清晰	ရှင်းရှင်းလင်းလင်းဖြစ်ရန်		
+965	close..tr:to	to close (tr)	close	ᴄʟᴏꜱᴇ	–	–	3.0		To shut or cover the entrance or opening of something, preventing access or exit.	बंद करना		关闭	ပိတ်ရန်		
+966	cloth	cloth	cloth	ᴄʟᴏᴛʜ	1616	CLOTH	3.0		A woven fabric such as used in dressing, decorating, cleaning or other practical use.	कपड़ा		布料	အထည်		
+968	cloud..rain	cloud (rain)	cloud	ᴄʟᴏᴜᴅ	1489	CLOUD	1.0		A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.	बादल		云	တိမ်တိုက်		
+977	cockroach	cockroach	cockroach	ᴄᴏᴄᴋʀᴏᴀᴄʜ	1575	COCKROACH	4.0	fauna	The most primitive of the living winged insects. // A brown or black insect with a flattened body and long antennae, often considered a pest.	तिलचट्टा		蟑螂	ပိုးဟပ်		
+982	coddle:to	to coddle	coddle	ᴄᴏᴅᴅʟᴇ	–	–	4.0		To treat someone in an indulgent or overprotective way.	आदर करना		娇惯	ချော့မြှူရန်		
+987	cold..of.items:to.be	to be cold (of items)	cold	ᴄᴏʟᴅ	1287	COLD	2.0		Having a low temperature.	ठंडा होना		寒冷	အေးဖို့		
+990	cold..of.weather:to.be	to be cold (of weather)	cold	ᴄᴏʟᴅ	2483	COLD (OF WEATHER)	2.0		Having a low temperature (of the weather).	ठंडा मौसम		寒冷的天气	ရာသီဥတုအေး		
+994	colour.:black:to.be	to be black	black	ʙʟᴀᴄᴋ	163	BLACK	1.0		Of the very darkest color owing to the absence of or complete absorption of light, the opposite of white.	काला		黑	အနက်ရောင်		
+996	colour.:brown:to.be	to be brown	brown	ʙʀᴏᴡɴ			4.0								
+998	colour.:green:to.be	to be green	green	ɢʀᴇᴇɴ	1425	GREEN	2.0	statives	Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	हरा		绿色	အစိမ်းရောင်		
+999	colour.:grey:to.be	to be grey	grey	ɢʀᴇʏ	153	GREY	4.0	statives	Having a colour between black and white, like ash or stone.						
+1002	colour.:red:to.be	to be red	red	ʀᴇᴅ	156	RED	1.0	statives	A color resembling the hue of blood, fire, or a ripe tomato.	लाल		红色	အနီေရာင်		
+1003	colour.:white:to.be	to be white	white	ᴡʜɪᴛᴇ	1335	WHITE	1.0	statives	A color characterized by the presence of all wavelengths of visible light, often associated with purity or innocence.	सफ़ेद		白色的	အဖြူ		
+1004	colour.:yellow:to.be	to be yellow	yellow	ʏᴇʟʟᴏᴡ	1424	YELLOW	3.0	statives	Having the colour of a yolk, a lemon or gold.	पीला		黄色的	အဝါရောင်		
+1005	columbidae..pigeon:::	Columbidae (pigeon)	Columbidae	ᴄᴏʟᴜᴍʙɪᴅᴀᴇ	–	–	4.0	fauna	A type of bird belonging to Columbidae, often found in cities and commonly used in racing and as a pet.	कबूतर		鸽子	ခို		
+1006	comb	comb	comb	ᴄᴏᴍʙ	1475	COMB	4.0		A toothed implement for grooming the hair.	कंघी		梳子	ခေါင်းဖြီး		
+1007	comb:to	to comb	comb	ᴄᴏᴍʙ	2070	COMB (VERB)	4.0		To groom the hair with a comb or a similar object.						
+1009	come.back..return:to	to come back (return)	come.back	ᴄᴏᴍᴇ.ʙᴀᴄᴋ	581	COME BACK	3.0		To go there where one was before.	लौटना		回来	ပြန်လာရန် သို့မဟုတ် ပြန်လာရန်		
+1013	compete:to	to compete	compete	ᴄᴏᴍᴘᴇᴛᴇ	–	–	4.0		To participate in a contest or race with the goal of winning.	प्रतिस्पर्धा करना		竞争	ယှဉ်ပြိုင်ရန်		
+1014	complete..a.task:to	to complete (a task)	complete	ᴄᴏᴍᴘʟᴇᴛᴇ	–	–	4.0		To be finished or whole, having all the necessary parts or elements.	पूर्ण होना		完整	ပြီးပြည့်စုံရန်		
+1016	conceal..something:to	to conceal (something)	conceal	ᴄᴏɴᴄᴇᴀʟ	602	HIDE (CONCEAL)	4.0		To put something in a place where it will be harder to discover or out of sight.	छुपाना		隐藏	ဖုံးကွယ်ရန် သို့မဟုတ် ဖုံးကွယ်ရန်		
+1021	container..general	container (general)	container	ᴄᴏɴᴛᴀɪɴᴇʀ	–	–	4.0		A receptacle or object used to hold or store things.	डिब्बा		容器	ကွန်တိန်နာ		
+1024	cook..general:to	to cook (general)	cook	ᴄᴏᴏᴋ	1100	COOK (SOMETHING)	2.0		To prepare food by heating it.	पकाना		烹饪	ချက်ပြုတ်ရန်		
+1025	cook.rice:to	to cook rice	cook.rice	ᴄᴏᴏᴋ.ʀɪᴄᴇ	–	–	4.0		To prepare rice for eating by boiling or steaming it in water or another liquid until it is fully cooked and fluffy.	चावल पकाना		煮饭	ထမင်းချက်ရန်		
+1027	cooked:under:to.be	to be under cooked	under.cooked	ᴜɴᴅᴇʀ.ᴄᴏᴏᴋᴇᴅ	–	–	4.0		Of food, the state of being insufficiently cooked or processed.						
+1028	cooked:well:to.be	to be well cooked	well.cooked	ᴡᴇʟʟ.ᴄᴏᴏᴋᴇᴅ	–	–	4.0		Of food, the state of being thoroughly cooked or prepared to the desired level of doneness.	अच्छी तरह पका हुआ होना		熟	ကောင်းစွာချက်ပြုတ်ရန်		
+1032	corpse	corpse	corpse	ᴄᴏʀᴘꜱᴇ	767	CORPSE	3.0	body parts	A dead body.	शव		尸体	အလောင်း		
+1036	cotton	cotton	cotton	ᴄᴏᴛᴛᴏɴ	1850	COTTON	3.0	flora	Fiber obtained from plants of the genus Gossypium, used in making fabrics, cordage, and padding and for producing artificial fibers and cellulose.	कपास		棉花	ဝါဂွမ်း		
+1037	cough:to	to cough	cough	ᴄᴏᴜɢʜ	879	COUGH	4.0		To force air from the lungs out the mouth, sometimes involuntarily, accompanied by a rough sound.	खांसी करना		咳嗽	ချောင်းဆိုးရန်		
+1038	count:to	to count	count	ᴄᴏᴜɴᴛ	1420	COUNT	2.0		To determine the amount of something or to enumerate the digits of one's numeral system.	गिनना		数数	ရေတွက်ရန်		
+1039	country..nation	country (nation)	country	ᴄᴏᴜɴᴛʀʏ	1300	COUNTRY	4.0		A political entity asserting authority over a geographical area, or the area itself. Can be same as or part of a state.	देश		国家	နိုင်ငံ		
+1045	cover:to	to cover	cover	ᴄᴏᴠᴇʀ	761	COVER	3.0		To place something over or upon to conceal or protect.	ढकना		盖	ဖုံးအုပ်ရန်		
+1047	crab	crab	crab	ᴄʀᴀʙ	2348	CRAB	3.0	fauna	Decapod crustaceans of the infraorder Brachyura, which typically have a very short projecting tail (abdomen) (Greek: βραχύς / brachys = short, οὐρά / οura = tail), usually entirely hidden under the thorax.	केकड़ा		螃蟹	ဂဏန်း		
+1050	crawl..of.babies:to	to crawl (of babies)	crawl	ᴄʀᴀᴡʟ	96	CRAWL	4.0		To move using ones hands and knees.	रेंगना		爬行	တွားသွား		
+1056	crest.of.bird	crest of bird	crest	ᴄʀᴇꜱᴛ	188	COMB OF BIRD	4.0	body parts	A fleshy growth on the top of the head of some birds.	टोपी		鸟冠	ငှက်တကောင်		
+1058	cricket	cricket	cricket	ᴄʀɪᴄᴋᴇᴛ	2354	CRICKET	3.0	fauna	An insect related to grasshoppers but smaller in size and known for its distinctive chirping sound.	क्रिकेट		蟋蟀	ခရစ်ကတ်		
+1061	crocodilia:::	Crocodilia	Crocodilia	ᴄʀᴏᴄᴏᴅɪʟɪᴀ	1857	CROCODILE	4.0	fauna	Any large tropical reptile of the family Crocodylidae: order Crocodylia. They have a broad head, tapering snout, massive jaws, and a thick outer covering of bony plates. (Source: CED)	मगरमच्छ		鳄鱼	မိကျောင်း သို့မဟုတ် မိကျောင်း		
+1062	crooked:to.be	to be crooked	crooked	ᴄʀᴏᴏᴋᴇᴅ	297	CROOKED	4.0		Not straight or level, having a curve or angle.	मोड़		弯曲的	ကွေး၊ ကောက်၊ ကွေး		
+1064	cross..river:to	to cross (river)	cross	ᴄʀᴏꜱꜱ	–	–	4.0		To move from one side of something to the other, such as a road or river.	पार करना		穿过	ဖြတ်ကျော်ရန်		
+1067	crow	crow	crow	ᴄʀᴏᴡ	913	CROW	4.0	fauna	A bird, usually black, of the genus Corvus, having a strong conical beak, with projecting bristles; it has a harsh, croaking call.	कौवा		乌鸦	ကျီးကန်း		
+1070	crown..of.ruler	crown (of ruler)	crown	ᴄʀᴏᴡɴ	–	–	4.0		A symbolic or ornamental headpiece worn by a monarch or other dignitary.	मुकुट		王冠	ရှင်ဘုရင်၏သရဖူ၊		This matches the CONCEPTICON definition of 1943 but not the category.
+1077	cup..modern	cup (modern)	cup	ᴄᴜᴘ			4.0								
+1078	cup..traditional	cup (traditional)	cup	ᴄᴜᴘ	476	CUP	3.0		A concave vessel for holding liquid, generally adorned with either a handle or a stem.	कप		杯子	ခွက်		
+1086	cut..general:to	to cut (general)	cut	ᴄᴜᴛ	1432	CUT	4.0		To use a sharp tool, such as a knife, scissors, or saw, to make an incision or separation in something.	काटना		割	ဖြတ်ရန်		
+1087	cut.hair:to	to cut hair	cut.hair	ᴄᴜᴛ.ʜᴀɪʀ	–	–	4.0		To trim or shorten hair using scissors or clippers.	बाल काटना		理发	ဆံပင်ညှပ်ရန်		
+1090	dam:to	to dam	dam	ᴅᴀᴍ	–	–	4.0		To build a dam across a river to control its flow.	बाँध बनाना		筑坝	မြစ်ကိုဆည်ဖို့		
+1091	dance:to	to dance	dance	ᴅᴀɴᴄᴇ	1879	DANCE	3.0		To move with rhythmic steps or movements, especially in time to music.	नाचना		跳舞	ကခုန်ဖို့		
+1094	darkness	darkness	darkness	ᴅᴀʀᴋɴᴇꜱꜱ	11	DARKNESS	4.0		The absence or deficiency of light, especially when considered as a characteristic of a place.	अंधेरा		黑暗	အမှောင်		
+1095	daughter	daughter	daughter	ᴅᴀᴜɢʜᴛᴇʀ	1357	DAUGHTER	4.0	kinship	The female offspring of another person, relative to that person.	बेटी		女儿	သမီး		
+1096	daughter.in.law	daughter in law	daughter.in.law	ᴅᴀᴜɢʜᴛᴇʀ.ɪɴ.ʟᴀᴡ	1057	DAUGHTER-IN-LAW	4.0		The female marital partner of someone's child.	बहु		儿媳	ချွေးမ		
+1097	dawn..before.sunrise	dawn (before sunrise)	dawn	ᴅᴀᴡɴ	729	DAWN	3.0		A period of time at the beginning of the day shortly before sunrise during which the light gradually becomes stronger.	भोर		黎明	အရုဏ်တက်		
+1098	day::time	daytime	daytime	ᴅᴀʏᴛɪᴍᴇ	1225	DAY (NOT NIGHT)	2.0		The period between sunrise and sunset where one enjoys daylight.	दिन का समय		白天	နေ့ဘက်		
+1099	day:.classifier	day	day	ᴅᴀʏ	1260	DAY (24 HOURS)	4.0		A period of time lasting 24 hours.	दिन		天	နေ့ (၂၄ နာရီ)		
+1100	dead:to.be	to be dead	dead	ᴅᴇᴀᴅ	1625	DEAD	4.0		Not alive; lacking life.						
+1101	deaf:to.be	to be deaf	deaf	ᴅᴇᴀꜰ	996	DEAF	4.0		Not having the faculty of hearing, or only having a restricted capability to hear.	बहरा होना		聋	ဆွံ့အနားမကြား		
+1111	deer:barking	barking deer	barking.deer	ʙᴀʀᴋɪɴɢ.ᴅᴇᴇʀ	3152	MUNTJACS	4.0	fauna	Also known as barking deer, a kind of small deer of the genus Muntiacus.	कसाई		马鹿	ဟောင်သမင်		
+1114	deer:sambar	sambar deer	sambar.deer	ꜱᴀᴍʙᴀʀ.ᴅᴇᴇʀ	–	–	4.0	fauna	Rusa unicolor. A large dark brown deer found in South Asia.	साम्भर		马鹿	ဆာဘား		
+1115	deer..general	deer (general)	deer	ᴅᴇᴇʀ	1936	DEER	3.0	fauna	The common name for 41 species of even-toed ungulates that compose the family Cervidae in the order Artiodactyla; males have antlers.	हिरण		鹿	သမင်		
+1118	defecate:to	to defecate	defecate	ᴅᴇꜰᴇᴄᴀᴛᴇ	676	SHIT (DEFECATE)	4.0		To excrete faeces from one's body through the anus.						
+1122	demon	demon	demon	ᴅᴇᴍᴏɴ	1973	DEMON	4.0		Evil spirit or person that is wicked or cruel in their actions.	राक्षस		魔鬼	နတ်ဆိုး		
+1126	descend..climb.down:to	to descend (climb down)	descend	ᴅᴇꜱᴄᴇɴᴅ	2014	GO DOWN (DESCEND)	2.0		To move downward or to a lower place. Distinct from moving downriver, descent is opposite to the concept of climbing.	उतरना		下降	ဆင်းရန်		
+1127	descendants	descendants	descendants	ᴅᴇꜱᴄᴇɴᴅᴀɴᴛꜱ	490	DESCENDANTS	3.0	kinship	One who is the progeny of someone at any distance of time.						
+1129	desire..want:to	to desire (want)	desire	ᴅᴇꜱɪʀᴇ	2117	DESIRE	3.0		To want to do something, to wish for something to happen, or to have affection for someone.	इच्छा करना		渴望	ဆန္ဒရှိရန်		
+1132	dew	dew	dew	ᴅᴇᴡ	1977	DEW	3.0		Atmospheric moisture that condenses after a warm day and appears during the night on cool surfaces as small drops.	बरखा		露水	နှင်းရည်		
+1135	die:to	to die	die	ᴅɪᴇ	1494	DIE	1.0		To cease to live.	मरना		死	သေဖို့		
+1137	difficult..hard:to.be	to be difficult (hard)	difficult	ᴅɪꜰꜰɪᴄᴜʟᴛ	584	DIFFICULT	4.0		Not easy, which needs hard work, patience and effort of either the physical or mental kind.	कठिन होना		困难	ခက်တယ်။		
+1139	dig:to	to dig	dig	ᴅɪɢ	1418	DIG	1.0		To move earth, rocks, etc. out of the way, usually to create a hole.	खोदना		挖	တူးရန်		
+1141	dirty:to.be	to be dirty	dirty	ᴅɪʀᴛʏ	1230	DIRTY	3.0		Covered with or containing unpleasant substances such as dirt or grime.	गंदा होना		脏	ညစ်ပတ်တယ်။		
+1143	discard..throw.away:to	to discard (throw away)	discard	ᴅɪꜱᴄᴀʀᴅ			2.0								
+1147	disorderly:to.be	to be disorderly	disorderly	ᴅɪꜱᴏʀᴅᴇʀʟʏ	–	–	4.0		Lacking order or organization.	अनुशासित होना		杂乱	ဗရပွဖြစ်ရန်		
+1151	disturb:to	to disturb	disturb	ᴅɪꜱᴛᴜʀʙ	2883	DISTURB	4.0		To interrupt or bother.	उथल-पुथल मचाना		扰乱	နှောင့်ယှက်ရန်		
+1152	ditch	ditch	ditch	ᴅɪᴛᴄʜ	2002	DITCH	4.0		A long, narrow excavation artificially dug in the ground; especially an open and usually unpaved waterway, channel, or trench for conveying water for drainage or irrigation, and usually smaller than a canal. Some ditches may be natural watercourses.	खाई		沟渠	မြောင်းတစ်ခု		
+1153	dive:to	to dive	dive	ᴅɪᴠᴇ	119	DIVE	4.0		To plunge headfirst into water; To swim to considerable depths.	डुबकी लगाना		潜水	ငုပ်ရန်		
+1162	dog	dog	dog	ᴅᴏɢ	2009	DOG	1.0	fauna	A domesticated carnivorous mammal, Canis familiaris, with a pointed snout, a long tail, and a coat of fur, often kept as a pet or trained for hunting or guarding.	कुत्ता		狗	ခွေး		
+1168	door::way	doorway	doorway	ᴅᴏᴏʀᴡᴀʏ	1567	DOOR	3.0		An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.			门户	တံခါးပေါက်		Mismatch with CONCEPTICON
+1169	door..panel	door (panel)	door	ᴅᴏᴏʀ	–	–	4.0		A movable barrier used to close off an entrance or exit to a building, room, or vehicle.	दरवाज़ा		门	တံခါး		Mismatch with CONCEPTICON
+1170	dove	dove	dove	ᴅᴏᴠᴇ	1853	DOVE	2.0	fauna	One of several birds of the family Columbidae.	फाख्ता		鸽子	ချိုး		
+1177	dream:to	to dream	dream	ᴅʀᴇᴀᴍ	1920	DREAM (SOMETHING)	1.0		To experience a series of images, thoughts, and sensations during sleep, often accompanied by emotions and creating a sense of reality.	सपना देखना		做梦	အိပ်မက်မက်ဖို့		
+1181	drink:to	to drink	drink	ᴅʀɪɴᴋ	1401	DRINK	2.0		To consume a liquid through the mouth.	पीना		喝	သောက်ရန်		
+1189	drum	drum	drum	ᴅʀᴜᴍ	908	DRUM	3.0		A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.	ढोल		鼓	ဒရမ်တစ်ခု		
+1191	drunk:to.be	to be drunk	drunk	ᴅʀᴜɴᴋ	1463	DRUNK	3.0		Being in a temporary state in which one's physical and mental faculties are impaired due to excessive consumption of alcohol.	नशेड़ा		醉	မူးသည်၊ မူးသည်။		
+1192	dry:to.be	to be dry	dry	ᴅʀʏ	1398	DRY	3.0		To be lacking any discernable moisture.	सुखाना		干	ခြောက်သွေ့ရန်		
+1197	duck	duck	duck	ᴅᴜᴄᴋ	1360	DUCK	3.0	fauna	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	बत्ख		鸭子	ဘဲ		
+1199	durable:to.be	to be durable	durable	ᴅᴜʀᴀʙʟᴇ	–	–	4.0		To be able to withstand wear, pressure, or damage over time.	टिकाऊ होना		耐用	တာရှည်ခံဖို့		
+1200	dusk..just.after.sunset	dusk (just after sunset)	dusk	ᴅᴜꜱᴋ	2297	DUSK	3.0		The darkest stage of twilight in the evening.	अंधेरा		黄昏	နေဝင်ရီတရော		
+1201	dust	dust	dust	ᴅᴜꜱᴛ	2	DUST	3.0		Tiny particles of earth or other matter that settle on surfaces or are stirred up by movement.	धूल		灰尘	ဖုန်မှုန့်		
+1203	dye:to	to dye	dye	ᴅʏᴇ	157	DYE	4.0		To modify the color of something by applying dye.	रंग लगाना		染色	ဆေးဆိုးရန် သို့မဟုတ် ဆေးသုတ်ရန်		
+1205	ear	ear	ear	ᴇᴀʀ	1247	EAR	2.0	body parts	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	कान		耳朵	နား		
+1206	ear::lobe	earlobe	earlobe	ᴇᴀʀʟᴏʙᴇ	18	EARLOBE	4.0	body parts	The soft lower part of the external ear, often fleshy and sometimes pierced for jewelry.	कान का झुमका		耳垂	နားအူ		
+1207	ear::ring	earring	earring	ᴇᴀʀʀɪɴɢ			3.0								
+1211	earth..area.or.plot	earth (area or plot)	earth	ᴇᴀʀᴛʜ	1228	EARTH (SOIL)	2.0		The soft and loose material forming a great part of the Earth surface.						
+1212	earthquake	earthquake	earthquake	ᴇᴀʀᴛʜꞯᴜᴀᴋᴇ	6	EARTHQUAKE	4.0		The violent shaking of the ground produced by deep seismic waves, originating from the epicentre.	भूकंप		地震	ငလျင်		
+1213	east	east	east	ᴇᴀꜱᴛ	1877	EAST	2.0		One of the four principal compass points, specifically 90°, conventionally directed to the right on maps. The direction of the rising sun.	पूर्व		东	အရှေ့		
+1214	easy:to.be	to be easy	easy	ᴇᴀꜱʏ	686	EASY	3.0		Requiring little skill or effort; posing no difficulty.	आसान होना		容易	လွယ်ကူစေရန်		
+1215	eat:.hard:to	to eat	eat	ᴇᴀᴛ	1336	EAT	2.0	verbs	To take food into the body through the mouth and swallow it. As applies to hard foods such as curries.	खाना खाना		吃	စားရန်		
+1216	eat:.soft:to	to eat	eat	ᴇᴀᴛ	1336	EAT	2.0	verbs	To take food into the body through the mouth and swallow it. As applies to rice and soft foots.	खाना खाना		吃	စားရန်		
+1221	eel	eel	eel	ᴇᴇʟ	–	–	4.0	fauna	A long, snake-like fish belonging to Anguilliformes with smooth, slimy skin.	बाम		鳗鱼	ငါးရှဉ့်		
+1222	egg::shell	eggshell	eggshell	ᴇɢɢꜱʜᴇʟʟ	3857	EGGSHELL	4.0	body parts	The calcareous covering protecting the inside of an egg.	अंडे की खुरदनी		蛋壳	ကြက်ဥအခွံ		
+1223	egg..general	egg (general)	egg	ᴇɢɢ	744	EGG	2.0	body parts	The oval reproductive body laid by female birds, containing the embryo and nutrients for its growth.	चिड़िया का अंडा		鸟蛋	ငှက်ဥ		
+1228	eggplant..brinjal	eggplant (brinjal)	eggplant	ᴇɢɢᴘʟᴀɴᴛ	1146	AUBERGINE	4.0	flora	An Asian plant, Solanum melongena, cultivated for its edible purple, green, or white ovoid fruit.	बैंगन		茄子	ခရမ်းသီး		
+1237	elephant	elephant	elephant	ᴇʟᴇᴘʜᴀɴᴛ	1290	ELEPHANT	3.0	fauna	A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw. Elephants are the largest land animals now existing.	हाथी		大象	ဆင်		
+1239	elephant.tusk	elephant tusk	elephant.tusk	ᴇʟᴇᴘʜᴀɴᴛ.ᴛᴜꜱᴋ	3280	TUSK	4.0	body parts	A long, pointed tooth, usually found in animals such as elephants, walruses, and boars.	हाथी दांत		长牙	စွယ်		
+1242	embankment	embankment	embankment	ᴇᴍʙᴀɴᴋᴍᴇɴᴛ	–	–	4.0		A raised structure, such as a wall or mound, that serves as a barrier or support.	तलाब का बांध		堤	တာတမံ		
+1243	embers..hot	embers (hot)	embers	ᴇᴍʙᴇʀꜱ	67	EMBERS	3.0		A small, glowing piece of coal or wood, as in a dying fire.						
+1244	embrace..hug:to	to embrace (hug)	embrace	ᴇᴍʙʀᴀᴄᴇ	928	EMBRACE	3.0		To hold someone tightly in one's arms as a sign of affection or support.	गले लगाना		拥抱	ထွေးပွေ့ရန်		
+1245	emerge:to	to emerge	emerge	ᴇᴍᴇʀɢᴇ	1076	EMERGE (APPEAR)	2.0		To come out from a hidden or enclosed place.	उभरना		浮现	ပေါ်ထွက်လာရန်		
+1247	empty:to.be	to be empty	empty	ᴇᴍᴘᴛʏ	1624	EMPTY	3.0		To have nothing inside or to not be occupied by anyone or anything.	खाली होना		空	ဗလာဖြစ်		
+1250	enemy	enemy	enemy	ᴇɴᴇᴍʏ	1358	ENEMY	4.0		Someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else.	दुश्मन		敌人	ရန်သူ		
+1251	enough:to.be	to be enough	enough	ᴇɴᴏᴜɢʜ	1881	ENOUGH	4.0		Having an adequate or sufficient amount or quantity.	काफी होना		足够	လုံလောက်တယ်၊ လုံလောက်တယ်။		
+1252	enter:to	to enter	enter	ᴇɴᴛᴇʀ	749	ENTER	3.0	verbs	To come or go into a place, such as a building or room.	अंदर जाना		进入	ဝင်ရန်		
+1254	equal:to.be	to be equal	equal	ᴇꞯᴜᴀʟ	1570	EQUAL	4.0		Of two or more people or things, having the same amount or quantity.	समान होना		相等	ပမာဏ ညီမျှစေရန်		
+1255	erect:to	to erect	erect	ᴇʀᴇᴄᴛ	1840	BUILD	4.0		Being in a standing or upright position.	खड़े होना		直立	တည့်မတ်ရန်		
+1257	ereyesterday	ereyesterday	ereyesterday	ᴇʀᴇʏᴇꜱᴛᴇʀᴅᴀʏ	1180	DAY BEFORE YESTERDAY	3.0		The day before yesterday.	परसों		前天	မနေ့က		
+1261	evening	evening	evening	ᴇᴠᴇɴɪɴɢ	1629	EVENING	3.0		That part of the day in which daylight decreases and the night falls.	शाम		晚上	ညနေ		
+1262	evening.star	evening star	evening.star	ᴇᴠᴇɴɪɴɢ.ꜱᴛᴀʀ	3341	EVENING STAR	4.0		A name for Venus when it appears after sunset.						
+1263	every..each	every (each)	every	ᴇᴠᴇʀʏ	3416	EVERY (EACH)	4.0		All the members of a referred group individually.	हर		每个	တစ်ခုချင်းစီ၊ တိုင်း		
+1267	exchange:to	to exchange	exchange	ᴇxᴄʜᴀɴɢᴇ	2509	EXCHANGE	4.0		To hand out one thing while receiving another thing or to replace one thing with another.	विनिमय		交换	လဲလှယ်ရန်		
+1274	explode:to	to explode	explode	ᴇxᴘʟᴏᴅᴇ	3976	EXPLODE	4.0		To burst violently as a result of internal pressure.	फटना		爆炸	မီးထဲတွင် ဝါးကဲ့သို့ ပေါက်ကွဲသည်။		
+1275	extinguish..fire:to	to extinguish (fire)	extinguish	ᴇxᴛɪɴɢᴜɪꜱʜ	127	EXTINGUISH	2.0	verbs	To make something stop burning.	बुझाना		熄灭	ငြိမ်းအေးရန်		
+1276	eye	eye	eye	ᴇʏᴇ	1248	EYE	1.0	body parts	The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals and humans see.	आँख		眼睛	မျက်လုံး		
+1277	eye::brow	eyebrow	eyebrow	ᴇʏᴇʙʀᴏᴡ	1173	EYEBROW	3.0	body parts	The hair that grows over the bone ridge above the eye socket.	भौं		眉毛	မျက်ခုံးမွေး		
+1278	eye::lash	eyelash	eyelash	ᴇʏᴇʟᴀꜱʜ	1540	EYELASH	4.0	body parts	One of the short hairs that grow from the edge of the eyelids.	पलक की झपकी		睫毛	မျက်တောင်		
+1279	eye::lid	eyelid	eyelid	ᴇʏᴇʟɪᴅ	17	EYELID	3.0	body parts	Either of two movable folds of skin that cover and uncover the eye, protecting it from injury, dust, and light.	पलक		眼皮	မျက်ခွံ		
+1280	eye.:pupil	pupil	pupil	ᴘᴜᴘɪʟ	1658	PUPIL	4.0	body parts	Contractile aperture in iris.	पुपिल		瞳孔	မျက်စိ၏ကျောင်းသား		
+1281	face	face	face	ꜰᴀᴄᴇ	1560	FACE	3.0	body parts	The front part of the head, featuring the eyes, nose, and mouth and the surrounding area.	चेहरा		脸	မျက်နှာ		
+1284	faeces..excrement	faeces (excrement)	faeces	ꜰᴀᴇᴄᴇꜱ	675	FAECES (EXCREMENT)	3.0		Substance that human and animal bodies release from time to time as a little pile of waste remaining from digestion, after it has been collected in the colon.						
+1288	fall.down..of.objects:to	to fall down (of objects)	fall.down	ꜰᴀʟʟ.ᴅᴏᴡɴ	1280	FALL	2.0		To descend in free fall due to the effect of gravity.	गिरना		落下	အရွက်များကဲ့သို့ ကြွေကျခြင်း၊		
+1291	false:to.be	to be false	false	ꜰᴀʟꜱᴇ	3069	FALSE	4.0		Not true or accurate, based on error or deception.	गलत होना		错误的	မှားသည်ဖြစ်စေ မှားသည်ဖြစ်စေ		
+1293	family..household	family (household)	family	ꜰᴀᴍɪʟʏ	194	FAMILY	3.0		A group comprising parents, offsprings and others closely related or associated with them.	परिवार		家庭	မိသားစု		
+1298	far:to.be	to be far	far	ꜰᴀʀ	1406	FAR	2.0		Having a large intervening distance with regard to something.	दूर		远	ဝေးဖို့		
+1301	fast:to.be	to be fast	fast	ꜰᴀꜱᴛ	1631	FAST	3.0		Occurring or happening within a short time.	तेज		快	မြန်တယ်၊ မြန်တယ်။		
+1304	fat:to.be	to be fat	fat	ꜰᴀᴛ	1279	FAT (OBESE)	2.0		Carrying a larger-than-normal amount of fat or weight.	मोटा		肥	အဆီကျဖို့		
+1305	fat..substance	fat (substance)	fat	ꜰᴀᴛ	323	FAT (ORGANIC SUBSTANCE)	2.0		Oily substance as part of animal flesh.						
+1306	father	father	father	ꜰᴀᴛʜᴇʀ	1217	FATHER	1.0		A male parent.	पिता		父亲	အဖေ		
+1308	fear:to	to fear	fear	ꜰᴇᴀʀ	1419	FEAR (BE AFRAID)	2.0		To be scared of; to have an uncontrollable emotion of anxiety about something that causes a scared reaction or frightening impression.	डरना		害怕	ကြောက်ဖို့ကောင်းတယ်။		
+1311	feather	feather	feather	ꜰᴇᴀᴛʜᴇʀ	1201	FEATHER	2.0	body parts	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	पंख		羽毛	အမွေး		
+1313	feed..infant:to	to feed (infant)	feed	ꜰᴇᴇᴅ	739	FEED	4.0		To give food to someone or something.	खिलाना		喂	ကျွေးဖို့		
+1318	fence	fence	fence	ꜰᴇɴᴄᴇ	1690	FENCE	3.0		A barrier, railing, or other upright structure, typically of wood or wire, enclosing an area of land to mark a boundary, control access, or prevent escape.	बाड़		围栏	ခြံစည်းရိုး		
+1320	ferment..alcohol:to	to ferment (alcohol)	ferment	ꜰᴇʀᴍᴇɴᴛ			2.0								
+1325	festival	festival	festival	ꜰᴇꜱᴛɪᴠᴀʟ	131	FESTIVAL	2.0		A day or period of celebration, typically for religious, cultural, or historical reasons.	त्योहार		节日	ပွဲတော်		
+1328	fever:to.have	to have fever	fever	ꜰᴇᴠᴇʀ	1534	FEVER	4.0		To have an abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium.	बुखार होना		发烧	အဖျားရှိရန်		
+1329	few.in.number:to.be	to be few in number	few.in.number	ꜰᴇᴡ.ɪɴ.ɴᴜᴍʙᴇʀ	1242	FEW	3.0		A small number of, not many.	कुछ		少	အနည်းငယ်ဖြစ်ရန်		
+1332	field:jhum	jhum field	jhum.field	ᴊʜᴜᴍ.ꜰɪᴇʟᴅ	2794	FIELD (UPLAND)	2.0		A type of slash-and-burn agriculture used in various parts of the world, in which the land is cleared of vegetation and burned to provide fertilizer.	झुम का खेत		烧林放牧	ခုတ်ထစ်ခြင်းနှင့် မီးရှို့ခြင်းအကွက်		
+1333	field:paddy	paddy field	paddy.field	ᴘᴀᴅᴅʏ.ꜰɪᴇʟᴅ	140	PADDY FIELD	2.0		A flooded field in which rice is grown.	धान का खेत		水稻田	လယ်ကွင်း		
+1335	field..general	field (general)	field	ꜰɪᴇʟᴅ	212	FIELD	4.0		A limited area of land with grass or crops growing on it, which is usually surrounded by fences or closely planted bushes when it is part of a farm.	खेत		田地	လယ်ကွင်း		
+1347	finger	finger	finger	ꜰɪɴɢᴇʀ	1303	FINGER	1.0	body parts	One of the long extremities of the hand that is used for gripping objects.	उंगली	আঙুল	手指	လက်ညှိုး		
+1348	finger::nail	fingernail	fingernail	ꜰɪɴɢᴇʀɴᴀɪʟ	1258	FINGERNAIL	2.0	body parts	The hard, flat, translucent covering near the tip of a human finger, useful for scratching and fine manipulation.	नाखून		指甲	လက်သည်း		
+1355	finger.:thumb	thumb	thumb	ᴛʜᴜᴍʙ	1781	THUMB	2.0		The shortest and thickest of the fingers that can be placed against the others in order to create a firm grip.	अंगूठा	আঙুঠ	拇指	လက်မ		
+1358	fire	fire	fire	ꜰɪʀᴇ	221	FIRE	1.0		The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	आग		火	မီး		
+1359	fire::place..hearth	fireplace (hearth)	fireplace	ꜰɪʀᴇᴘʟᴀᴄᴇ	185	FIREPLACE	3.0		The floor of a fireplace, usually made of brick or stone.	चूल्हा		炉灶	မီးဖို		
+1360	fire::place.shelf	fireplace shelf	fireplace.shelf	ꜰɪʀᴇᴘʟᴀᴄᴇ.ꜱʜᴇʟꜰ	–	–	4.0		The shelf or rack above a fireplace, typically used for dying items including food.	मंडप		炉架	မီးဖိုထက်တွင် စင် သို့မဟုတ် စင်		
+1361	fire::wood	firewood	firewood	ꜰɪʀᴇᴡᴏᴏᴅ	10	FIREWOOD	2.0		Wood intended to be burned.	लकड़ी		柴火	ထင်း		
+1362	firefly	firefly	firefly	ꜰɪʀᴇꜰʟʏ	206	FIREFLY	3.0	fauna	A nocturnal, bioluminescent beetle of the family Lampyridae.	जुगनू		萤火虫	ပိုးစုန်းကြူး		
+1364	first:to.be	to be first	first	ꜰɪʀꜱᴛ	728	FIRST	4.0		Having no predecessor. The ordinal number corresponding to one.	पहला		第一	ပထမ		
+1366	fish	fish	fish	ꜰɪꜱʜ	227	FISH	1.0	fauna	A cold-blooded vertebrate animal that lives in water that moves with the help of fins and breathes using gills (Pisces).	मछली		鱼	ငါး		
+1369	fish:to.catch	to catch fish	catch.fish	ᴄᴀᴛᴄʜ.ꜰɪꜱʜ	2638	FISHING	4.0		The act of attempting to catch fish.						
+1380	flame	flame	flame	ꜰʟᴀᴍᴇ	889	FLAME	4.0		A bright yellow, red or bluish light which emerges during combustion processes.	ज्वाला		火焰	မီးတောက်		
+1383	flat:to.be	to be flat	flat	ꜰʟᴀᴛ	1633	FLAT	2.0		Having an surface, without hills or bumps. Distinct from level. This concept may refer to any object and may be at any angle. It is distinct from level.	समतल		平的	ပြားချပ်		
+1386	flea	flea	flea	ꜰʟᴇᴀ	232	FLEA	3.0	fauna	Any of the wingless insects composing the order Siphonaptera; most are ectoparasites of mammals and birds. (Source: MGH)	उम्मड़		跳蚤	လှေး၊		
+1387	flee..run.away:to	to flee (run away)	flee	ꜰʟᴇᴇ	956	FLEE	2.0		Leaving a dangerous or unpleasant situation.	भागना		奔跑 / 逃跑	ပြေး၊ ပြေး		
+1389	float:to	to float	float	ꜰʟᴏᴀᴛ	1574	FLOAT	4.0		Of an object or substance, to be supported by a liquid of greater density than the object so as that part of the object or substance remains above the surface. [WK:float]	तैरना		漂浮	မျှော		
+1392	flood:to	to flood	flood	ꜰʟᴏᴏᴅ	–	–	3.0		A large amount of water covering an area that is usually dry, due to high amounts of rain or snow runoff.	बाढ़		洪水	ရေလွှမ်းမိုး		
+1393	floor	floor	floor	ꜰʟᴏᴏʀ	1632	FLOOR	4.0		The bottom or lower part of any room; the supporting surface of a room.	मंज़िल		地板	ကြမ်းပြင်		
+1395	flow..of.water:to	to flow (of water)	flow	ꜰʟᴏᴡ	2003	FLOW	3.0		To move as a fluid from one position to another (e.g. of water or of people).	बहना		流	စီးဆင်းရန်၊ ရေ		
+1396	flower	flower	flower	ꜰʟᴏᴡᴇʀ	239	FLOWER	2.0	flora	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	फूल		花	ပန်း		
+1397	flower.:bud	bud	bud	ʙᴜᴅ	1684	BUD	4.0	flora	An undeveloped or embryonic shoot and normally occurs in the axil of a leaf or at the tip of the stem.	कली		花蕾	ပန်းဖူး		
+1399	fly:to	to fly	fly	ꜰʟʏ	1441	FLY (MOVE THROUGH AIR)	1.0		To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	उड़ना		飞	ပျံသန်းရန်		
+1402	fog..mist	fog (mist)	fog	ꜰᴏɢ	249	FOG	2.0		Water droplets or, rarely, ice crystals suspended in the air in sufficient concentration to reduce visibility appreciably.	कोहरा		雾	မြူ၊ မြူ		
+1403	fold:to	to fold	fold	ꜰᴏʟᴅ	1470	FOLD	3.0		To bend a thin material (such as paper) over so that it comes in contact with itself.	मोड़ना		折叠	ခေါက်ရန်၊ အထည်		
+1404	follow:to	to follow	follow	ꜰᴏʟʟᴏᴡ	1085	FOLLOW	4.0		To go or come after, to come behind in sequence, or to be guided or directed by someone or something.	अनुसरण करना		跟随	လိုက်နာရန်		
+1407	foot::print	footprint	footprint	ꜰᴏᴏᴛᴘʀɪɴᴛ	318	FOOTPRINT	4.0		The impression of the foot in a soft substance such as sand or snow.	पादचिह्न		足迹	ခြေရာ		
+1411	forest	forest	forest	ꜰᴏʀᴇꜱᴛ	420	FOREST	3.0		A vegetation community dominated by trees and other woody shrubs, growing close enough together that the tree tops touch or overlap, creating various degrees of shade on the forest floor.	जंगल		森林	တော၊ တော		
+1415	forget:to	to forget	forget	ꜰᴏʀɢᴇᴛ	1523	FORGET	2.0		To lose memory of something.	भूलना		忘记	မေ့		
+1416	forgive:to	to forgive	forgive	ꜰᴏʀɢɪᴠᴇ	1528	FORGIVE	4.0		To stop blaming someone for an offense.	माफ़ करना		原谅	ခွင့်လွှတ်ပါ။		
+1422	fowl	fowl	fowl	ꜰᴏᴡʟ	265	FOWL	2.0	fauna	A bird that is kept for its meat and eggs.						
+1423	fox	fox	fox	ꜰᴏx	1312	FOX	3.0	fauna	A carnivorous relatively small canine of the species Vulpes Vulpes.	लोमड़ी		狐狸	မြေခွေး		
+1424	freckle	freckle	freckle	ꜰʀᴇᴄᴋʟᴇ	530	FRECKLE	3.0	body parts	A small brownish or reddish pigmentation spot on the surface of the skin.						
+1427	friend	friend	friend	ꜰʀɪᴇɴᴅ	1325	FRIEND	4.0		A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.	दोस्त		朋友	သူငယ်ချင်း		
+1430	frog	frog	frog	ꜰʀᴏɢ	503	FROG	1.0		Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	मेंढक		青蛙	ဖား		
+1434	fruit	fruit	fruit	ꜰʀᴜɪᴛ	1507	FRUIT	2.0	flora	The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.	फल		水果	အသီး		
+1437	full.:satiated:to.be	to be satiated	satiated	ꜱᴀᴛɪᴀᴛᴇᴅ	106	SATIATED	2.0		Having eaten or drunk enough.	भर जाना		饱	ပြည့်ဝ၊		
+1438	full..container:to.be	to be full (container)	full	ꜰᴜʟʟ	1429	FULL	2.0		Containing the most or maximum amount possible in the given available space.	भरा हुआ		满	ကွန်တိန်နာတစ်ခု၏အပြည့်		
+1446	garden	garden	garden	ɢᴀʀᴅᴇɴ	586	GARDEN	4.0		A piece of land next to a house where flowers and other plants are grown and which often has an area of grass.	बगीचा		花园	ဥယျာဉ်		
+1447	garlic	garlic	garlic	ɢᴀʀʟɪᴄ	2368	GARLIC	4.0	flora	A species in the onion genus, Allium.	लहसुन		大蒜	ကြက်သွန်ဖြူ		
+1450	gate	gate	gate	ɢᴀᴛᴇ	2940	GATE	4.0		A movable barrier used to close an opening in a fence or wall.	दरवाज़ा		大门	ဂိတ်		
+1451	gather:to	to gather	gather	ɢᴀᴛʜᴇʀ	7	GATHER	4.0		To bring together a group of things or people, often from different locations, into one place or container.	इकट्ठा करना		收集	စုဆောင်းရန် သို့မဟုတ် စုဆောင်းရန်		
+1455	ghost..of.deceased	ghost (of deceased)	ghost	ɢʜᴏꜱᴛ	1175	GHOST	4.0		The visible disembodied soul of a dead person.	भूत		鬼魂	တစ္ဆေ		
+1458	ginger	ginger	ginger	ɢɪɴɢᴇʀ	2500	GINGER	1.0	flora	A herbaceous perennial which grows annual stems about a meter tall bearing narrow green leaves and yellow flowers.	अदरक		姜	ဂျင်း		
+1461	give:to	to give	give	ɢɪᴠᴇ	1447	GIVE	1.0		To transfer the possession or holding (of an object) to another person.	देना		给	ပေးရန်		
+1467	go..general:to	to go (general)	go	ɢᴏ	695	GO	2.0		To get from one place to another by any means.						
+1468	go..level:to	to go (level)	go	ɢᴏ	–	–	4.0		To go on level terrain.						
+1470	go.around..circumvent:to	to go around (circumvent)	go.around	ɢᴏ.ᴀʀᴏᴜɴᴅ	–	–	4.0		To move or travel around something.	घूमना		绕路	သွားပါ။		
+1471	go.downriver:to	to go downriver	go.downriver	ɢᴏ.ᴅᴏᴡɴʀɪᴠᴇʀ	–	–	2.0		To move in an upstream direction, such as along a river. Moving against the direction that water would flow. This is a part of topographical deixis common to the region.	ऊपर नदी में जाना		上游	အညာ		
+1472	go.upriver:to	to go upriver	go.upriver	ɢᴏ.ᴜᴘʀɪᴠᴇʀ	–	–	2.0		To move in an downstream direction, such as along a river. Moving with the direction that water would flow. This is a part of topographical deixis common to the region.	नीचे नदी में जाना		下游	မြစ်ထဲဆင်းဖို့		
+1473	goat	goat	goat	ɢᴏᴀᴛ	1502	GOAT	4.0	fauna	A common four-legged animal (Capra) that is related to sheep and bred by humans for its coat and milk.	बकरी		山羊	ဆိတ်		
+1478	goiter	goiter	goiter	ɢᴏɪᴛᴇʀ	1957	GOITER	4.0		Enlargement of the thyroid gland.						
+1479	gold	gold	gold	ɢᴏʟᴅ	1369	GOLD	2.0		A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.	सोना		黄金	ရွှေ		
+1480	gong	gong	gong	ɢᴏɴɢ	2502	GONG	2.0		An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.	घंटी		锣	ဂုံး		
+1481	good:to.be	to be good	good	ɢᴏᴏᴅ	1035	GOOD	3.0		To be morally right or virtuous.	अच्छा होना		好	ကောင်းဖို့		
+1482	goose	goose	goose	ɢᴏᴏꜱᴇ	1187	GOOSE	4.0	fauna	Waterfowl of the Anatidae family.	हंस		鹅	ဘဲငန်း		
+1485	gourd..general	gourd (general)	gourd	ɢᴏᴜʀᴅ	411	GOURD	4.0	flora	A plant belonging to the family Cucurbitaceae, native to tropical Africa. It represents a creeping vine, usually grown for its fruits that, as a rule, can have a variety of shapes: from rounded to globular, bottle- or club-shaped or even slim and coiled.	लौकी		葫芦	ဘူးသီး		
+1486	grain:ear.of	ear of grain	ear.of.grain	ᴇᴀʀ.ᴏꜰ.ɢʀᴀɪɴ	3244	EAR (OF GRAIN)	4.0	flora	The part of a cereal plant, such as wheat or corn, that contains the seeds.	अनाज की खांड		谷粒	စပါးနှံ		
+1487	grain..general.term	grain (general term)	grain	ɢʀᴀɪɴ	605	GRAIN	4.0		Edible, starchy seeds of the grass family (Graminae) usable as food by man and his livestock.	अनाज		谷物	စပါး		
+1488	granary	granary	granary	ɢʀᴀɴᴀʀʏ	3657	GRANARY	3.0		A building for storing threshed grain.	अनाजखाना		粮仓	ကျီ		
+1489	grandchild	grandchild	grandchild	ɢʀᴀɴᴅᴄʜɪʟᴅ			2.0								
+1491	grandfather	grandfather	grandfather	ɢʀᴀɴᴅꜰᴀᴛʜᴇʀ	1383	GRANDFATHER	2.0	kinship	The father of one of someone's parents.	दादा		爷爷	အဖိုး		
+1492	grandmother	grandmother	grandmother	ɢʀᴀɴᴅᴍᴏᴛʜᴇʀ	1496	GRANDMOTHER	2.0	kinship	The mother of one of someone's parents.	दादी		奶奶	အဖွား		
+1495	grasp..grab:to	to grasp (grab)	grasp	ɢʀᴀꜱᴘ	–	–	4.0		To take hold of something firmly with the hand.	पकड़ना		抓	ဖမ်း၊ ဆုပ်ကိုင်		
+1496	grass	grass	grass	ɢʀᴀꜱꜱ	606	GRASS	2.0	flora	A very large and widespread family of Monocotyledoneae, with more than 10.000 species, most of which are herbaceous, but a few are woody. The stems are jointed, the long, narrow leaves originating at the nodes. The flowers are inconspicuous, with a much reduced perianth, and are wind-pollinated or cleistogamous.			草	မြက်		
+1497	grasshopper	grasshopper	grasshopper	ɢʀᴀꜱꜱʜᴏᴘᴘᴇʀ	607	GRASSHOPPER	4.0	fauna	A plant-eating insect with long back legs that can jump very high and makes a sharp high noise using its back legs or wings.	टिड्डी		蚂蚱	နှံကောင်		
+1498	grave	grave	grave	ɢʀᴀᴠᴇ	1773	GRAVE	2.0		A place (commonly marked with a headstone) where one or more people are buried (usually in a coffin underneath the ground).	कब्र		坟墓	သင်္ချိုင်း၊ သင်္ချိုင်း		
+1499	gravel	gravel	gravel	ɢʀᴀᴠᴇʟ	3028	GRAVEL	4.0		An uncosolidated mixture of pebbles and/or rock fragments of different sizes.	कंकड़		碎石	ကျောက်စရစ်		
+1503	grind:to	to grind	grind	ɢʀɪɴᴅ	1033	GRIND	2.0		To break something into small pieces by pressing it flat, or grinding it to powder.						
+1507	group..of.people	group (of people)	group	ɢʀᴏᴜᴘ	–	–	4.0		A collection of individuals who are together for a purpose or activity.	लोगों का समूह		人群	လူအုပ်စု		
+1508	grow..of.plants:to	to grow (of plants)	grow	ɢʀᴏᴡ	479	GROW	4.0		To increase in size or develop from a seed or small plant into a larger one.	उगना		生长	အပင်ကြီးထွားရန်		
+1514	guest	guest	guest	ɢᴜᴇꜱᴛ	1782	GUEST	4.0		A person that visits and stays at a house, usually for one or more nights.	मेहमान		客人	ဧည့်သည်		
+1519	gums	gums	gums	ɢᴜᴍꜱ	139	GUMS	3.0	body parts	The mucosal tissue that partly lies over the teeth in the mouth.	मुंह की मसूड़े		牙龈	သွားဖုံးများ		
+1520	gun	gun	gun	ɢᴜɴ	1566	GUN	4.0		A bullet firing weapon to be held in the hands or arms.	बंदूक		枪	သေနတ်		
+1522	hail..precipitation	hail (precipitation)	hail	ʜᴀɪʟ	609	HAIL	2.0		Precipitation in the form of balls or irregular lumps of ice.	बर्फ़ का गोला		冰雹	မိုးသီး		
+1525	hair..of.body	hair (of body)	hair	ʜᴀɪʀ	580	FUR	2.0	body parts	Hair which grows on the body. This will typically be the same term for humans and non-human mammals.			毛皮	တိရစ္ဆာန်သားမွေး		
+1526	hair..of.head	hair (of head)	hair	ʜᴀɪʀ	2648	HAIR (HEAD)	2.0	body parts	Hair which grows on the head of humans. In many language varieties this will be a distinct stem from that of fur.	सिर के बाल		头发	ဦးခေါင်းဆံပင်		
+1531	half..portion	half (portion)	half	ʜᴀʟꜰ	816	HALF	4.0		One of the two equal parts of a whole.	आधा		一半	တစ်ဝက်		
+1532	hammer	hammer	hammer	ʜᴀᴍᴍᴇʀ	1481	HAMMER	4.0		A tool with a heavy head and a handle used for pounding.	हथौड़ा		锤子	တူ		
+1533	hand:backside.of	backside of hand	backside.of.hand	ʙᴀᴄᴋꜱɪᴅᴇ.ᴏꜰ.ʜᴀɴᴅ	–	–	4.0	body parts	The dorsal side of the hand opposite the palm.	कर का पीछा		手背	လက်၏နောက်ကျော		
+1534	hand:palm.of	palm of hand	palm.of.hand	ᴘᴀʟᴍ.ᴏꜰ.ʜᴀɴᴅ	1183	PALM OF HAND	2.0	body parts	The inner and somewhat concave part of the human hand that extends from the wrist to the bases of the fingers.	हथेली	হাতৰ তল	手掌	လက်ဖဝါး		
+1536	hand.:fist	fist	fist	ꜰɪꜱᴛ	1473	FIST	4.0	body parts	A closed hand with the fingers bent in towards the palm and the thumb retracted.	मुट्ठी		拳头	လက်သီး		CONCEPTICON has the meaning of understanding, i.e. to grast a concept.
+1537	hand..arm	hand (arm)	hand	ʜᴀɴᴅ	1277	HAND	2.0	body parts	That part of the fore limb below the forearm or wrist in primates (including humans).	हाथ	হাত	手	လက်		
+1541	hang..something:to	to hang (something)	hang	ʜᴀɴɢ	2884	HANG	3.0		Remain suspended to some point above.	लटकना		悬挂	ဆွဲထားရန်		
+1543	happy:to.be	to be happy	happy	ʜᴀᴘᴘʏ	1495	HAPPY	2.0		Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.	खुश होना		开心	ပျော်ရွှင်ဖို့		
+1544	hard..firm:to.be	to be hard (firm)	hard	ʜᴀʀᴅ	1884	HARD	3.0		Resistant to pressure, not easily broken, bent, or pierced.	कठोर होना		硬	ပျော့ပျောင်းသည်မဟုတ်။		
+1551	hate:to	to hate	hate	ʜᴀᴛᴇ	1607	HATE	4.0		To have intense or passionate dislike for someone or something.	नफ़रत करना		憎恨	မုန်းဖို့		
+1553	head	head	head	ʜᴇᴀᴅ	1256	HEAD	1.0	body parts	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	सिर		头	ခေါင်း		
+1554	head.:crown:.of	crown	crown	ᴄʀᴏᴡɴ	–	–	4.0	body parts	The topmost part of the head. The place of saggital crest in some mammals.						CONCEPTICON has an apparent mismatch between the definition and the ID for 1943.
+1555	head.:forehead	forehead	forehead	ꜰᴏʀᴇʜᴇᴀᴅ	123	FOREHEAD	2.0	body parts	The part of the face between the hairline and the eyebrows.	माथा		前额	နဖူး		
+1556	head..occiput:back.of	back of head (occiput)	back.of.head	ʙᴀᴄᴋ.ᴏꜰ.ʜᴇᴀᴅ	523	BACK OF HEAD	4.0	body parts	The back part of the head, specifically the area that is directly above the neck.	बलदेव		枕部	ဦးခေါင်း၏ occiputal ဧရိယာ		
+1563	hear:to	to hear	hear	ʜᴇᴀʀ	1408	HEAR	2.0		To perceive sound with the ear, without necessarily paying attention to it.	सुनना		听	ကြားဖို့		
+1564	heart	heart	heart	ʜᴇᴀʀᴛ	1223	HEART	1.0	body parts	A muscular organ that pumps blood through the body.	दिल		心脏	နှလုံး		
+1566	heavy:to.be	to be heavy	heavy	ʜᴇᴀᴠʏ	1210	HEAVY	1.0		Of a physical object, having great weight.	भारी होना		重	လေးလံဖို့၊		
+1567	heel	heel	heel	ʜᴇᴇʟ	980	HEEL	4.0	body parts	The part of the human foot on the backside where it becomes the leg.	एड़ी		脚后跟	ဖနောင့်		
+1568	help.someone:to	to help someone	help.someone	ʜᴇʟᴘ.ꜱᴏᴍᴇᴏɴᴇ	1897	HELP	4.0		To give assistance or aid to.	मदद करना		帮助	ကူညီဖို့		
+1577	hide..oneself	hide (oneself)	hide	ʜɪᴅᴇ	2485	HIDE (ONESELF)	4.0		To put oneself in a place where one cannot be found.	चिरा		饭团	ထမင်းထောင်း		
+1579	high:to.be	to be high	high	ʜɪɢʜ	1265	HIGH	2.0		Being in a position comparatively far above to the ground.	उच्च होना		高	မြင့်မားရန်		
+1580	hip	hip	hip	ʜɪᴘ	1745	HIP	4.0	body parts	The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.	कूल्हा		臀部	တင်ပါးဆုံ		
+1584	history..the.past	history (the past)	history	ʜɪꜱᴛᴏʀʏ	–	–	4.0		The study of past events, particularly in human affairs.	इतिहास		历史	သမိုင်း		
+1586	hit..something:to	to hit (something)	hit	ʜɪᴛ	1433	HIT	2.0		To hit against with a sharp blow or to impel, usually with a hand or weapon or to be forcefully or suddenly contacting, e.g. a tree falling down and hitting the ground.	मारना		打	ရိုက်နှက်ရန်		
+1590	hold.in.hand:to	to hold in hand	hold.in.hand	ʜᴏʟᴅ.ɪɴ.ʜᴀɴᴅ	1448	HOLD	4.0		To grasp or grip (particularly with the hand) so that the object does not end up at the surface below.	पकड़ना		握住	လက်၌ကိုင်ထားရန်		
+1591	hole..general	hole (general)	hole	ʜᴏʟᴇ	1667	HOLE	4.0		A hollow place in a solid body or surface.	छेद		洞	အပေါက်		
+1599	honey	honey	honey	ʜᴏɴᴇʏ	942	HONEY	2.0		A viscous, sweet substance produced from nectar or honeydew by bees.	शहद		蜜糖	ပျားရည်		
+1602	hook	hook	hook	ʜᴏᴏᴋ	1071	HOOK	4.0		A rod bent into a curved shape, for catching, holding, or sustaining anything.	कांटा		钩子	ချိတ်		
+1604	horizon	horizon	horizon	ʜᴏʀɪᴢᴏɴ	2287	HORIZON	4.0		The apparent line that separates earth from sky, the line that divides all visible directions into two categories: those that intersect the Earth's surface, and those that do not.	क्षितिज		地平线	မိုးကုပ်စက်ဝိုင်း		
+1607	horn..of.animal	horn (of animal)	horn	ʜᴏʀɴ	1393	HORN (ANATOMY)	1.0	body parts	A hard growth of keratin that protrudes from the top of the head of certain animals.	सींग		角	ဦးချို		
+1608	hornbill:great	great hornbill	great.hornbill	ɢʀᴇᴀᴛ.ʜᴏʀɴʙɪʟʟ	–	–	4.0	fauna	Buceros bicornis, the large varieties of hornbill common to the region.	बड़ा बेंटेली		大犀鸟	ငှက်ကြီး၊		
+1609	hornbill:small	small hornbill	small.hornbill	ꜱᴍᴀʟʟ.ʜᴏʀɴʙɪʟʟ	–	–	4.0	fauna	Smaller varieties of hornbill.	मिट्टी		泥土	မြေဆီလွှာ		
+1610	hornbill..general	hornbill (general)	hornbill	ʜᴏʀɴʙɪʟʟ	3260	HORNBILL	2.0	fauna	A bird characterized by a long, down-curved, and frequently colored beak.	बेंटेली		犀鸟	ငှက်ငယ်		
+1611	horse	horse	horse	ʜᴏʀꜱᴇ	615	HORSE	2.0	fauna	A large animal with four legs of the Equus caballus species which people ride on or use for carrying things or pulling vehicles.	घोड़ा		马	မြင်း		
+1616	hot:to.be	to be hot	hot	ʜᴏᴛ	1286	HOT	2.0		Having, giving off, or producing a high degree of heat.						
+1619	hot..of.weather:to.be	to be hot (of weather)	hot	ʜᴏᴛ	3693	HOT WEATHER	4.0		A period of unusually high temperatures.	गर्म होना  मौसम का		炎热	ရာသီဥတုပူ၊		
+1620	house	house	house	ʜᴏᴜꜱᴇ	1252	HOUSE	1.0		A building for human habitation, especially one that is lived in by a family or small group of people.	घर		房子	အိမ်		
+1621	housefly..common	housefly (common)	housefly	ʜᴏᴜꜱᴇꜰʟʏ	1504	FLY (INSECT)	3.0	fauna	A common insect; any species of insect of the order Diptera.	मक्खी		家蝇	ယင်ကောင်		
+1625	hummingbird	hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ			2.0								
+1627	hungry:to.be	to be hungry	hungry	ʜᴜɴɢʀʏ	1533	BE HUNGRY	2.0		To be in need of food.	भूख लगना		饥饿	ဆာလောင်မှုကိုခံစားရရန်		
+1628	hunt:to	to hunt	hunt	ʜᴜɴᴛ	1435	HUNT	2.0		To chase down prey and (usually) kill it.	शिकार करना		狩猎	အမဲလိုက်ရန်		
+1633	husband	husband	husband	ʜᴜꜱʙᴀɴᴅ	1200	HUSBAND	4.0		The male partner in a marriage.	पति		丈夫	ခင်ပွန်း		
+1635	ice	ice	ice	ɪᴄᴇ			4.0								
+1638	ignite..vt:to	to ignite (vt)	ignite	ɪɢɴɪᴛᴇ	737	LIGHT (IGNITE)	3.0		To start a fire or light a flame.	जलना		点燃	မီးလောင်ရန်		
+1639	ill..sick:to.be	to be ill (sick)	ill	ɪʟʟ	1847	SICK	2.0		To be in poor health, suffering from a physical or mental condition that causes discomfort or pain.	बीमार होना		生病	နေမကောင်းဖြစ်ခြင်း။		
+1649	in.front.of:to.be	to be in front of	in.front.of	ɪɴ.ꜰʀᴏɴᴛ.ᴏꜰ	1883	IN FRONT OF	4.0		To be situated or placed before or ahead of.	सामने		在...前面	ရှေ့တွင်		
+1657	infection	infection	infection	ɪɴꜰᴇᴄᴛɪᴏɴ			4.0								
+1669	insect	insect	insect	ɪɴꜱᴇᴄᴛ	620	INSECT	2.0	fauna	A class of the Arthropoda typically having a segmented body with an external chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.	कीट		昆虫	ပိုးမွှား		
+1670	insect.:beetle	beetle	beetle	ʙᴇᴇᴛʟᴇ	2242	BEETLE	4.0	fauna	A group of insects which are biologically classified in the order Coleoptera /koʊliːˈɒptərə/.						
+1674	instrument:to.play	to play instrument	play.instrument	ᴘʟᴀʏ.ɪɴꜱᴛʀᴜᴍᴇɴᴛ	3124	PLAY (INSTRUMENT)	4.0		Execute coordinated movements on or with a musical instrument to produce sounds.	संगीत बजाना		演奏音乐	သီချင်းဖွင့်ရန်		
+1680	intestines	intestines	intestines	ɪɴᴛᴇꜱᴛɪɴᴇꜱ	1991	INTESTINES	2.0	body parts	The alimentary canal of an animal or human through which food passes after having passed all stomachs.	अंतःशोषक		肠子	အူ		
+1682	iron	iron	iron	ɪʀᴏɴ	621	IRON	1.0		A malleable ductile silvery-white ferromagnetic metallic element with symbol Fe and atomic number 26, occurring principally in haematite and magnetite. It is widely used for structural and engineering purposes.	लोहा		铁	သံ		
+1683	island	island	island	ɪꜱʟᴀɴᴅ	622	ISLAND	4.0		A land mass, especially one smaller than a continent, entirely surrounded by water.	द्वीप		岛屿	ကျွန်း		
+1684	itchy:to.be	to be itchy	itchy	ɪᴛᴄʜʏ	149	ITCHY	2.0		Having a sensation that provokes the need to scratch.	खुजली होना		痒	ယားတယ်။		
+1685	jackal	jackal	jackal	ᴊᴀᴄᴋᴀʟ	3313	JACKAL	4.0	fauna	A wild dog-like animal of the Canis genus home to parts of Asia and Africa.	सियार		豺狼	မြေခွေး		
+1688	jaw:.bone	jaw	jaw	ᴊᴀᴡ	798	JAW	3.0	body parts	Either of the two opposable structures forming, or near the entrance to, the mouth.	जबड़ा		下巴	မေးရိုး		
+1692	joint..skeletal	joint (skeletal)	joint	ᴊᴏɪɴᴛ	999	JOINT	2.0	body parts	The point where two bones meet, allowing movement and flexibility.	जोड़		关节	ခန္ဓာကိုယ်၏အဆစ်		
+1696	jug	jug	jug	ᴊᴜɢ	270	JUG	4.0		A container for holding and pouring liquids with a handle and a spout.	जग		壶	အိုး သို့မဟုတ် အိုး		
+1697	juice	juice	juice	ᴊᴜɪᴄᴇ	1499	JUICE	2.0		The liquid that is produced by squeezing or crushing fruits or vegetables.	रस		果汁	ဖျော်ရည်		
+1698	jump:to	to jump	jump	ᴊᴜᴍᴘ	1829	JUMP	4.0		To propel oneself rapidly upward such that momentum causes the body to become airborne.	कूदना		跳	ခုန်ရန်		
+1699	jungle	jungle	jungle	ᴊᴜɴɢʟᴇ	3808	JUNGLE	2.0		Unmaintained wild forest or shrubland which has not im a state of cultivation. This can be part of old growth forest or the quickly speading vegetation which has taken over a fallow field.	मिट्टी		土壤	မြေဆီလွှာ		
+1700	jungle:dense	dense jungle	dense.jungle	ᴅᴇɴꜱᴇ.ᴊᴜɴɢʟᴇ			4.0								
+1702	jute..plant/fibre	jute (plant/fibre)	jute	ᴊᴜᴛᴇ	–	–	4.0	flora	A plant native to Asia used for its fiber, which is commonly used to make rope and burlap.	जूट		黄麻	ဂုန်လျှော်ပင်		
+1703	kapok	kapok	kapok	ᴋᴀᴘᴏᴋ	2499	KAPOK TREE	4.0	flora	Either the Bombax ceiba (tree with red flowers), or the Calotropis procera, or the Ceiba pentandra.	सेमल		棉花	ခေါက်ရိုး		
+1704	keep:to	to keep	keep	ᴋᴇᴇᴘ	1477	KEEP	4.0		To retain possession of something.	रखना		保留	ထိန်းသိမ်းရန်၊ ထိန်းသိမ်းရန်		
+1707	kick..and.propel:to	to kick (and propel)	kick	ᴋɪᴄᴋ	1135	KICK	4.0		To kick something so as to propel it.	किक		踢	ကန်ဖို့		
+1709	kick..stationary.item:to	to kick (stationary item)	kick	ᴋɪᴄᴋ	1135	KICK	2.0		To strike something stationary with the foot.	लात मारना		踢	ကန်ဖို့		
+1713	kill:to	to kill	kill	ᴋɪʟʟ	1417	KILL	2.0		To put to death; to end a life.	मारना		杀	သတ်ရန်		
+1719	kiss:to	to kiss	kiss	ᴋɪꜱꜱ			2.0								
+1722	kneel:to	to kneel	kneel	ᴋɴᴇᴇʟ	66	KNEEL	4.0		To go down on one or both knees.	घुटने टेकना		跪	ဒူးထောက်ရန်		
+1723	knife	knife	knife	ᴋɴɪꜰᴇ	1352	KNIFE	2.0		A utensil consisting of a sharpened piece of hard material such as steel or other metal, ceramic, glass or stone, usually attached to a handle, that is formed in a manner that allows for cutting softer materials, especially meat or other food.	चाकू		刀	ဓား		
+1724	knife:edge.of	edge of knife	edge.of.knife	ᴇᴅɢᴇ.ᴏꜰ.ᴋɴɪꜰᴇ	–	–	4.0		The sharp cutting edge of a knife.	चाकू का काटना		刀刃	ဓားတစ်ချောင်း		
+1729	know..how:to	to know (how)	know	ᴋɴᴏᴡ	2238	KNOW HOW	4.0		To be able to do something which requires or could require that one would learn it before.	कुछ करने का ज्ञान होना		会	တစ်ခုခုလုပ်နည်းသိရန်		
+1730	know..someone:to	to know (someone)	know	ᴋɴᴏᴡ	2248	KNOW (SOMEBODY)	4.0		To be familiar with a person, primarily through having previously met them face to face.	कुछ जानना		知道	တစ်ခုခုသိဖို့		
+1731	know..something:to	to know (something)	know	ᴋɴᴏᴡ	1410	KNOW (SOMETHING)	2.0		To have knowledge or comprehension of something through learning or experience.	कुछ समझना		理解	တစ်ခုခုကိုနားလည်ရန်		
+1733	kochu..taro	kochu (taro)	kochu	ᴋᴏᴄʜᴜ	351	TARO	3.0		A starchy root vegetable commonly used in cooking. This should be distinguished from other starchy roots used as a foodstuff.	अरबी		芋头	ပိန်းဥ		
+1736	lack:to	to lack	lack	ʟᴀᴄᴋ	2329	LACK (NOT HAVE)	4.0		To lack something or to describe the state when something is not there.	कुछ अभाव होना		缺乏	တစ်ခုခုချို့တဲ့ဖို့		
+1737	ladder..stairs	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	2689	LADDER OR STAIRS	2.0		A series of steps or stairs that allow a person to move from one level or floor to another. This is meant primarily as the traditional log ladders, but this may differ based on differences in house construction practices.	सीढ़ियाँ		阶梯	လှေကားထစ်များ၊		
+1739	lake	lake	lake	ʟᴀᴋᴇ	624	LAKE	2.0		An enclosed body of water, usually but not necessarily fresh water, from which the sea is excluded.	झील		湖泊	ရေကန်		
+1741	land..area	land (area)	land	ʟᴀɴᴅ	626	LAND	4.0		An area of ground or soil, especially in a particular context or for a particular purpose.	भूमि		土地	မြေဧရိယာ၊		
+1742	language	language	language	ʟᴀɴɢᴜᴀɢᴇ	1307	LANGUAGE	1.0		A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	भाषा		语言	ဘာသာစကား		
+1746	late:to.be	to be late	late	ʟᴀᴛᴇ	477	LATE	3.0		Occurring or arriving after the expected or usual time, or toward the end of a time period.	शाम होना		傍晚	နေ့ဘက်နောက်ကျမည်။		
+1748	laugh:to	to laugh	laugh	ʟᴀᴜɢʜ	1355	LAUGH	2.0		To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.	हंसना		笑	ရယ်ဖို့		
+1752	layer	layer	layer	ʟᴀʏᴇʀ	–	–	4.0		A thin sheet, film, or coating of material, cloth or soil. Any horizontally oriented layer distinct from others.	तह		层	တစ်ခုခု၏အလွှာ		
+1753	lazy:to.be	to be lazy	lazy	ʟᴀᴢʏ	1564	LAZY	4.0		Unwilling to do work or make an effort.	आलसी होना		懒	ပျင်းဖို့ကောင်းတယ်။		
+1757	leaf..tree	leaf (tree)	leaf	ʟᴇᴀꜰ	628	LEAF	2.0	flora	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	पत्ता		叶子	အရွက်		
+1760	lean..not.fat:to.be	to be lean (not fat)	lean	ʟᴇᴀɴ	1400	THIN (SLIM)	3.0		Carrying little fat (of people).	पतला होना		瘦	ပိန်ဖို့၊ ပိန်တယ်။		
+1761	learn:to	to learn	learn	ʟᴇᴀʀɴ	504	LEARN	4.0		To acquire, or attempt to acquire knowledge or an ability to do something.	सीखना		学	သင်ယူရန်		
+1762	leather	leather	leather	ʟᴇᴀᴛʜᴇʀ	629	LEATHER	4.0		The dressed or tanned hide of an animal, usually with the hair removed.	चमड़ा		皮革	သားရေ		
+1765	leech:terrestrial	terrestrial leech	terrestrial.leech	ᴛᴇʀʀᴇꜱᴛʀɪᴀʟ.ʟᴇᴇᴄʜ	2273	LEECH	1.0	fauna	Segmented worms that belong to the phylum Annelida and comprise the subclass Hirudinea.	ज़मीनी जुएँ		陆寄生	ကုန်းနေ မျှော့		
+1766	leech:water	water leech	water.leech	ᴡᴀᴛᴇʀ.ʟᴇᴇᴄʜ	949	WATER LEECH	2.0	fauna	A worm-like creature that lives in water and sucks blood from animals.	जल जुएँ		水蛭	ရေမျှော့		
+1767	left.side	left side	left.side	ʟᴇꜰᴛ.ꜱɪᴅᴇ	244	LEFT	2.0		The side of the body to the west when facing north.	बाएं तरफ		左侧	ဘယ်ဘက်		
+1769	leg.:ankle	ankle	ankle	ᴀɴᴋʟᴇ	803	ANKLE	3.0	body parts	A joint formed where the foot and the leg meet.	टखना	পা তল	脚踝	ခြေချင်းဝတ်		
+1770	leg.:calf	calf	calf	ᴄᴀʟꜰ	498	CALF OF LEG	4.0	body parts	The fleshy backside of the lower part of the leg.	टखना		小腿	ခြေသလုံး၏ခြေသလုံး		
+1771	leg.:foot	foot	foot	ꜰᴏᴏᴛ	1301	FOOT	1.0	body parts	The part of a human’s body below the ankle that is used in order to stand and walk.	पैर		脚	ခြေ		
+1772	leg.:knee	knee	knee	ᴋɴᴇᴇ	1371	KNEE	3.0	body parts	The joint between the thigh and the lower leg in humans.	घुटना		膝盖	ဒူး		
+1773	leg.:knee.pit	knee pit	knee.pit	ᴋɴᴇᴇ.ᴘɪᴛ	–	–	4.0	body parts	The hollow or depression at the back of the knee.	घुटने की पीठ		膝弯	ဒူး၏နောက်ဘက်		
+1774	leg.:shin	shin	shin	ꜱʜɪɴ	186	SHIN	4.0	body parts	The front part of the leg below the knee.	टांग की सामुद्रिक भाग		小腿	shin		
+1775	leg.:thigh	thigh	thigh	ᴛʜɪɢʜ	800	THIGH	4.0	body parts	The area of the leg between the hip and the knee.	जांघ		大腿	ပေါင်		
+1784	level:to.be	to be level	level	ʟᴇᴠᴇʟ	–	–	4.0		To lack any discernable slope or incline, running perpendicular to the pull of gravity.	समान		平坦	အဆင့်၊		different from CONCEPTICON
+1788	lick:to	to lick	lick	ʟɪᴄᴋ	319	LICK	2.0		To pass the tongue over something in order to taste or wet it.	चाटना		舔	စို့ရန်		
+1789	lie..decieve:to	to lie (decieve)	lie	ʟɪᴇ	601	LIE (MISLEAD)	4.0		To knowingly say something that is untrue.	झूठ बोलना		撒谎	လိမ်ဖို့၊ လှည့်စားတယ်။		
+1790	lie.down:to	to lie down	lie.down	ʟɪᴇ.ᴅᴏᴡɴ	215	LIE DOWN	2.0		(For a human or animal) to assume a horizontally extended position on a surface.	लेट जाना		躺下	အိပ်ရန်		
+1792	life..lifetime	life (lifetime)	life	ʟɪꜰᴇ	210	LIFE	2.0		The time between birth or conception and death.	जीवन		生命	ဘဝ		
+1793	lift:to	to lift	lift	ʟɪꜰᴛ	501	LIFT	4.0		To cause an object to have a higher location than previously.	उठाना		举	လွှင့်တင်ရန်		
+1796	lightning..in.sky	lightning (in sky)	lightning	ʟɪɢʜᴛɴɪɴɢ	1654	LIGHTNING	2.0		The flash of light caused by the discharge of atmospheric electrical charge.	बिजली		闪电	လျှပ်စီးကြောင်း		
+1798	lightweight:to.be	to be lightweight	lightweight	ʟɪɢʜᴛᴡᴇɪɢʜᴛ	1052	LIGHT (WEIGHT)	1.0		With a small mass, little weight or density; the opposite of heavy.	हल्का होना		轻巧	ပေါ့ပါးစေရန်		
+1799	lime..betelnut	lime (betelnut)	lime	ʟɪᴍᴇ	2540	LIME (MATERIAL)	4.0		A calcium-containing inorganic material in which carbonates, oxides and hydroxides predominate.	चूना		石灰	သံပုရာသီး (ပစ္စည်း)		
+1802	lip..of.mouth	lip (of mouth)	lip	ʟɪᴘ	478	LIP	2.0		Either of the two fleshy protrusions around the opening of the mouth.	होंठ		嘴唇	နှုတ်ခမ်း		
+1803	liquid	liquid	liquid	ʟɪꞯᴜɪᴅ	58	LIQUID	4.0		A substance that flows freely but is of constant volume, having a consistency like that of water or oil.	तरल		液体	အရည်		
+1804	listen:to	to listen	listen	ʟɪꜱᴛᴇɴ	1608	LISTEN	2.0		To perceive with the ear (paying attention to what is heard).						
+1805	liver	liver	liver	ʟɪᴠᴇʀ	1224	LIVER	2.0	body parts	A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. Responsible for thousands of biochemical reactions.	जिगर		肝脏	အသည်း		
+1807	lizard:monitor	monitor lizard	monitor.lizard	ᴍᴏɴɪᴛᴏʀ.ʟɪᴢᴀʀᴅ	3017	MONITOR LIZARD	4.0	fauna	A large, carnivorous lizard of the family Varanidae, native to Asia and Africa.	गोह		霸王龙	မျောက်တွေကို စောင့်ကြည့်ပါ။		
+1810	lizard..general	lizard (general)	lizard	ʟɪᴢᴀʀᴅ	632	LIZARD	4.0	fauna	Any reptile of the suborder Lacertilia, especially those of the family Lacertidae, typically having an elongated body, four limbs, and a small tail: includes the gechos, iguanas, chameleons, monitors, and slow worms.	छिपकली		蜥蜴	အိမ်မြှောင်		
+1814	locust	locust	locust	ʟᴏᴄᴜꜱᴛ	810	LOCUST	4.0	fauna	Migratory grasshoppers of the order Orthoptera of warm regions having short antennae.	टिड्डी		蝗虫	ကျိုင်းကောင်		
+1815	log	log	log	ʟᴏɢ	–	–	4.0		A length of a thick, heavy, and durable piece of timber, especially one that has fallen or been cut from a tree.	लॉग		圆木	မှတ်တမ်း		
+1818	long:to.be	to be long	long	ʟᴏɴɢ	1203	LONG	2.0		Having much distance from one terminating point on an object or an area to another terminating point.	लम्बा		长	ရှည်		
+1821	look.at:to	to look at	look.at	ʟᴏᴏᴋ.ᴀᴛ	1819	LOOK	4.0		To direct one's gaze in a specified direction.	कुछ देखना		看	တစ်ခုခုကိုကြည့်ဖို့		
+1822	look.for..seek:to	to look for (seek)	look.for	ʟᴏᴏᴋ.ꜰᴏʀ	1468	LOOK FOR	4.0		To try to find something or someone.	खोजना		寻找	ရှာရန်		
+1824	loom	loom	loom	ʟᴏᴏᴍ	1787	LOOM	2.0		A frame or machine (made of wood or other material) in which a weaver forms cloth out of thread; a machine for interweaving yarn or threads into a fabric.	तकिया		织布机	ရက်ကန်းစင်		
+1825	loose:to.be	to be loose	loose	ʟᴏᴏꜱᴇ	2506	LOOSE	4.0		Being not tight.	ढीला होना		松	ချောင်		
+1827	lose..something:to	to lose (something)	lose	ʟᴏꜱᴇ	1660	LOSE	3.0		To be unable to find something; To be deprived of something which one once had.	हारना		丢失	ဆုံးရှုံးရန်		
+1828	lost:to.be	to be lost	lost	ʟᴏꜱᴛ	3667	LOST	3.0		Not knowing where you are and unable to find the way.						
+1829	loud:to.be	to be loud	loud	ʟᴏᴜᴅ	377	LOUD	4.0		(Of a sound) to have a high volume.	उच्छ्रण होना		大声	အသံကျယ်ဖို့		
+1830	louse	louse	louse	ʟᴏᴜꜱᴇ	1392	LOUSE	2.0	fauna	A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.	जूं		虱子	ကြွက်		
+1831	love:to	to love	love	ʟᴏᴠᴇ	923	LOVE	2.0		To have an intense feeling of affection and care towards another person.	प्यार करना		爱	ချစ်ဖို့		
+1836	lung..single	lung (single)	lung	ʟᴜɴɢ	688	LUNG	4.0		A biological organ that extracts oxygen from the air.	फेफड़ा		肺	အဆုတ်		
+1838	machete..dao	machete (dao)	machete	ᴍᴀᴄʜᴇᴛᴇ	2680	MACHETE	2.0		A large, heavy knife used for cutting through thick vegetation or used as a weapon. This concept should refer to the most typical cutting implement, known as the Dao or Dha in contact languages, which is widely carried, and not one of the various alternate forms used for chopping wood or other tasks.	तलवार		砍刀	ဓားခုတ်		
+1850	man:old	old man	old.man	ᴏʟᴅ.ᴍᴀɴ	406	OLD MAN	4.0		A male person who is old of age.	बुजुर्ग		老人	အဘိုးကြီး		
+1851	man..male.person	man (male person)	man	ᴍᴀɴ	1554	MAN	2.0		An adult human male.	मनुष्य		男人	လူ		
+1852	mango	mango	mango	ᴍᴀɴɢᴏ	2398	MANGO	4.0	flora	A sweet tropical fruit with a soft yellowish-red skin and juicy yellow flesh.	आम		芒果	သရက်သီး		
+1854	many:to.be	to be many	many	ᴍᴀɴʏ	1198	MANY	3.0		An indefinite large number of.	बहुत		许多	အများကြီး		
+1857	mark..something:to	to mark (something)	mark	ᴍᴀʀᴋ	–	–	4.0		To make a visible impression or trace on something, to indicate or show something.	निशान लगाना		标记	အမှတ်အသားလုပ်ဖို့		
+1858	market	market	market	ᴍᴀʀᴋᴇᴛ	633	MARKET	3.0		Place of commercial activity in which articles are bought and sold.	बाजार		市场	စျေးကွက်		
+1860	marry:to	to marry	marry	ᴍᴀʀʀʏ	203	MARRY	4.0		To enter marriage; to take a husband or a wife.	शादीशुदा होना		结婚	လက်ထပ်ရန်		
+1867	mat	mat	mat	ᴍᴀᴛ	195	MAT	2.0		A flat object laid on the floor to protect a person from the hard floor. Typically woven from cane, bamboo or fibers.	चटाई		席子	ဖျာ		
+1869	match..stick	match (stick)	match	ᴍᴀᴛᴄʜ	1133	MATCH	4.0		A stick with inflammable substance on one end that can be set on fire by friction.	माचिस		火柴	ပွဲစဉ်တစ်ခု		
+1878	meat..flesh	meat (flesh)	meat	ᴍᴇᴀᴛ	634	MEAT	2.0		The edible flesh of animals, especially that of mammals.	मांस		肉	အသား		
+1880	medicine	medicine	medicine	ᴍᴇᴅɪᴄɪɴᴇ	1372	MEDICINE	2.0		A substance or preparation used for the treatment or prevention of disease, or for maintaining or restoring health.	दवा		药	ဆေးဝါး		
+1882	meet..someone:to	to meet (someone)	meet	ᴍᴇᴇᴛ	1831	MEET	4.0		To encounter a person, either intentionally or by chance.	मिलना		见面	တွေ့ဖို့		
+1886	mend:to	to mend	mend	ᴍᴇɴᴅ	2243	REPAIR	4.0		To restore something by replacing a broken part or putting together what is broken.	ठीक करना		修理	ပြုပြင်ရန် သို့မဟုတ် ပြုပြင်ရန်		
+1888	menstruation	menstruation	menstruation	ᴍᴇɴꜱᴛʀᴜᴀᴛɪᴏɴ			3.0								
+1891	metal	metal	metal	ᴍᴇᴛᴀʟ	2244	METAL	4.0		A material (an element, compound, or alloy) that is typically hard, opaque, shiny, and has good electrical and thermal conductivity.	धातु		金属	သတ္တု		
+1893	midway	midway	midway	ᴍɪᴅᴡᴀʏ	–	–	4.0		Being half the distance to something or between two things.						
+1897	milk	milk	milk	ᴍɪʟᴋ	635	MILK	2.0		The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	दूध		牛奶	နို့		
+1899	mill	mill	mill	ᴍɪʟʟ	636	MILL	4.0		A machine used for grinding grains into flour.	आटा चक्की		磨坊	စပါးကြိတ်		
+1900	millet:finger	finger millet	finger.millet	ꜰɪɴɢᴇʀ.ᴍɪʟʟᴇᴛ	3265	FINGER MILLET	4.0	flora	Eleusine coracana, a herbaceous plant characteristic for the hability to withstand cultivation at high altitudes.						
+1901	millet:foxtail	foxtail millet	foxtail.millet	ꜰᴏxᴛᴀɪʟ.ᴍɪʟʟᴇᴛ	3266	FOXTAIL MILLET	4.0	flora	Staria italica, an annual grass grown for human food and related to (broomcorn) millet.						
+1902	millet..general	millet (general)	millet	ᴍɪʟʟᴇᴛ	931	MILLET	4.0	flora	A group of small-seeded species of cereal crops, widely grown around the world for food and fodder.	बाजरा		小米	ပြောင်းဆန်		
+1911	mistake:to.make	to make mistake	make.mistake	ᴍᴀᴋᴇ.ᴍɪꜱᴛᴀᴋᴇ	1293	MISTAKE	4.0		To do something incorrectly or inaccurately.	गलती करना		犯错误	အမှားလုပ်ရန်		
+1912	mix:to	to mix	mix	ᴍɪx			3.0								
+1917	money	money	money	ᴍᴏɴᴇʏ	1559	MONEY	4.0		A medium of exchange in the form of coins, banknotes, or digital currency.	पैसा		钱	ပိုက်ဆံ		
+1920	monkey	monkey	monkey	ᴍᴏɴᴋᴇʏ	1350	MONKEY	2.0	fauna	A mammal with a long tail, a small face, and usually hands and feet adapted for grasping and climbing.	बंदर		猴子	မျောက်		
+1921	monkey.:gibbon	gibbon	gibbon	ɢɪʙʙᴏɴ	2511	GIBBON	3.0	fauna	Apes in the family Hylobatidae.	गिबन		长臂猿	မျောက်လွှဲကျော်		
+1922	monkey.:langur	langur	langur	ʟᴀɴɢᴜʀ	–	–	4.0	fauna	A type of long-tailed monkey found in South and Southeast Asia.	लंगुर		叶猴	langur		
+1924	month	month	month	ᴍᴏɴᴛʜ	1370	MONTH	2.0		A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.	माह		月份	လ		
+1925	moon	moon	moon	ᴍᴏᴏɴ	1313	MOON	1.0		A natural satellite of a planet.	चांद		月亮	လ		
+1926	moon:full	full moon	full.moon	ꜰᴜʟʟ.ᴍᴏᴏɴ	3690	FULL MOON	3.0		The lunar phase when the moon is fully illuminated by the sun and appears in the sky as a full circle.	पूर्णिमा		满月	လပြည့်		
+1927	moon:half	half moon	half.moon	ʜᴀʟꜰ.ᴍᴏᴏɴ	–	–	4.0		The phase of the moon in which it is equally illuminated and in shadow, halfway between a new moon and full moon.	पृथ्वी		地球	ကမ္ဘာဂြိုဟ်		
+1928	moon:new	new moon	new.moon	ɴᴇᴡ.ᴍᴏᴏɴ	3691	NEW MOON	3.0		The lunar phase when the moon appears in the sky as a slender crescent shortly after its conjunction with the sun.	जमीन		地面	မြေပြင်		
+1930	morning	morning	morning	ᴍᴏʀɴɪɴɢ	1339	MORNING	3.0		The period of time from the start of the day (midnight) until midday (12:00).	सुबह		早上	မနက်ခင်း		
+1931	mortar	mortar	mortar	ᴍᴏʀᴛᴀʀ	224	MORTAR	4.0		A bowl used to crush and grind ingredients with a pestle.	मोर्टार		研钵	ငရုတ်ဆုံ		
+1934	morung..dormitory	morung (dormitory)	morung	ᴍᴏʀᴜɴɢ			3.0								
+1935	mosquito	mosquito	mosquito	ᴍᴏꜱꞯᴜɪᴛᴏ	1509	MOSQUITO	3.0	fauna	A small flying insect (of the family Culicidae) known for biting and sucking blood.	मच्छर		蚊子	ခြင်		
+1936	moth	moth	moth	ᴍᴏᴛʜ	2828	MOTH	4.0	fauna	Group of insects related to butterflies.	तितली		蛾子	ပိုးဖလံ		
+1937	mother	mother	mother	ᴍᴏᴛʜᴇʀ	1216	MOTHER	1.0		A woman who has at least one child.	मां		母亲	အမေ		
+1943	mountain	mountain	mountain	ᴍᴏᴜɴᴛᴀɪɴ	639	MOUNTAIN	1.0		A feature of the earth's surface that rises high above the base and has generally steep slopes and a relatively small summit area.	पर्वत		山	တောင်		
+1944	mountain:foot.of	foot of mountain	foot.of.mountain	ꜰᴏᴏᴛ.ᴏꜰ.ᴍᴏᴜɴᴛᴀɪɴ	2122	MOUNTAIN FOOT	4.0		Lower part in front of a mountain, before the mountain begins.	पहाड़ के पैर		山脚	တောင်ခြေရင်း		
+1945	mountain.:cliff	cliff	cliff	ᴄʟɪꜰꜰ	992	CLIFF	4.0		A steep coastal declivity which may or may not be precipitous, the slope angle being dependent partly on the jointing, bedding and hardness of the materials from which the cliff has been formed, and partly on the erosional processes at work.(Source: WHIT)	उच्चखंड		悬崖	ချောက်ကမ်းပါး		
+1946	mountain.:foothills	foothills	foothills	ꜰᴏᴏᴛʜɪʟʟꜱ	–	–	4.0		The uneven lowlands between the plains and the mountains.	पहाड़ियों के पादुका		丘陵	တောင်ခြေ		
+1947	mountain.:slope	slope	slope	ꜱʟᴏᴘᴇ	3297	PRECIPICE OR SLOPE	4.0		A very steep decline, typically found in the mountains or on shores, or a stretch of ground forming a geological incline, e.g. a hillside.	ढलान		坡	မြေပြင်၏စောင်း		
+1948	mountain.peak..summit	mountain peak (summit)	mountain.peak	ᴍᴏᴜɴᴛᴀɪɴ.ᴘᴇᴀᴋ	2205	PEAK	4.0		The highest point on top of a mountain or hill.	पहाड़ की चोटी		山顶	တောင်ထိပ်		
+1949	mountain.range	mountain range	mountain.range	ᴍᴏᴜɴᴛᴀɪɴ.ʀᴀɴɢᴇ	–	–	4.0		A series of mountains or hills, often connected by high ground.	पर्वत श्रृंखला		山脉	တောင်တန်း		
+1950	mountain.ridge	mountain ridge	mountain.ridge	ᴍᴏᴜɴᴛᴀɪɴ.ʀɪᴅɢᴇ	2123	MOUNTAIN RIDGE	4.0		A geological feature consisting of a chain of mountains or hills that form a continuous elevated crest for some distance.	पहाड़ की ऊँची ढलान		山脊	တောင်ကြော		
+1951	mourn:to	to mourn	mourn	ᴍᴏᴜʀɴ			2.0								
+1952	mouse	mouse	mouse	ᴍᴏᴜꜱᴇ	1491	MOUSE	4.0	fauna	Any of numerous small rodents of the genus ''mus'' or various related genera of the ''Muridæ'' family characterised by a long hairless tail, rounded ears, and a pointed nose.						
+1953	mouth	mouth	mouth	ᴍᴏᴜᴛʜ	674	MOUTH	2.0	body parts	Opening in the lower half of a human face which is used for food ingestion and articulation.	मुंह		嘴巴	ပါးစပ်		
+1959	mud	mud	mud	ᴍᴜᴅ	640	MUD	4.0		A soft, wet, sticky mixture of soil and water, such as is formed after the rain.	कीचड़		泥土	ရွှံ့		
+1962	muroid	muroid	muroid	ᴍᴜʀᴏɪᴅ	2139	MUROID (MOUSE OR RAT)	2.0	fauna	A large superfamily of rodents, including hamsters, gerbils, true mice and rats, and many other relatives.	जंगली चूहा		啮齿类动物	ကြွက်၊အထွေထွေအသုံးအနှုန်း		
+1963	muscle	muscle	muscle	ᴍᴜꜱᴄʟᴇ	1004	MUSCLE	4.0	body parts	An organ formed by contractile tissue that moves other organs.	मांसपेशी		肌肉	ကြွက်သား		
+1965	mushroom..ground.type	mushroom (ground type)	mushroom	ᴍᴜꜱʜʀᴏᴏᴍ	–	–	2.0		A type of mushroom that grows in the soil, rather than on trees.	भूमधुमक		野菌	ကုန်းနေမှို		
+1966	mushroom..tree.type	mushroom (tree type)	mushroom	ᴍᴜꜱʜʀᴏᴏᴍ	–	–	2.0		A type of mushroom that grows on or near trees, and often has a stalk and cap.	बरगद का छत्ता		树菌	သစ်ပင်မှို		
+1971	mustard.seed	mustard seed	mustard.seed	ᴍᴜꜱᴛᴀʀᴅ.ꜱᴇᴇᴅ	–	–	4.0	flora	Brassica juncea. A plant whose seeds are used to make a spice, oil or condiment. Most commonly used for oil production.	सरसों		芥末	မုန်ညင်း		CONCEPTICON refers to the sauce, not the seed or plant
+1973	myna:crested	crested myna	crested.myna	ᴄʀᴇꜱᴛᴇᴅ.ᴍʏɴᴀ	2346	CRESTED MYNA	4.0	fauna	A species of starling native to southeastern China and Indochina.						
+1974	myna..common	myna (common)	myna	ᴍʏɴᴀ	–	–	4.0	fauna	A type of bird known for its ability to mimic sounds and speech.	मैना		八哥	myna ငှက်		missing from CONCEPTICON
+1976	nail	nail	nail	ɴᴀɪʟ	3306	NAIL	2.0		A small, thin piece of metal or other material used to fasten objects together.	नाखून		指甲	လက်သည်း		
+1977	naked:to.be	to be naked	naked	ɴᴀᴋᴇᴅ	590	NAKED	4.0		Without clothing.	नंगा होना		裸露	အဝတ်အချည်းစည်းဖြစ်		
+1978	name	name	name	ɴᴀᴍᴇ	1405	NAME	2.0		Any word or phrase which designates a particular person, place, class or thing.	नाम		名字	နာမည်		
+1980	narrow:to.be	to be narrow	narrow	ɴᴀʀʀᴏᴡ	1267	NARROW	3.0		Not wide, having little width or space between two sides or edges.	संकुचित होना		狭窄	ကျဉ်းမြောင်းသည်။		
+1983	navel	navel	navel	ɴᴀᴠᴇʟ	1838	NAVEL	2.0	body parts	A scar where the umbilical cord was attached.	नाभि		肚脐	လည်ပင်း		
+1984	near:to.be	to be near	near	ɴᴇᴀʀ	1942	NEAR	2.0		Not far distant in time or space or degree or circumstances.	पास होना		接近	နီးဖို့၊		
+1986	neck	neck	neck	ɴᴇᴄᴋ	1333	NECK	1.0	body parts	The part of the body (found in some animals, including humans) that connects the head and the trunk.	गला	ঘাল	脖子	လည်ပင်း		
+1988	neck:nape.of	nape of neck	nape.of.neck	ɴᴀᴘᴇ.ᴏꜰ.ɴᴇᴄᴋ	1347	NAPE (OF NECK)	4.0	body parts	The back part of the neck.	गरदन की नाप	ঘাল নাক	颈项	လည်ပင်း၏လည်ကုပ်		
+1989	neck..thyroid.area	neck (thyroid area)	neck	ɴᴇᴄᴋ	–	–	4.0	body parts	The part of the neck where the thyroid gland is located.	थाइरॉइड क्षेत्र	ঘাল থাই্ৰইড এলাকা	甲状腺	လည်ပင်းသိုင်းရွိုက်ဧရိယာ		
+1990	necklace	necklace	necklace	ɴᴇᴄᴋʟᴀᴄᴇ	1961	NECKLACE	3.0		An article of jewelry that is worn around the neck.	हार		项链	လည်ဆွဲ		
+1992	needle	needle	needle	ɴᴇᴇᴅʟᴇ	1382	NEEDLE (FOR SEWING)	2.0		A thin, sharp implement used in sewing, knitting and acupuncture.	सुई		针	အပ်		
+1994	neighbour	neighbour	neighbour	ɴᴇɪɢʜʙᴏᴜʀ	1332	NEIGHBOUR	4.0		A person living in a house that is adjacent or nearby another person's house.	पड़ोसी		邻居	အိမ်နီးချင်း		
+1997	nest:bird	bird nest	bird.nest	ʙɪʀᴅ.ɴᴇꜱᴛ	3549	BIRD NEST	3.0		A nest in which birds lay and hatch their eggs.						
+1998	net:fishing	fishing net	fishing.net	ꜰɪꜱʜɪɴɢ.ɴᴇᴛ	2963	NET	2.0		A piece of fabric or mesh made of threads, cords or ropes that are woven or knotted together with spaces between them, used for catching fish or other animals, or for protecting or separating things.	जाल		网	အသားတင်		
+2001	new:to.be	to be new	new	ɴᴇᴡ	1231	NEW	2.0		Recently made, created or begun.	नया होना		新	အသစ်ဖြစ်ရန်		
+2005	night	night	night	ɴɪɢʜᴛ	1233	NIGHT	2.0		The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.	रात का समय		晚上	ညအချိန်		
+2011	noisy..boisterous:to.be	to be noisy (boisterous)	noisy	ɴᴏɪꜱʏ	3883	NOISY	4.0		To make a lot of noise.	शोर मचाना		吵	ဆူညံနေပါစေ။		
+2012	noon..midday	noon (midday)	noon	ɴᴏᴏɴ	12	MIDDAY	2.0		Time of day when the sun is in its zenith.	दोपहर		中午	နေ့လယ်၊ နေ့လယ်		
+2013	north	north	north	ɴᴏʀᴛʜ	1598	NORTH	4.0		One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map.	उत्तर		北方	မြောက်ဘက်		
+2014	nose	nose	nose	ɴᴏꜱᴇ	1221	NOSE	1.0	body parts	The organ of the face used to breath and smell.	नाक		鼻子	နှာခေါင်း		
+2017	nostril	nostril	nostril	ɴᴏꜱᴛʀɪʟ	1178	NOSTRIL	4.0	body parts	Either of the two orifices located on the nose (or on the beak of a bird); used as a passage for air and other gases to travel the nasal passages.	नाक का छेद		鼻孔	နှာခေါင်းပေါက်		
+2031	occur..happen:to	to occur (happen)	occur	ᴏᴄᴄᴜʀ	248	HAPPEN	4.0		To take place, occur or come about.	होना		发生	ဖြစ်ပေါ်လာရန်၊		
+2034	offer..something:to	to offer (something)	offer	ᴏꜰꜰᴇʀ	–	–	4.0		To present or give something as a gift or sacrifice, or to propose or suggest something for consideration.	पेश करना		提供	ပူဇော်ရန်		
+2038	oil..substance	oil (substance)	oil	ᴏɪʟ	2556	OIL (HYDROPHOBIC LIQUID)	2.0		A liquid or semi-solid substance that is used for frying, sautéing, or baking food, or for greasing pans or grills.	तेल		油	ချက်ပြုတ်ရန်အတွက် ဆီ သို့မဟုတ် ဆီ		
+2042	old..of.people:to.be	to be old (of people)	old	ᴏʟᴅ	2112	OLD (AGED)	2.0		To have existed or been in use for a long time, having lived or existed for a long time.	पुराना होना		老	အသက်ကြီးရန်		Both CONCEPTICON forms refer to people, not things.
+2043	old..of.things:to.be	to be old (of things)	old	ᴏʟᴅ			4.0								
+2047	onion	onion	onion	ᴏɴɪᴏɴ	2366	ONION	4.0	flora	A vegetable and is the most widely cultivated species of the genus Allium.	प्याज		洋葱	ကြက်သွန်နီ		
+2049	open..something:to	to open (something)	open	ᴏᴘᴇɴ	1156	OPEN	4.0		To make the inside something accessible by moving an obstacle aside (e.g. a door or covering), or to move said obstacle.	खोलना		打开	ဖွင့်လှစ်ရန်		
+2055	orchid	orchid	orchid	ᴏʀᴄʜɪᴅ	–	–	4.0	flora	Any of the genera of flowering plants within Orchidaceae with a showy, often colorful, flower.	ऑर्किड		兰花	သစ်ခွ		
+2059	origin	origin	origin	ᴏʀɪɢɪɴ	–	–	4.0		The source or beginning of something.	उत्पत्ति		起源	မူလ		
+2064	otter	otter	otter	ᴏᴛᴛᴇʀ	15	OTTER	2.0	fauna	Any of several aquatic, furbearing, weasellike mammals of the genus Lutra, having webbed feet and a long, slightly flattened tail.	ऊद		水獭	ဖျံ		
+2065	outside	outside	outside	ᴏᴜᴛꜱɪᴅᴇ	762	OUTSIDE	4.0		In the open, not within a building, or outside of something in general.	बाहर		外面	အပြင်မှာ		
+2066	outsider..foreigner	outsider (foreigner)	outsider	ᴏᴜᴛꜱɪᴅᴇʀ	–	–	4.0		A person who does not belong to a particular group or community.	पराया		局外人	အပြင်လူ		
+2069	overmorrow	overmorrow	overmorrow	ᴏᴠᴇʀᴍᴏʀʀᴏᴡ	1179	DAY AFTER TOMORROW	2.0		On the day following tomorrow.	परसों		后天	မနက်ဖြန်		
+2071	owl	owl	owl	ᴏᴡʟ	735	OWL	2.0	fauna	A solitary, mainly nocturnal bird of prey, belonging to the order Strigiformes; it has large forward-facing eyes and ears and a hawk-like beak, and it can turn its head 180 degrees around.	उल्लू		猫头鹰	ဇီးကွက်		
+2073	ox	ox	ox	ᴏx	1169	OX	4.0	fauna	A domesticated bovine animal used as a draft animal or for meat, milk, or leather.	बैल		牛	နွား		
+2075	pack..things:to	to pack (things)	pack	ᴘᴀᴄᴋ	3656	PACK	4.0		To put something in a container so that it could be carried or transported.	जुड़वाँ जानवरों का झुंड		兽群	တိရစ္ဆာန်များထုပ်ပိုး		
+2084	palm.tree	palm tree	palm.tree	ᴘᴀʟᴍ.ᴛʀᴇᴇ	1181	PALM TREE	4.0	flora	Any of various evergreen trees from the family Palmae or Arecaceae, which are mainly found in the tropics.						
+2086	pangolin	pangolin	pangolin	ᴘᴀɴɢᴏʟɪɴ	2508	PANGOLIN	4.0	fauna	Mammals of the order Pholidota. The one extant family, Manidae, has three genera: Manis which comprises four species living in Asia, Phataginus which comprises two species living in Africa, and Smutsia which comprises two species also living in Africa.	टिकटिकी		穿山甲	သင်းခွေချပ်		
+2091	parents..general	parents (general)	parents	ᴘᴀʀᴇɴᴛꜱ	505	PARENTS	4.0	kinship	The people who has given birth to or raised a child, typically involving both a mother and father in traditional families in the region.	माता-पिता		父母	မိဘ		
+2092	parrot	parrot	parrot	ᴘᴀʀʀᴏᴛ	882	PARROT	2.0	fauna	Any bird of the order Psittaciformes. This will typically be the Vernal Hanging-Parrot Loriculus vernalis, a mostly green species with bits of read which lives high in the canopy.	तोता		鹦鹉	ကြက်တူရွေး		
+2103	path:side.of	side of path	side.of.path	ꜱɪᴅᴇ.ᴏꜰ.ᴘᴀᴛʜ	–	–	4.0		The edge of a road, usually marked by a line or curb, that separates the road from the sidewalk or adjacent land.	सड़क का किनारा		路旁	လမ်းတစ်ဘက်		
+2104	path..road	path (road)	path	ᴘᴀᴛʜ	2252	PATH	2.0		A thoroughfare or track that is used for traveling from one place to another, typically by foot or vehicle.	सड़क		道路 / 路径	လမ်း သို့မဟုတ် လမ်း		
+2106	pay:to	to pay	pay	ᴘᴀʏ	718	PAY	4.0		To give money in exchange for goods or services.	भुगतान करना		付钱	ပေးရန်		
+2109	peacock	peacock	peacock	ᴘᴇᴀᴄᴏᴄᴋ	3382	PEACOCK	4.0	fauna	A male peafowl, a species of the family Phasianidae, which is known for displaying its massive tail as part of mate-selection ritual.	मोर		孔雀	ဒေါင်း		
+2112	peel:to	to peel	peel	ᴘᴇᴇʟ	275	PEEL	3.0		To remove the outer layer or skin of something.	छिलना		剥皮	အခွံချွတ်ရန်		
+2116	penis	penis	penis	ᴘᴇɴɪꜱ	1222	PENIS	4.0	body parts	The male sexual organ for copulation and urination; the tubular portion of the male genitalia (excluding the scrotum).	लिंग		阴茎	လိင်တံ		
+2117	people	people	people	ᴘᴇᴏᴘʟᴇ	789	PEOPLE	4.0		Human beings as a group, including their customs, culture, and social structures.	लोग		人们	လူတွေ		
+2120	perch:to	to perch	perch	ᴘᴇʀᴄʜ	3682	PERCH (OF BIRD)	2.0		To sit or rest on a perch or elevated spot, typically of a bird or other animal.	उड़ना		栖息	perch ရန်		
+2126	person:old	old person	old.person	ᴏʟᴅ.ᴘᴇʀꜱᴏɴ	725	OLD PERSON	4.0		Of a person, having lived for a long time or being advanced in age.	बूढ़ा		年老	လူဟောင်း၊		
+2127	person..human	person (human)	person	ᴘᴇʀꜱᴏɴ	683	PERSON	1.0		A human being.	व्यक्ति		人	လူ		
+2131	pestle	pestle	pestle	ᴘᴇꜱᴛʟᴇ	225	PESTLE	4.0		A heavy cylindrical object with a rounded end used for crushing and grinding.	मुसल		杵	ကျည်ပွေ့		
+2132	pheasant	pheasant	pheasant	ᴘʜᴇᴀꜱᴀɴᴛ	3060	PHEASANT	4.0	fauna	Bird of the family Phasianidae.	मूर्ग़		雉鸡	ရစ်ငှက်		
+2135	pick..of.fruit:to	to pick (of fruit)	pick	ᴘɪᴄᴋ	2148	PICK	4.0		To remove small pieces from the surface of something using fingers or a tool.	छुटकारा ढूंढ़ना		拣东西	တစ်ခုခုကို ရွေးဖို့		
+2141	pierce.puncture:to	to pierce puncture	pierce.puncture	ᴘɪᴇʀᴄᴇ.ᴘᴜɴᴄᴛᴜʀᴇ	398	PIERCE	2.0		To make a hole or wound in something using a sharp object.	चुभाना		刺穿	ဖောက်ရန် သို့မဟုတ် ထိုးရန်		
+2143	pig	pig	pig	ᴘɪɢ	1337	PIG	1.0	fauna	A common, four-legged animal (Sus scrofa) that has cloven hooves, bristles and a nose adapted for digging and is farmed by humans for its meat.	सूअर		猪	ဝက်		
+2148	pillar	pillar	pillar	ᴘɪʟʟᴀʀ	–	–	4.0		A large vertical structure used to support a building or other structure.	स्तंभ		柱子	မှတ်တိုင်		
+2149	pillow	pillow	pillow	ᴘɪʟʟᴏᴡ	1044	PILLOW	4.0		A cushion or other object used to support the head while sleeping or resting. Occasionally found in the form of a bamboo segment cut in half lengthwise.	तकिया		枕头	ခေါင်းအုံး		
+2158	place..area	place (area)	place	ᴘʟᴀᴄᴇ	723	PLACE (POSITION)	4.0		A position or area in a space.	जगह		地方	နေရာတစ်ခု		
+2159	place..put:to	to place (put)	place	ᴘʟᴀᴄᴇ	998	PUT	2.0		To set or place an object somewhere.	रखना		放	တစ်စုံတစ်ခုကို ထားရန်၊		
+2162	plain..unadorned	plain (unadorned)	plain	ᴘʟᴀɪɴ	–	–	4.0		Simple and without decoration or embellishment.	सादा		朴素	ရိုးရိုး၊ မအလှဆင်		
+2163	plains..lowlands	plains (lowlands)	plains	ᴘʟᴀɪɴꜱ	–	–	2.0		Land that is low or close to sea level.	निम्नभूमि		低地	မြေနိမ့်		
+2166	plank..wood	plank (wood)	plank	ᴘʟᴀɴᴋ	–	–	4.0		A long, narrow, flat piece of wood used for building houses or other structures.	लकड़ी का तख्ता		木板	သစ်သားပျဉ် သို့မဟုတ် ဘုတ်ပြား		
+2167	plant	plant	plant	ᴘʟᴀɴᴛ	653	PLANT (VEGETATION)	4.0		Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	पौधा		植物	အပင်တစ်ပင်		
+2168	plant:to	to plant	plant	ᴘʟᴀɴᴛ	1486	PLANT (SOMETHING)	2.0		To put a plant in the ground so that it strikes root and grows.	लगाना		种植	စိုက်ပျိုးရန်		
+2169	plant..with.stick:to	to plant (with stick)	plant	ᴘʟᴀɴᴛ	–	–	4.0		To insert a stick or similar object into the ground to create a hole for a plant to be placed in.	लाठी मारकर लगाना		扦插	တုတ်ဖြင့်စိုက်ရန်		
+2172	plate	plate	plate	ᴘʟᴀᴛᴇ	480	PLATE	4.0		A flat dish on which food is served or from which food is eaten.	थाली		盘子	ပန်းကန်		
+2173	play..game:to	to play (game)	play	ᴘʟᴀʏ	1413	PLAY	2.0		To act in a manner such that one has fun; to engage in playful activities expressly for the purpose of recreation.	खेलना		玩	ကစားရန်		
+2177	plough	plough	plough	ᴘʟᴏᴜɢʜ	1921	PLOUGH	4.0		A farm tool used to prepare soil for planting by breaking up and turning over the earth.	हल		犁	ထယ်		
+2178	plough:to	to plough	plough	ᴘʟᴏᴜɢʜ	1921	PLOUGH	2.0		To use a plough on to prepare for planting.	हल चलाना		耕地	ထွန်ယက်ရန်		
+2188	poison:to	to poison	poison	ᴘᴏɪꜱᴏɴ	–	–	4.0		To administer or introduce poison into a living organism, often with the intention of causing harm or death.	जहर देना		毒害	အဆိပ်		
+2189	poison..for.arrow	poison (for arrow)	poison	ᴘᴏɪꜱᴏɴ	655	POISON	4.0		A substance which, when ingested, inhaled, or absorbed, or when applied to, injected into, or developed within the body, in relatively small amounts, may cause injury, harm, or destruction to organs, tissue, or life.	जहर		毒药	အဆိပ် (နာမ်)		
+2190	poison..general	poison (general)	poison	ᴘᴏɪꜱᴏɴ	655	POISON	3.0								
+2199	pond	pond	pond	ᴘᴏɴᴅ	2035	POND	4.0		A natural body of standing fresh water occupying a small surface depression, usually smaller than a lake and larger than a pool.	तालाब		池塘	ရေကန်		
+2204	porcupine	porcupine	porcupine	ᴘᴏʀᴄᴜᴘɪɴᴇ	2510	PORCUPINE	3.0	fauna	Rodents with a coat of sharp spines, or quills, that protect against predators.	शहरा		豪猪	ဖြူကောင်		
+2205	porcupine.quill	porcupine quill	porcupine.quill	ᴘᴏʀᴄᴜᴘɪɴᴇ.ꞯᴜɪʟʟ	–	–	4.0	fauna	The term for an individual spine or quill of a porcupine. An important cultural artefact relating to fashion in some communities.						
+2206	post	post	post	ᴘᴏꜱᴛ	281	POST	4.0		A strong upright piece of wood, metal etc. that is fixed into the ground, especially to support something.	खंडुआ		柱子	ချည်ပို့စ်		
+2207	pot:cooking	cooking pot	cooking.pot	ᴄᴏᴏᴋɪɴɢ.ᴘᴏᴛ	1462	POT	1.0		A vessel used for cooking or storing food or liquids.	पतीला		烹饪锅	ဟင်းချက်အိုး		
+2208	pot:earthen	earthen pot	earthen.pot	ᴇᴀʀᴛʜᴇɴ.ᴘᴏᴛ	–	–	4.0		A vessel used for cooking or storing food or liquids, made of baked mud or clay.	मिट्टी का बर्तन		砂锅	မြေအိုး		
+2214	pound..of.rice:to	to pound (of rice)	pound	ᴘᴏᴜɴᴅ	354	POUND	3.0		To break into small pieces or powder by applying force with a tool, or to reduce something to small particles by rubbing it against a rough or hard surface.	पीसना		磨碎	ကြိတ်ဖို့၊		
+2216	pour:to	to pour	pour	ᴘᴏᴜʀ	1487	POUR	3.0		To cause a liquid to flow out from a container.	डालना		倒	လောင်းရန်		
+2221	prepared:to.be	to be prepared	prepared	ᴘʀᴇᴘᴀʀᴇᴅ	790	READY	4.0		Prepared for immediate action or use.	तैयार होना		准备好	အဆင်သင့်ဖြစ်ရန်		
+2222	press:to	to press	press	ᴘʀᴇꜱꜱ	1913	PRESS	4.0		To apply force or weight onto something.	दबाना		按	နှိပ်ရန်		
+2236	proud:to.be	to be proud	proud	ᴘʀᴏᴜᴅ	174	PROUD	4.0		Feeling greatly pleased, or satisfied by something or someone that is highly honorable or creditable to oneself.	गर्व महसूस करना		骄傲	ဂုဏ်ယူဖို့		
+2239	pull:to	to pull	pull	ᴘᴜʟʟ	1455	PULL	3.0		To apply a force to (an object), in order that it moves towards the origin of the force that was applied.	खींचना		拉	ဆွဲရန်		
+2244	punji	punji	punji	ᴘᴜɴᴊɪ	–	–	4.0		Bamboo steak used as a trap on trails or around villages.						
+2245	pus	pus	pus	ᴘᴜꜱ	1808	PUS	4.0	body parts	A whitish-yellow or yellow substance produced during inflammatory responses of the body that can be found in regions of pyogenic bacterial infections.	दलदल		脓	အဖု		
+2246	push:to	to push	push	ᴘᴜꜱʜ	1452	PUSH	3.0		To apply a force to (an object), in order that it moves away from the origin of the force that was applied.	धक्का देना		推	တွန်းရန်		
+2262	rabbit	rabbit	rabbit	ʀᴀʙʙɪᴛ	1136	RABBIT	4.0	fauna	One of several small mammals of the family Leporidae, with long ears, long hind legs and a short, fluffy tail.	खरगोश		兔子	ယုန်		
+2264	raft	raft	raft	ʀᴀꜰᴛ	1664	RAFT	4.0		A collection of logs, planks, casks, etc., fastened together for floating on water.	राफ्ट		木筏	ဖေါင်		
+2266	rain	rain	rain	ʀᴀɪɴ	1253	RAIN (RAINING)	1.0								
+2269	rainbow	rainbow	rainbow	ʀᴀɪɴʙᴏᴡ	1733	RAINBOW	4.0		A multicoloured arc in the sky caused by the refraction of light within droplets of rain in the air.	इंद्रधनुष		彩虹	သက်တံ		
+2271	raw..uncooked:to.be	to be raw (uncooked)	raw	ʀᴀᴡ	1959	RAW	2.0		Of food, being either wholly or imcompletely cooked.	कच्चा		生的	အစိမ်း၊ မပြုတ်		
+2279	reed	reed	reed	ʀᴇᴇᴅ	659	REED	4.0	flora	Any of various types of tall stiff grass-like plants growing together in groups near water.	नार		芦苇	ကျူ		
+2284	release..let.go:to	to release (let go)	release	ʀᴇʟᴇᴀꜱᴇ	1095	LET GO OR SET FREE	2.0		To give freedom; to stop holding; to release from confinement or restraint.	छोड़ना		放开	လွှတ်ရန် သို့မဟုတ် လွှတ်ရန်		
+2286	remain..stay:to	to remain (stay)	remain	ʀᴇᴍᴀɪɴ	987	REMAIN	4.0		To continue to be in the same place or state.	रहना		剩下	ဆက်လက်ရှိနေရန်		
+2287	remember:to	to remember	remember	ʀᴇᴍᴇᴍʙᴇʀ	707	REMEMBER	4.0		To recall from memory.	याद करना		记住	မှတ်မိဖို့		
+2292	request..something:to	to request (something)	request	ʀᴇꞯᴜᴇꜱᴛ	1828	ASK (REQUEST)	4.0		To ask for a service or physical goods, often without returning the favor in kind.	पंजा		动物的爪子	တိရစ္ဆာန်၏ခြေသည်း		
+2308	rib..bone	rib (bone)	rib	ʀɪʙ	801	RIB	3.0	body parts	One of the long curved bones which form the rib cage.	पसली		肋骨	နံရိုး		
+2309	rice:cooked	cooked rice	cooked.rice	ᴄᴏᴏᴋᴇᴅ.ʀɪᴄᴇ	1191	COOKED RICE	1.0	rice	Rice that has been prepared by boiling or steaming until it is soft and edible.	भात		熟饭	ထမင်း		
+2311	rice:pounded	pounded rice	pounded.rice	ᴘᴏᴜɴᴅᴇᴅ.ʀɪᴄᴇ	3285	RICE FLOUR	4.0	rice	A flour made from finely milled rice, distinct from rice starch which is produced by steeping rice in lye; rice powder.						
+2313	rice:sticky	sticky rice	sticky.rice	ꜱᴛɪᴄᴋʏ.ʀɪᴄᴇ	2750	GLUTINOUS RICE	4.0	rice	A type of rice grown mainly in Southeast and East Asia and the eastern parts of South Asia, which has opaque grains, very low amylose content, and is especially sticky when cooked. Also called oryza sativa var. glutinosa, sticky rice, sweet rice or waxy rice.						
+2314	rice:wild	wild rice	wild.rice	ᴡɪʟᴅ.ʀɪᴄᴇ	3390	WILD RICE	4.0	rice	A plant of the genus Zizania with edible grains and stem.						
+2317	rice..paddy:unhusked	unhusked rice (paddy)	unhusked.rice	ᴜɴʜᴜꜱᴋᴇᴅ.ʀɪᴄᴇ	2749	UNHUSKED RICE	2.0	rice	A flooded field in which rice is grown.	धान का खेत		稻田	စပါး		
+2318	rice..uncooked:husked	husked rice (uncooked)	husked.rice	ʜᴜꜱᴋᴇᴅ.ʀɪᴄᴇ	3289	UNCOOKED RICE	2.0	rice	Rice that has not been boiled or otherwise prepared for eating.						
+2320	rice.husk	rice husk	rice.husk	ʀɪᴄᴇ.ʜᴜꜱᴋ	2501	RICE HUSK	4.0	rice	The husk of rice seeds.						
+2321	rice.plant	rice plant	rice.plant	ʀɪᴄᴇ.ᴘʟᴀɴᴛ	2026	RICE PLANT	2.0	rice	An erect grass, Oryza sativa, that grows in East Asia on wet ground and has drooping flower spikes and yellow oblong edible grains that become white when polished.	धान		稻米	စပါးခွံ၊		
+2323	rice.straw	rice straw	rice.straw	ʀɪᴄᴇ.ꜱᴛʀᴀᴡ	3391	RICE STRAW	4.0	rice	The dry stalks of the rice plant.						
+2326	ride:to	to ride	ride	ʀɪᴅᴇ	367	RIDE	4.0		To transport oneself by sitting on and directing an animal.	सवारी करना		骑	စီးဖို့		
+2330	ring..on.finger	ring (on finger)	ring	ʀɪɴɢ	1374	RING	4.0		A circular band, usually made of metal, that is worn on a finger as an ornament or symbol.	अंगूठी		戒指	လက်စွပ်တစ်ကွင်း		
+2333	ripe:to.be	to be ripe	ripe	ʀɪᴘᴇ	178	RIPE	1.0		To be fully developed or mature, and ready to be eaten or used.	पकना		成熟	မှည့်ရန်		
+2334	ritual..rite	ritual (rite)	ritual	ʀɪᴛᴜᴀʟ	3334	RITE	4.0		A specific process or action used to practise religious or spiritual beliefs. This may be a ritual practiced at major events, before hunting, or at any other significant time.						
+2335	river	river	river	ʀɪᴠᴇʀ	666	RIVER	1.0		A stream of water which flows in a channel from high ground to low ground and ultimately to a lake or the sea, except in a desert area where it may dwindle away to nothing.	नदी		河流	မြစ်		
+2336	river::bank	riverbank	riverbank	ʀɪᴠᴇʀʙᴀɴᴋ	3463	RIVERBANK	4.0		The land along the side of a river that is above the waterline.	नदी का किनारा		河岸	မြစ်တစ်ကမ်း		
+2338	river.:rapids	rapids	rapids	ʀᴀᴘɪᴅꜱ	1670	RAPIDS	4.0		Fast flowing section of a stream, often shallow and with exposed rock or boulders.						
+2339	roast:to	to roast	roast	ʀᴏᴀꜱᴛ	1962	ROAST (SOMETHING)	2.0		To expose to heat without adding fat or water until it is cooked, has a brown crust and becomes crispy.	भूनना		烤	ကင်ရန်		
+2343	roll.down:to	to roll down	roll.down	ʀᴏʟʟ.ᴅᴏᴡɴ	827	ROLL	4.0		To move something by turning it over and over, such as a log rolling down a hill.	ढेर करना		滚动	သစ်လုံးချ၍ တောင်ကုန်းကဲ့သို့ လှိမ့်ခြင်း၊		
+2344	roll.up..mat:to	to roll up (mat)	roll.up	ʀᴏʟʟ.ᴜᴘ	–	–	4.0		To wrap something around itself, such as a mat or a piece of paper.	रोल करना		卷	ဖျာကဲ့သို့ တစ်ခုခုကို လှိမ့်ရန်		
+2345	roof..of.building	roof (of building)	roof	ʀᴏᴏꜰ	769	ROOF	3.0		The upper covering of a building or vehicle, typically supported by a framework.	छत		屋顶	အိမ်ခေါင်မိုး		
+2349	root..general	root (general)	root	ʀᴏᴏᴛ			3.0								
+2351	root..tree	root (tree)	root	ʀᴏᴏᴛ	670	ROOT	1.0	flora	The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.	जड़		根	အမြစ်		
+2352	rope	rope	rope	ʀᴏᴘᴇ	1218	ROPE	2.0		Thick, strong string made of several strands that have been twisted together.	रस्सी		绳子	ကြိုး		
+2356	rotten:to.be	to be rotten	rotten	ʀᴏᴛᴛᴇɴ	1728	ROTTEN	2.0		Having changed its colour, smell or composition (partially or completely), due to being attacked and decomposed by microorganisms (relating to organic matter).	गला हुआ		腐烂的	ပုပ်ဖို့		
+2357	rough:to.be	to be rough	rough	ʀᴏᴜɢʜ	1923	ROUGH	2.0		Having a texture that has much friction. Not smooth.	रूखा		粗糙的	ကြမ်းတမ်းသည်		
+2358	round:to.be	to be round	round	ʀᴏᴜɴᴅ	1395	ROUND	2.0		Circular or having a circular cross-section in at least one direction.	गोल		圆形的	ပတ်ပတ်လည်		
+2359	rub:to	to rub	rub	ʀᴜʙ	1449	RUB	2.0		To move one's hand or an object over a surface or other object (maintaining constant contact and applying moderate pressure).	रगड़ना		擦	ပွတ်ရန်		
+2364	rule..lead:to	to rule (lead)	rule	ʀᴜʟᴇ	43	LEAD (GUIDE)	3.0		To guide by moving in front.	सीसा		铅	ခဲ ( Plumbum )		
+2366	ruler..chief	ruler (chief)	ruler	ʀᴜʟᴇʀ	–	–	2.0		The person who has the highest authority in a group or organization.	मुखिया		首领	အကြီးအကဲ သို့မဟုတ် အုပ်ချုပ်သူ		CONCEPTICON has the measuring tool as the definition.
+2372	sacred:to.be	to be sacred	sacred	ꜱᴀᴄʀᴇᴅ	–	–	4.0		To be regarded as holy or worthy of respect and devotion.	पवित्र		神圣的	မြင့်မြတ်ဖို့၊		
+2374	sad:to.be	to be sad	sad	ꜱᴀᴅ	699	SAD	4.0		Feeling mentally uncomfortable because something is missing or wrong.	उदास		悲伤的	ဝမ်းနည်းစရာ		
+2375	sago.palm	sago palm	sago.palm	ꜱᴀɢᴏ.ᴘᴀʟᴍ	2372	SAGO PALM	4.0	flora	Common name for several plants which are used to produce a starchy food known as sago. // Predates rice as the staple food among some communities in western Arunachal Pradesh.						
+2377	saliva	saliva	saliva	ꜱᴀʟɪᴠᴀ	1503	SALIVA	2.0	body parts	The clear liquid that is secreted by glands in the mouth and is used to moisten food and aid in digestion.	लार		口水	တံတွေး		
+2378	salt	salt	salt	ꜱᴀʟᴛ	1274	SALT	1.0		A crystalline substance consisting of sodium and chlorine, used for seasoning or preserving food, or for a variety of other industrial and household purposes.	नमक		盐	ဆားငန်		
+2380	same:to.be	to be same	same	ꜱᴀᴍᴇ	200	SAME	4.0		Bearing full likeness by having precisely the same set of characteristics.	एक जैसा होना		相同的	အတူတူဖြစ်ရမယ်။		
+2381	sand	sand	sand	ꜱᴀɴᴅ	671	SAND	4.0		A loose material consisting of small mineral particles, or rock and mineral particles, distinguishable by the naked eye; grains vary from almost spherical to angular, with a diameter range from 1/16 to 2 millimeters.	रेत		沙子	သဲ		
+2382	sap:tree	tree sap	tree.sap	ᴛʀᴇᴇ.ꜱᴀᴘ	345	SAP	4.0		The juice of plants of any kind, especially the ascending and descending juices or circulating fluid essential to nutrition.						
+2392	scab	scab	scab	ꜱᴄᴀʙ	2664	SCAB	4.0		A bit of dried blood over a wound as part of the healing healing process.						
+2397	scent..fragrance	scent (fragrance)	scent	ꜱᴄᴇɴᴛ	–	–	4.0		A distinctive smell or aroma that can be detected by the nose.	सुगन्ध		香味	ရနံ့		
+2404	scrape..with.edge:to	to scrape (with edge)	scrape	ꜱᴄʀᴀᴘᴇ	1767	SCRAPE	2.0		To move an object against another object such that abrasion or minor cutting occurs.	खुरचना		抓 / 刮	ခြစ်ရန် သို့မဟုတ် ခြစ်ရန်		
+2407	scratch..with.nails:to	to scratch (with nails)	scratch	ꜱᴄʀᴀᴛᴄʜ	1436	SCRATCH	2.0		To rub or scrape (a part of the body) with a sharp object (e.g. to relieve an itching).	अनाज		稻	မကြေသေးသော ဆန်၊		
+2410	scythe..sickle	scythe (sickle)	scythe	ꜱᴄʏᴛʜᴇ	20	SCYTHE	4.0		A farm tool consisting of a long bent blade attached to a shaft, that is designed for cutting straws of grass or grain from an upright position.	कुर्पा		镰刀	တံမြက်/တံစဉ်		
+2411	sea	sea	sea	ꜱᴇᴀ	1474	SEA	4.0		A body of salt water that is smaller than an ocean and generally in proximity to a continent.	समुद्र		海洋	သမုဒ္ဒရာ၊ ပင်လယ်		
+2415	season:dry	dry season	dry.season	ᴅʀʏ.ꜱᴇᴀꜱᴏɴ	452	DRY SEASON	4.0		Yearly period of low rainfall in the tropics.	चावल का छिलका		稻壳	စပါးခွံ		
+2416	season..monsoon:rainy	rainy season (monsoon)	rainy.season	ʀᴀɪɴʏ.ꜱᴇᴀꜱᴏɴ	453	RAINY SEASON	4.0		Period of year when most of a region's average annual rainfall occurs.	वर्षा ऋतु		雨季	မိုးရာသီ		
+2418	secluded.place	secluded place	secluded.place	ꜱᴇᴄʟᴜᴅᴇᴅ.ᴘʟᴀᴄᴇ	–	–	4.0		A private or isolated place away from others.	रहस्यमय स्थान		隐蔽处	သီးသန့်နေရာ		
+2420	section..segment	section (segment)	section	ꜱᴇᴄᴛɪᴏɴ	–	–	4.0		A segment or part of a larger whole.	खंड		竿节	အပိုင်း (ဥပမာ ဝါး)၊		
+2421	see:to	to see	see	ꜱᴇᴇ	1409	SEE	2.0		To perceive with the eyes, or to comprehend mentally through observation or understanding.	देखना		看	ကြည့်ရန်		
+2422	seed	seed	seed	ꜱᴇᴇᴅ	714	SEED	1.0	flora	A mature fertilized plant ovule, consisting of an embryo and its food store surrounded by a protective seed coat (testa).	बीज		种子	မျိုးစေ့		
+2427	sell:to	to sell	sell	ꜱᴇʟʟ	1571	SELL	2.0		To provide goods or services in exchange for money.	बेचना		卖	ရောင်းရန်		
+2434	separate:to	to separate	separate	ꜱᴇᴘᴀʀᴀᴛᴇ	1359	SEPARATE	4.0		To cause something or someone to move away from something or someone else.	अलग करना		分离	ခွဲခြားရန်		
+2435	servant	servant	servant	ꜱᴇʀᴠᴀɴᴛ	255	SERVANT	4.0		A person performing duties for others. For example a person employed in a household which cares about the domestic duties.						
+2440	settle..somwhere:to	to settle (somwhere)	settle	ꜱᴇᴛᴛʟᴇ	–	–	4.0		To establish oneself in a new location and make it one's permanent home.	निवास करना		定居	တစ်နေရာရာမှာ အခြေချဖို့		
+2441	sew:to	to sew	sew	ꜱᴇᴡ	1457	SEW	2.0		To pass thread repeatedly through fabric or a material, using a needle, in order to join two or more parts or to make a pattern or motif.	सीवना		缝 / 裁缝	ချုပ်ရန်		
+2443	shade..area	shade (area)	shade	ꜱʜᴀᴅᴇ	1388	SHADE	2.0		An area sheltered from direct sunlight, typically created by trees or other vegetation.	छाया		阴凉处	အရိပ်		
+2444	shadow..of.something	shadow (of something)	shadow	ꜱʜᴀᴅᴏᴡ	2275	SHADOW	2.0		Darkness, where light (particularly sunlight) is blocked.	अचार		生米	မကျက်သောဆန်		
+2447	shallow:to.be	to be shallow	shallow	ꜱʜᴀʟʟᴏᴡ	193	SHALLOW	3.0		Having little depth, or being close to the surface of something.	कम गहराई वाला		浅的	တိမ်		
+2450	sharp..of.edge:to.be	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	1396	SHARP	2.0		Having a thin or narrow edge capable of cutting or slicing.	तेज़		尖锐的边缘	အစွန်းတစ်ခု၏ချွန်ထက်		
+2451	sharp..of.point:to.be	to be sharp (of point)	sharp	ꜱʜᴀʀᴘ	–	–	2.0		Having a fine point or edge that is able to cut or pierce.	तीखा		尖锐的	ထက်မြက်သောအချက်၊		
+2452	sharpen..edge:to	to sharpen (edge)	sharpen	ꜱʜᴀʀᴘᴇɴ			3.0								
+2455	shave..head:to	to shave (head)	shave	ꜱʜᴀᴠᴇ	231	SHAVE	4.0		To remove hair from the skin by cutting it with a razor or other bladed implement.	बाल बन्द करना		刮胡子	ရိတ်ရန်		
+2456	shawl	shawl	shawl	ꜱʜᴀᴡʟ	2771	SHAWL	4.0		A rectangular piece of fabric worn over the shoulders or head, typically worn by men in Nagaland.	शॉल		披肩	တစ်ဦးထည်း		
+2457	sheep	sheep	sheep	ꜱʜᴇᴇᴘ	1331	SHEEP	4.0	fauna	A common, four-legged animal (Ovis) that is commonly kept by humans for its wool.	भेड़		羊	သိုး		
+2462	shell..of.turtle	shell (of turtle)	shell	ꜱʜᴇʟʟ	598	SHELL	4.0		A hard protective outer layer that covers and protects the soft inner parts of an animal or plant.	खोल		贝壳	အခွံ		
+2464	shield	shield	shield	ꜱʜɪᴇʟᴅ	1064	SHIELD	2.0		A device used to protect oneself or others from harm or danger when engaging in close combat. Typically woven from cane, carved from wood, or formed from toughened animal hide.	ढाल		盾牌	ဒိုင်း		
+2465	shine..of.sun:to	to shine (of sun)	shine	ꜱʜɪɴᴇ	708	SHINE	4.0		To emit light.	चमकना		发光	တောက်ပဖို့		
+2466	shiver:to	to shiver	shiver	ꜱʜɪᴠᴇʀ	52	SHIVER	4.0		To shake or tremble due to cold, fear, or excitement. To tremble.	काँपना		发抖	တုန်လှုပ်ခြင်း။		
+2469	shoot..arrow:to	to shoot (arrow)	shoot	ꜱʜᴏᴏᴛ	1172	SHOOT	1.0		To fire a shot from a firearm, bow or other weapon.	गोली चलाना		射击	ပစ်ရန်		
+2473	short..duration:to.be	to be short (duration)	short	ꜱʜᴏʀᴛ	3312	SHORT (TIME)	4.0		For a brief period or a short amount of time.						
+2474	short..height:to.be	to be short (height)	short	ꜱʜᴏʀᴛ	1645	SHORT	2.0		Small in length by comparison.	छोटा होना		矮	လူတို		
+2475	short..length:to.be	to be short (length)	short	ꜱʜᴏʀᴛ	1645	SHORT	1.0		Small in length by comparison.	छोटा होना		短	အတိုအရှည်ဖြစ်ရမည်။		
+2478	show..display:to	to show (display)	show	ꜱʜᴏᴡ	1039	SHOW	4.0		To make something visible to others.	दिखाना		展示	ပြသရန်		
+2480	shrimp:.prawn	shrimp	shrimp	ꜱʜʀɪᴍᴘ	2349	SHRIMP	4.0	fauna	Refers to some decapod crustaceans, although the exact animals covered can vary. Used broadly, it may cover any of the groups with elongated bodies and a primarily swimming mode of locomotion – chiefly Caridea and Dendrobranchiata.	झींगा		虾	ပုစွန်		
+2482	shy:to.be	to be shy	shy	ꜱʜʏ	487	SHY	2.0		To be hesitant or reserved in social situations, often due to timidity or lack of confidence. This is distinct from ashamed.	शर्मीला होना		害羞	ရှက်ဖို့ကောင်းတယ်။		
+2483	sibling:younger	younger sibling	younger.sibling	ʏᴏᴜɴɢᴇʀ.ꜱɪʙʟɪɴɢ			2.0		Either sibling which is younger						
+2486	side..of.body	side (of body)	side	ꜱɪᴅᴇ	–	–	4.0	body parts	One of the two sides of the human or animal body, left or right, from the shoulder to the hip.	पार्श्व		侧面	ခန္ဓာကိုယ်၏အခြမ်း		
+2487	side..of.something	side (of something)	side	ꜱɪᴅᴇ	682	SIDE	4.0		The surface that is not the front or back of an object.	किनारा		侧面	တစ်စုံတစ်ခု၏ဘက်		
+2490	silver	silver	silver	ꜱɪʟᴠᴇʀ	759	SILVER	2.0		A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	चाँदी		银	ငွေ		
+2491	similar:to.be	to be similar	similar	ꜱɪᴍɪʟᴀʀ	1558	SIMILAR	4.0		Having some particular qualities or characteristics in common, but not all of them.	समान होना		相似	အလားတူဖြစ်ရန်		
+2494	sing:to	to sing	sing	ꜱɪɴɢ	1261	SING	2.0		To produce musical sounds with one's voice, often in a rhythmic or melodic pattern.	गाना गाना		唱歌	သီချင်းသီဆိုရန်		
+2496	sink:to	to sink	sink	ꜱɪɴᴋ	1088	SINK (DESCEND)	2.0		To go down in water, mud, quicksand etc. or to cause something to go down in it.	डूबना		下沉	နစ်မြုပ်ရန်		
+2497	sister:elder	elder sister	elder.sister	ᴇʟᴅᴇʀ.ꜱɪꜱᴛᴇʀ	1758	OLDER SISTER	2.0	kinship	The female sibling who is older than oneself.	दीदी		姐姐	အစ်မ		
+2499	sister:younger	younger sister	younger.sister	ʏᴏᴜɴɢᴇʀ.ꜱɪꜱᴛᴇʀ	1761	YOUNGER SISTER	4.0	kinship	The female sibling who is younger than oneself.	छोटी बहन		妹妹	ညီမအငယ်		
+2502	sit:to	to sit	sit	ꜱɪᴛ	1416	SIT	1.0		To be in a position with the upper body upright and the legs resting.	बैठना		坐	ထိုင်ရန်		
+2505	skilled:to.be	to be skilled	skilled	ꜱᴋɪʟʟᴇᴅ	807	SKILLED	4.0		To possess a high level of ability or proficiency in a particular task or activity.	कुशल होना		擅长	တစ်ခုခုကို ကျွမ်းကျင်ဖို့၊		
+2506	skin	skin	skin	ꜱᴋɪɴ	763	SKIN	1.0	body parts	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	त्वचा		皮肤	အရေပြား		
+2510	skirt..mekhela	skirt (mekhela)	skirt	ꜱᴋɪʀᴛ	1600	SKIRT	4.0		An article of clothing, usually worn by women and girls, that hangs from the waist and covers the lower part of the body. // This should be specified as that worn by women, the mekhela, and not that of men, a loungyi.						
+2511	skull	skull	skull	ꜱᴋᴜʟʟ	1605	SKULL	4.0	body parts	The main bone of the head; the cranium.	खोपड़ी		颅骨	ဦးခေါင်းခွံ		
+2512	sky	sky	sky	ꜱᴋʏ	1732	SKY	2.0		The part of the earth's atmosphere and space outside it that is visible from earth's surface. During the day it is perceived as blue, and at night as black.	आकाश		天空	ကောင်းကင်		
+2517	sleep:to	to sleep	sleep	ꜱʟᴇᴇᴘ	1585	SLEEP	1.0		To rest in a state of decreased consciousness and reduced metabolism.	सोना		睡觉	အိပ်ရန်		
+2523	slippery:to.be	to be slippery	slippery	ꜱʟɪᴘᴘᴇʀʏ	3702	SLIPPERY	4.0		Smooth or wet so that it is difficult to hold or stand on it.	चिकना		滑	ချောရမည်။		
+2525	slow:to.be	to be slow	slow	ꜱʟᴏᴡ	701	SLOW	2.0		With low speed.	धीमा		慢	နှေးနှေး		
+2527	small:to.be	to be small	small	ꜱᴍᴀʟʟ	1246	SMALL	2.0		Having a small size or dimensions, often relative to others of its kind.	छोटा होना		小	သေးငယ်ဖို့		
+2530	smell..vi:to	to smell (vi)	smell	ꜱᴍᴇʟʟ	1587	SMELL (STINK)	4.0		To give off a smell that can be perceived by the nose.	खुशबू होना		有味道	အနံ့ရှိရန်		
+2531	smell..vt:to	to smell (vt)	smell	ꜱᴍᴇʟʟ	1586	SMELL (PERCEIVE)	2.0		To perceive the presence of molecules in the air by inhaling them through the nose.	सूंघना		闻	အနံ့ခံရန်		
+2532	smell.bad:to	to smell bad	smell.bad	ꜱᴍᴇʟʟ.ʙᴀᴅ	–	–	3.0		To emit an unpleasant odor or stench.			臭	အနံ့ဆိုးဖို့		
+2533	smell.good..fragrant:to	to smell good (fragrant)	smell.good	ꜱᴍᴇʟʟ.ɢᴏᴏᴅ	–	–	3.0		To emit a pleasant or desirable odor or fragrance.	सुगंधित होना		香	အနံ့ကောင်းဖို့		
+2534	smile:to	to smile	smile	ꜱᴍɪʟᴇ	1451	SMILE	4.0		To make an upwards movement of the sides of the mouth, that indicates happiness or satisfaction.	मुस्कुराना		微笑	ပြုံးဖို့		
+2535	smoke	smoke	smoke	ꜱᴍᴏᴋᴇ	778	SMOKE (EXHAUST)	1.0		An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	धुआं		烟	မီးခိုး		
+2536	smoke:to	to smoke	smoke	ꜱᴍᴏᴋᴇ	1689	SMOKE (INHALE)	2.0		To inhale smoke from for example a cigarette or a cigar.	धूम्रपान करना		抽烟	ဆေးလိပ်သောက်ရန်		
+2538	smooth:to.be	to be smooth	smooth	ꜱᴍᴏᴏᴛʜ	1234	SMOOTH	2.0		Not rough; having a surface texture that lacks friction.	मुलायम होना		平滑	ချောမွေ့စေရန်		
+2540	snail	snail	snail	ꜱɴᴀɪʟ	1543	SNAIL	2.0	fauna	(Gastropoda) Ventral footed mollusk, including land snails, terrestrial pulmonate gastropod mollusks.	घोंघा		蜗牛	ခရု		
+2542	snake	snake	snake	ꜱɴᴀᴋᴇ	730	SNAKE	1.0	fauna	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	साँप		蛇	မြွေ		
+2543	sneeze:to	to sneeze	sneeze	ꜱɴᴇᴇᴢᴇ	1621	SNEEZE	4.0		To expel air rapidly as a reflex, usually induced by an irritation in the nose.	छींकना		打喷嚏	နှာချေရန်		
+2544	snore:to	to snore	snore	ꜱɴᴏʀᴇ	1983	SNORE	4.0		To make a noise during sleep by vibration of soft respiratory tissues (soft palate, base of the tongue and pharyngeal walls), particularly during inhalation.	खर्राटे लेना		打鼾	ဟောက်ရန်		
+2545	snot..nasal.mucus	snot (nasal mucus)	snot	ꜱɴᴏᴛ	208	NASAL MUCUS (SNOT)	2.0	body parts	Mucus from the nose.	नाक का मूसा		鼻涕	နှပ်		
+2552	soft:to.be	to be soft	soft	ꜱᴏꜰᴛ	1856	SOFT	2.0		A state of consistency allowing alterations of form with ease, no big force required, to bring things into something of this state (such as e.g. soaked loam or clay soil).	मुलायम होना		软	ပျော့ပျောင်းစေရန်		
+2556	some..portion	some (portion)	some	ꜱᴏᴍᴇ	1241	SOME	4.0		An unspecified quantity or number of.	कुछ  नहीं सब		一些	အချို့၊ အားလုံးမဟုတ်ပါ။		
+2560	son	son	son	ꜱᴏɴ	1620	SON	3.0	kinship	One's male child.	बेटा		儿子	သား		
+2561	son.in.law	son in law	son.in.law	ꜱᴏɴ.ɪɴ.ʟᴀᴡ	1056	SON-IN-LAW	4.0	kinship	The male marital partner of someone's child.	जमाई		女婿	သမက်		
+2562	song	song	song	ꜱᴏɴɢ	1096	SONG	4.0		A musical piece with lyrics (or words to sing); prose that one can sing.	गीत		歌曲	သီချင်း		
+2565	soul!spirit..of.living	soul, spirit (of living)	soul	ꜱᴏᴜʟ	811	SOUL	4.0		In philosophical or religious belief the immaterial part of a human being.	आत्मा		灵魂	ဝိညာဉ်		
+2566	sour:to.be	to be sour	sour	ꜱᴏᴜʀ	1906	SOUR	2.0		Having an acid, sharp or tangy taste.	खट्टा होना		酸	အချဉ်ဖြစ်ရန်		
+2568	south	south	south	ꜱᴏᴜᴛʜ	1595	SOUTH	4.0		One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map.	दक्षिण		南	တောင်		
+2569	sow..crops:to	to sow (crops)	sow	ꜱᴏᴡ	748	SOW SEEDS	2.0		To scatter or disperse seeds on a field.	बोना या बोवाई करना		播种	ကြဲရန်		
+2571	soy.bean	soy bean	soy.bean	ꜱᴏʏ.ʙᴇᴀɴ	2028	SOYA BEAN	4.0	flora	The edible seed of the soybean plant which contains a lot of protein.	सोयाबीन		黄豆	ပဲပိစပ်		
+2577	sparrow	sparrow	sparrow	ꜱᴘᴀʀʀᴏᴡ	1854	SPARROW	4.0	fauna	A small song bird, in the family Passeridae.	गौरैया		麻雀	စာငှက်		
+2579	speak:to	to speak	speak	ꜱᴘᴇᴀᴋ	1623	SPEAK	2.0		To communicate by the use of words.	बोलना		说	ပြောရန် သို့မဟုတ် ပြောရန်		
+2580	spear	spear	spear	ꜱᴘᴇᴀʀ	945	SPEAR	1.0		a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.	भाला		矛	လှံ		
+2581	special:to.be	to be special	special	ꜱᴘᴇᴄɪᴀʟ	–	–	4.0		To be unique or different from what is ordinary or usual.	विशेष होना		特别	အထူးဖြစ်ရန်		
+2585	spicy..of.chilis	spicy (of chilis)	spicy	ꜱᴘɪᴄʏ	544	SPICY	3.0		Provoking a burning sensation due to the presence of chillies or similar hot spices.	मसालेदार		辣	ငရုတ်သီးမှအစပ်		
+2586	spider	spider	spider	ꜱᴘɪᴅᴇʀ	843	SPIDER	2.0	fauna	Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	मकड़ी		蜘蛛	ပင့်ကူ		
+2587	spider::web	spiderweb	spiderweb	ꜱᴘɪᴅᴇʀᴡᴇʙ	1065	SPIDER WEB	2.0	fauna	A fine net of threads woven by a spider to catch insects.	मकड़ी का जाल		蜘蛛网	ပင့်ကူအိမ်ကွန်ယက်		
+2589	spin..cotton:to	to spin (cotton)	spin	ꜱᴘɪɴ	–	–	4.0		To twist or spin fibers of cotton into thread or yarn.	धुनाई करना		纺	ချည်လှည့်ဖို့		
+2590	spirit..deity	spirit (deity)	spirit	ꜱᴘɪʀɪᴛ	53	SPIRIT	4.0		A spiritual entity that is not as powerful as a deity.	आत्मा		精神	စိတ်ဝိညာဉ်		
+2592	spit:to	to spit	spit	ꜱᴘɪᴛ	1440	SPIT	2.0		To forcefully evacuate saliva from the mouth.	थूकना		吐	တံတွေးထွေးရန်		
+2596	splinter..injury	splinter (injury)	splinter	ꜱᴘʟɪɴᴛᴇʀ	–	–	4.0		A small sharp piece of wood which is stuck in the skin.						
+2597	split:to	to split	split	ꜱᴘʟɪᴛ	1437	SPLIT	4.0		To divide fully or partly along a more or less straight line.	फटना		劈	ခွဲရန်		
+2600	spoil..of.food:to	to spoil (of food)	spoil	ꜱᴘᴏɪʟ	569	SPOIL (BECOME SPOILED)	4.0		Of food, to become bad, sour or rancid; to decay.	ख़राब होना		腐败	လုယူရန်		
+2602	spoon..utensil	spoon (utensil)	spoon	ꜱᴘᴏᴏɴ	1378	SPOON	4.0		An implement for eating or serving, a small bowl with a long straight handle.	चम्मच		勺子	ဇွန်း		
+2607	spread..of.roots:to	to spread (of roots)	spread	ꜱᴘʀᴇᴀᴅ	38	SPREAD OUT	4.0		To spread out or open from a closed or folded state.	फैलना		扩散	အမြစ်၏ပြန့်ပွားရန်		
+2618	squeeze:to	to squeeze	squeeze	ꜱꞯᴜᴇᴇᴢᴇ	1414	SQUEEZE	2.0		To apply pressure to something from two or more sides at once.	दबाना		挤	ညှစ်ရန်		
+2619	squirrel:flying	flying squirrel	flying.squirrel	ꜰʟʏɪɴɢ.ꜱꞯᴜɪʀʀᴇʟ	3271	FLYING SQUIRREL	4.0	fauna	A squirrel of the sub-family Pteromyinae of the family Sciuridae.	उड़ती गिलहरी		飞鼠	ရှဉ့်ပျံ		
+2620	squirrel..general	squirrel (general)	squirrel	ꜱꞯᴜɪʀʀᴇʟ	1628	SQUIRREL	4.0	fauna	A small or medium-sized rodent of the family Sciuridae.	गिलहरी		松鼠	ရှဉ့်		
+2626	stand..remain.standing:to	to stand (remain standing)	stand	ꜱᴛᴀɴᴅ	1442	STAND	1.0		To assume an upright position on one's feet, often with the intention of remaining stationary for a period of time.	खड़े रहना		站	ရပ်တည်ရန်		
+2628	star	star	star	ꜱᴛᴀʀ	1430	STAR	1.0		A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	तारा		星星	ကြယ်ပွင့်		
+2629	star:shooting	shooting star	shooting.star	ꜱʜᴏᴏᴛɪɴɢ.ꜱᴛᴀʀ	2835	SHOOTING STAR	4.0		Name for the visible path of a meteoroid.						
+2632	stay:to	to stay	stay	ꜱᴛᴀʏ	–	–	4.0		To live or remain in a particular place or location for an extended period of time.	रहना		住	နေဖို့၊ နေဖို့		
+2634	steal:to	to steal	steal	ꜱᴛᴇᴀʟ	713	STEAL	2.0		To take possession of property belonging to another without the consent of this owner; most typically when not observed, rather than by force.	चुराना		偷	ခိုးယူရန်		
+2637	step:to	to step	step	ꜱᴛᴇᴘ	2065	STEP (VERB)	3.0		To move the foot in walking; to advance or recede by raising and moving one of the feet to another resting place, or by moving both feet in succession.	कदम रखना		迈步	ခြေတစ်လှမ်းယူရန်		
+2638	step.on:to	to step on	step.on	ꜱᴛᴇᴘ.ᴏɴ	–	–	4.0		To place your foot on top of something, often accidentally or unintentionally.	कुछ पर कदम रखना		踩	တစ်ခုခုကို လှမ်းဖို့		
+2639	stick..branch	stick (branch)	stick	ꜱᴛɪᴄᴋ	1295	STICK	2.0		A long, thin piece of wood, mainly left in the shape in which it grew, that does not bend.	छड़ी		棍子	တုတ်		
+2640	stick..glue:to	to stick (glue)	stick	ꜱᴛɪᴄᴋ			3.0								
+2643	sting..of.bee:to	to sting (of bee)	sting	ꜱᴛɪɴɢ	571	STING	2.0		To hurt, usually by introducing poison or a sharp point, or both.	दर्द होना		叮	ကိုက်တယ်။		
+2649	stomach..organ	stomach (organ)	stomach	ꜱᴛᴏᴍᴀᴄʜ	819	STOMACH	4.0	body parts	The organ of the digestive system responsible for breaking down food and extracting nutrients.	पेट		肚子	အစာအိမ်		
+2650	stone	stone	stone	ꜱᴛᴏɴᴇ	857	STONE	1.0		A hard, naturally occurring mineral material often used for building, sculpture, or paving.	पत्थर		石头	ကျောက်		
+2653	stop..moving:to	to stop (moving)	stop	ꜱᴛᴏᴘ	2880	HALT (STOP)	4.0		To halt one’s movement.	कुछ नहीं करना		停	လှုပ်ရှားခြင်း သို့မဟုတ် တစ်ခုခုလုပ်ခြင်းကို ရပ်ရန်		
+2656	storm	storm	storm	ꜱᴛᴏʀᴍ	858	STORM	4.0		An atmospheric disturbance involving perturbations of the prevailing pressure and wind fields on scales ranging from tornadoes to extratropical cyclones; also the associated weather and the like. (Source: MGH)	तूफान		暴风雨	မုန်တိုင်း		
+2659	straight:to.be	to be straight	straight	ꜱᴛʀᴀɪɢʜᴛ	1404	STRAIGHT	3.0		Not crooked or bent; having a constant direction throughout its length.	सीधा होना		直	ဖြောင့်ဖို့		
+2665	stream	stream	stream	ꜱᴛʀᴇᴀᴍ	947	STREAM	4.0		A small river or large creek; a body of moving water confined by banks.	नदी		小溪	ရေနွေးငွေ့		
+2670	strong:to.be	to be strong	strong	ꜱᴛʀᴏɴɢ	785	STRONG	2.0		Capable of producing great physical force.	मजबूत होना		强	ခိုင်မာဖို့		
+2681	suck:to	to suck	suck	ꜱᴜᴄᴋ	1421	SUCK	3.0		To draw in a substance by creating a practical vacuum in the mouth, and as a result a difference in pressure.	चूसना		吸	စုတ်ဖို့		
+2685	sugar::cane	sugarcane	sugarcane	ꜱᴜɢᴀʀᴄᴀɴᴇ	146	SUGAR CANE	4.0	flora	A tropical grass of the genus Saccharum having stout, fibrous, jointed stalks, the sap of which is a source of sugar.	गन्ना		甘蔗	ကြံ		
+2687	sun	sun	sun	ꜱᴜɴ	1343	SUN	1.0		The particular star at the centre of our solar system, from which the Earth gets light and heat.	सूरज		太阳	နေ		
+2688	sun::shine	sunshine	sunshine	ꜱᴜɴꜱʜɪɴᴇ	3276	SUNSHINE	4.0		Of the sun, to provide direct sunlight, or the warmth and light provided by the sun's rays.	धूप		阳光	နေရောင်ခြည်		
+2693	support:to	to support	support	ꜱᴜᴘᴘᴏʀᴛ	2994	SUPPORT (OF OBJECT)	4.0		To bear or carry the weight of someone or something.	शारीरिक रूप से सहायता देना		扶	ရုပ်ပိုင်းဆိုင်ရာထောက်ပံ့ရန်		
+2695	surface..of.liquid	surface (of liquid)	surface	ꜱᴜʀꜰᴀᴄᴇ	547	SURFACE	4.0		The overside or up-side of a flat object such as a table, or of a liquid; the outside hull of a tangible object.	पानी की सतह		水面	ရေမျက်နှာပြင်		
+2696	surplus	surplus	surplus	ꜱᴜʀᴘʟᴜꜱ	–	–	4.0		To have a large quantity or a lot of something, greater than ones needs.	प्रचुर	প্ৰচুৰ থাকিব	充足	ပေါများမည်။		
+2700	swallow:.bird	swallow	swallow	ꜱᴡᴀʟʟᴏᴡ	3077	SWALLOW (BIRD)	4.0	fauna	Any of the various passerine birds of the family Hirundinidae; martin.	अववटा		燕子	swallow ဟုခေါ်သည်။		
+2701	swallow:to	to swallow	swallow	ꜱᴡᴀʟʟᴏᴡ	897	SWALLOW	3.0		The reflex in the human body that makes something pass from the mouth to the pharynx and into the esophagus, with the shutting of the epiglottis.	निगलना		吞	မျိုချရန်		
+2705	sway..in.wind:to	to sway (in wind)	sway	ꜱᴡᴀʏ	573	SWAY	4.0		To move or swing from side to side; or backward and forward; to rock.	हिलना		摇摆	သစ်ပင်ကဲ့သို့ ယိမ်းနွဲ့ရန်၊		
+2707	swear..oath:to	to swear (oath)	swear	ꜱᴡᴇᴀʀ	1939	SWEAR	4.0		To declare or affirm solemnly and formally as true.	शपथ लेना या शाप देना		骂人  亵渎	ကျိန်ဆိုခြင်း၊		
+2708	sweat:to	to sweat	sweat	ꜱᴡᴇᴀᴛ	126	SWEAT (PERSPIRE)	2.0		To excrete moisture from the skin through sweat glands, often as a result of physical exertion or high temperatures.	पसीना आना		出汗	ချွေးထွက်ဖို့		
+2710	sweep:to	to sweep	sweep	ꜱᴡᴇᴇᴘ	230	SWEEP	4.0		To clean a surface with a broom.	पॉछा करना		扫	လှည်းရန်		
+2711	sweet:to.be	to be sweet	sweet	ꜱᴡᴇᴇᴛ	717	SWEET	2.0		Having the taste characteristic of sugar or honey.	मीठा होना		甜	မွှေးဖို့		
+2713	swell:to	to swell	swell	ꜱᴡᴇʟʟ	1573	SWELL	3.0		To become larger in size or volume, usually due to pressure or inflammation.	सूजना		肿	ဖောရောင်ရန်		
+2716	swim:to	to swim	swim	ꜱᴡɪᴍ	1439	SWIM	4.0		To move through the water, without touching the bottom.	तैरना		游泳	ရေကူးရန်		
+2721	table	table	table	ᴛᴀʙʟᴇ	1775	TABLE	4.0		A piece of furniture that generally consists of a hard, flat, horizontal surface, which is elevated and stabilised by 3 or more legs (usually 4).	मेज		桌子	စားပွဲ		
+2723	tail	tail	tail	ᴛᴀɪʟ	1220	TAIL	1.0	body parts	The appendage of an animal that is attached to its posterior and near the anus.	पूंछ		尾巴	အမြီး		
+2724	take:to	to take	take	ᴛᴀᴋᴇ	1749	TAKE	4.0		To seize or grasp something with one's hands, or to assume control or possession of something.	लेना		拿	ယူရန်		
+2730	tall:to.be	to be tall	tall	ᴛᴀʟʟ	711	TALL	2.0		Having a large distance from the base to the top, often relative to other objects or structures.	ऊँचा		高	အရပ်မြင့်သည်ဖြစ်စေ၊		
+2732	tamarind..pod	tamarind (pod)	tamarind	ᴛᴀᴍᴀʀɪɴᴅ	35	TAMARIND	4.0	flora	A tropical fruit with a sour and slightly sweet taste.	इमली		罗望子	မန်ကျည်း		
+2737	taste:to	to taste	taste	ᴛᴀꜱᴛᴇ	21	TASTE (SOMETHING)	4.0		To perceive the flavor of food or drink using the mouth and tongue.	स्वाद चखना		品尝	မြည်းကြည့်ရန်		
+2739	tattoo	tattoo	tattoo	ᴛᴀᴛᴛᴏᴏ	68	TATTOO	3.0	body parts	A marking made by inserting ink into the layers of skin to change the pigment permanently for decorative or other reasons.	गोदना		纹身	တက်တူး		
+2743	tea	tea	tea	ᴛᴇᴀ	1373	TEA	3.0	flora	A hot drink made by infusing dried leaves of the tea plant in boiling water. This should be the general category of drinks and not marked for the specific preparation of the tea leaves. A native or near native term is expected for all languages in the region. .	चाय		茶	လက်ဖက်ရည်		
+2744	teach:to	to teach	teach	ᴛᴇᴀᴄʜ	709	TEACH	4.0		To impart knowledge or skill to someone through instruction.	सिखाना		教	သင်ကြားရန်		
+2745	teacher	teacher	teacher	ᴛᴇᴀᴄʜᴇʀ	1038	TEACHER	4.0		A person who teaches, typically in a school but may also include any sort of instructor of mentor of skills or knowledge.	शिक्षक		老师	ဆရာမ		
+2749	tell:to	to tell	tell	ᴛᴇʟʟ	1711	TELL	4.0		To talk about a story giving its details; to give a detailed account of.	बताना		告诉	ပြောဖို့		
+2753	testicle	testicle	testicle	ᴛᴇꜱᴛɪᴄʟᴇ	797	TESTICLES	4.0	body parts	The male sex gland that produces sperm and male hormones, found in some types of animals and humans.	अंडकोष		睾丸	ဝှေးစေ့		
+2755	tether..goats:to	to tether (goats)	tether	ᴛᴇᴛʜᴇʀ			2.0								
+2756	thank:to	to thank	thank	ᴛʜᴀɴᴋ	2412	THANK (SOMEBODY)	4.0		To express gratitude or appreciation. This will occasionally be a loan from a larger language, such as Burmese, as is the case in much of Tangsa-Nocte.	धन्यवाद देना		感谢	ကျေးဇူးတင်ရန်		
+2757	that...dist.dem	that	dist.dem	ᴅɪꜱᴛ.ᴅᴇᴍ	4	THAT	4.0		The basic distal demonstrative. Typically not marked for altitude, visibility, or emphasis, although superdistal/emphatic demonstratives may also occur and should be documented. Most languages in this area will distinguist primarily between proximal and distal, with a possible third option for emphasis.	वह		那个	အဲဒါ		
+2758	that...hyperdist.dem	that	hyperdist.dem	ʜʏᴘᴇʀᴅɪꜱᴛ.ᴅᴇᴍ	–	–	4.0		The emphatic/hyperdistal demonstrative.						
+2763	thick..of.liquid:to.be	to be thick (of liquid)	thick	ᴛʜɪᴄᴋ	1244	THICK	4.0		Of liquid, having viscosity.	गाढ़ा		稠	အရည် (အထူ)		
+2764	thick..of.material:to.be	to be thick (of material)	thick	ᴛʜɪᴄᴋ	1244	THICK	2.0		Relatively large distance from one surface to the opposite in its smallest solid dimension.	मोटा		厚	အထူ		
+2768	thief	thief	thief	ᴛʜɪᴇꜰ	1160	THIEF	3.0		Someone who takes property belonging to someone else with the intention of keeping it or selling it.	चोर		小偷	သူခိုး		
+2769	thin..not.thick:to.be	to be thin (not thick)	thin	ᴛʜɪɴ	2306	THIN (OF LEAF AND CLOTH)	2.0		Having a small distance from one surface to another, often relative to the object's size.	पतला		瘦	ပိန်တယ်။		
+2771	think:to	to think	think	ᴛʜɪɴᴋ	2271	THINK	4.0		Use ones mental power to form ideas or having used ones mental power to form ideas of conviction or belief.	सोचना		思考	စဉ်းစားရန်		
+2774	thirsty:to.be	to be thirsty	thirsty	ᴛʜɪʀꜱᴛʏ	3474	BE THIRSTY	3.0		To suffer from thirst; to have a craving to drink, which is often accompanied by the feeling of dryness in the mouth and throat.	प्यासा होना		渴	ရေငတ်ဖို့၊		
+2775	this...prox.dem	this	prox.dem	ᴘʀᴏx.ᴅᴇᴍ	1214	THIS	4.0		Referring to the thing or things that are nearby or currently being discussed.	यह		这个	ဒီ		
+2776	thorn	thorn	thorn	ᴛʜᴏʀɴ	124	THORN	2.0	flora	A sharp, pointed projection on the stem or branch of a plant, developed as a form of defence from grazing animals.	कांटा		刺	ဆူး		
+2779	thread..string	thread (string)	thread	ᴛʜʀᴇᴀᴅ	1161	THREAD	2.0		A long, thin and flexible form of material, generally with a round cross-section, used in sewing, weaving or in the construction of string.	धागा (dhaaga)		线	ချည်		
+2780	threaten:to	to threaten	threaten	ᴛʜʀᴇᴀᴛᴇɴ	1192	THREATEN	4.0		To express the intention to harm or punish someone.	धमकाना (dhamkaana)		威胁	ခြိမ်းခြောက်ရန်		
+2784	throat	throat	throat	ᴛʜʀᴏᴀᴛ	1346	THROAT	4.0	body parts	The passage in the neck as part of the digestive system through which food and air pass.	गला	গলা	喉咙	လည်ချောင်း		
+2785	throw:to	to throw	throw	ᴛʜʀᴏᴡ	1456	THROW	3.0		To cause (an object) to move rapidly through the air, with the force of the hand or arm.	फेंकना (phenkna)		扔	ပစ်ရန်		
+2787	thunder	thunder	thunder	ᴛʜᴜɴᴅᴇʀ	1150	THUNDER	1.0		The large booming sound in the sky during storms, as caused by lightning heating the air around it to a very high temperature, causing it to rapidly expand and contract.	गरज (garaj)		雷	မိုးကြိုး		
+2795	tie:to	to tie	tie	ᴛɪᴇ	1917	TIE	2.0		To fasten or secure something by wrapping or looping a string, rope, or other material around it and knotting it.	बांधना		打结	ချည်ရန်		
+2797	tiger	tiger	tiger	ᴛɪɢᴇʀ	846	TIGER	1.0	fauna	Panthera tigris. A large, carnivorous feline with distinctive orange and black stripes. This concept may be understood by speakers as any large cat belonging to the genus Panthera, so care must be taken to avoid ambiguity.	बाघ		老虎	ကျား		
+2800	tight..of.space:to.be	to be tight (of space)	tight	ᴛɪɢʜᴛ	3053	TIGHT	4.0		To be firm or constricting, lacking in space or room.	टाइट होना (taait hona)		紧	တင်းတင်းကျပ်ကျပ်ဖြစ်ရန်		
+2802	time	time	time	ᴛɪᴍᴇ	892	TIME	4.0		The dimension of the physical universe which, at a given place, orders the sequence of events.	समय (samay)		时间	အချိန်		
+2808	tobacco.pipe	tobacco pipe	tobacco.pipe	ᴛᴏʙᴀᴄᴄᴏ.ᴘɪᴘᴇ	1124	PIPE	4.0		A device consisting of a mouthpiece, a long pipe stem and a pipe bowl, that is used to smoke tobacco.	हुक्का (hukka)		烟斗	ဆေးတံ		
+2809	today	today	today	ᴛᴏᴅᴀʏ	1283	TODAY	2.0		The present day, or the day that has recently occurred when uttered at night.	आज (aaj)		今天	ဒီနေ့		
+2812	toe	toe	toe	ᴛᴏᴇ	1389	TOE	2.0		One of the extremities of the foot.	पैर का अंगूठा (pair ka angutha)		脚趾	ခြေချောင်း		
+2815	tomorrow	tomorrow	tomorrow	ᴛᴏᴍᴏʀʀᴏᴡ	1329	TOMORROW	1.0		The day after the present day.	कल (kal)		明天	မနက်ဖြန်		
+2816	tongs:fireplace	fireplace tongs	fireplace.tongs	ꜰɪʀᴇᴘʟᴀᴄᴇ.ᴛᴏɴɢꜱ	272	TONGS	3.0		A tool consisting of two long arms with a pivot joint, used for gripping and lifting objects.	चिमटा (chimtaa)		钳子	မီးညှပ်များ		
+2817	tongs..general	tongs (general)	tongs	ᴛᴏɴɢꜱ	272	TONGS	3.0		In need of some rest or sleep, due to lack of sleep or as a result of hard work or physical activity.	थका देना (thaka dena)		累	တာယာ		
+2818	tongue	tongue	tongue	ᴛᴏɴɢᴜᴇ	1205	TONGUE	1.0	body parts	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	जीभ (jibh)		舌头	လျှာ		
+2819	tonight	tonight	tonight	ᴛᴏɴɪɢʜᴛ	–	–	4.0		The current or approaching evening or night.	आज रात (aaj raat)		今晚	ဒီည		
+2820	tooth	tooth	tooth	ᴛᴏᴏᴛʜ	1380	TOOTH	1.0	body parts	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.	दाँत (daant)		牙齿	သွား		
+2830	torch	torch	torch	ᴛᴏʀᴄʜ	1919	TORCH	4.0		A stick with a flame on one end used as a light source.	टॉर्च (torch)		火炬	မီးရှူးတိုင်		
+2837	town	town	town	ᴛᴏᴡɴ	1391	TOWN	4.0		A human settlement larger than a village but smaller than a city, typically located in a rural area.	शहर (shahar)		小镇	မြို့		
+2840	tradition	tradition	tradition	ᴛʀᴀᴅɪᴛɪᴏɴ	–	–	4.0		A long-established custom or belief that has been passed down from generation to generation.	परंपरा (parampara)		传统	အစဉ်အလာ		
+2843	trample:to	to trample	trample	ᴛʀᴀᴍᴘʟᴇ	–	–	4.0		To tread heavily or forcefully on something or someone, resulting in damage to or flattening of the thing being treaded upon.	पीठ से मारना (piith se maarna)		践踏	နင်းရန်		
+2847	trap:to	to trap	trap	ᴛʀᴀᴘ	1170	TRAP (CATCH)	4.0		To catch in a trap, to immobilize.	फंसाना (phansaana)		设陷阱	ထောင်ချောက်		
+2849	trap..snare	trap (snare)	trap	ᴛʀᴀᴘ	3320	SNARE (TRAP)	4.0		A device or enclosure designed to catch or restrain something or someone, typically used as a form of hunting. The form will differ depending on the animal for which it is meant. Multiple basic stems may occur for this concept based on such differences.	फंदा (phanda)		陷阱	ထောင်ချောက်တစ်ခု		
+2852	treasure..wealth	treasure (wealth)	treasure	ᴛʀᴇᴀꜱᴜʀᴇ	2996	WEALTH	4.0		Valuable objects or money that have been hidden or lost and are subsequently sought after.	खजाना (khazaana)		宝藏	ရတနာ		
+2854	tree	tree	tree	ᴛʀᴇᴇ	906	TREE	1.0	flora	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	पेड़ (ped)		树	သစ်ပင်		
+2855	tree::bark	treebark	treebark	ᴛʀᴇᴇʙᴀʀᴋ	1204	BARK	2.0	flora	The protective outer layer of a tree trunk composed of dead cells, often used for medicinal or decorative purposes.	छाल (chaal)		树皮	သစ်ပင်အခေါက်		
+2858	tree.:branch	branch	branch	ʙʀᴀɴᴄʜ	1531	BRANCH	2.0		A woody offshoot of a tree or shrub.	डाली		树枝	သစ်ကိုင်း		
+2861	tribe..ethnic.group	tribe (ethnic group)	tribe	ᴛʀɪʙᴇ	1549	TRIBE	4.0		Group of people linked by the same linguistic and cultural traditions that usually live far from urban areas and practice their own legal rules and have their own political system.	जनजाति		部落	နွယ်		
+2863	trousers	trousers	trousers	ᴛʀᴏᴜꜱᴇʀꜱ	809	TROUSERS	4.0		An item of clothing worn on the lower part of the body and covering both legs separately.	पतलून		裤子	ဘောင်းဘီရှည်		
+2864	true:to.be	to be true	true	ᴛʀᴜᴇ	1657	TRUE	4.0		To be accurate or true.	सही होना		正确	မှန်ရန်		
+2873	turmeric	turmeric	turmeric	ᴛᴜʀᴍᴇʀɪᴄ	2842	TURMERIC	4.0	flora	Curcuma longa, a plant in the ginger family from which the rhizomes are harvested and used to create a deep yellow spice used to colour and flavour foods.	हल्दी		姜黄	နနွင်း		
+2875	turn.around:to	to turn around	turn.around	ᴛᴜʀɴ.ᴀʀᴏᴜɴᴅ	1444	TURN AROUND	4.0		To rotate or move in the opposite direction in which one was previously facing or heading.	घूमना		转身	လှည့်ပတ်ရန်		
+2876	turn.back:to	to turn back	turn.back	ᴛᴜʀɴ.ʙᴀᴄᴋ	–	–	4.0		To reverse direction and go back to a previous point.	मुड़ना		转身	ပြန်လှည့်ရန်		
+2877	turn.over..overturn:to	to turn over (overturn)	turn.over	ᴛᴜʀɴ.ᴏᴠᴇʀ	–	–	4.0		To turn something upside down or completely over.	उलटना		翻倒	မှောက်		
+2878	turtle..tortoise	turtle (tortoise)	turtle	ᴛᴜʀᴛʟᴇ	112	TURTLE	2.0	fauna	A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.	कछुआ		龟	လိပ် သို့မဟုတ် လိပ်		
+2881	twig	twig	twig	ᴛᴡɪɢ	3222	TWIG	4.0		A small, thin branch or stem of a tree or bush.	टहनी		树枝	သစ်ကိုင်း		
+2883	twist:to	to twist	twist	ᴛᴡɪꜱᴛ	3236	TWIST (TOGETHER)	3.0		To wind several things around each other (e.g. in order to form a rope or thread).	घुमाना		扭转	လိမ်ဖို့		
+2886	umbrella	umbrella	umbrella	ᴜᴍʙʀᴇʟʟᴀ	3105	UMBRELLA	4.0		A device used to protect against rain or sunlight, consisting of a canopy on a folding metal frame.	छतरी		雨伞	ထီး		
+2904	unripe:to.be	to be unripe	unripe	ᴜɴʀɪᴘᴇ	1958	UNRIPE	1.0		Of a fruit or vegetable that has not yet fully developed.	अपका		未熟的	မမှည့်သော		
+2905	untie:to	to untie	untie	ᴜɴᴛɪᴇ	352	UNTIE	4.0		To loosen, as something interlaced or knotted; to disengage the parts of. To unbind, to free from restraint.	खोलना		解开	ဇောင်း		
+2910	urinate:to	to urinate	urinate	ᴜʀɪɴᴀᴛᴇ	–	–	4.0		To pass urine from the body.	पेशाब करना		小便	ဆီးသွားပါ။		
+2911	urine	urine	urine	ᴜʀɪɴᴇ	1142	URINE	2.0		Liquid excrement consisting of water, salts and urea, which is made in the kidneys, stored in the bladder, then released through the urethra.	मूत्र		尿	ဆီး		
+2918	valley	valley	valley	ᴠᴀʟʟᴇʏ	921	VALLEY	2.0		Any low-lying land bordered by higher ground; especially an elongate, relatively large, gently sloping depression of the Earth's surface, commonly situated between two mountains or between ranges of hills or mountains, and often containing a stream with an outlet.	घाटी (ghaati)		山谷	ချိုင့်ဝှမ်း		
+2921	vegetable	vegetable	vegetable	ᴠᴇɢᴇᴛᴀʙʟᴇ	924	VEGETABLES	4.0	flora	Any of various herbaceous plants having parts that are used as food.	सब्जी		蔬菜	ဟင်းသီးဟင်းရွက်		
+2922	vein..artery	vein (artery)	vein	ᴠᴇɪɴ			3.0								
+2924	venom	venom	venom	ᴠᴇɴᴏᴍ	–	–	4.0		A poisonous substance produced by animals, such as snakes or spiders.	विष		毒液	အဆိပ်		
+2928	village	village	village	ᴠɪʟʟᴀɢᴇ	930	VILLAGE	1.0		A small community of houses and other buildings, typically in a rural area, often organised under unified leadership and identifiable as a community.	गांव		村庄	ရွာ		
+2931	vine..creeper	vine (creeper)	vine	ᴠɪɴᴇ	343	VINE	2.0	flora	Any plant with a growth habit of trailing or climbing stems or runners. Alternatively, any type of lianas.	बेल		藤蔓	စပျစ်၊ တွား		
+2940	vomit:to	to vomit	vomit	ᴠᴏᴍɪᴛ	1278	VOMIT	1.0		To forcefully expel the contents of one's stomach through the mouth, often as a result of illness or the ingestion of harmful substances.	उल्टी करना		呕吐	အော့အန်ခြင်း။		
+2941	vulture	vulture	vulture	ᴠᴜʟᴛᴜʀᴇ	1185	VULTURE	4.0	fauna	A large bird of prey that feeds mainly on carrion or dead animals, and belonging to either the Gypaetinae or Aegypiinae subfamily of Accipitridae.	गिद्ध		秃鹫	လင်းတ		
+2946	waist	waist	waist	ᴡᴀɪꜱᴛ	1681	WAIST	2.0	body parts	The part of the body between the ribs and hips, typically the narrowest part of the torso.	कमर		腰	ခါး		
+2947	wait:to	to wait	wait	ᴡᴀɪᴛ	1590	WAIT (FOR)	4.0		To refrain from acting or moving for some duration or until some event occurs.	इंतज़ार करना		等待	စောင့်ဆိုင်းရန်		
+2948	walk:to	to walk	walk	ᴡᴀʟᴋ	1443	WALK	1.0		To move from one place to another by moving legs alternately, so that at least one foot is in contact with the floor or surface at any one time.	चलना		走路	လမ်းလျှောက်ရန်		
+2949	wall	wall	wall	ᴡᴀʟʟ	3830	WALL	3.0		A structure built to enclose or divide an area, usually made of brick or stone, but potentially other materials as well. This should be distinct from a fence.	दीवार		墙	နံရံ		
+2952	war	war	war	ᴡᴀʀ	935	WAR	4.0		A conflict or a state of hostility between two or more parties, nations or states, in which armed forces or military operations are used.	युद्ध		战争	စစ်ပွဲ		
+2954	warm:to.be	to be warm	warm	ᴡᴀʀᴍ	1232	WARM	2.0		Having a temperature slightly higher than usual, still pleasant.	गर्म होना		温暖	နွေးဖို့		
+2957	wash.:bathe:to	to bathe	bathe	ʙᴀᴛʜᴇ	138	BATHE	2.0		To clean oneself by immersion in water.	स्नान करना		洗澡	ရေချိုးရန်		
+2958	wash..general:to	to wash (general)	wash	ᴡᴀꜱʜ	1453	WASH	2.0		To remove dirt and grime from an object, using water (usually with soap).	धोना		洗	ဆေးကြောရန်		
+2959	wash.clothes:to	to wash clothes	wash.clothes	ᴡᴀꜱʜ.ᴄʟᴏᴛʜᴇꜱ	3434	WASH (CLOTHES)	2.0		To clean pieces of clothing by using water and supplementary cleansing products as a part of hygiene routine.						
+2960	wash.face:to	to wash face	wash.face	ᴡᴀꜱʜ.ꜰᴀᴄᴇ	–	–	2.0		To use water and clean one's face. This is often a distinct verb from other forms of wash.						
+2961	wash.hair:to	to wash hair	wash.hair	ᴡᴀꜱʜ.ʜᴀɪʀ			3.0								
+2964	wasp	wasp	wasp	ᴡᴀꜱᴘ	1517	WASP	4.0	fauna	Any insect which is part of the superfamily Vespoidea of the order Hymenoptera. Distinct from bees and ants, the term may occur as a compound with the general bee morpheme. This will include hornets.						
+2965	watch:to	to watch	watch	ᴡᴀᴛᴄʜ	1650	WATCH	4.0		To have one's eyes, one's attention on something or someone.	देखना		观看	စောင့်ကြည့်ရန်		
+2966	water	water	water	ᴡᴀᴛᴇʀ	948	WATER	1.0		Common liquid (H₂O) which forms rain, rivers, the sea, etc., and which makes up a large part of the bodies of organisms.						
+2967	water:drinking	drinking water	drinking.water	ᴅʀɪɴᴋɪɴɢ.ᴡᴀᴛᴇʀ	948	WATER	4.0		Water which is safe to drink, either from being from a spring or having been boiled or otherwise prepared in some way.	पानी		水	ရေ		
+2972	wave:to	to wave	wave	ᴡᴀᴠᴇ	3544	WAVE (VERB)	4.0		To move one's hand or arm in a waving motion, with or without holding something like a flag.	हिलाना		挥手	ဝှေ့ဖို့		
+2974	weak:to.be	to be weak	weak	ᴡᴇᴀᴋ	1601	WEAK	2.0		To be lacking physical strength, or lacking strength or energy such as due to fatigue.	कमजोर होना		虚弱	အားနည်းဖို့၊		
+2977	wear..of.clothes:to	to wear (of clothes)	wear	ᴡᴇᴀʀ	976	WEAR	4.0		Fix clothes on your body and carry them.	पहनना		穿	ဝတ်ဆင်ရန်		
+2978	wear..of.hat:to	to wear (of hat)	wear	ᴡᴇᴀʀ			4.0								
+2980	weave..baskets:to	to weave (baskets)	weave	ᴡᴇᴀᴠᴇ			2.0								
+2981	weave..fabric:to	to weave (fabric)	weave	ᴡᴇᴀᴠᴇ	133	WEAVE	1.0		To create a fabric by interlacing threads.	बुनना		编织	ရက်ကန်း		
+2988	weed	weed	weed	ᴡᴇᴇᴅ	3288	WEED	4.0	flora	A plant that grows wild and profusely, especially when considered undesirable for agriculture.	खुरप्पा मारना		除草	ပေါင်းပင်		
+2990	week	week	week	ᴡᴇᴇᴋ	1469	WEEK	4.0		a period of seven days						
+2991	weep..cry:to	to weep (cry)	weep	ᴡᴇᴇᴘ	1839	CRY	1.0		To shed tears in response to an emotional state, such as sadness, pain, or happiness.	रोना		哭泣	ငို၊ ငို		
+2995	well.lit:to.be	to be well lit	well.lit	ᴡᴇʟʟ.ʟɪᴛ	–	–	4.0		Illuminated with a lot of light, shining brightly.	चमकदार		明亮	တောက်ပစွာလင်း		
+2996	west	west	west	ᴡᴇꜱᴛ	1817	WEST	2.0		One of the four principal compass points, specifically 270°, conventionally directed to the left on maps. The direction of the setting sun.	पश्चिम		西	အနောက်		
+2997	wet:to.be	to be wet	wet	ᴡᴇᴛ	1726	WET	3.0		To be covered or soaked with water or other liquids.	गीला होना		湿的	စိုစွတ်ဖို့		
+3001	whistle:to	to whistle	whistle	ᴡʜɪꜱᴛʟᴇ	1025	WHISTLE	4.0		To make a sound or a melody by forcing the breath out between closed lips.	सीटी बजाना		吹口哨	လမင်း		
+3003	whole..complete	whole (complete)	whole	ᴡʜᴏʟᴇ	2277	WHOLE	4.0		Entire, not lacking anything.	पूरा		完整的	အပြည့်အစုံ		
+3004	wicked..cruel:to.be	to be wicked (cruel)	wicked	ᴡɪᴄᴋᴇᴅ	3764	BAD OR EVIL	4.0		Evil or morally wrong.	बुरा होना		邪恶的	လူဆိုး		
+3005	wide..broad	wide (broad)	wide	ᴡɪᴅᴇ	1243	WIDE	3.0		Having a large distance from one side to another, often relative to the object's length or size.	चौड़ा		宽的	ကျယ်သည်ဖြစ်စေ ကျယ်သည်		
+3006	widow	widow	widow	ᴡɪᴅᴏᴡ	1756	WIDOW	4.0		A woman whose spouse has died.	विधवा		寡妇	မုဆိုးမ		
+3007	widower	widower	widower	ᴡɪᴅᴏᴡᴇʀ	1981	WIDOWER	4.0		A man whose spouse has died.	विधुर		寡夫	မုဆိုးဖို		
+3008	wife	wife	wife	ᴡɪꜰᴇ	1199	WIFE	4.0	kinship	The female partner in a marriage.	पत्नी		妻子	မယား		
+3012	wind	wind	wind	ᴡɪɴᴅ	960	WIND	1.0		The natural movement of the air, especially in the form of a current blowing from a particular direction.	हवा		风	လေ		
+3015	wing	wing	wing	ᴡɪɴɢ	1257	WING	1.0	body parts	The appendage of a bird or insect used for flying or gliding, typically consisting of a thin, lightweight membrane stretched over a framework of bones or cartilage.	पंख		翅膀	တောင်ပံ		
+3017	winnow:to	to winnow	winnow	ᴡɪɴɴᴏᴡ	2462	WINNOWING	2.0		To separate the chaff from grain using wind or air.	झाड़ना		簸箕	လှေ့ရန်		
+3018	winter..cold.season	winter (cold season)	winter	ᴡɪɴᴛᴇʀ	1471	WINTER	3.0		The coldest season of the year, between autumn and spring.	सर्दी		冬天	ဆောင်းရာသီ		
+3019	wipe:to	to wipe	wipe	ᴡɪᴘᴇ	1454	WIPE	3.0		To move an object or utensil over a surface or other object while maintaining contact, in order that a substance be removed from its surface.	पोंछना		擦	သုတ်ရန်		
+3022	wise:to.be	to be wise	wise	ᴡɪꜱᴇ	698	WISE	4.0		Showing good judgement or the benefit of experience.	बुद्धिमान		明智的	ပညာရှိဖြစ်ရန်		
+3033	woman:old	old woman	old.woman	ᴏʟᴅ.ᴡᴏᴍᴀɴ	907	OLD WOMAN	4.0		A woman who is elderly, in the later years of the average lifespan or belonging to the oldest living generation.	बुढ़िया		老太太	မိန်းမကြီး		
+3034	woman..female.human	woman (female human)	woman	ᴡᴏᴍᴀɴ	962	WOMAN	2.0		An adult human member of the sex that produces ova and bears young.	महिला		女人	မိန်းမ		
+3037	wood	wood	wood	ᴡᴏᴏᴅ	1803	WOOD	2.0		The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.	लकड़ी		木头	သစ်သား		
+3038	woodpecker..general	woodpecker (general)	woodpecker	ᴡᴏᴏᴅᴘᴇᴄᴋᴇʀ	2447	WOODPECKER	4.0	fauna	A bird with a strong bill and stiff tail feathers, that climbs tree trunks to find insects to eat through rhythmic pecking of the tree with its beak.	कठफोड़वा		啄木鸟	ကိုက်ငှက်		
+3039	word	word	word	ᴡᴏʀᴅ	1599	WORD	4.0		A distinct unit of language (sounds in speech or written letters) with a particular meaning, composed of one or more morphemes, and also of one or more phonemes that determine its sound pattern.	शब्द		单词	စကားလုံး		
+3040	work:to	to work	work	ᴡᴏʀᴋ	984	WORK (LABOUR)	4.0		To do an activity involving mental or physical effort, for the purpose of earning money or making a living in some way.	काम करना		工作	အလုပ်လုပ်ရန်		
+3042	world..metaphysical	world (metaphysical)	world	ᴡᴏʀʟᴅ	965	WORLD	4.0		The Earth with all its inhabitants and all things upon it. Distinct from the planet itself (Earth) or the land underneath (ground).	दुनिया		世界	ကမ္ဘာ		
+3046	worm..general	worm (general)	worm	ᴡᴏʀᴍ	1219	WORM	2.0	fauna	A generally tubular invertebrate of the annelid phylum.	कीड़ा		虫子	သန်ကောင်		
+3051	wrap..cloth:to	to wrap (cloth)	wrap	ᴡʀᴀᴘ	1113	WRAP	4.0		To cover or enclose something by folding or winding a material around it, such as in wrapping a child or wrapping a wound.	लपेटना		包裹	ထုပ်ပိုးရန်		
+3056	wrist::band	wristband	wristband	ᴡʀɪꜱᴛʙᴀɴᴅ	3943	WRISTBAND	4.0		Decorative ornament on the wrist made of string, cloth or leather. Distinct from a bangle which is made of metal or other hard materials.						
+3060	yawn:to	to yawn	yawn	ʏᴀᴡɴ	1028	YAWN	4.0		To open the mouth widely and take a long, deep breath because of tiredness or boredom.	ज़्यादा से ज़्यादा साँस लेना		打哈欠	သမ်းရန်		
+3061	year	year	year	ʏᴇᴀʀ	1226	YEAR	1.0		The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	साल		年	တစ်နှစ်		
+3062	year:last	last year	last.year	ʟᴀꜱᴛ.ʏᴇᴀʀ	514	LAST YEAR	4.0		The year before the current one.						
+3063	year:next	next year	next.year	ɴᴇxᴛ.ʏᴇᴀʀ	515	NEXT YEAR	4.0		The year after the current one.	अगले साल		明年	နောက်နှစ်		
+3064	year:this	this year	this.year	ᴛʜɪꜱ.ʏᴇᴀʀ	513	THIS YEAR	4.0		The current year.						
+3067	yeast	yeast	yeast	ʏᴇᴀꜱᴛ	967	YEAST	4.0		Many species of unicellular fungi, most of which belong to the Ascomycetes and reproduce by budding. The genus Saccharomyces is used in brewing and winemaking because in low oxygen concentration it produces zymase, an enzyme system that breaks down sugars to alcohol and carbon dioxide. Saccharomyces is also used in bread-making. Some yeasts are used as a source of protein and of vitamins of the B group. (Source: ALL)	खमीर		酵母	တဆေး		
+3070	yesterday	yesterday	yesterday	ʏᴇꜱᴛᴇʀᴅᴀʏ	1174	YESTERDAY	1.0		The day before today.	कल		昨天	မနေ့က		
