@@ -64,11 +64,11 @@ An important principle of the system is that ambiguity is always avoided. Verbal
 ## Dot notation conventions
 
 ```
-:       swap items in the gloss or name
+:       swap order of items in the gloss or name
 :.      display only items to the left in the gloss or name
 .:      display only items to the right in the gloss or name
 ::      separator for semantic concept sorting
-..      drop everything after in the display. used for notes, functionally the same as :.
+..      parenthetical in name
 :::     Linnean taxonomy formatting
 ...     separate gloss form to the right of the ellipsis
 ```
