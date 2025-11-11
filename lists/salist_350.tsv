@@ -1,4 +1,4 @@
-concept_slno	concept_id	name	gloss	concept	concepticon_id	conc_name	stage	category	definition	hindi	assamese	mandarin	burmese	nagamese	comment
+slno	concept_id	name	gloss	concept	concepticon_id	concepticon_name	stage	category	definition	hindi	assamese	mandarin	burmese	nagamese	comment
 1	0001.:one	one	one	ᴏɴᴇ	1493	ONE	1.0	numbers	The default numeral for one (1). // It should not include a numeral classifier, but instead be only the bare numeral.	एक	এক	一	တစ်		
 2	0002.:two	two	two	ᴛᴡᴏ	1498	TWO	1.0	numbers	The natural number two (2). // It should not include a numeral classifier, but instead be only the bare numeral.	दो	দুই	二	နှစ်		
 3	0003.:three	three	three	ᴛʜʀᴇᴇ	492	THREE	1.0	numbers	The natural number three (3). // It should not include a numeral classifier, but instead be only the bare numeral.	तीन	তিনি	三	သုံး		
