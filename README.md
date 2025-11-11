@@ -61,7 +61,7 @@ This also allows for quick assignment or filtering for semantic categories. For 
 
 An important principle of the system is that ambiguity is always avoided. Verbal concepts should have `:to`, nouns which are homophones in English will not. Concepts such as "to cry" will be clearly disambiguated between crying out in pain `cry.out:to`, to signal someone vocally `call.out:to`, to give a war cry `war.cry:to.give`, and to weep `weep:to`. Similarly, soil, ground and earth in the metaphysical sense are all distinguished, though often may have the same term in the target language.
 
-## tags
+## Dot notation conventions
 
 ```
 :       swap items in the gloss or name
@@ -77,13 +77,10 @@ The basic table looks like this, with all **name** and **gloss** values being au
 
 | concept | name | gloss | conc_id | conc_name |
 |--------------------------|------------------------|---------------|--------:|-----------|
-| bed | bed | bed | 1663 | BED |
 | bee::hive | beehive | beehive | 88 | BEEHIVE |
 | bee.:hornet | hornet | hornet | 3261 | HORNET |
 | bee..general | bee (general) | bee | 665 | BEE |
 | big:to.be | to be big | big | 1202 | BIG |
-| bind:to | to bind | bind | | |
-| bite:to | to bite | bite | | |
 | bitter:to.be | to be bitter | bitter | 887 | BITTER |
 | blanket | blanket | blanket | 806 | BLANKET |
 | blind:to.be | to be blind | blind | | |
