@@ -31,7 +31,10 @@ Where possible, the concepts are cross-linked to those of the [CONCEPTICON](http
 
 ## Stages
 
-The concept list is divided into stages, with the shorder lists focused on concepts which may prove most useful for comparative and diagnostic purposes. The stages include 100, 350, 500, and 1000 concepts, with the full list currently containing over 2,650 concepts.
+The concept list is divided into stages, with the shorder lists focused on concepts which may prove most useful for comparative and diagnostic purposes. The stages include 30, 100, 350, 500, and 1000 concepts, with the full list currently containing over 2,650 concepts.
+
+SALIST 30 is specifically developed for the purposes of determining whether or not a given language of the region belongs to the Patkaian branch of Tibeto-Burman. SALIST 100 and above are for more general lexicostatistic comparisons and historical reconstruction.
+
 
 ## Design principles
 

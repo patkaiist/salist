@@ -1,101 +1,101 @@
 slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	category	definition	japanese	hindi	assamese	mandarin	burmese	nagamese	comment
-1	0001.:one	1493	ONE	one	one	ᴏɴᴇ	1.0	numbers	The default numeral for one (1). // It should not include a numeral classifier, but instead be only the bare numeral.	一	एक	এক	一	တစ်		
-2	0002.:two	1498	TWO	two	two	ᴛᴡᴏ	1.0	numbers	The natural number two (2). // It should not include a numeral classifier, but instead be only the bare numeral.	二	दो	দুই	二	နှစ်		
-3	0003.:three	492	THREE	three	three	ᴛʜʀᴇᴇ	1.0	numbers	The natural number three (3). // It should not include a numeral classifier, but instead be only the bare numeral.	三	तीन	তিনি	三	သုံး		
-4	0004.:four	1500	FOUR	four	four	ꜰᴏᴜʀ	1.0	numbers	The default numeral for four (4). It should not include a numeral classifier, but instead be only the bare numeral.	四	चार	চাৰি	四	လေး		
-5	0005.:five	493	FIVE	five	five	ꜰɪᴠᴇ	1.0	numbers	The default numeral for five (5). It should not include a numeral classifier, but instead be only the bare numeral.	五	पांच	পাঁচ	五	ငါး		
-6	0006.:six	1703	SIX	six	six	ꜱɪx	1.0	numbers	The natural number six (6). // It should not include a numeral classifier, but instead be only the bare numeral.	六	छह	ছয়	六	ခြောက်ခဲ့သည်		
-7	0007.:seven	1704	SEVEN	seven	seven	ꜱᴇᴠᴇɴ	1.0	numbers	The natural number seven (7). // It should not include a numeral classifier, but instead be only the bare numeral.	七	सात	সাত	七	ခုနှစ်		
-8	0008.:eight	1705	EIGHT	eight	eight	ᴇɪɢʜᴛ	1.0	numbers	The natural number eight (8). // It should not include a numeral classifier, but instead be only the bare numeral.	八	आठ	আঠ	八	ရှစ်		
-9	0009.:nine	1483	NINE	nine	nine	ɴɪɴᴇ	1.0	numbers	The default numeral for nine (9). It should not include a numeral classifier, but instead be only the bare numeral.	九	नौ	নৱ	九	ကိုး		
-10	0010.:ten	1515	TEN	ten	ten	ᴛᴇɴ	1.0	numbers	The default numeral for ten (10). It should not include a numeral classifier, but instead be only the bare numeral.	十	दस	দহ	十	ဆယ်		
-505	1.n.sg.excl	1130	WE (EXCLUSIVE)	1 n sg excl	1.n.sg.excl	1.ɴ.ꜱɢ.ᴇxᴄʟ	1.0	pronouns	Exclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.					ကျွန်တစ်ဦးတည်းနှင့်တကွ		
-506	1.n.sg.incl	1131	WE (INCLUSIVE)	1 n sg incl	1.n.sg.incl	1.ɴ.ꜱɢ.ɪɴᴄʟ	1.0	pronouns	Inclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.					ကျွန်မှာတော့		
-507	1.sg	1209	I	1 sg	1.sg	1.ꜱɢ	1.0	pronouns	The first-person singular pronominal stem, typically a reflex of PTB *ŋa or *ka.	わたし						
-512	2.n.sg	1213	YOU	2 n sg	2.n.sg	2.ɴ.ꜱɢ	1.0	pronouns	Second person non-singular pronominal stem. This will not likely have a suppletive dual counterpart.	おまえたち				သင့်တော်တို့		
-513	2.sg	1215	THOU	2 sg	2.sg	2.ꜱɢ	1.0	pronouns	The second-person singular pronominal stem, typically but not always a reflex of *naŋ.	おまえ						
-518	3.n.sg	817	THEY	3 n sg	3.n.sg	3.ɴ.ꜱɢ	1.0	pronouns	Third person non-singular pronominal stem, unmarked for gender. If gendered forms are attested they should be added under separate concepts.	彼ら，彼女ら				သူတို့		
-519	3.sg	262	HE OR SHE OR IT	3 sg	3.sg	3.ꜱɢ	1.0	pronouns	Third person singular pronominal stem. This may in some cases also be one of the demonstrative stems, as is the case in much of Bodo-Garo.	彼，彼女						
-557	alcohol:brewed	404	ALCOHOL (FERMENTED DRINK)	brewed alcohol	brewed.alcohol	ʙʀᴇᴡᴇᴅ.ᴀʟᴄᴏʜᴏʟ	1.0		A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).		सुराही दार शराब	জলকীয় দ্রব	酿造酒	အရက်ချက်		
-596	ant..general	587	ANT	ant (general)	ant	ᴀɴᴛ	1.0		Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	蟻	चींटी	পিঁপিলিকা	蚂蚁	ပုရွက်ဆိတ်		
-636	ash	646	ASH	ash	ash	ᴀꜱʜ	1.0		The powdery incombustible residue left after the burning of a substance. Additional terms for different types of ash may be present, such as the stringy ash left over from burning dry bamboo. This concept is only for the most basic powdery type, but other forms should be documented as such.	灰	राख	বলি	灰烬	ပြာ		
-667	bamboo	1927	BAMBOO	bamboo	bamboo	ʙᴀᴍʙᴏᴏ	1.0	flora	A group of woody perennial evergreen plants in the true grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae.	竹	बांस	ভেতি	竹子	ဝါး		
-691	bat..animal	1793	BAT	bat (animal)	bat	ʙᴀᴛ	1.0	fauna	A small, flying mammal in the order Chiroptera with wings consisting of skin stretched over a framework of bones, typically active at night.	蝙蝠	चमगादड़		蝙蝠	လင်းနို့		
-717	bee..general	665	BEE	bee (general)	bee	ʙᴇᴇ	1.0	fauna	Any pollenating flying insect belonging to the Anthophila clade within the order Hymenoptera. Typically having yellow and black colouring with a striped pattern on the abdoment.	蜂	मधुमक्खी		蜜蜂	ပျား		
-748	bird..general.term	937	BIRD	bird (general term)	bird	ʙɪʀᴅ	1.0	fauna	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	鳥	पक्षी		鸟	ငှက်၊ ယေဘူယျ		
-775	blood	946	BLOOD	blood	blood	ʙʟᴏᴏᴅ	1.0	body parts	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	血	रक्त		血液	သွေး		
-789	bone	1394	BONE	bone	bone	ʙᴏɴᴇ	1.0	body parts	Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.	骨	हड्डी		骨头	အရိုး		
-878	carry..child.on.back:to			to carry (child on back)	carry	ᴄᴀʀʀʏ	1.0			背負う						
-944	chili.pepper	919	CHILI PEPPER	chili pepper	chili.pepper	ᴄʜɪʟɪ.ᴘᴇᴘᴘᴇʀ	1.0	flora	Any fruit of a plant of the botanical genus Capsicum, noted for their spicy and burning flavour due to presence of capsaicin.	唐辛子	मिर्च		辣椒	ငရုတ်သီးမှုန့်		
-988	cloud..rain	1489	CLOUD	cloud (rain)	cloud	ᴄʟᴏᴜᴅ	1.0		A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.	雲	बादल		云	တိမ်တိုက်		
-1015	colour.:black:to.be	163	BLACK	to be black	black	ʙʟᴀᴄᴋ	1.0		Of the very darkest color owing to the absence of or complete absorption of light, the opposite of white.	黒い	काला		黑	အနက်ရောင်		
-1023	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	1.0	statives	A color resembling the hue of blood, fire, or a ripe tomato.	赤い	लाल		红色	အနီေရာင်		
-1024	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	1.0	statives	A color characterized by the presence of all wavelengths of visible light, often associated with purity or innocence.	白い	सफ़ेद		白色的	အဖြူ		
-1166	die:to	1494	DIE	to die	die	ᴅɪᴇ	1.0		To cease to live.	死ぬ	मरना		死	သေဖို့		
-1170	dig:to	1418	DIG	to dig	dig	ᴅɪɢ	1.0		To move earth, rocks, etc. out of the way, usually to create a hole.	掘る	खोदना		挖	တူးရန်		
-1194	dog	2009	DOG	dog	dog	ᴅᴏɢ	1.0	fauna	A domesticated carnivorous mammal, Canis familiaris, with a pointed snout, a long tail, and a coat of fur, often kept as a pet or trained for hunting or guarding.	犬	कुत्ता		狗	ခွေး		
-1210	dream:to	1920	DREAM (SOMETHING)	to dream	dream	ᴅʀᴇᴀᴍ	1.0		To experience a series of images, thoughts, and sensations during sleep, often accompanied by emotions and creating a sense of reality.	夢を見る	सपना देखना		做梦	အိပ်မက်မက်ဖို့		
-1315	eye	1248	EYE	eye	eye	ᴇʏᴇ	1.0	body parts	The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals and humans see.	目	आँख		眼睛	မျက်လုံး		
-1346	father	1217	FATHER	father	father	ꜰᴀᴛʜᴇʀ	1.0		A male parent.	父	पिता		父亲	အဖေ		
-1389	finger	1303	FINGER	finger	finger	ꜰɪɴɢᴇʀ	1.0	body parts	One of the long extremities of the hand that is used for gripping objects.	指	उंगली	আঙুল	手指	လက်ညှိုး		
-1399	fire	221	FIRE	fire	fire	ꜰɪʀᴇ	1.0		The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	火	आग		火	မီး		
-1407	fish	227	FISH	fish	fish	ꜰɪꜱʜ	1.0	fauna	A cold-blooded vertebrate animal that lives in water that moves with the help of fins and breathes using gills (Pisces).	魚	मछली		鱼	ငါး		
-1441	fly:to	1441	FLY (MOVE THROUGH AIR)	to fly	fly	ꜰʟʏ	1.0		To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	飛ぶ	उड़ना		飞	ပျံသန်းရန်		
-1474	frog	503	FROG	frog	frog	ꜰʀᴏɢ	1.0		Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	蛙	मेंढक		青蛙	ဖား		
-1505	ginger	2500	GINGER	ginger	ginger	ɢɪɴɢᴇʀ	1.0	flora	A herbaceous perennial which grows annual stems about a meter tall bearing narrow green leaves and yellow flowers.	生姜	अदरक		姜	ဂျင်း		
-1508	give:to	1447	GIVE	to give	give	ɢɪᴠᴇ	1.0		To transfer the possession or holding (of an object) to another person.	与える	देना		给	ပေးရန်		
-1614	head	1256	HEAD	head	head	ʜᴇᴀᴅ	1.0	body parts	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	頭	सिर		头	ခေါင်း		
-1625	heart	1223	HEART	heart	heart	ʜᴇᴀʀᴛ	1.0	body parts	A muscular organ that pumps blood through the body.	心臓	दिल		心脏	နှလုံး		
-1627	heavy:to.be	1210	HEAVY	to be heavy	heavy	ʜᴇᴀᴠʏ	1.0		Of a physical object, having great weight.	重い	भारी होना		重	လေးလံဖို့၊		
-1670	horn..of.animal	1393	HORN (ANATOMY)	horn (of animal)	horn	ʜᴏʀɴ	1.0	body parts	A hard growth of keratin that protrudes from the top of the head of certain animals.	角	सींग		角	ဦးချို		
-1688	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	1.0		A building for human habitation, especially one that is lived in by a family or small group of people.	家	घर		房子	အိမ်		
-1753	iron	621	IRON	iron	iron	ɪʀᴏɴ	1.0		A malleable ductile silvery-white ferromagnetic metallic element with symbol Fe and atomic number 26, occurring principally in haematite and magnetite. It is widely used for structural and engineering purposes.	鉄	लोहा		铁	သံ		
-1812	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	1.0		A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	ことば	भाषा		语言	ဘာသာစကား		
-1837	leech:terrestrial	2273	LEECH	terrestrial leech	terrestrial.leech	ᴛᴇʀʀᴇꜱᴛʀɪᴀʟ.ʟᴇᴇᴄʜ	1.0	fauna	Segmented worms that belong to the phylum Annelida and comprise the subclass Hirudinea.	蛭	ज़मीनी जुएँ		陆寄生	ကုန်းနေ မျှော့		
-1843	leg.:foot	1301	FOOT	foot	foot	ꜰᴏᴏᴛ	1.0	body parts	The part of a human’s body below the ankle that is used in order to stand and walk.	足	पैर		脚	ခြေ		
-1871	lightweight:to.be	1052	LIGHT (WEIGHT)	to be lightweight	lightweight	ʟɪɢʜᴛᴡᴇɪɢʜᴛ	1.0		With a small mass, little weight or density; the opposite of heavy.	軽い	हल्का होना		轻巧	ပေါ့ပါးစေရန်		
-2011	moon	1313	MOON	moon	moon	ᴍᴏᴏɴ	1.0		A natural satellite of a planet.	月	चांद		月亮	လ		
-2024	mother	1216	MOTHER	mother	mother	ᴍᴏᴛʜᴇʀ	1.0		A woman who has at least one child.	母	मां		母亲	အမေ		
-2030	mountain	639	MOUNTAIN	mountain	mountain	ᴍᴏᴜɴᴛᴀɪɴ	1.0		A feature of the earth's surface that rises high above the base and has generally steep slopes and a relatively small summit area.	山	पर्वत		山	တောင်		
-2075	neck	1333	NECK	neck	neck	ɴᴇᴄᴋ	1.0	body parts	The part of the body (found in some animals, including humans) that connects the head and the trunk.	首	गला	ঘাল	脖子	လည်ပင်း		
-2104	nose	1221	NOSE	nose	nose	ɴᴏꜱᴇ	1.0	body parts	The organ of the face used to breath and smell.	鼻	नाक		鼻子	နှာခေါင်း		
-2223	person..human	683	PERSON	person (human)	person	ᴘᴇʀꜱᴏɴ	1.0		A human being.	人間	व्यक्ति		人	လူ		
-2246	pig..general	1337	PIG	pig (general)	pig	ᴘɪɢ	1.0	fauna	A common, four-legged animal (Sus scrofa) that has cloven hooves, bristles and a nose adapted for digging and is farmed by humans for its meat.	豚	सूअर		猪	ဝက်		
-2308	pot:cooking	1462	POT	cooking pot	cooking.pot	ᴄᴏᴏᴋɪɴɢ.ᴘᴏᴛ	1.0		A vessel used for cooking or storing food or liquids.	つぼ	पतीला		烹饪锅	ဟင်းချက်အိုး		
-2371	rain	1253	RAIN (RAINING)	rain	rain	ʀᴀɪɴ	1.0			雨						
-2415	rice:cooked	1191	COOKED RICE	cooked rice	cooked.rice	ᴄᴏᴏᴋᴇᴅ.ʀɪᴄᴇ	1.0	rice	Rice that has been prepared by boiling or steaming until it is soft and edible.	ご飯	भात		熟饭	ထမင်း		
-2440	ripe:to.be	178	RIPE	to be ripe	ripe	ʀɪᴘᴇ	1.0		To be fully developed or mature, and ready to be eaten or used.	熟する	पकना		成熟	မှည့်ရန်		
-2442	river	666	RIVER	river	river	ʀɪᴠᴇʀ	1.0		A stream of water which flows in a channel from high ground to low ground and ultimately to a lake or the sea, except in a desert area where it may dwindle away to nothing.	川	नदी		河流	မြစ်		
-2458	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	1.0	flora	The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.	根	जड़		根	အမြစ်		
-2488	salt	1274	SALT	salt	salt	ꜱᴀʟᴛ	1.0		A crystalline substance consisting of sodium and chlorine, used for seasoning or preserving food, or for a variety of other industrial and household purposes.	塩	नमक		盐	ဆားငန်		
-2534	seed	714	SEED	seed	seed	ꜱᴇᴇᴅ	1.0	flora	A mature fertilized plant ovule, consisting of an embryo and its food store surrounded by a protective seed coat (testa).	種	बीज		种子	မျိုးစေ့		
-2582	shoot..arrow:to	1172	SHOOT	to shoot (arrow)	shoot	ꜱʜᴏᴏᴛ	1.0		To fire a shot from a firearm, bow or other weapon.	撃つ	गोली चलाना		射击	ပစ်ရန်		
-2589	short..length:to.be	1645	SHORT	to be short (length)	short	ꜱʜᴏʀᴛ	1.0		Small in length by comparison.	短い	छोटा होना		短	အတိုအရှည်ဖြစ်ရမည်။		
-2620	sit:to	1416	SIT	to sit	sit	ꜱɪᴛ	1.0		To be in a position with the upper body upright and the legs resting.	座る	बैठना		坐	ထိုင်ရန်		
-2624	skin	763	SKIN	skin	skin	ꜱᴋɪɴ	1.0	body parts	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	皮膚	त्वचा		皮肤	အရေပြား		
-2637	sleep:to	1585	SLEEP	to sleep	sleep	ꜱʟᴇᴇᴘ	1.0		To rest in a state of decreased consciousness and reduced metabolism.	眠る	सोना		睡觉	အိပ်ရန်		
-2658	smoke	778	SMOKE (EXHAUST)	smoke	smoke	ꜱᴍᴏᴋᴇ	1.0		An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	煙	धुआं		烟	မီးခိုး		
-2665	snake	730	SNAKE	snake	snake	ꜱɴᴀᴋᴇ	1.0	fauna	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	蛇	साँप		蛇	မြွေ		
-2705	spear	945	SPEAR	spear	spear	ꜱᴘᴇᴀʀ	1.0		a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.	槍	भाला		矛	လှံ		
-2750	stand..remain.standing:to	1442	STAND	to stand (remain standing)	stand	ꜱᴛᴀɴᴅ	1.0		To assume an upright position on one's feet, often with the intention of remaining stationary for a period of time.	立つ	खड़े रहना		站	ရပ်တည်ရန်		
-2752	star	1430	STAR	star	star	ꜱᴛᴀʀ	1.0		A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	星	तारा		星星	ကြယ်ပွင့်		
-2779	stone	857	STONE	stone	stone	ꜱᴛᴏɴᴇ	1.0		A hard, naturally occurring mineral material often used for building, sculpture, or paving.	石	पत्थर		石头	ကျောက်		
-2816	sun	1343	SUN	sun	sun	ꜱᴜɴ	1.0		The particular star at the centre of our solar system, from which the Earth gets light and heat.	太陽	सूरज		太阳	နေ		
-2855	tail	1220	TAIL	tail	tail	ᴛᴀɪʟ	1.0	body parts	The appendage of an animal that is attached to its posterior and near the anus.	尻尾	पूंछ		尾巴	အမြီး		
-2927	thunder	1150	THUNDER	thunder	thunder	ᴛʜᴜɴᴅᴇʀ	1.0		The large booming sound in the sky during storms, as caused by lightning heating the air around it to a very high temperature, causing it to rapidly expand and contract.	雷	गरज (garaj)		雷	မိုးကြိုး		
-2937	tiger	846	TIGER	tiger	tiger	ᴛɪɢᴇʀ	1.0	fauna	Panthera tigris. A large, carnivorous feline with distinctive orange and black stripes. This concept may be understood by speakers as any large cat belonging to the genus Panthera, so care must be taken to avoid ambiguity.	虎	बाघ		老虎	ကျား		
-2956	tomorrow	1329	TOMORROW	tomorrow	tomorrow	ᴛᴏᴍᴏʀʀᴏᴡ	1.0		The day after the present day.	明日	कल (kal)		明天	မနက်ဖြန်		
-2959	tongue	1205	TONGUE	tongue	tongue	ᴛᴏɴɢᴜᴇ	1.0	body parts	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	舌	जीभ (jibh)		舌头	လျှာ		
-2965	tooth..general	1380	TOOTH	tooth (general)	tooth	ᴛᴏᴏᴛʜ	1.0	body parts	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.	歯	दाँत (daant)		牙齿	သွား		
-2997	tree	906	TREE	tree	tree	ᴛʀᴇᴇ	1.0	flora	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	木	पेड़ (ped)		树	သစ်ပင်		
-3050	unripe:to.be	1958	UNRIPE	to be unripe	unripe	ᴜɴʀɪᴘᴇ	1.0		Of a fruit or vegetable that has not yet fully developed.		अपका		未熟的	မမှည့်သော		
-3077	village	930	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	1.0		A small community of houses and other buildings, typically in a rural area, often organised under unified leadership and identifiable as a community.	村	गांव		村庄	ရွာ		
-3090	vomit:to	1278	VOMIT	to vomit	vomit	ᴠᴏᴍɪᴛ	1.0		To forcefully expel the contents of one's stomach through the mouth, often as a result of illness or the ingestion of harmful substances.	吐く	उल्टी करना		呕吐	အော့အန်ခြင်း။		
-3099	walk:to	1443	WALK	to walk	walk	ᴡᴀʟᴋ	1.0		To move from one place to another by moving legs alternately, so that at least one foot is in contact with the floor or surface at any one time.	歩く	चलना		走路	လမ်းလျှောက်ရန်		
-3117	water	948	WATER	water	water	ᴡᴀᴛᴇʀ	1.0		Common liquid (H₂O) which forms rain, rivers, the sea, etc., and which makes up a large part of the bodies of organisms.	水						
-3135	weave..fabric:to	133	WEAVE	to weave (fabric)	weave	ᴡᴇᴀᴠᴇ	1.0		To create a fabric by interlacing threads.	織る	बुनना		编织	ရက်ကန်း		
-3145	weep..cry:to	1839	CRY	to weep (cry)	weep	ᴡᴇᴇᴘ	1.0		To shed tears in response to an emotional state, such as sadness, pain, or happiness.	泣く	रोना		哭泣	ငို၊ ငို		
-3170	wind	960	WIND	wind	wind	ᴡɪɴᴅ	1.0		The natural movement of the air, especially in the form of a current blowing from a particular direction.	風	हवा		风	လေ		
-3173	wing	1257	WING	wing	wing	ᴡɪɴɢ	1.0	body parts	The appendage of a bird or insect used for flying or gliding, typically consisting of a thin, lightweight membrane stretched over a framework of bones or cartilage.	翼	पंख		翅膀	တောင်ပံ		
-3220	year	1226	YEAR	year	year	ʏᴇᴀʀ	1.0		The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	年	साल		年	တစ်နှစ်		
-3229	yesterday	1174	YESTERDAY	yesterday	yesterday	ʏᴇꜱᴛᴇʀᴅᴀʏ	1.0		The day before today.	昨日	कल		昨天	မနေ့က		
+1	0001.:one	1493	ONE	one	one	ᴏɴᴇ	1	numbers	The default numeral for one (1). // It should not include a numeral classifier, but instead be only the bare numeral.	一	एक	এক	一	တစ်		
+2	0002.:two	1498	TWO	two	two	ᴛᴡᴏ	1	numbers	The natural number two (2). // It should not include a numeral classifier, but instead be only the bare numeral.	二	दो	দুই	二	နှစ်		
+3	0003.:three	492	THREE	three	three	ᴛʜʀᴇᴇ	1	numbers	The natural number three (3). // It should not include a numeral classifier, but instead be only the bare numeral.	三	तीन	তিনি	三	သုံး		
+4	0004.:four	1500	FOUR	four	four	ꜰᴏᴜʀ	1	numbers	The default numeral for four (4). It should not include a numeral classifier, but instead be only the bare numeral.	四	चार	চাৰি	四	လေး		
+5	0005.:five	493	FIVE	five	five	ꜰɪᴠᴇ	1	numbers	The default numeral for five (5). It should not include a numeral classifier, but instead be only the bare numeral.	五	पांच	পাঁচ	五	ငါး		
+6	0006.:six	1703	SIX	six	six	ꜱɪx	1	numbers	The natural number six (6). // It should not include a numeral classifier, but instead be only the bare numeral.	六	छह	ছয়	六	ခြောက်ခဲ့သည်		
+7	0007.:seven	1704	SEVEN	seven	seven	ꜱᴇᴠᴇɴ	1	numbers	The natural number seven (7). // It should not include a numeral classifier, but instead be only the bare numeral.	七	सात	সাত	七	ခုနှစ်		
+8	0008.:eight	1705	EIGHT	eight	eight	ᴇɪɢʜᴛ	1	numbers	The natural number eight (8). // It should not include a numeral classifier, but instead be only the bare numeral.	八	आठ	আঠ	八	ရှစ်		
+9	0009.:nine	1483	NINE	nine	nine	ɴɪɴᴇ	1	numbers	The default numeral for nine (9). It should not include a numeral classifier, but instead be only the bare numeral.	九	नौ	নৱ	九	ကိုး		
+10	0010.:ten	1515	TEN	ten	ten	ᴛᴇɴ	0	numbers	The default numeral for ten (10). It should not include a numeral classifier, but instead be only the bare numeral.	十	दस	দহ	十	ဆယ်		
+505	1.n.sg.excl	1130	WE (EXCLUSIVE)	1 n sg excl	1.n.sg.excl	1.ɴ.ꜱɢ.ᴇxᴄʟ	1	pronouns	Exclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.					ကျွန်တစ်ဦးတည်းနှင့်တကွ		
+506	1.n.sg.incl	1131	WE (INCLUSIVE)	1 n sg incl	1.n.sg.incl	1.ɴ.ꜱɢ.ɪɴᴄʟ	1	pronouns	Inclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.					ကျွန်မှာတော့		
+507	1.sg	1209	I	1 sg	1.sg	1.ꜱɢ	1	pronouns	The first-person singular pronominal stem, typically a reflex of PTB *ŋa or *ka.	わたし						
+512	2.n.sg	1213	YOU	2 n sg	2.n.sg	2.ɴ.ꜱɢ	1	pronouns	Second person non-singular pronominal stem. This will not likely have a suppletive dual counterpart.	おまえたち				သင့်တော်တို့		
+513	2.sg	1215	THOU	2 sg	2.sg	2.ꜱɢ	1	pronouns	The second-person singular pronominal stem, typically but not always a reflex of *naŋ.	おまえ						
+518	3.n.sg	817	THEY	3 n sg	3.n.sg	3.ɴ.ꜱɢ	1	pronouns	Third person non-singular pronominal stem, unmarked for gender. If gendered forms are attested they should be added under separate concepts.	彼ら，彼女ら				သူတို့		
+519	3.sg	262	HE OR SHE OR IT	3 sg	3.sg	3.ꜱɢ	1	pronouns	Third person singular pronominal stem. This may in some cases also be one of the demonstrative stems, as is the case in much of Bodo-Garo.	彼，彼女						
+557	alcohol:brewed	404	ALCOHOL (FERMENTED DRINK)	brewed alcohol	brewed.alcohol	ʙʀᴇᴡᴇᴅ.ᴀʟᴄᴏʜᴏʟ	1		A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).		सुराही दार शराब	জলকীয় দ্রব	酿造酒	အရက်ချက်		
+596	ant..general	587	ANT	ant (general)	ant	ᴀɴᴛ	1		Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	蟻	चींटी	পিঁপিলিকা	蚂蚁	ပုရွက်ဆိတ်		
+636	ash	646	ASH	ash	ash	ᴀꜱʜ	1		The powdery incombustible residue left after the burning of a substance. Additional terms for different types of ash may be present, such as the stringy ash left over from burning dry bamboo. This concept is only for the most basic powdery type, but other forms should be documented as such.	灰	राख	বলি	灰烬	ပြာ		
+667	bamboo	1927	BAMBOO	bamboo	bamboo	ʙᴀᴍʙᴏᴏ	1	flora	A group of woody perennial evergreen plants in the true grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae.	竹	बांस	ভেতি	竹子	ဝါး		
+691	bat..animal	1793	BAT	bat (animal)	bat	ʙᴀᴛ	1	fauna	A small, flying mammal in the order Chiroptera with wings consisting of skin stretched over a framework of bones, typically active at night.	蝙蝠	चमगादड़		蝙蝠	လင်းနို့		
+717	bee..general	665	BEE	bee (general)	bee	ʙᴇᴇ	0	fauna	Any pollenating flying insect belonging to the Anthophila clade within the order Hymenoptera. Typically having yellow and black colouring with a striped pattern on the abdoment.	蜂	मधुमक्खी		蜜蜂	ပျား		
+748	bird..general.term	937	BIRD	bird (general term)	bird	ʙɪʀᴅ	1	fauna	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	鳥	पक्षी		鸟	ငှက်၊ ယေဘူယျ		
+775	blood	946	BLOOD	blood	blood	ʙʟᴏᴏᴅ	0	body parts	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	血	रक्त		血液	သွေး		
+789	bone	1394	BONE	bone	bone	ʙᴏɴᴇ	1	body parts	Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.	骨	हड्डी		骨头	အရိုး		
+825	bridge	1011	BRIDGE	bridge	bridge	ʙʀɪᴅɢᴇ	0		A structure that spans and provides a passage over a road, railway, river, or some other obstacle.	橋	पुल		桥	တံတား		
+944	chili.pepper	919	CHILI PEPPER	chili pepper	chili.pepper	ᴄʜɪʟɪ.ᴘᴇᴘᴘᴇʀ	1	flora	Any fruit of a plant of the botanical genus Capsicum, noted for their spicy and burning flavour due to presence of capsaicin.	唐辛子	मिर्च		辣椒	ငရုတ်သီးမှုန့်		
+988	cloud..rain	1489	CLOUD	cloud (rain)	cloud	ᴄʟᴏᴜᴅ	1		A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.	雲	बादल		云	တိမ်တိုက်		
+1015	colour.:black:to.be	163	BLACK	to be black	black	ʙʟᴀᴄᴋ	0		Of the very darkest color owing to the absence of or complete absorption of light, the opposite of white.	黒い	काला		黑	အနက်ရောင်		
+1023	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	0	statives	A color resembling the hue of blood, fire, or a ripe tomato.	赤い	लाल		红色	အနီေရာင်		
+1024	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	0	statives	A color characterized by the presence of all wavelengths of visible light, often associated with purity or innocence.	白い	सफ़ेद		白色的	အဖြူ		
+1166	die:to	1494	DIE	to die	die	ᴅɪᴇ	1		To cease to live.	死ぬ	मरना		死	သေဖို့		
+1170	dig:to	1418	DIG	to dig	dig	ᴅɪɢ	1		To move earth, rocks, etc. out of the way, usually to create a hole.	掘る	खोदना		挖	တူးရန်		
+1210	dream:to	1920	DREAM (SOMETHING)	to dream	dream	ᴅʀᴇᴀᴍ	1		To experience a series of images, thoughts, and sensations during sleep, often accompanied by emotions and creating a sense of reality.	夢を見る	सपना देखना		做梦	အိပ်မက်မက်ဖို့		
+1214	drink:to	1401	DRINK	to drink	drink	ᴅʀɪɴᴋ	0		To consume a liquid through the mouth.	飲む	पीना		喝	သောက်ရန်		
+1315	eye	1248	EYE	eye	eye	ᴇʏᴇ	0	body parts	The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals and humans see.	目	आँख		眼睛	မျက်လုံး		
+1346	father	1217	FATHER	father	father	ꜰᴀᴛʜᴇʀ	1		A male parent.	父	पिता		父亲	အဖေ		
+1389	finger	1303	FINGER	finger	finger	ꜰɪɴɢᴇʀ	1	body parts	One of the long extremities of the hand that is used for gripping objects.	指	उंगली	আঙুল	手指	လက်ညှိုး		
+1399	fire	221	FIRE	fire	fire	ꜰɪʀᴇ	0		The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	火	आग		火	မီး		
+1438	flower	239	FLOWER	flower	flower	ꜰʟᴏᴡᴇʀ	0	flora	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	花	फूल		花	ပန်း		
+1441	fly:to	1441	FLY (MOVE THROUGH AIR)	to fly	fly	ꜰʟʏ	1		To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	飛ぶ	उड़ना		飞	ပျံသန်းရန်		
+1478	fruit	1507	FRUIT	fruit	fruit	ꜰʀᴜɪᴛ	0	flora	The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.	実	फल		水果	အသီး		
+1505	ginger	2500	GINGER	ginger	ginger	ɢɪɴɢᴇʀ	1	flora	A herbaceous perennial which grows annual stems about a meter tall bearing narrow green leaves and yellow flowers.	生姜	अदरक		姜	ဂျင်း		
+1508	give:to	1447	GIVE	to give	give	ɢɪᴠᴇ	1		To transfer the possession or holding (of an object) to another person.	与える	देना		给	ပေးရန်		
+1598	hand..arm	1277	HAND	hand (arm)	hand	ʜᴀɴᴅ	0	body parts	That part of the fore limb below the forearm or wrist in primates (including humans).	手	हाथ	হাত	手	လက်		
+1614	head	1256	HEAD	head	head	ʜᴇᴀᴅ	0	body parts	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	頭	सिर		头	ခေါင်း		
+1625	heart	1223	HEART	heart	heart	ʜᴇᴀʀᴛ	1	body parts	A muscular organ that pumps blood through the body.	心臓	दिल		心脏	နှလုံး		
+1627	heavy:to.be	1210	HEAVY	to be heavy	heavy	ʜᴇᴀᴠʏ	1		Of a physical object, having great weight.	重い	भारी होना		重	လေးလံဖို့၊		
+1670	horn..of.animal	1393	HORN (ANATOMY)	horn (of animal)	horn	ʜᴏʀɴ	1	body parts	A hard growth of keratin that protrudes from the top of the head of certain animals.	角	सींग		角	ဦးချို		
+1688	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	0		A building for human habitation, especially one that is lived in by a family or small group of people.	家	घर		房子	အိမ်		
+1753	iron	621	IRON	iron	iron	ɪʀᴏɴ	1		A malleable ductile silvery-white ferromagnetic metallic element with symbol Fe and atomic number 26, occurring principally in haematite and magnetite. It is widely used for structural and engineering purposes.	鉄	लोहा		铁	သံ		
+1812	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	0		A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	ことば	भाषा		语言	ဘာသာစကား		
+1837	leech:terrestrial	2273	LEECH	terrestrial leech	terrestrial.leech	ᴛᴇʀʀᴇꜱᴛʀɪᴀʟ.ʟᴇᴇᴄʜ	1	fauna	Segmented worms that belong to the phylum Annelida and comprise the subclass Hirudinea.	蛭	ज़मीनी जुएँ		陆寄生	ကုန်းနေ မျှော့		
+1843	leg.:foot	1301	FOOT	foot	foot	ꜰᴏᴏᴛ	1	body parts	The part of a human’s body below the ankle that is used in order to stand and walk.	足	पैर		脚	ခြေ		
+1871	lightweight:to.be	1052	LIGHT (WEIGHT)	to be lightweight	lightweight	ʟɪɢʜᴛᴡᴇɪɢʜᴛ	1		With a small mass, little weight or density; the opposite of heavy.	軽い	हल्का होना		轻巧	ပေါ့ပါးစေရန်		
+1910	louse	1392	LOUSE	louse	louse	ʟᴏᴜꜱᴇ	0	fauna	A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.	虱	जूं		虱子	ကြွက်		
+2011	moon	1313	MOON	moon	moon	ᴍᴏᴏɴ	0		A natural satellite of a planet.	月	चांद		月亮	လ		
+2024	mother	1216	MOTHER	mother	mother	ᴍᴏᴛʜᴇʀ	0		A woman who has at least one child.	母	मां		母亲	အမေ		
+2104	nose	1221	NOSE	nose	nose	ɴᴏꜱᴇ	1	body parts	The organ of the face used to breath and smell.	鼻	नाक		鼻子	နှာခေါင်း		
+2223	person..human	683	PERSON	person (human)	person	ᴘᴇʀꜱᴏɴ	0		A human being.	人間	व्यक्ति		人	လူ		
+2246	pig..general	1337	PIG	pig (general)	pig	ᴘɪɢ	1	fauna	A common, four-legged animal (Sus scrofa) that has cloven hooves, bristles and a nose adapted for digging and is farmed by humans for its meat.	豚	सूअर		猪	ဝက်		
+2308	pot:cooking	1462	POT	cooking pot	cooking.pot	ᴄᴏᴏᴋɪɴɢ.ᴘᴏᴛ	1		A vessel used for cooking or storing food or liquids.	つぼ	पतीला		烹饪锅	ဟင်းချက်အိုး		
+2371	rain	1253	RAIN (RAINING)	rain	rain	ʀᴀɪɴ	1			雨						
+2415	rice:cooked	1191	COOKED RICE	cooked rice	cooked.rice	ᴄᴏᴏᴋᴇᴅ.ʀɪᴄᴇ	1	rice	Rice that has been prepared by boiling or steaming until it is soft and edible.	ご飯	भात		熟饭	ထမင်း		
+2440	ripe:to.be	178	RIPE	to be ripe	ripe	ʀɪᴘᴇ	1		To be fully developed or mature, and ready to be eaten or used.	熟する	पकना		成熟	မှည့်ရန်		
+2442	river	666	RIVER	river	river	ʀɪᴠᴇʀ	1		A stream of water which flows in a channel from high ground to low ground and ultimately to a lake or the sea, except in a desert area where it may dwindle away to nothing.	川	नदी		河流	မြစ်		
+2458	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	1	flora	The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.	根	जड़		根	အမြစ်		
+2488	salt	1274	SALT	salt	salt	ꜱᴀʟᴛ	0		A crystalline substance consisting of sodium and chlorine, used for seasoning or preserving food, or for a variety of other industrial and household purposes.	塩	नमक		盐	ဆားငန်		
+2534	seed	714	SEED	seed	seed	ꜱᴇᴇᴅ	1	flora	A mature fertilized plant ovule, consisting of an embryo and its food store surrounded by a protective seed coat (testa).	種	बीज		种子	မျိုးစေ့		
+2582	shoot..arrow:to	1172	SHOOT	to shoot (arrow)	shoot	ꜱʜᴏᴏᴛ	1		To fire a shot from a firearm, bow or other weapon.	撃つ	गोली चलाना		射击	ပစ်ရန်		
+2589	short..length:to.be	1645	SHORT	to be short (length)	short	ꜱʜᴏʀᴛ	1		Small in length by comparison.	短い	छोटा होना		短	အတိုအရှည်ဖြစ်ရမည်။		
+2620	sit:to	1416	SIT	to sit	sit	ꜱɪᴛ	1		To be in a position with the upper body upright and the legs resting.	座る	बैठना		坐	ထိုင်ရန်		
+2624	skin	763	SKIN	skin	skin	ꜱᴋɪɴ	1	body parts	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	皮膚	त्वचा		皮肤	အရေပြား		
+2637	sleep:to	1585	SLEEP	to sleep	sleep	ꜱʟᴇᴇᴘ	0		To rest in a state of decreased consciousness and reduced metabolism.	眠る	सोना		睡觉	အိပ်ရန်		
+2658	smoke	778	SMOKE (EXHAUST)	smoke	smoke	ꜱᴍᴏᴋᴇ	1		An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	煙	धुआं		烟	မီးခိုး		
+2665	snake	730	SNAKE	snake	snake	ꜱɴᴀᴋᴇ	0	fauna	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	蛇	साँप		蛇	မြွေ		
+2705	spear	945	SPEAR	spear	spear	ꜱᴘᴇᴀʀ	1		a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.	槍	भाला		矛	လှံ		
+2750	stand..remain.standing:to	1442	STAND	to stand (remain standing)	stand	ꜱᴛᴀɴᴅ	1		To assume an upright position on one's feet, often with the intention of remaining stationary for a period of time.	立つ	खड़े रहना		站	ရပ်တည်ရန်		
+2752	star	1430	STAR	star	star	ꜱᴛᴀʀ	1		A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	星	तारा		星星	ကြယ်ပွင့်		
+2779	stone	857	STONE	stone	stone	ꜱᴛᴏɴᴇ	1		A hard, naturally occurring mineral material often used for building, sculpture, or paving.	石	पत्थर		石头	ကျောက်		
+2816	sun	1343	SUN	sun	sun	ꜱᴜɴ	0		The particular star at the centre of our solar system, from which the Earth gets light and heat.	太陽	सूरज		太阳	နေ		
+2855	tail	1220	TAIL	tail	tail	ᴛᴀɪʟ	1	body parts	The appendage of an animal that is attached to its posterior and near the anus.	尻尾	पूंछ		尾巴	အမြီး		
+2916	thorn	124	THORN	thorn	thorn	ᴛʜᴏʀɴ	0	flora	A sharp, pointed projection on the stem or branch of a plant, developed as a form of defence from grazing animals.	棘	कांटा		刺	ဆူး		
+2927	thunder	1150	THUNDER	thunder	thunder	ᴛʜᴜɴᴅᴇʀ	1		The large booming sound in the sky during storms, as caused by lightning heating the air around it to a very high temperature, causing it to rapidly expand and contract.	雷	गरज (garaj)		雷	မိုးကြိုး		
+2937	tiger	846	TIGER	tiger	tiger	ᴛɪɢᴇʀ	1	fauna	Panthera tigris. A large, carnivorous feline with distinctive orange and black stripes. This concept may be understood by speakers as any large cat belonging to the genus Panthera, so care must be taken to avoid ambiguity.	虎	बाघ		老虎	ကျား		
+2956	tomorrow	1329	TOMORROW	tomorrow	tomorrow	ᴛᴏᴍᴏʀʀᴏᴡ	1		The day after the present day.	明日	कल (kal)		明天	မနက်ဖြန်		
+2959	tongue	1205	TONGUE	tongue	tongue	ᴛᴏɴɢᴜᴇ	1	body parts	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	舌	जीभ (jibh)		舌头	လျှာ		
+2997	tree	906	TREE	tree	tree	ᴛʀᴇᴇ	0	flora	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	木	पेड़ (ped)		树	သစ်ပင်		
+3050	unripe:to.be	1958	UNRIPE	to be unripe	unripe	ᴜɴʀɪᴘᴇ	1		Of a fruit or vegetable that has not yet fully developed.		अपका		未熟的	မမှည့်သော		
+3077	village	930	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	0		A small community of houses and other buildings, typically in a rural area, often organised under unified leadership and identifiable as a community.	村	गांव		村庄	ရွာ		
+3090	vomit:to	1278	VOMIT	to vomit	vomit	ᴠᴏᴍɪᴛ	1		To forcefully expel the contents of one's stomach through the mouth, often as a result of illness or the ingestion of harmful substances.	吐く	उल्टी करना		呕吐	အော့အန်ခြင်း။		
+3099	walk:to	1443	WALK	to walk	walk	ᴡᴀʟᴋ	1		To move from one place to another by moving legs alternately, so that at least one foot is in contact with the floor or surface at any one time.	歩く	चलना		走路	လမ်းလျှောက်ရန်		
+3117	water	948	WATER	water	water	ᴡᴀᴛᴇʀ	0		Common liquid (H₂O) which forms rain, rivers, the sea, etc., and which makes up a large part of the bodies of organisms.	水						
+3135	weave..fabric:to	133	WEAVE	to weave (fabric)	weave	ᴡᴇᴀᴠᴇ	1		To create a fabric by interlacing threads.	織る	बुनना		编织	ရက်ကန်း		
+3145	weep..cry:to	1839	CRY	to weep (cry)	weep	ᴡᴇᴇᴘ	0		To shed tears in response to an emotional state, such as sadness, pain, or happiness.	泣く	रोना		哭泣	ငို၊ ငို		
+3170	wind	960	WIND	wind	wind	ᴡɪɴᴅ	1		The natural movement of the air, especially in the form of a current blowing from a particular direction.	風	हवा		风	လေ		
+3173	wing	1257	WING	wing	wing	ᴡɪɴɢ	1	body parts	The appendage of a bird or insect used for flying or gliding, typically consisting of a thin, lightweight membrane stretched over a framework of bones or cartilage.	翼	पंख		翅膀	တောင်ပံ		
+3220	year	1226	YEAR	year	year	ʏᴇᴀʀ	0		The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	年	साल		年	တစ်နှစ်		
+3229	yesterday	1174	YESTERDAY	yesterday	yesterday	ʏᴇꜱᴛᴇʀᴅᴀʏ	1		The day before today.	昨日	कल		昨天	မနေ့က		

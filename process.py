@@ -4,12 +4,14 @@ import os
 def process_concepts():
     df = pd.read_csv('concepts.tsv', sep='\t')
 
-    columns_to_drop = []
+    if 'stage' in df.columns:
+        df['stage'] = df['stage'].astype('Int64')
 
+    columns_to_drop = []
     for col in ['ok', 'inc', 'SILCAWL', 'se-tone', 'CALMSEA', 'old']:
         if col in df.columns:
             columns_to_drop.append(col)
-    
+
     for col in df.columns:
         if col.endswith('_r'):
             columns_to_drop.append(col)
@@ -17,7 +19,8 @@ def process_concepts():
     df = df.drop(columns=columns_to_drop, errors='ignore')
 
     stage_filters = [
-        (1, "stage == 1"),
+        (0, "stage == 0"),
+        (1, "stage <= 1"),
         (2, "stage <= 2"),
         (3, "stage <= 3"),
         (4, "stage <= 4"),
