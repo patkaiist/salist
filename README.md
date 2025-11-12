@@ -38,7 +38,7 @@ The concept list is divided into stages, with the shorder lists focused on conce
 (This section is still being written)
 
 1. **Specificity is preferred over generality**, but not to the point of projecting it where it is not coded in the data. General terms should be used only in cases where specificity cannot be determined, as in "Greater hornbill" versus "hornbill (general)".
-2. **Verb stems take precendence over noun stems** in cases where a concept may occur as both in English. "To be hungry" is considered more basic than "hunger (sensation)". This is based on local typological features, where the latter is almost always derived from the former.
+2. **Verb stems take precendence over noun stems** in cases where a concept may occur as both in English. "To be hungry" is considered more basic than "hunger (sensation)". This is based on local typological features, where the latter is almost always derived from the former. However, verbs are always affixed with "to (be)".
 
 ## Definitions
 
