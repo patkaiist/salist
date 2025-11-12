@@ -6,7 +6,7 @@ The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an mul
 
 The SALIST has two goals:
 
-1. Provide a regionally appropriate concept list for elicitation
+1. Provide a regionally appropriate multi-stage concept list for lexical elicitation
 2. Create an easily extensible set of unique internal concept identifiers, cross-linked to standard concept lists where possible
 
 The list is meant to serve as both a tool to those undertaking documentation work in the region, as well as for phylogenetic analysis of Sal and neighbouring varieties in order to better categories relatedness within the cluster. Concepts are ranked into stages based on pecieved usefulness for historical reconstruction, phylogenetic analyses, and investigations into semantic shifts in the history of the langauges of the region.
