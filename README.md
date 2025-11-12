@@ -4,6 +4,11 @@ The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an mul
 
 ## Goals
 
+The SALIST has two goals:
+
+1. Provide a regionally appropriate concept list for elicitation
+2. Create an easily extensible set of unique internal concept identifiers, cross-linked to standard concept lists where possible
+
 The list is meant to serve as both a tool to those undertaking documentation work in the region, as well as for phylogenetic analysis of Sal and neighbouring varieties in order to better categories relatedness within the cluster. Concepts are ranked into stages based on pecieved usefulness for historical reconstruction, phylogenetic analyses, and investigations into semantic shifts in the history of the langauges of the region.
 
 Additionally, the concepts aim to track fine-grained semantic distinctions where other concept lists may lack specificity. For this reason, the SALIST is constantly expanding. Versions are tracked in this repository, and, when citing the concept list, the appropriate version should be considered. By having such narrow-grained distinctions in the concepts listed here, we hope that the concept IDs may also prove useful as internal concept identifiers for lexicographical work documenting the languages of the region. For example, while `carry` may occur in a general sense, the SALIST also contains unique concepts for any verb which may be translated as "carry" in English, in order to maintain the maximal number of distinctions. This helps in assessing semantic drift across the region, as well as in establishing etymological origins of the terms used.
