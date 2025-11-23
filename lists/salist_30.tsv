@@ -3,29 +3,29 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	categor
 717	bee..general	665	BEE	bee (general)	bee	ʙᴇᴇ	0	fauna	Any pollenating flying insect belonging to the Anthophila clade within the order Hymenoptera. Typically having yellow and black colouring with a striped pattern on the abdoment.	蜂	मधुमक्खी		蜜蜂	ပျား		
 775	blood	946	BLOOD	blood	blood	ʙʟᴏᴏᴅ	0	body parts	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	血	रक्त		血液	သွေး		
 825	bridge	1011	BRIDGE	bridge	bridge	ʙʀɪᴅɢᴇ	0		A structure that spans and provides a passage over a road, railway, river, or some other obstacle.	橋	पुल		桥	တံတား		
-1015	colour.:black:to.be	163	BLACK	to be black	black	ʙʟᴀᴄᴋ	0		Of the very darkest color owing to the absence of or complete absorption of light, the opposite of white.	黒い	काला		黑	အနက်ရောင်		
-1023	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	0	statives	A color resembling the hue of blood, fire, or a ripe tomato.	赤い	लाल		红色	အနီေရာင်		
-1024	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	0	statives	A color characterized by the presence of all wavelengths of visible light, often associated with purity or innocence.	白い	सफ़ेद		白色的	အဖြူ		
-1214	drink:to	1401	DRINK	to drink	drink	ᴅʀɪɴᴋ	0		To consume a liquid through the mouth.	飲む	पीना		喝	သောက်ရန်		
-1315	eye	1248	EYE	eye	eye	ᴇʏᴇ	0	body parts	The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals and humans see.	目	आँख		眼睛	မျက်လုံး		
-1399	fire	221	FIRE	fire	fire	ꜰɪʀᴇ	0		The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	火	आग		火	မီး		
-1438	flower	239	FLOWER	flower	flower	ꜰʟᴏᴡᴇʀ	0	flora	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	花	फूल		花	ပန်း		
-1478	fruit	1507	FRUIT	fruit	fruit	ꜰʀᴜɪᴛ	0	flora	The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.	実	फल		水果	အသီး		
-1598	hand..arm	1277	HAND	hand (arm)	hand	ʜᴀɴᴅ	0	body parts	That part of the fore limb below the forearm or wrist in primates (including humans).	手	हाथ	হাত	手	လက်		
-1614	head	1256	HEAD	head	head	ʜᴇᴀᴅ	0	body parts	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	頭	सिर		头	ခေါင်း		
-1688	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	0		A building for human habitation, especially one that is lived in by a family or small group of people.	家	घर		房子	အိမ်		
-1812	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	0		A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	ことば	भाषा		语言	ဘာသာစကား		
-1910	louse	1392	LOUSE	louse	louse	ʟᴏᴜꜱᴇ	0	fauna	A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.	虱	जूं		虱子	ကြွက်		
-2011	moon	1313	MOON	moon	moon	ᴍᴏᴏɴ	0		A natural satellite of a planet.	月	चांद		月亮	လ		
-2024	mother	1216	MOTHER	mother	mother	ᴍᴏᴛʜᴇʀ	0		A woman who has at least one child.	母	मां		母亲	အမေ		
-2223	person..human	683	PERSON	person (human)	person	ᴘᴇʀꜱᴏɴ	0		A human being.	人間	व्यक्ति		人	လူ		
-2488	salt	1274	SALT	salt	salt	ꜱᴀʟᴛ	0		A crystalline substance consisting of sodium and chlorine, used for seasoning or preserving food, or for a variety of other industrial and household purposes.	塩	नमक		盐	ဆားငန်		
-2637	sleep:to	1585	SLEEP	to sleep	sleep	ꜱʟᴇᴇᴘ	0		To rest in a state of decreased consciousness and reduced metabolism.	眠る	सोना		睡觉	အိပ်ရန်		
-2665	snake	730	SNAKE	snake	snake	ꜱɴᴀᴋᴇ	0	fauna	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	蛇	साँप		蛇	မြွေ		
-2816	sun	1343	SUN	sun	sun	ꜱᴜɴ	0		The particular star at the centre of our solar system, from which the Earth gets light and heat.	太陽	सूरज		太阳	နေ		
-2916	thorn	124	THORN	thorn	thorn	ᴛʜᴏʀɴ	0	flora	A sharp, pointed projection on the stem or branch of a plant, developed as a form of defence from grazing animals.	棘	कांटा		刺	ဆူး		
-2997	tree	906	TREE	tree	tree	ᴛʀᴇᴇ	0	flora	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	木	पेड़ (ped)		树	သစ်ပင်		
-3077	village	930	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	0		A small community of houses and other buildings, typically in a rural area, often organised under unified leadership and identifiable as a community.	村	गांव		村庄	ရွာ		
-3117	water	948	WATER	water	water	ᴡᴀᴛᴇʀ	0		Common liquid (H₂O) which forms rain, rivers, the sea, etc., and which makes up a large part of the bodies of organisms.	水						
-3145	weep..cry:to	1839	CRY	to weep (cry)	weep	ᴡᴇᴇᴘ	0		To shed tears in response to an emotional state, such as sadness, pain, or happiness.	泣く	रोना		哭泣	ငို၊ ငို		
-3220	year	1226	YEAR	year	year	ʏᴇᴀʀ	0		The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	年	साल		年	တစ်နှစ်		
+1016	colour.:black:to.be	163	BLACK	to be black	black	ʙʟᴀᴄᴋ	0		Of the very darkest color owing to the absence of or complete absorption of light, the opposite of white.	黒い	काला		黑	အနက်ရောင်		
+1024	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	0	statives	A color resembling the hue of blood, fire, or a ripe tomato.	赤い	लाल		红色	အနီေရာင်		
+1025	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	0	statives	A color characterized by the presence of all wavelengths of visible light, often associated with purity or innocence.	白い	सफ़ेद		白色的	အဖြူ		
+1215	drink:to	1401	DRINK	to drink	drink	ᴅʀɪɴᴋ	0		To consume a liquid through the mouth.	飲む	पीना		喝	သောက်ရန်		
+1316	eye	1248	EYE	eye	eye	ᴇʏᴇ	0	body parts	The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals and humans see.	目	आँख		眼睛	မျက်လုံး		
+1400	fire	221	FIRE	fire	fire	ꜰɪʀᴇ	0		The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	火	आग		火	မီး		
+1439	flower	239	FLOWER	flower	flower	ꜰʟᴏᴡᴇʀ	0	flora	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	花	फूल		花	ပန်း		
+1479	fruit	1507	FRUIT	fruit	fruit	ꜰʀᴜɪᴛ	0	flora	The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.	実	फल		水果	အသီး		
+1599	hand..arm	1277	HAND	hand (arm)	hand	ʜᴀɴᴅ	0	body parts	That part of the fore limb below the forearm or wrist in primates (including humans).	手	हाथ	হাত	手	လက်		
+1615	head	1256	HEAD	head	head	ʜᴇᴀᴅ	0	body parts	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	頭	सिर		头	ခေါင်း		
+1689	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	0		A building for human habitation, especially one that is lived in by a family or small group of people.	家	घर		房子	အိမ်		
+1813	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	0		A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	ことば	भाषा		语言	ဘာသာစကား		
+1912	louse	1392	LOUSE	louse	louse	ʟᴏᴜꜱᴇ	0	fauna	A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.	虱	जूं		虱子	ကြွက်		
+2013	moon	1313	MOON	moon	moon	ᴍᴏᴏɴ	0		A natural satellite of a planet.	月	चांद		月亮	လ		
+2026	mother	1216	MOTHER	mother	mother	ᴍᴏᴛʜᴇʀ	0		A woman who has at least one child.	母	मां		母亲	အမေ		
+2227	person..human	683	PERSON	person (human)	person	ᴘᴇʀꜱᴏɴ	0		A human being.	人間	व्यक्ति		人	လူ		
+2492	salt	1274	SALT	salt	salt	ꜱᴀʟᴛ	0		A crystalline substance consisting of sodium and chlorine, used for seasoning or preserving food, or for a variety of other industrial and household purposes.	塩	नमक		盐	ဆားငန်		
+2641	sleep:to	1585	SLEEP	to sleep	sleep	ꜱʟᴇᴇᴘ	0		To rest in a state of decreased consciousness and reduced metabolism.	眠る	सोना		睡觉	အိပ်ရန်		
+2669	snake	730	SNAKE	snake	snake	ꜱɴᴀᴋᴇ	0	fauna	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	蛇	साँप		蛇	မြွေ		
+2820	sun	1343	SUN	sun	sun	ꜱᴜɴ	0		The particular star at the centre of our solar system, from which the Earth gets light and heat.	太陽	सूरज		太阳	နေ		
+2920	thorn	124	THORN	thorn	thorn	ᴛʜᴏʀɴ	0	flora	A sharp, pointed projection on the stem or branch of a plant, developed as a form of defence from grazing animals.	棘	कांटा		刺	ဆူး		
+3001	tree	906	TREE	tree	tree	ᴛʀᴇᴇ	0	flora	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	木	पेड़ (ped)		树	သစ်ပင်		
+3081	village	930	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	0		A small community of houses and other buildings, typically in a rural area, often organised under unified leadership and identifiable as a community.	村	गांव		村庄	ရွာ		
+3121	water	948	WATER	water	water	ᴡᴀᴛᴇʀ	0		Common liquid (H₂O) which forms rain, rivers, the sea, etc., and which makes up a large part of the bodies of organisms.	水						
+3151	weep..cry:to	1839	CRY	to weep (cry)	weep	ᴡᴇᴇᴘ	0		To shed tears in response to an emotional state, such as sadness, pain, or happiness.	泣く	रोना		哭泣	ငို၊ ငို		
+3226	year	1226	YEAR	year	year	ʏᴇᴀʀ	0		The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	年	साल		年	တစ်နှစ်		
