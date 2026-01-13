@@ -27,6 +27,7 @@ def process_concepts():
         (2, "stage <= 2"),
         (3, "stage <= 3"),
         (4, "stage <= 4"),
+        (5, "stage <= 5"),
         (None, None)
     ]
 
