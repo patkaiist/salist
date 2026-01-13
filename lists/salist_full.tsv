@@ -521,7 +521,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 525	beam..rafter	1132	BEAM	beam (rafter)	beam	ʙᴇᴀᴍ	5			A typically horizontal piece of wood or steel that supports the weight of a building, typically running from one side of the building to the other.	梁	खंभा		房梁	အိမ်တစ်အိမ်၏အလင်းတန်း		
 526	beard	678	BEARD	beard	beard	ʙᴇᴀʀᴅ	5		body parts	Facial hair of humans on the chin, cheeks and jaw.		दाढ़ी		胡须	မုတ်ဆိတ်မွေး		
 527	bee.colony	–	–	bee colony	bee.colony	ʙᴇᴇ.ᴄᴏʟᴏɴʏ	5		fauna	The honeycombed colony structure where bees live and produce honey.		मधुमक्खी का छत्ता		蜂窝	ပျားအုံ		
-528	bee::s::wax	1931	BEESWAX	beeswax	beeswax	ʙᴇᴇꜱᴡᴀx	5		fauna	A yellowish or dark brown wax secreted by honeybees for constructing honeycombs.							
+528	wax..from.bee	1931	BEESWAX	wax (from bee)	wax	ᴡᴀx	5		fauna	A yellowish or dark brown wax secreted by honeybees for constructing honeycombs.							
 529	insect.:beetle	2242	BEETLE	beetle	beetle	ʙᴇᴇᴛʟᴇ	5		fauna	A group of insects which are biologically classified in the order Coleoptera /koʊliːˈɒptərə/.							
 530	blanket	806	BLANKET	blanket	blanket	ʙʟᴀɴᴋᴇᴛ	5			A large piece of fabric or covering used for warmth, typically on a bed or to wrap around oneself.		रजाई		毛毯	စောင်		
 531	blister	1584	BLISTER	blister	blister	ʙʟɪꜱᴛᴇʀ	5			A small bubble on the skin, that contains watery fluid and is caused by heat, pressure or infection.							
