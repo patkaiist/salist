@@ -102,13 +102,15 @@ The basic table looks like this, with all **name** and **gloss** values being au
 The easiest way to use this right now is in a spreadsheet. In a spreadsheet, the concept value is easily converted to the name with this:
 
 ```
-=SUBSTITUTE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(IF(RIGHT(A1,3)=":::", UPPER(LEFT(E886,1))&MID(E886,2,LEN(E886)-4), E886),"([a-z]+)\.\.\.([a-zA-Z .]+)","$1"),"([0-9a-z.]+)\:\.([0-9a-z.]+)","$1"),"([0-9a-z.]+)\.\:([0-9a-z.]+)","$2"),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"([0-9a-z.]+)\.\.([0-9a-zA-Z.\/]+)","$1 ($2)"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"."," ")
+=SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(REGEXREPLACE(SUBSTITUTE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(IF(RIGHT(B2,3)=":::", UPPER(LEFT(B2,1))&MID(B2,2,LEN(B2)-4), B2),"([a-z]+)\.\.\.([a-zA-Z .]+)","$1"),"([0-9a-z.]+)\:\.([0-9a-z.]+)","$1"),"([0-9a-z.]+)\.\:([0-9a-z.]+)","$2"),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"([a-z. ,!]+)\:([a-z. ,!]+)","$2.$1"),"([0-9a-z.!]+)\.\.([0-9a-zA-Z.\/!]+)","$1 ($2)"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"."," "),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"!",", "),"india","India"),"chinese","Chinese"),"china","China")
 ```
 
-The name can then be converted to the gloss with this:
+The value can be converted to the gloss with this:
 
 ```
-=TRIM(REGEXREPLACE(REGEXREPLACE(LOWER(SUBSTITUTE(SUBSTITUTE(REGEXREPLACE(REGEXREPLACE(A1,"^to be ",""),"^to have ","")," of bird","")," ",".")),"^to ",""), "\.\([^)]*\)", ""))
+=SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(IF(AND(RIGHT(B2,3)=":::", REGEXMATCH(B2,"\.\.")),
+  REGEXEXTRACT(B2,".*\.\.([a-zA-Z0-9.]+):::"), REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(SUBSTITUTE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(IF(RIGHT(B2,3)=":::", UPPER(LEFT(B2,1))&MID(B2,2,LEN(B2)-4), B2),"\.\.\.","—"),"([0-9a-z.]+)\:\.([0-9a-z.]+)","$1"),"([0-9a-z.]+)\.\:([0-9a-z.]+)","$2"),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"([0-9a-z.]+)\.\.([0-9a-zA-Z.\/]+)","$1 ($2)"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"."," "),"^to be ",""),"^to have ","")," of bird",""),"^to ","")," ","."), "\.\([^)]*\)", ""),"([a-zA-Z0-9.]+)—([a-zA-Z.]+)","$2"),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"([0-9a-z.]+)\!([0-9a-z.]+)","$1")
+),"india","India"),"chinese","Chinese"),"china","China")
 ```
 
 Adjustments will be made to the glossing format, however, in order to simplify string lengths. This is a work in progress.
