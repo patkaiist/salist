@@ -1,0 +1,15 @@
+{
+  "title": "Sal Area Lexical Inventory for Sino-Tibetan (SALIST)",
+  "access_right": "open",
+  "keywords": ["cldf:Wordlist", "linguistics"],
+  "creators": [
+    {
+      "name": "van Dam, Kellen Parker"
+    }
+  ],
+  "upload_type": "dataset",
+  "description": "<p>Cite as:</p>\n\n<blockquote>\n<p>Sal Area Lexical Inventory for Sino-Tibetan (SALIST). v.0.1.1.</p>\n</blockquote>",
+  "license": {
+    "id": "CC-BY-4.0"
+  }
+}
