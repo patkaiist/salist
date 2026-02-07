@@ -11,7 +11,7 @@ def process_concepts():
         df['stage'] = df['stage'].astype('Int64')
 
     columns_to_drop = []
-    for col in ['ok', 'inc', 'SILCAWL', 'se-tone', 'old', 'Wolam.1', 'Lainong.1', 'Lainong.2', 'Lainong.3', 'Unnamed: 41', 'Unnamed: 42', 'Unnamed: 43', 'Unnamed: 44', 'Muishaung', 'Wolam', 'Wolam', 'Thang', 'Patsho', 'Peshu', 'Nokhu', 'Pasaung', 'Kingphu', 'mak-maky1236-khalai1', 'mak-maky1236-khalai2', 'mak-maky1236-santong1', 'mak-maky1236-santong2', 'Kuku', 'Lainong', 'Lainong', 'Lainong', 'Lainong', 'Lainong (Khamti)', 'Lainong (Lahe)', 'Lainong (Long Kyan Nok Kone)', 'Lainong (Anbaw)', 'Lainong (Hwi Thaik)', 'Lainong (Wan Ton Tha Mai)', 'Lainong (Nok Nyo Kha Shang)', 'Ponyo (Ponyo Nok Inn)', 'Ponyo (Lang Kheng)', 'Gongwan (Solo Nok Kone)', 'Khiamniungan (Pasaung)', 'Makyam (Makyam)', 'Makyam (Khale)', 'Makyam (Santhong)', 'Makyam (Kuku Nokkone)']:
+    for col in ['ok', 'inc', 'se-tone', 'old', 'Wolam.1', 'Lainong.1', 'Lainong.2', 'Lainong.3', 'Unnamed: 41', 'Unnamed: 42', 'Unnamed: 43', 'Unnamed: 44', 'Muishaung', 'Wolam', 'Wolam', 'Thang', 'Patsho', 'Peshu', 'Nokhu', 'Pasaung', 'Kingphu', 'mak-maky1236-khalai1', 'mak-maky1236-khalai2', 'mak-maky1236-santong1', 'mak-maky1236-santong2', 'Kuku', 'Lainong', 'Lainong', 'Lainong', 'Lainong', 'Lainong (Khamti)', 'Lainong (Lahe)', 'Lainong (Long Kyan Nok Kone)', 'Lainong (Anbaw)', 'Lainong (Hwi Thaik)', 'Lainong (Wan Ton Tha Mai)', 'Lainong (Nok Nyo Kha Shang)', 'Ponyo (Ponyo Nok Inn)', 'Ponyo (Lang Kheng)', 'Gongwan (Solo Nok Kone)', 'Khiamniungan (Pasaung)', 'Makyam (Makyam)', 'Makyam (Khale)', 'Makyam (Santhong)', 'Makyam (Kuku Nokkone)']:
         if col in df.columns:
             columns_to_drop.append(col)
 

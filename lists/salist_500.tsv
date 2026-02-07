@@ -1,501 +1,501 @@
-slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment	category	definition	japanese	hindi	assamese	mandarin	burmese	nagamese	CALMSEA
-1	arm..uppper.limb	2121	ARM OR HAND	arm (uppper limb)	arm	ᴀʀᴍ	1		body parts	One of the two upper extremeties of the human body, extending from the shoulder to the wrist. This should be the most general term, and will often include the hand as well. A term for arm which does not include the hand is not expected.	腕	बांह	বাঁহ		လက်		hand/arm
-10	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	1			A building for human habitation, especially one that is lived in by a family or small group of people.	家	घर		房子	အိမ်		house
-100	yesterday	1174	YESTERDAY	yesterday	yesterday	ʏᴇꜱᴛᴇʀᴅᴀʏ	2			The day before today.	昨日	कल		昨天	မနေ့က		
-101	accipitridae..raptor:::	2683	EAGLE OR HAWK	Accipitridae (raptor)	raptor	ʀᴀᴘᴛᴏʀ	3		fauna	A bird of prey with broad wings and a hooked bill. Kites are the most common which occur in the area. This should be the most general term for this class of birds, and not a compound term for a specific species. Any specific genera/species names should be noted separately.	鷹	चील		鹰	သိမ်းငှက်၊ လင်းယုန် သို့မဟုတ် စွန်ရဲ		
-102	animal..general	619	ANIMAL	animal (general)	animal	ᴀɴɪᴍᴀʟ	3		fauna	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	動物	जानवर	পশু	动物	တိရစ္ဆာန်		meat/animal
-103	leech:aquatic	949	WATER LEECH	aquatic leech	aquatic.leech	ᴀꞯᴜᴀᴛɪᴄ.ʟᴇᴇᴄʜ	3		fauna	A worm-like creature that lives in water and sucks blood from animals.	蛭	जल जुएँ		水蛭	ရေမျှော့		water leech
-104	arrow	977	ARROW	arrow	arrow	ᴀʀʀᴏᴡ	3			Pointed projectile that is shot with a bow.	矢	तीर	বাণ	箭头	မြှား		arrow
-105	axe..general	677	AXE	axe (general)	axe	ᴀxᴇ	3			A tool for felling trees or chopping wood consisting of a heavy metallic or stone head flattened to a blade on one side, and which is attached to a usually wooden handle.	斧	कुल्हाड़ी	ফাঁস	斧头	ပုဆိန်		
-106	bamboo.shoot	2494	BAMBOO SHOOT	bamboo shoot	bamboo.shoot	ʙᴀᴍʙᴏᴏ.ꜱʜᴏᴏᴛ	3		flora	The edible shoots (new bamboo culms that come out of the ground) of many bamboo species // Often harvested as part of local cuisine, either used fresh, dried or fermented.	竹の子	बांस की खोखली	কাজি কেচেক	竹笋	မျှစ်		
-107	banana..fruit	868	BANANA	banana (fruit)	banana	ʙᴀɴᴀɴᴀ	3		flora	The fruit of the banana tree.	バナナ	केला	কল	香蕉	ငှက်ပျောသီး		plantain/banana
-108	banyan..tree	346	BANYAN	banyan (tree)	banyan	ʙᴀɴʏᴀɴ	3		flora	A large, tropical tree belonging to the genus Ficus, typically Ficus benghalensis, with aerial roots that grow into new trunks, often used for shade or as a spiritual symbol in many cultures.		बरगद		榕树	ညောင်ပင်		
-109	basket..general	1539	BASKET	basket (general)	basket	ʙᴀꜱᴋᴇᴛ	3	cf Chang _kam_	artefacts	The general term for any kind of basket, a container woven typically from cane or bamboo used to store or carry many different kinds of items or materials.	籠						
-11	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	1			A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	ことば	भाषा		语言	ဘာသာစကား		
-110	bean..general	832	BEAN	bean (general)	bean	ʙᴇᴀɴ	3			Any of various leguminous plants grown for their edible seeds and pods.	豆						peas, beans
-111	bear..animal	1820	BEAR	bear (animal)	bear	ʙᴇᴀʀ	3			A large beast of prey of the family Ursidae, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet.	熊	भालू		熊	ဝက်ဝံ		bear
-112	belly..exterior	1251	BELLY	belly (exterior)	belly	ʙᴇʟʟʏ	3		body parts	The lower part of the front of the torso (or a comparable part of an animal), confined by the upper side by the midriff and the lowerside by the pelvis. Contains the intestines.	腹	पेट		腹部	ဗိုက်၊အပြင်		belly (exterior)
-113	bone.marrow	1835	MARROW	bone marrow	bone.marrow	ʙᴏɴᴇ.ᴍᴀʀʀᴏᴡ	3		body parts	The spongy tissue in the hollow parts of bones.		हड्डी का मज्जा		骨髓	ရိုးတွင်းခြင်ဆီ		marrow
-114	bow	994	BOW	bow	bow	ʙᴏᴡ	3	this should be split between bow and crossbow probably.		A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows, or a weapon based on it, consisting of a bow mounted on a stock.	弓	धनुष		弓	လေးကို		bow
-115	brain	1583	BRAIN	brain	brain	ʙʀᴀɪɴ	3		body parts	The organ of the central nervous system of an animal or human located in the skull that controls the actions and thoughts of the animal or human.	脳	मस्तिष्क		大脑	ဦးနှောက်		brain
-116	tree.:branch	1531	BRANCH	branch	branch	ʙʀᴀɴᴄʜ	3			A woody offshoot of a tree or shrub.	枝	डाली		树枝	သစ်ကိုင်း		branch
-117	breast	1402	BREAST	breast	breast	ʙʀᴇᴀꜱᴛ	3		body parts	The fleshy organ on the chest of a sexually mature human female containing mammary glands.	乳房	स्तन		乳房	ရင်သား		vagina or breast/milk
-118	child..general	2099	CHILD	child (general)	child	ᴄʜɪʟᴅ	3			A young human being below the age of puberty or below the legal age of majority.	こども	बच्चा		儿童	ကလေး၊ မွေးကင်းစ		child/son
-119	claw..animal	72	CLAW	claw (animal)	claw	ᴄʟᴀᴡ	3		body parts	The hard, keratin part growing at the feet of animals.	爪	पंजा		爪子	ခြေသည်း		nail/claw
-12	louse..head	1392	LOUSE	louse (head)	louse	ʟᴏᴜꜱᴇ	1		fauna	A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.	虱	जूं		虱子	ကြွက်		louse
-120	day::time	1225	DAY (NOT NIGHT)	daytime	daytime	ᴅᴀʏᴛɪᴍᴇ	3			The period between sunrise and sunset where one enjoys daylight.	昼	दिन का समय		白天	နေ့ဘက်		sun/day
-121	alcohol:distilled	842	LIQUOR	distilled alcohol	distilled.alcohol	ᴅɪꜱᴛɪʟʟᴇᴅ.ᴀʟᴄᴏʜᴏʟ	3			Alcoholic beverages made through distillation, such as whiskey or vodka. This will often be a borrowing, either from Tai or IA, though some varieties will retain a native form.	酒	अर्क	মদ	蒸馏酒	ပေါင်းခံအရက်		liquor
-122	dog	2009	DOG	dog	dog	ᴅᴏɢ	3		fauna	A domesticated carnivorous mammal, Canis familiaris, with a pointed snout, a long tail, and a coat of fur, often kept as a pet or trained for hunting or guarding.	犬	कुत्ता		狗	ခွေး		dog
-123	ear	1247	EAR	ear	ear	ᴇᴀʀ	3		body parts	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	耳	कान		耳朵	နား		ear/hear
-124	earth..area.or.plot	1228	EARTH (SOIL)	earth (area or plot)	earth	ᴇᴀʀᴛʜ	3			The soft and loose material forming a great part of the Earth surface.							earth
-125	east	1877	EAST	east	east	ᴇᴀꜱᴛ	3			One of the four principal compass points, specifically 90°, conventionally directed to the right on maps. The direction of the rising sun.	東	पूर्व		东	အရှေ့		
-126	egg..general	744	EGG	egg (general)	egg	ᴇɢɢ	3		body parts	The oval reproductive body laid by female birds, containing the embryo and nutrients for its growth.	卵	चिड़िया का अंडा		鸟蛋	ငှက်ဥ		egg
-127	sister:elder	1758	OLDER SISTER	elder sister	elder.sister	ᴇʟᴅᴇʀ.ꜱɪꜱᴛᴇʀ	3		kinship	The female sibling who is older than oneself.	姉	दीदी		姐姐	အစ်မ		
-128	fat..substance	323	FAT (ORGANIC SUBSTANCE)	fat (substance)	fat	ꜰᴀᴛ	3			Oily substance as part of animal flesh.							fat/grease
-129	feather	1201	FEATHER	feather	feather	ꜰᴇᴀᴛʜᴇʀ	2		body parts	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	羽毛	पंख		羽毛	အမွေး		
-13	moon	1313	MOON	moon	moon	ᴍᴏᴏɴ	1			A natural satellite of a planet.	月	चांद		月亮	လ		moon
-130	festival	131	FESTIVAL	festival	festival	ꜰᴇꜱᴛɪᴠᴀʟ	3			A day or period of celebration, typically for religious, cultural, or historical reasons.	祭	त्योहार		节日	ပွဲတော်		
-131	finger::nail	1258	FINGERNAIL	fingernail	fingernail	ꜰɪɴɢᴇʀɴᴀɪʟ	3		body parts	The hard, flat, translucent covering near the tip of a human finger, useful for scratching and fine manipulation.	爪	नाखून		指甲	လက်သည်း		
-132	fire::wood	10	FIREWOOD	firewood	firewood	ꜰɪʀᴇᴡᴏᴏᴅ	3			Wood intended to be burned.	薪	लकड़ी		柴火	ထင်း		
-133	fish	227	FISH	fish	fish	ꜰɪꜱʜ	3		fauna	A cold-blooded vertebrate animal that lives in water that moves with the help of fins and breathes using gills (Pisces).	魚	मछली		鱼	ငါး		fish
-134	net:fishing	2963	NET	fishing net	fishing.net	ꜰɪꜱʜɪɴɢ.ɴᴇᴛ	3			A piece of fabric or mesh made of threads, cords or ropes that are woven or knotted together with spaces between them, used for catching fish or other animals, or for protecting or separating things.	網	जाल		网	အသားတင်		
-135	fog..mist	249	FOG	fog (mist)	fog	ꜰᴏɢ	3			Water droplets or, rarely, ice crystals suspended in the air in sufficient concentration to reduce visibility appreciably.	霧	कोहरा		雾	မြူ၊ မြူ		
-136	head.:forehead	123	FOREHEAD	forehead	forehead	ꜰᴏʀᴇʜᴇᴀᴅ	3		body parts	The part of the face between the hairline and the eyebrows.	ひたい	माथा		前额	နဖူး		
-137	fowl	265	FOWL	fowl	fowl	ꜰᴏᴡʟ	3		fauna	A bird that is kept for its meat and eggs.							fowl
-138	frog	503	FROG	frog	frog	ꜰʀᴏɢ	3			Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	蛙	मेंढक		青蛙	ဖား		frog
-139	gibbon:.hoolock	2511	GIBBON	gibbon	gibbon	ɢɪʙʙᴏɴ	3		fauna	Apes in the family Hylobatidae.		गिबन		长臂猿	မျောက်လွှဲကျော်		
-14	mother	1216	MOTHER	mother	mother	ᴍᴏᴛʜᴇʀ	1			A woman who has at least one child.	母	मां		母亲	အမေ		
-140	ginger	2500	GINGER	ginger	ginger	ɢɪɴɢᴇʀ	3		flora	A herbaceous perennial which grows annual stems about a meter tall bearing narrow green leaves and yellow flowers.	生姜	अदरक		姜	ဂျင်း		
-141	gold..metal	1369	GOLD	gold (metal)	gold	ɢᴏʟᴅ	3			A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.	金	सोना		黄金	ရွှေ		
-142	gong	2502	GONG	gong	gong	ɢᴏɴɢ	3			An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.		घंटी		锣	ဂုံး		
-143	grandchild			grandchild	grandchild	ɢʀᴀɴᴅᴄʜɪʟᴅ	3										
-144	grandfather	1383	GRANDFATHER	grandfather	grandfather	ɢʀᴀɴᴅꜰᴀᴛʜᴇʀ	3		kinship	The father of one of someone's parents.	祖父	दादा		爷爷	အဖိုး		
-145	grandmother	1496	GRANDMOTHER	grandmother	grandmother	ɢʀᴀɴᴅᴍᴏᴛʜᴇʀ	3		kinship	The mother of one of someone's parents.	祖母	दादी		奶奶	အဖွား		
-146	grass	606	GRASS	grass	grass	ɢʀᴀꜱꜱ	3		flora	A very large and widespread family of Monocotyledoneae, with more than 10.000 species, most of which are herbaceous, but a few are woody. The stems are jointed, the long, narrow leaves originating at the nodes. The flowers are inconspicuous, with a much reduced perianth, and are wind-pollinated or cleistogamous.	草			草	မြက်		grass
-147	grave!tomb	1773	GRAVE	grave, tomb	grave	ɢʀᴀᴠᴇ	3			A place (commonly marked with a headstone) where one or more people are buried (usually in a coffin underneath the ground).	墓	कब्र		坟墓	သင်္ချိုင်း၊ သင်္ချိုင်း		
-148	barbet:great	–	–	great barbet	great.barbet	ɢʀᴇᴀᴛ.ʙᴀʀʙᴇᴛ	3										
-149	hail..precipitation	609	HAIL	hail (precipitation)	hail	ʜᴀɪʟ	3			Precipitation in the form of balls or irregular lumps of ice.		बर्फ़ का गोला		冰雹	မိုးသီး		
-15	person..human.being	683	PERSON	person (human being)	person	ᴘᴇʀꜱᴏɴ	1			A human being.	人間	व्यक्ति		人	လူ		person/human being
-150	hair:body	580	FUR	body hair	body.hair	ʙᴏᴅʏ.ʜᴀɪʀ	3		body parts	Hair which grows on the body. This will typically be the same term for humans and non-human mammals.	毛			毛皮	တိရစ္ဆာန်သားမွေး		hair (body)
-151	hair..of.head	2648	HAIR (HEAD)	hair (of head)	hair	ʜᴀɪʀ	3		body parts	Hair which grows on the head of humans. In many language varieties this will be a distinct stem from that of fur.	髪の毛	सिर के बाल		头发	ဦးခေါင်းဆံပင်		hair (head)
-152	hoe	284	HOE	hoe	hoe	ʜᴏᴇ	3				鍬						
-153	honey	942	HONEY	honey	honey	ʜᴏɴᴇʏ	3			A viscous, sweet substance produced from nectar or honeydew by bees.	蜂蜜	शहद		蜜糖	ပျားရည်		
-154	hornbill..general	3260	HORNBILL	hornbill (general)	hornbill	ʜᴏʀɴʙɪʟʟ	3		fauna	A bird characterized by a long, down-curved, and frequently colored beak.		बेंटेली		犀鸟	ငှက်ငယ်		
-155	horse..general	615	HORSE	horse (general)	horse	ʜᴏʀꜱᴇ	3		fauna	A large animal with four legs of the Equus caballus species which people ride on or use for carrying things or pulling vehicles.	馬	घोड़ा		马	မြင်း		horse
-156	hummingbird			hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ	3										
-157	0100.:hundred	1634	HUNDRED	hundred	hundred	ʜᴜɴᴅʀᴇᴅ	3		numbers	The natural number one hundred (100).		सौ	শত	百	ရာ		hundred
-158	rice..uncooked:husked	3289	UNCOOKED RICE	husked rice (uncooked)	husked.rice	ʜᴜꜱᴋᴇᴅ.ʀɪᴄᴇ	3		rice	Rice that has not been boiled or otherwise prepared for eating.							
-159	insect	620	INSECT	insect	insect	ɪɴꜱᴇᴄᴛ	3		fauna	A class of the Arthropoda typically having a segmented body with an external chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.	虫	कीट		昆虫	ပိုးမွှား		insect, bug, vermin
-16	salt	1274	SALT	salt	salt	ꜱᴀʟᴛ	1			A crystalline substance consisting of sodium and chlorine, used for seasoning or preserving food, or for a variety of other industrial and household purposes.	塩	नमक		盐	ဆားငန်		salt
-160	intestines	1991	INTESTINES	intestines	intestines	ɪɴᴛᴇꜱᴛɪɴᴇꜱ	3		body parts	The alimentary canal of an animal or human through which food passes after having passed all stomachs.	腸	अंतःशोषक		肠子	အူ		guts
-161	field:jhum	2794	FIELD (UPLAND)	jhum field	jhum.field	ᴊʜᴜᴍ.ꜰɪᴇʟᴅ	3			A type of slash-and-burn agriculture used in various parts of the world, in which the land is cleared of vegetation and burned to provide fertilizer.	焼畑	झुम का खेत		烧林放牧	ခုတ်ထစ်ခြင်းနှင့် မီးရှို့ခြင်းအကွက်		swidden
-162	joint..skeletal	999	JOINT	joint (skeletal)	joint	ᴊᴏɪɴᴛ	3		body parts	The point where two bones meet, allowing movement and flexibility.		जोड़		关节	ခန္ဓာကိုယ်၏အဆစ်		joint
-163	juice..of.fruit	1499	JUICE	juice (of fruit)	juice	ᴊᴜɪᴄᴇ	3			The liquid that is produced by squeezing or crushing fruits or vegetables.		रस		果汁	ဖျော်ရည်		medicine/juice
-164	jungle	3808	JUNGLE	jungle	jungle	ᴊᴜɴɢʟᴇ	3			Unmaintained wild forest or shrubland which has not im a state of cultivation. This can be part of old growth forest or the quickly speading vegetation which has taken over a fallow field.		मिट्टी		土壤	မြေဆီလွှာ		
-165	kalij.pheasant	3060	PHEASANT	kalij pheasant	kalij.pheasant	ᴋᴀʟɪᴊ.ᴘʜᴇᴀꜱᴀɴᴛ	3										
-166	knife	1352	KNIFE	knife	knife	ᴋɴɪꜰᴇ	3			A utensil consisting of a sharpened piece of hard material such as steel or other metal, ceramic, glass or stone, usually attached to a handle, that is formed in a manner that allows for cutting softer materials, especially meat or other food.	包丁	चाकू		刀	ဓား		
-167	ladder..stairs	2689	LADDER OR STAIRS	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	3			A series of steps or stairs that allow a person to move from one level or floor to another. This is meant primarily as the traditional log ladders, but this may differ based on differences in house construction practices.		सीढ़ियाँ		阶梯	လှေကားထစ်များ၊		
-168	lake	624	LAKE	lake	lake	ʟᴀᴋᴇ	3			An enclosed body of water, usually but not necessarily fresh water, from which the sea is excluded.		झील		湖泊	ရေကန်		
-169	leaf..tree	628	LEAF	leaf (tree)	leaf	ʟᴇᴀꜰ	3		flora	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	葉	पत्ता		叶子	အရွက်		leaf
-17	snake	730	SNAKE	snake	snake	ꜱɴᴀᴋᴇ	1		fauna	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	蛇	साँप		蛇	မြွေ		snake
-170	left.side	244	LEFT	left side	left.side	ʟᴇꜰᴛ.ꜱɪᴅᴇ	3			The side of the body to the west when facing north.	左	बाएं तरफ		左侧	ဘယ်ဘက်		left side
-171	lightning..in.sky	1654	LIGHTNING	lightning (in sky)	lightning	ʟɪɢʜᴛɴɪɴɢ	3			The flash of light caused by the discharge of atmospheric electrical charge.		बिजली		闪电	လျှပ်စီးကြောင်း		
-172	lip..of.mouth	478	LIP	lip (of mouth)	lip	ʟɪᴘ	3			Either of the two fleshy protrusions around the opening of the mouth.	唇	होंठ		嘴唇	နှုတ်ခမ်း		
-173	liver	1224	LIVER	liver	liver	ʟɪᴠᴇʀ	3		body parts	A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. Responsible for thousands of biochemical reactions.	肝臓	जिगर		肝脏	အသည်း		liver
-174	loom:backstrap	–	–	backstrap loom	backstrap.loom	ʙᴀᴄᴋꜱᴛʀᴀᴘ.ʟᴏᴏᴍ	3			A frame or machine (made of wood or other material) in which a weaver forms cloth out of thread; a machine for interweaving yarn or threads into a fabric.		तकिया		织布机	ရက်ကန်းစင်		
-175	macaque:.stump.tailed	–	–	macaque	macaque	ᴍᴀᴄᴀꞯᴜᴇ	3										
-176	machete..dao	2680	MACHETE	machete (dao)	machete	ᴍᴀᴄʜᴇᴛᴇ	3			A large, heavy knife used for cutting through thick vegetation or used as a weapon. This concept should refer to the most typical cutting implement, known as the Dao or Dha in contact languages, which is widely carried, and not one of the various alternate forms used for chopping wood or other tasks.		तलवार		砍刀	ဓားခုတ်		
-177	man..male.person	1554	MAN	man (male person)	man	ᴍᴀɴ	3			An adult human male.	男	मनुष्य		男人	လူ		
-178	mat	195	MAT	mat	mat	ᴍᴀᴛ	3			A flat object laid on the floor to protect a person from the hard floor. Typically woven from cane, bamboo or fibers.	ござ	चटाई		席子	ဖျာ		
-179	meat..flesh	634	MEAT	meat (flesh)	meat	ᴍᴇᴀᴛ	3			The edible flesh of animals, especially that of mammals.	肉	मांस		肉	အသား		meat/animal
-18	sun	1343	SUN	sun	sun	ꜱᴜɴ	1			The particular star at the centre of our solar system, from which the Earth gets light and heat.	太陽	सूरज		太阳	နေ		sun/day
-180	medicine	1372	MEDICINE	medicine	medicine	ᴍᴇᴅɪᴄɪɴᴇ	3			A substance or preparation used for the treatment or prevention of disease, or for maintaining or restoring health.	薬	दवा		药	ဆေးဝါး		medicine/juice
-181	milk	635	MILK	milk	milk	ᴍɪʟᴋ	3			The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	乳	दूध		牛奶	နို့		vagina or breast/milk
-182	month	1370	MONTH	month	month	ᴍᴏɴᴛʜ	3			A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.	月	माह		月份	လ		
-183	mountain	639	MOUNTAIN	mountain	mountain	ᴍᴏᴜɴᴛᴀɪɴ	3			A feature of the earth's surface that rises high above the base and has generally steep slopes and a relatively small summit area.	山	पर्वत		山	တောင်		mountain
-184	mouth	674	MOUTH	mouth	mouth	ᴍᴏᴜᴛʜ	3		body parts	Opening in the lower half of a human face which is used for food ingestion and articulation.	口	मुंह		嘴巴	ပါးစပ်		mouth
-185	muroid	2139	MUROID (MOUSE OR RAT)	muroid	muroid	ᴍᴜʀᴏɪᴅ	3		fauna	A large superfamily of rodents, including hamsters, gerbils, true mice and rats, and many other relatives.		जंगली चूहा		啮齿类动物	ကြွက်၊အထွေထွေအသုံးအနှုန်း		rat/rodent
-186	mushroom..ground.type	–	–	mushroom (ground type)	mushroom	ᴍᴜꜱʜʀᴏᴏᴍ	3			A type of mushroom that grows in the soil, rather than on trees.		भूमधुमक		野菌	ကုန်းနေမှို		mushroom/fungus
-187	mushroom..tree.type	–	–	mushroom (tree type)	mushroom	ᴍᴜꜱʜʀᴏᴏᴍ	3			A type of mushroom that grows on or near trees, and often has a stalk and cap.		बरगद का छत्ता		树菌	သစ်ပင်မှို		mushroom/fungus
-188	name	1405	NAME	name	name	ɴᴀᴍᴇ	3			Any word or phrase which designates a particular person, place, class or thing.	名前	नाम		名字	နာမည်		name
-189	navel	1838	NAVEL	navel	navel	ɴᴀᴠᴇʟ	3		body parts	A scar where the umbilical cord was attached.	へそ	नाभि		肚脐	လည်ပင်း		navel
-19	0010.:ten	1515	TEN	ten	ten	ᴛᴇɴ	1		numbers	The default numeral for ten (10). It should not include a numeral classifier, but instead be only the bare numeral.	十	दस	দহ	十	ဆယ်		ten
-190	neck	1333	NECK	neck	neck	ɴᴇᴄᴋ	3		body parts	The part of the body (found in some animals, including humans) that connects the head and the trunk.	首	गला	ঘাল	脖子	လည်ပင်း		neck
-191	needle	1382	NEEDLE (FOR SEWING)	needle	needle	ɴᴇᴇᴅʟᴇ	3			A thin, sharp implement used in sewing, knitting and acupuncture.	針	सुई		针	အပ်		needle
-192	night.time	1233	NIGHT	night time	night.time	ɴɪɢʜᴛ.ᴛɪᴍᴇ	3			The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.	夜	रात का समय		晚上	ညအချိန်		night
-193	noon..midday	12	MIDDAY	noon (midday)	noon	ɴᴏᴏɴ	3			Time of day when the sun is in its zenith.	正午	दोपहर		中午	နေ့လယ်၊ နေ့လယ်		
-194	oil..substance	2556	OIL (HYDROPHOBIC LIQUID)	oil (substance)	oil	ᴏɪʟ	3			A liquid or semi-solid substance that is used for frying, sautéing, or baking food, or for greasing pans or grills.	油	तेल		油	ချက်ပြုတ်ရန်အတွက် ဆီ သို့မဟုတ် ဆီ		
-195	otter	15	OTTER	otter	otter	ᴏᴛᴛᴇʀ	3		fauna	Any of several aquatic, furbearing, weasellike mammals of the genus Lutra, having webbed feet and a long, slightly flattened tail.	カワウソ	ऊद		水獭	ဖျံ		otter
-196	overmorrow	1179	DAY AFTER TOMORROW	overmorrow	overmorrow	ᴏᴠᴇʀᴍᴏʀʀᴏᴡ	3			On the day following tomorrow.	あさって	परसों		后天	မနက်ဖြန်		
-197	owl	735	OWL	owl	owl	ᴏᴡʟ	3		fauna	A solitary, mainly nocturnal bird of prey, belonging to the order Strigiformes; it has large forward-facing eyes and ears and a hawk-like beak, and it can turn its head 180 degrees around.		उल्लू		猫头鹰	ဇီးကွက်		
-198	field:paddy	140	PADDY FIELD	paddy field	paddy.field	ᴘᴀᴅᴅʏ.ꜰɪᴇʟᴅ	3			A flooded field in which rice is grown.		धान का खेत		水稻田	လယ်ကွင်း		irrigated paddy field
-199	hand:palm.of	1183	PALM OF HAND	palm of hand	palm.of.hand	ᴘᴀʟᴍ.ᴏꜰ.ʜᴀɴᴅ	3		body parts	The inner and somewhat concave part of the human hand that extends from the wrist to the bases of the fingers.	手のひら	हथेली	হাতৰ তল	手掌	လက်ဖဝါး		
-2	bee..general	665	BEE	bee (general)	bee	ʙᴇᴇ	1		fauna	Any pollenating flying insect belonging to the Anthophila clade within the order Hymenoptera. Typically having yellow and black colouring with a striped pattern on the abdoment.	蜂	मधुमक्खी		蜜蜂	ပျား		bee
-20	thorn	124	THORN	thorn	thorn	ᴛʜᴏʀɴ	1		flora	A sharp, pointed projection on the stem or branch of a plant, developed as a form of defence from grazing animals.	棘	कांटा		刺	ဆူး		thorn (prick)
-200	pangolin	2508	PANGOLIN	pangolin	pangolin	ᴘᴀɴɢᴏʟɪɴ	3		fauna	Mammals of the order Pholidota. The one extant family, Manidae, has three genera: Manis which comprises four species living in Asia, Phataginus which comprises two species living in Africa, and Smutsia which comprises two species also living in Africa.		टिकटिकी		穿山甲	သင်းခွေချပ်		
-201	path..road	2252	PATH	path (road)	path	ᴘᴀᴛʜ	3			A thoroughfare or track that is used for traveling from one place to another, typically by foot or vehicle.	道	सड़क		道路 / 路径	လမ်း သို့မဟုတ် လမ်း		road
-202	plains..lowlands	652	PLAIN	plains (lowlands)	plains	ᴘʟᴀɪɴꜱ	3			Land that is low or close to sea level.	野原，平原	निम्नभूमि		低地	မြေနိမ့်		
-203	rice.plant	2026	RICE PLANT	rice plant	rice.plant	ʀɪᴄᴇ.ᴘʟᴀɴᴛ	3		rice	An erect grass, Oryza sativa, that grows in East Asia on wet ground and has drooping flower spikes and yellow oblong edible grains that become white when polished.		धान		稻米	စပါးခွံ၊		rice (in fields)
-204	rope	1218	ROPE	rope	rope	ʀᴏᴘᴇ	3			Thick, strong string made of several strands that have been twisted together.	紐	रस्सी		绳子	ကြိုး		
-205	ruler..chief	–	–	ruler (chief)	ruler	ʀᴜʟᴇʀ	3	CONCEPTICON has the measuring tool as the definition.		The person who has the highest authority in a group or organization.		मुखिया		首领	အကြီးအကဲ သို့မဟုတ် အုပ်ချုပ်သူ		
-206	saliva	1503	SALIVA	saliva	saliva	ꜱᴀʟɪᴠᴀ	3		body parts	The clear liquid that is secreted by glands in the mouth and is used to moisten food and aid in digestion.		लार		口水	တံတွေး		
-207	shade..area	1388	SHADE	shade (area)	shade	ꜱʜᴀᴅᴇ	3			An area sheltered from direct sunlight, typically created by trees or other vegetation.		छाया		阴凉处	အရိပ်		shade/shadow
-208	shadow..of.something	2275	SHADOW	shadow (of something)	shadow	ꜱʜᴀᴅᴏᴡ	3			Darkness, where light (particularly sunlight) is blocked.	影	अचार		生米	မကျက်သောဆန်		shade/shadow
-21	colour.:black:to.be	163	BLACK	to be black	black	ʙʟᴀᴄᴋ	1			Of the very darkest color owing to the absence of or complete absorption of light, the opposite of white.	黒い	काला		黑	အနက်ရောင်		black
-212	shield	1064	SHIELD	shield	shield	ꜱʜɪᴇʟᴅ	3			A device used to protect oneself or others from harm or danger when engaging in close combat. Typically woven from cane, carved from wood, or formed from toughened animal hide.		ढाल		盾牌	ဒိုင်း		
-213	silver	759	SILVER	silver	silver	ꜱɪʟᴠᴇʀ	3			A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	銀	चाँदी		银	ငွေ		silver
-214	sky	1732	SKY	sky	sky	ꜱᴋʏ	3			The part of the earth's atmosphere and space outside it that is visible from earth's surface. During the day it is perceived as blue, and at night as black.	空	आकाश		天空	ကောင်းကင်		sky
-215	snail	1543	SNAIL	snail	snail	ꜱɴᴀɪʟ	3		fauna	(Gastropoda) Ventral footed mollusk, including land snails, terrestrial pulmonate gastropod mollusks.	カタツムリ	घोंघा		蜗牛	ခရု		
-216	snot..liquid.mucus	208	NASAL MUCUS (SNOT)	snot (liquid mucus)	snot	ꜱɴᴏᴛ	3		body parts	Mucus from the nose.	鼻水	नाक का मूसा		鼻涕	နှပ်		snot
-217	spider	843	SPIDER	spider	spider	ꜱᴘɪᴅᴇʀ	3		fauna	Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	蜘蛛	मकड़ी		蜘蛛	ပင့်ကူ		
-218	spider::web	1065	SPIDER WEB	spiderweb	spiderweb	ꜱᴘɪᴅᴇʀᴡᴇʙ	3		fauna	A fine net of threads woven by a spider to catch insects.		मकड़ी का जाल		蜘蛛网	ပင့်ကူအိမ်ကွန်ယက်		
-219	stick..tree	1295	STICK	stick (tree)	stick	ꜱᴛɪᴄᴋ	3			A long, thin piece of wood, mainly left in the shape in which it grew, that does not bend.	杖, 棒	छड़ी		棍子	တုတ်		stick
-22	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	1		statives	A color resembling the hue of blood, fire, or a ripe tomato.	赤い	लाल		红色	အနီေရာင်		red
-220	ant.:termite	883	TERMITE	termite	termite	ᴛᴇʀᴍɪᴛᴇ	3		fauna	A soft-bodied insect of the order Isoptera; individuals feed on cellulose and live in colonies with a caste system comprising three types of functional individuals: sterile workers and soldiers, and the reproductives.		दीमक	হুঁটুল	白蚁	ခြကောင်		
-221	1000.:thousand	1843	THOUSAND	thousand	thousand	ᴛʜᴏᴜꜱᴀɴᴅ	3		numbers	The natural number one thousand (1000).		हजार	হাজাৰ	千	ထောင်		
-222	thread..string	1161	THREAD	thread (string)	thread	ᴛʜʀᴇᴀᴅ	3			A long, thin and flexible form of material, generally with a round cross-section, used in sewing, weaving or in the construction of string.	糸	धागा (dhaaga)		线	ချည်		
-225	finger.:thumb	1781	THUMB	thumb	thumb	ᴛʜᴜᴍʙ	3			The shortest and thickest of the fingers that can be placed against the others in order to create a firm grip.		अंगूठा	আঙুঠ	拇指	လက်မ		
-226	ascend..move.up:to	705	GO UP (ASCEND)	to ascend (move up)	ascend	ᴀꜱᴄᴇɴᴅ	3			To move from a lower to a higher position by climbing. This should be distinct from the general go verbs which exist as part of systems of topographical deixis.	のぼる	चढ़ना		爬	တက်ရန် သို့မဟုတ် တက်ရန်		climb, ascend
-227	awaken:to	1602	WAKE UP	to awaken	awaken	ᴀᴡᴀᴋᴇɴ	3			To stop sleeping and become conscious, to stir or come into awareness.	目覚める	जागना	জাগা	醒来	နိုးထရန်		awaken
-228	wash.:bathe:to	138	BATHE	to bathe	bathe	ʙᴀᴛʜᴇ	3			To clean oneself by immersion in water.		स्नान करना		洗澡	ရေချိုးရန်		
-229	above:to.be	1741	ABOVE	to be above	above	ᴀʙᴏᴠᴇ	3			Situated in a higher place than something else.		ऊपर	উপৰ	上面	အထက်		
-23	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	1		statives	A color characterized by the presence of all wavelengths of visible light, often associated with purity or innocence.	白い	सफ़ेद		白色的	အဖြူ		white
-230	alive:to.be	1422	BE ALIVE	to be alive	alive	ᴀʟɪᴠᴇ	3			To have life and be living, not dead.	生きている	जीवित	জিৱন থাকিব	活着	အသက်ရှင်ဖို့		alive
-231	ashamed:to.be	1894	ASHAMED	to be ashamed	ashamed	ᴀꜱʜᴀᴍᴇᴅ	3			Feeling shame or guilt. This is distinct from being shy.	恥じる						ashamed
-232	big:to.be	1202	BIG	to be big	big	ʙɪɢ	3			Of great size or extent relative to some other thing.	大きい	बड़ा		大	ကြီးတယ်။		
-233	bitter:to.be	887	BITTER	to be bitter	bitter	ʙɪᴛᴛᴇʀ	3			Having an acrid taste, typical of citrus peel or bitter gourd Momordica charantia.	苦い	कड़वा		苦	ခါး		bitter
-234	born:to.be	1090	BE BORN	to be born	born	ʙᴏʀɴ	3			To come into existence, typically through childbirth.		जन्म लेना		出生	မွေးဖွားလာဖို့ရန်		be born
-235	cold..of.items:to.be	1287	COLD	to be cold (of items)	cold	ᴄᴏʟᴅ	3			Having a low temperature.		ठंडा होना		寒冷	အေးဖို့		cold
-236	cold..of.weather:to.be	2483	COLD (OF WEATHER)	to be cold (of weather)	cold	ᴄᴏʟᴅ	3			Having a low temperature (of the weather).	寒い	ठंडा मौसम		寒冷的天气	ရာသီဥတုအေး		
-237	far:to.be	1406	FAR	to be far	far	ꜰᴀʀ	3			Having a large intervening distance with regard to something.	遠い	दूर		远	ဝေးဖို့		far
-238	fat:to.be	1279	FAT (OBESE)	to be fat	fat	ꜰᴀᴛ	3			Carrying a larger-than-normal amount of fat or weight.	太った, 太い	मोटा		肥	အဆီကျဖို့		fat
-239	flat:to.be	1633	FLAT	to be flat	flat	ꜰʟᴀᴛ	3			Having an surface, without hills or bumps. Distinct from level. This concept may refer to any object and may be at any angle. It is distinct from level.	平たい	समतल		平的	ပြားချပ်		
-24	drink:to	1401	DRINK	to drink	drink	ᴅʀɪɴᴋ	1			To consume a liquid through the mouth.	飲む	पीना		喝	သောက်ရန်		drink
-240	full..container:to.be	1429	FULL	to be full (container)	full	ꜰᴜʟʟ	3			Containing the most or maximum amount possible in the given available space.	いっぱいの	भरा हुआ		满	ကွန်တိန်နာတစ်ခု၏အပြည့်		full
-241	colour.:green:to.be	1425	GREEN	to be green	green	ɢʀᴇᴇɴ	3		statives	Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	緑の	हरा		绿色	အစိမ်းရောင်		
-242	happy:to.be	1495	HAPPY	to be happy	happy	ʜᴀᴘᴘʏ	3			Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.	うれしい	खुश होना		开心	ပျော်ရွှင်ဖို့		
-243	high:to.be	1265	HIGH	to be high	high	ʜɪɢʜ	3			Being in a position comparatively far above to the ground.	高い	उच्च होना		高	မြင့်မားရန်		
-244	hot:to.be	1286	HOT	to be hot	hot	ʜᴏᴛ	3			Having, giving off, or producing a high degree of heat.	熱い						
-245	hungry:to.be	1533	BE HUNGRY	to be hungry	hungry	ʜᴜɴɢʀʏ	3			To be in need of food.	空腹である	भूख लगना		饥饿	ဆာလောင်မှုကိုခံစားရရန်		
-246	ill..sick:to.be	1847	SICK	to be ill (sick)	ill	ɪʟʟ	3			To be in poor health, suffering from a physical or mental condition that causes discomfort or pain.		बीमार होना		生病	နေမကောင်းဖြစ်ခြင်း။		ill
-247	itchy:to.be	149	ITCHY	to be itchy	itchy	ɪᴛᴄʜʏ	3			Having a sensation that provokes the need to scratch.	かゆい	खुजली होना		痒	ယားတယ်။		itchy
-248	long:to.be	1203	LONG	to be long	long	ʟᴏɴɢ	3			Having much distance from one terminating point on an object or an area to another terminating point.	長い	लम्बा		长	ရှည်		long/tall
-249	naked:to.be	590	NAKED	to be naked	naked	ɴᴀᴋᴇᴅ	3			Without clothing.	はだか	नंगा होना		裸露	အဝတ်အချည်းစည်းဖြစ်		
-25	sleep:to	1585	SLEEP	to sleep	sleep	ꜱʟᴇᴇᴘ	1			To rest in a state of decreased consciousness and reduced metabolism.	眠る	सोना		睡觉	အိပ်ရန်		sleep/lie down
-250	near:to.be	1942	NEAR	to be near	near	ɴᴇᴀʀ	3			Not far distant in time or space or degree or circumstances.	横，側, 近い	पास होना		接近	နီးဖို့၊		near
-251	new:to.be	1231	NEW	to be new	new	ɴᴇᴡ	3			Recently made, created or begun.	新しい	नया होना		新	အသစ်ဖြစ်ရန်		new
-252	old..of.people:to.be	2112	OLD (AGED)	to be old (of people)	old	ᴏʟᴅ	3	Both CONCEPTICON forms refer to people, not things.		To have existed or been in use for a long time, having lived or existed for a long time.	年とった	पुराना होना		老	အသက်ကြီးရန်		old
-253	raw..uncooked:to.be	1959	RAW	to be raw (uncooked)	raw	ʀᴀᴡ	3			Of food, being either wholly or imcompletely cooked.	生の	कच्चा		生的	အစိမ်း၊ မပြုတ်		
-254	rotten:to.be	1728	ROTTEN	to be rotten	rotten	ʀᴏᴛᴛᴇɴ	3			Having changed its colour, smell or composition (partially or completely), due to being attacked and decomposed by microorganisms (relating to organic matter).	腐った	गला हुआ		腐烂的	ပုပ်ဖို့		
-255	rough:to.be	1923	ROUGH	to be rough	rough	ʀᴏᴜɢʜ	3			Having a texture that has much friction. Not smooth.	ざらざらな	रूखा		粗糙的	ကြမ်းတမ်းသည်		
-256	round:to.be	1395	ROUND	to be round	round	ʀᴏᴜɴᴅ	3			Circular or having a circular cross-section in at least one direction.	丸い	गोल		圆形的	ပတ်ပတ်လည်		round
-257	full.:satiated:to.be	106	SATIATED	to be satiated	satiated	ꜱᴀᴛɪᴀᴛᴇᴅ	3			Having eaten or drunk enough.	満腹である	भर जाना		饱	ပြည့်ဝ၊		
-258	sharp..of.edge:to.be	1396	SHARP	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	3			Having a thin or narrow edge capable of cutting or slicing.	鋭い	तेज़		尖锐的边缘	အစွန်းတစ်ခု၏ချွန်ထက်		sharp
-259	sharp..of.point:to.be	–	–	to be sharp (of point)	sharp	ꜱʜᴀʀᴘ	3			Having a fine point or edge that is able to cut or pierce.		तीखा		尖锐的	ထက်မြက်သောအချက်၊		sharp
-26	weep..cry:to	1839	CRY	to weep (cry)	weep	ᴡᴇᴇᴘ	1			To shed tears in response to an emotional state, such as sadness, pain, or happiness.	泣く	रोना		哭泣	ငို၊ ငို		weep
-260	short..height:to.be	1645	SHORT	to be short (height)	short	ꜱʜᴏʀᴛ	3			Small in length by comparison.		छोटा होना		矮	လူတို		
-261	shy:to.be	487	SHY	to be shy	shy	ꜱʜʏ	3			To be hesitant or reserved in social situations, often due to timidity or lack of confidence. This is distinct from ashamed.		शर्मीला होना		害羞	ရှက်ဖို့ကောင်းတယ်။		
-262	slow:to.be	701	SLOW	to be slow	slow	ꜱʟᴏᴡ	3			With low speed.	ゆっくりと, おそい	धीमा		慢	နှေးနှေး		
-263	small:to.be	1246	SMALL	to be small	small	ꜱᴍᴀʟʟ	3			Having a small size or dimensions, often relative to others of its kind.	小さい	छोटा होना		小	သေးငယ်ဖို့		
-264	smooth:to.be	1234	SMOOTH	to be smooth	smooth	ꜱᴍᴏᴏᴛʜ	3			Not rough; having a surface texture that lacks friction.	すべすべした	मुलायम होना		平滑	ချောမွေ့စေရန်		
-265	soft:to.be	1856	SOFT	to be soft	soft	ꜱᴏꜰᴛ	3			A state of consistency allowing alterations of form with ease, no big force required, to bring things into something of this state (such as e.g. soaked loam or clay soil).	やわらかい	मुलायम होना		软	ပျော့ပျောင်းစေရန်		soft (to touch)
-266	sour:to.be	1906	SOUR	to be sour	sour	ꜱᴏᴜʀ	3			Having an acid, sharp or tangy taste.	すっぱい	खट्टा होना		酸	အချဉ်ဖြစ်ရန်		sour
-267	strong:to.be	785	STRONG	to be strong	strong	ꜱᴛʀᴏɴɢ	3			Capable of producing great physical force.	強い	मजबूत होना		强	ခိုင်မာဖို့		
-268	sweet:to.be	717	SWEET	to be sweet	sweet	ꜱᴡᴇᴇᴛ	3			Having the taste characteristic of sugar or honey.	甘い	मीठा होना		甜	မွှေးဖို့		sweet
-269	tall:to.be	711	TALL	to be tall	tall	ᴛᴀʟʟ	3			Having a large distance from the base to the top, often relative to other objects or structures.		ऊँचा		高	အရပ်မြင့်သည်ဖြစ်စေ၊		long/tall
-27	tree	906	TREE	tree	tree	ᴛʀᴇᴇ	1		flora	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	木	पेड़ (ped)		树	သစ်ပင်		tree/wood
-270	thick..of.material:to.be	1244	THICK	to be thick (of material)	thick	ᴛʜɪᴄᴋ	3			Relatively large distance from one surface to the opposite in its smallest solid dimension.	厚い	मोटा		厚	အထူ		thick
-271	thin..of.material:to.be	2306	THIN (OF LEAF AND CLOTH)	to be thin (of material)	thin	ᴛʜɪɴ	3			Having a small distance from one surface to another, often relative to the object's size.	薄い	पतला		瘦	ပိန်တယ်။		thin
-272	warm:to.be	1232	WARM	to be warm	warm	ᴡᴀʀᴍ	3			Having a temperature slightly higher than usual, still pleasant.	暖かい	गर्म होना		温暖	နွေးဖို့		warm
-273	weak:to.be	1601	WEAK	to be weak	weak	ᴡᴇᴀᴋ	3			To be lacking physical strength, or lacking strength or energy such as due to fatigue.	弱い	कमजोर होना		虚弱	အားနည်းဖို့၊		
-274	bite:to	1403	BITE	to bite	bite	ʙɪᴛᴇ	3			Clamping the teeth hard on something.	かみつく	काटना		咬	ကိုက်ရန်		bite
-275	bloom:to	3287	BLOOM	to bloom	bloom	ʙʟᴏᴏᴍ	3		flora	To bear flowers or to start bearing flowers; to blossom.		खिलना		开花	ပန်းတစ်ပွင့်၊		
-276	blow..with.mouth:to	176	BLOW (WITH MOUTH)	to blow (with mouth)	blow	ʙʟᴏᴡ	3			To expel air through persed lips.		उड़ाना		吹	မှုတ်ရန်		blow
-277	boil..liquid:to	792	BOIL (OF LIQUID)	to boil (liquid)	boil	ʙᴏɪʟ	3			To reach or cause to reach the temperature at which a liquid bubbles and turns to vapor by adding heat.	煮る	उबालना		煮沸	ပြုတ်ဖို့		cook/boil
-278	burn..intransitive:to	2102	BURN	to burn (intransitive)	burn	ʙᴜʀɴ	3			To put fire on something or to be on fire.		जलाना		烧	မီးရှို့ရန်		burn
-279	buy:to	1869	BUY	to buy	buy	ʙᴜʏ	3			To obtain in exchange for money or goods.	買う	ख़रीदना		买	ဝယ်ရန်		buy
-28	village	930	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	1			A small community of houses and other buildings, typically in a rural area, often organised under unified leadership and identifiable as a community.	村	गांव		村庄	ရွာ		village
-280	carry..child.on.back:to			to carry (child on back)	carry	ᴄᴀʀʀʏ	3				背負う						
-281	cook..general:to	1100	COOK (SOMETHING)	to cook (general)	cook	ᴄᴏᴏᴋ	3			To prepare food by heating it.	料理する	पकाना		烹饪	ချက်ပြုတ်ရန်		cook/boil
-282	count:to	1420	COUNT	to count	count	ᴄᴏᴜɴᴛ	3			To determine the amount of something or to enumerate the digits of one's numeral system.	数える	गिनना		数数	ရေတွက်ရန်		
-283	descend..move.down:to	2014	GO DOWN (DESCEND)	to descend (move down)	descend	ᴅᴇꜱᴄᴇɴᴅ	3			To move downward or to a lower place. Distinct from moving downriver, descent is opposite to the concept of climbing.	おりる	उतरना		下降	ဆင်းရန်		descend
-284	discard..throw.away:to	3696	THROW AWAY	to discard (throw away)	discard	ᴅɪꜱᴄᴀʀᴅ	3				捨てる						
-285	eat:.hard:to	1336	EAT	to eat	eat	ᴇᴀᴛ	3		verbs	To take food into the body through the mouth and swallow it. As applies to hard foods such as curries.		खाना खाना		吃	စားရန်		eat
-286	eat:.soft:to	1336	EAT	to eat	eat	ᴇᴀᴛ	3		verbs	To take food into the body through the mouth and swallow it. As applies to rice and soft foots.		खाना खाना		吃	စားရန်		eat
-287	emerge:to	1076	EMERGE (APPEAR)	to emerge	emerge	ᴇᴍᴇʀɢᴇ	3			To come out from a hidden or enclosed place.		उभरना		浮现	ပေါ်ထွက်လာရန်		emerge
-288	extinguish..fire:to	127	EXTINGUISH	to extinguish (fire)	extinguish	ᴇxᴛɪɴɢᴜɪꜱʜ	3		verbs	To make something stop burning.	火を消す	बुझाना		熄灭	ငြိမ်းအေးရန်		extinguish
-289	fall..of.objects:to	1280	FALL	to fall (of objects)	fall	ꜰᴀʟʟ	3			To descend in free fall due to the effect of gravity.	落ちる	गिरना		落下	အရွက်များကဲ့သို့ ကြွေကျခြင်း၊		fall (from a height)
-29	water	948	WATER	water	water	ᴡᴀᴛᴇʀ	1			Common liquid (H₂O) which forms rain, rivers, the sea, etc., and which makes up a large part of the bodies of organisms.	水						water
-290	fear:to	1419	FEAR (BE AFRAID)	to fear	fear	ꜰᴇᴀʀ	3			To be scared of; to have an uncontrollable emotion of anxiety about something that causes a scared reaction or frightening impression.	恐れる	डरना		害怕	ကြောက်ဖို့ကောင်းတယ်။		fear/frighten
-291	ferment..alcohol:to			to ferment (alcohol)	ferment	ꜰᴇʀᴍᴇɴᴛ	3										
-292	flee..run.away:to	956	FLEE	to flee (run away)	flee	ꜰʟᴇᴇ	3			Leaving a dangerous or unpleasant situation.	逃げる	भागना		奔跑 / 逃跑	ပြေး၊ ပြေး		run/flee
-293	forget:to	1523	FORGET	to forget	forget	ꜰᴏʀɢᴇᴛ	3			To lose memory of something.	忘れる	भूलना		忘记	မေ့		forget
-294	go..general:to	695	GO	to go (general)	go	ɢᴏ	3			To get from one place to another by any means.	行く						
-295	go.downriver:to	–	–	to go downriver	go.downriver	ɢᴏ.ᴅᴏᴡɴʀɪᴠᴇʀ	3			To move in an upstream direction, such as along a river. Moving against the direction that water would flow. This is a part of topographical deixis common to the region.		ऊपर नदी में जाना		上游	အညာ		
-296	go.upriver:to	–	–	to go upriver	go.upriver	ɢᴏ.ᴜᴘʀɪᴠᴇʀ	3			To move in an downstream direction, such as along a river. Moving with the direction that water would flow. This is a part of topographical deixis common to the region.		नीचे नदी में जाना		下游	မြစ်ထဲဆင်းဖို့		
-297	grind:to	1033	GRIND	to grind	grind	ɢʀɪɴᴅ	3			To break something into small pieces by pressing it flat, or grinding it to powder.	すりつぶす						grind
-298	hear:to	1408	HEAR	to hear	hear	ʜᴇᴀʀ	3			To perceive sound with the ear, without necessarily paying attention to it.		सुनना		听	ကြားဖို့		ear/hear
-299	hit..something:to	1433	HIT	to hit (something)	hit	ʜɪᴛ	3			To hit against with a sharp blow or to impel, usually with a hand or weapon or to be forcefully or suddenly contacting, e.g. a tree falling down and hitting the ground.	殴る	मारना		打	ရိုက်နှက်ရန်		
-3	blood	946	BLOOD	blood	blood	ʙʟᴏᴏᴅ	1		body parts	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	血	रक्त		血液	သွေး		blood
-30	year	1226	YEAR	year	year	ʏᴇᴀʀ	1			The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	年	साल		年	တစ်နှစ်		year
-300	hunt:to	1435	HUNT	to hunt	hunt	ʜᴜɴᴛ	3			To chase down prey and (usually) kill it.	猟をする	शिकार करना		狩猎	အမဲလိုက်ရန်		drive/hunt
-301	kick..stationary.item:to	1135	KICK	to kick (stationary item)	kick	ᴋɪᴄᴋ	3			To strike something stationary with the foot.	蹴る	लात मारना		踢	ကန်ဖို့		kick
-302	kill:to	1417	KILL	to kill	kill	ᴋɪʟʟ	3			To put to death; to end a life.	殺す	मारना		杀	သတ်ရန်		kill
-303	kiss:to			to kiss	kiss	ᴋɪꜱꜱ	3										
-304	know..something:to	1410	KNOW (SOMETHING)	to know (something)	know	ᴋɴᴏᴡ	3			To have knowledge or comprehension of something through learning or experience.	知る	कुछ समझना		理解	တစ်ခုခုကိုနားလည်ရန်		know
-305	laugh:to	1355	LAUGH	to laugh	laugh	ʟᴀᴜɢʜ	3			To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.	笑う	हंसना		笑	ရယ်ဖို့		laugh
-306	lick:to	319	LICK	to lick	lick	ʟɪᴄᴋ	3			To pass the tongue over something in order to taste or wet it.	舐める	चाटना		舔	စို့ရန်		lick
-307	lie.down:to	215	LIE DOWN	to lie down	lie.down	ʟɪᴇ.ᴅᴏᴡɴ	3			(For a human or animal) to assume a horizontally extended position on a surface.	横たわる	लेट जाना		躺下	အိပ်ရန်		sleep/lie down
-308	listen:to	1608	LISTEN	to listen	listen	ʟɪꜱᴛᴇɴ	3			To perceive with the ear (paying attention to what is heard).	聞く						
-309	love:to	923	LOVE	to love	love	ʟᴏᴠᴇ	3			To have an intense feeling of affection and care towards another person.		प्यार करना		爱	ချစ်ဖို့		
-31	1.du	2634	WE TWO	1 du	1.du	1.ᴅᴜ	2		pronouns	The speaker and exactly one other person. // The first person dual pronominal stem. In varieties which have this stem, it is typically derived from a proposed etymon #tsi. Varieties which lack stem suppletion for dual pronominal forms should have their compounds recorded as such.							
-310	perch:to	3682	PERCH (OF BIRD)	to perch	perch	ᴘᴇʀᴄʜ	3			To sit or rest on a perch or elevated spot, typically of a bird or other animal.		उड़ना		栖息	perch ရန်		
-311	pierce..puncture:to	398	PIERCE	to pierce (puncture)	pierce	ᴘɪᴇʀᴄᴇ	3			To make a hole or wound in something using a sharp object.	突き刺す	चुभाना		刺穿	ဖောက်ရန် သို့မဟုတ် ထိုးရန်		
-312	place..put:to	998	PUT	to place (put)	place	ᴘʟᴀᴄᴇ	3			To set or place an object somewhere.	置く	रखना		放	တစ်စုံတစ်ခုကို ထားရန်၊		put, place
-313	plant:to	1486	PLANT (SOMETHING)	to plant	plant	ᴘʟᴀɴᴛ	3			To put a plant in the ground so that it strikes root and grows.		लगाना		种植	စိုက်ပျိုးရန်		
-314	play..game:to	1413	PLAY	to play (game)	play	ᴘʟᴀʏ	3			To act in a manner such that one has fun; to engage in playful activities expressly for the purpose of recreation.	遊ぶ	खेलना		玩	ကစားရန်		
-315	release..let.go:to	1095	LET GO OR SET FREE	to release (let go)	release	ʀᴇʟᴇᴀꜱᴇ	3			To give freedom; to stop holding; to release from confinement or restraint.	放す	छोड़ना		放开	လွှတ်ရန် သို့မဟုတ် လွှတ်ရန်		let go; set free; loosen
-316	roast:to	1962	ROAST (SOMETHING)	to roast	roast	ʀᴏᴀꜱᴛ	3			To expose to heat without adding fat or water until it is cooked, has a brown crust and becomes crispy.	焼く	भूनना		烤	ကင်ရန်		
-317	rub:to	1449	RUB	to rub	rub	ʀᴜʙ	3			To move one's hand or an object over a surface or other object (maintaining constant contact and applying moderate pressure).	こする	रगड़ना		擦	ပွတ်ရန်		rub
-318	scrape..with.edge:to	1767	SCRAPE	to scrape (with edge)	scrape	ꜱᴄʀᴀᴘᴇ	3			To move an object against another object such that abrasion or minor cutting occurs.		खुरचना		抓 / 刮	ခြစ်ရန် သို့မဟုတ် ခြစ်ရန်		scratch (scrape)
-319	scratch..with.nails:to	1436	SCRATCH	to scratch (with nails)	scratch	ꜱᴄʀᴀᴛᴄʜ	3			To rub or scrape (a part of the body) with a sharp object (e.g. to relieve an itching).	掻く	अनाज		稻	မကြေသေးသော ဆန်၊		scratch (scrape)
-32	1.n.sg.excl	1130	WE (EXCLUSIVE)	1 n sg excl	1.n.sg.excl	1.ɴ.ꜱɢ.ᴇxᴄʟ	2		pronouns	Exclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.					ကျွန်တစ်ဦးတည်းနှင့်တကွ		
-320	see:to	1409	SEE	to see	see	ꜱᴇᴇ	3			To perceive with the eyes, or to comprehend mentally through observation or understanding.	見る	देखना		看	ကြည့်ရန်		see
-321	sell:to	1571	SELL	to sell	sell	ꜱᴇʟʟ	3			To provide goods or services in exchange for money.	売る	बेचना		卖	ရောင်းရန်		sell
-322	sew:to	1457	SEW	to sew	sew	ꜱᴇᴡ	3			To pass thread repeatedly through fabric or a material, using a needle, in order to join two or more parts or to make a pattern or motif.	縫う	सीवना		缝 / 裁缝	ချုပ်ရန်		sew
-323	sing:to	1261	SING	to sing	sing	ꜱɪɴɢ	3			To produce musical sounds with one's voice, often in a rhythmic or melodic pattern.	歌う	गाना गाना		唱歌	သီချင်းသီဆိုရန်		
-324	sink:to	1088	SINK (DESCEND)	to sink	sink	ꜱɪɴᴋ	3			To go down in water, mud, quicksand etc. or to cause something to go down in it.	沈む	डूबना		下沉	နစ်မြုပ်ရန်		
-325	smell..something:to	1586	SMELL (PERCEIVE)	to smell (something)	smell	ꜱᴍᴇʟʟ	3			To perceive the presence of molecules in the air by inhaling them through the nose.	嗅ぐ, におう	सूंघना		闻	အနံ့ခံရန်		smell
-326	smoke:to	1689	SMOKE (INHALE)	to smoke	smoke	ꜱᴍᴏᴋᴇ	3			To inhale smoke from for example a cigarette or a cigar.		धूम्रपान करना		抽烟	ဆေးလိပ်သောက်ရန်		
-327	sow..crops:to	748	SOW SEEDS	to sow (crops)	sow	ꜱᴏᴡ	3			To scatter or disperse seeds on a field.	蒔く	बोना या बोवाई करना		播种	ကြဲရန်		
-328	speak:to	1623	SPEAK	to speak	speak	ꜱᴘᴇᴀᴋ	3			To communicate by the use of words.	話す	बोलना		说	ပြောရန် သို့မဟုတ် ပြောရန်		
-329	spit:to	1440	SPIT	to spit	spit	ꜱᴘɪᴛ	3			To forcefully evacuate saliva from the mouth.	つばを吐く	थूकना		吐	တံတွေးထွေးရန်		spit
-33	1.n.sg.incl	1131	WE (INCLUSIVE)	1 n sg incl	1.n.sg.incl	1.ɴ.ꜱɢ.ɪɴᴄʟ	2		pronouns	Inclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.					ကျွန်မှာတော့		
-330	squeeze:to	1414	SQUEEZE	to squeeze	squeeze	ꜱꞯᴜᴇᴇᴢᴇ	3			To apply pressure to something from two or more sides at once.	しぼる	दबाना		挤	ညှစ်ရန်		squeeze
-331	steal:to	713	STEAL	to steal	steal	ꜱᴛᴇᴀʟ	3			To take possession of property belonging to another without the consent of this owner; most typically when not observed, rather than by force.	盗む	चुराना		偷	ခိုးယူရန်		steal
-332	sting..of.bee:to	571	STING	to sting (of bee)	sting	ꜱᴛɪɴɢ	3			To hurt, usually by introducing poison or a sharp point, or both.		दर्द होना		叮	ကိုက်တယ်။		
-333	sweat:to	126	SWEAT (PERSPIRE)	to sweat	sweat	ꜱᴡᴇᴀᴛ	3			To excrete moisture from the skin through sweat glands, often as a result of physical exertion or high temperatures.		पसीना आना		出汗	ချွေးထွက်ဖို့		sweat
-334	tether..goats:to			to tether (goats)	tether	ᴛᴇᴛʜᴇʀ	3										
-335	tie..general:to	1917	TIE	to tie (general)	tie	ᴛɪᴇ	3			To fasten or secure something by wrapping or looping a string, rope, or other material around it and knotting it.	結ぶ	बांधना		打结	ချည်ရန်		tie
-336	wash..general:to	1453	WASH	to wash (general)	wash	ᴡᴀꜱʜ	3			To remove dirt and grime from an object, using water (usually with soap).	洗う	धोना		洗	ဆေးကြောရန်		wash
-337	wash.clothes:to	3434	WASH (CLOTHES)	to wash clothes	wash.clothes	ᴡᴀꜱʜ.ᴄʟᴏᴛʜᴇꜱ	3			To clean pieces of clothing by using water and supplementary cleansing products as a part of hygiene routine.							
-338	weave..baskets:to			to weave (baskets)	weave	ᴡᴇᴀᴠᴇ	3										
-339	winnow:to	2462	WINNOWING	to winnow	winnow	ᴡɪɴɴᴏᴡ	3			To separate the chaff from grain using wind or air.		झाड़ना		簸箕	လှေ့ရန်		
-34	1.sg	1209	I	1 sg	1.sg	1.ꜱɢ	2		pronouns	The first-person singular pronominal stem, typically a reflex of PTB *ŋa or *ka.	わたし						I
-340	today	1283	TODAY	today	today	ᴛᴏᴅᴀʏ	3			The present day, or the day that has recently occurred when uttered at night.	今日	आज (aaj)		今天	ဒီနေ့		
-341	toe	1389	TOE	toe	toe	ᴛᴏᴇ	3			One of the extremities of the foot.		पैर का अंगूठा (pair ka angutha)		脚趾	ခြေချောင်း		finger/toe
-342	tooth..general	1380	TOOTH	tooth (general)	tooth	ᴛᴏᴏᴛʜ	3		body parts	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.	歯	दाँत (daant)		牙齿	သွား		tooth
-343	tree.bark	1204	BARK	tree bark	tree.bark	ᴛʀᴇᴇ.ʙᴀʀᴋ	3		flora	The protective outer layer of a tree trunk composed of dead cells, often used for medicinal or decorative purposes.	樹皮	छाल (chaal)		树皮	သစ်ပင်အခေါက်		skin/bark
-344	turtle..tortoise	112	TURTLE	turtle (tortoise)	turtle	ᴛᴜʀᴛʟᴇ	3		fauna	A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.	陸亀	कछुआ		龟	လိပ် သို့မဟုတ် လိပ်		
-345	0020.:twenty	1710	TWENTY	twenty	twenty	ᴛᴡᴇɴᴛʏ	3		numbers	The natural number twenty (20).		बीस	বিশ	二十	ပိသျှတ်		twenty/score
-346	rice..paddy:unhusked	2749	UNHUSKED RICE	unhusked rice (paddy)	unhusked.rice	ᴜɴʜᴜꜱᴋᴇᴅ.ʀɪᴄᴇ	3		rice	A flooded field in which rice is grown.	稲	धान का खेत		稻田	စပါး		
-347	urine	1142	URINE	urine	urine	ᴜʀɪɴᴇ	3			Liquid excrement consisting of water, salts and urea, which is made in the kidneys, stored in the bladder, then released through the urethra.	小便	मूत्र		尿	ဆီး		
-348	valley	921	VALLEY	valley	valley	ᴠᴀʟʟᴇʏ	3			Any low-lying land bordered by higher ground; especially an elongate, relatively large, gently sloping depression of the Earth's surface, commonly situated between two mountains or between ranges of hills or mountains, and often containing a stream with an outlet.		घाटी (ghaati)		山谷	ချိုင့်ဝှမ်း		river/valley
-349	vine..creeper	343	VINE	vine (creeper)	vine	ᴠɪɴᴇ	3		flora	Any plant with a growth habit of trailing or climbing stems or runners. Alternatively, any type of lianas.	つる	बेल		藤蔓	စပျစ်၊ တွား		
-35	2.n.sg	1213	YOU	2 n sg	2.n.sg	2.ɴ.ꜱɢ	2		pronouns	Second person non-singular pronominal stem. This will not likely have a suppletive dual counterpart.	おまえたち				သင့်တော်တို့		
-350	waist	1681	WAIST	waist	waist	ᴡᴀɪꜱᴛ	3		body parts	The part of the body between the ribs and hips, typically the narrowest part of the torso.	腰	कमर		腰	ခါး		
-351	west	1817	WEST	west	west	ᴡᴇꜱᴛ	3			One of the four principal compass points, specifically 270°, conventionally directed to the left on maps. The direction of the setting sun.	西	पश्चिम		西	အနောက်		
-352	woman..female.human	962	WOMAN	woman (female human)	woman	ᴡᴏᴍᴀɴ	3			An adult human member of the sex that produces ova and bears young.	女	महिला		女人	မိန်းမ		
-353	wood	1803	WOOD	wood	wood	ᴡᴏᴏᴅ	3			The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.		लकड़ी		木头	သစ်သား		tree/wood
-354	worm..general	1219	WORM	worm (general)	worm	ᴡᴏʀᴍ	3		fauna	A generally tubular invertebrate of the annelid phylum.		कीड़ा		虫子	သန်ကောင်		
-355	sibling:younger			younger sibling	younger.sibling	ʏᴏᴜɴɢᴇʀ.ꜱɪʙʟɪɴɢ	3			Either sibling which is younger							
-356	afternoon	1807	AFTERNOON	afternoon	afternoon	ᴀꜰᴛᴇʀɴᴏᴏɴ	4			The part of the day which follows noon, between noon and evening.		दोपहर	বিলাস	下午	နေ့လည်		
-357	amber	–	–	amber	amber	ᴀᴍʙᴇʀ	4			A hard, translucent fossilized resin, typically yellowish-brown in color. Used in some communities for ornaments such as earrings.		अंबर	বাঁশফুলীয়া	琥珀	ပယင်း		
-358	leg.:ankle	803	ANKLE	ankle	ankle	ᴀɴᴋʟᴇ	4		body parts	A joint formed where the foot and the leg meet.	足首	टखना	পা তল	脚踝	ခြေချင်းဝတ်		
-359	arm::pit	1886	ARMPIT	armpit	armpit	ᴀʀᴍᴘɪᴛ	4		body parts	The hollow beneath the junction of the arm and shoulder.	わきの下	बगल	কখেলা	腋窝	ချိုင်း		
-36	2.sg	1215	THOU	2 sg	2.sg	2.ꜱɢ	2		pronouns	The second-person singular pronominal stem, typically but not always a reflex of *naŋ.	おまえ						thou
-360	back..of.body	1291	BACK	back (of body)	back	ʙᴀᴄᴋ	4		body parts	The rear surface of the human body from the shoulders to the hips.	背中	पीठ	পিছলৈ	背部	လူသားကဲ့သို့ ကျော၊		
-361	bag	2468	BAG	bag	bag	ʙᴀɢ	4			A container made of flexible material with an opening at the top, used for carrying or storing items.	袋	थैला	থলতী	包	အိတ်		
-362	banana.tree	1795	BANANA TREE	banana tree	banana.tree	ʙᴀɴᴀɴᴀ.ᴛʀᴇᴇ	4		flora	The tropical treelike plant which bears clusters of bananas. The plant, of the genus Musa, has large, elongated leaves.							
-363	bed	1663	BED	bed	bed	ʙᴇᴅ	4			A piece of furniture used for sleeping or resting, typically consisting of a mattress and a frame.	寝台	बिस्तर		床	အိပ်ရာ		
-364	bee::hive	88	BEEHIVE	beehive	beehive	ʙᴇᴇʜɪᴠᴇ	4		fauna	A structure that provides a natural habitation for bees; as in a hollow tree.							
-365	nest:bird	3549	BIRD NEST	bird nest	bird.nest	ʙɪʀᴅ.ɴᴇꜱᴛ	4			A nest in which birds lay and hatch their eggs.	巣						
-366	body	1480	BODY	body	body	ʙᴏᴅʏ	4		body parts	The physical structure of a human or animal, including the bones, flesh, and organs.	からだ	शरीर		身体	ခန္ဓာကိုယ်		
-367	bos.frontalis..mithun:::	–	–	Bos frontalis (mithun)	mithun	ᴍɪᴛʜᴜɴ	4		fauna	A member of the Bos genus having a large size and posessing characteristic horns with a wide base. Important draught animal for local agriculture.							
-368	bracelet	1754	BRACELET	bracelet	bracelet	ʙʀᴀᴄᴇʟᴇᴛ	4			Piece of jewellery worn around the wrist.		बांगड़ी		手镯	လက်ကောက်		
-369	bubalus.bubalis..water.buffalo:::	2516	WATER BUFFALO	Bubalus bubalis (water buffalo)	water.buffalo	ᴡᴀᴛᴇʀ.ʙᴜꜰꜰᴀʟᴏ	4		fauna	A large bovid originating in South Asia, Southeast Asia, and China.	水牛						
-37	3.n.sg	817	THEY	3 n sg	3.n.sg	3.ɴ.ꜱɢ	2		pronouns	Third person non-singular pronominal stem, unmarked for gender. If gendered forms are attested they should be added under separate concepts.	彼ら，彼女ら				သူတို့		
-370	cane..rattan	2497	RATTAN	cane (rattan)	cane	ᴄᴀɴᴇ	4		flora	Material from rattan palms which is used to create furniture.	籐	साँई		藤条	ကြံ၊ ကြိမ်		
-371	cattle..domestic	1153	CATTLE	cattle (domestic)	cattle	ᴄᴀᴛᴛʟᴇ	4		fauna	Domesticated bovine animals, including cows, steers and bulls, raised and bred on a ranch or farm.	牛	गाय		家牛	အိမ်မွေးနွား		
-372	cave	1155	CAVE	cave	cave	ᴄᴀᴠᴇ	4			A large underground chamber or network of chambers.		गुफा		洞穴	ဂူ		
-373	cheek	1730	CHEEK	cheek	cheek	ᴄʜᴇᴇᴋ	4		body parts	The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.	頬						
-374	chest	1592	CHEST	chest	chest	ᴄʜᴇꜱᴛ	4		body parts	The portion of the body from the base of the neck to the top of the abdomen; the thorax.	胸	छाती		胸部	ရင်ဘတ်		
-375	chin	1510	CHIN	chin	chin	ᴄʜɪɴ	4			The bottom of the face, below the mouth.		ठुड्डी		下巴	မေးစေ့		
-376	cloth	1616	CLOTH	cloth	cloth	ᴄʟᴏᴛʜ	4			A woven fabric such as used in dressing, decorating, cleaning or other practical use.	布	कपड़ा		布料	အထည်		
-377	corpse	767	CORPSE	corpse	corpse	ᴄᴏʀᴘꜱᴇ	4		body parts	A dead body.		शव		尸体	အလောင်း		
-378	cotton	1850	COTTON	cotton	cotton	ᴄᴏᴛᴛᴏɴ	4		flora	Fiber obtained from plants of the genus Gossypium, used in making fabrics, cordage, and padding and for producing artificial fibers and cellulose.	綿	कपास		棉花	ဝါဂွမ်း		
-379	crab	2348	CRAB	crab	crab	ᴄʀᴀʙ	4		fauna	Decapod crustaceans of the infraorder Brachyura, which typically have a very short projecting tail (abdomen) (Greek: βραχύς / brachys = short, οὐρά / οura = tail), usually entirely hidden under the thorax.	蟹	केकड़ा		螃蟹	ဂဏန်း		
-38	3.sg	262	HE OR SHE OR IT	3 sg	3.sg	3.ꜱɢ	2		pronouns	Third person singular pronominal stem. This may in some cases also be one of the demonstrative stems, as is the case in much of Bodo-Garo.	彼，彼女						
-380	cricket	2354	CRICKET	cricket	cricket	ᴄʀɪᴄᴋᴇᴛ	4		fauna	An insect related to grasshoppers but smaller in size and known for its distinctive chirping sound.		क्रिकेट		蟋蟀	ခရစ်ကတ်		
-381	bow.:crossbow	3193	CROSSBOW	crossbow	crossbow	ᴄʀᴏꜱꜱʙᴏᴡ	4			A weapon based on the bow, consisting of a bow mounted on a stock.							
-382	cup..traditional	476	CUP	cup (traditional)	cup	ᴄᴜᴘ	4			A concave vessel for holding liquid, generally adorned with either a handle or a stem.	椀	कप		杯子	ခွက်		
-383	dawn..before.sunrise	729	DAWN	dawn (before sunrise)	dawn	ᴅᴀᴡɴ	4			A period of time at the beginning of the day shortly before sunrise during which the light gradually becomes stronger.	あけがた	भोर		黎明	အရုဏ်တက်		
-384	deer..general	1936	DEER	deer (general)	deer	ᴅᴇᴇʀ	4		fauna	The common name for 41 species of even-toed ungulates that compose the family Cervidae in the order Artiodactyla; males have antlers.	鹿	हिरण		鹿	သမင်		
-385	descendants	490	DESCENDANTS	descendants	descendants	ᴅᴇꜱᴄᴇɴᴅᴀɴᴛꜱ	4		kinship	One who is the progeny of someone at any distance of time.							
-386	dew	1977	DEW	dew	dew	ᴅᴇᴡ	4			Atmospheric moisture that condenses after a warm day and appears during the night on cool surfaces as small drops.		बरखा		露水	နှင်းရည်		
-387	door::way	1567	DOOR	doorway	doorway	ᴅᴏᴏʀᴡᴀʏ	4	Mismatch with CONCEPTICON		An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	戸			门户	တံခါးပေါက်		
-388	drum	908	DRUM	drum	drum	ᴅʀᴜᴍ	4			A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.		ढोल		鼓	ဒရမ်တစ်ခု		
-389	duck	1360	DUCK	duck	duck	ᴅᴜᴄᴋ	4		fauna	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	アヒル	बत्ख		鸭子	ဘဲ		
-39	ant..general	587	ANT	ant (general)	ant	ᴀɴᴛ	2			Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	蟻	चींटी	পিঁপিলিকা	蚂蚁	ပုရွက်ဆိတ်		ant
-390	dusk..just.after.sunset	2297	DUSK	dusk (just after sunset)	dusk	ᴅᴜꜱᴋ	4			The darkest stage of twilight in the evening.		अंधेरा		黄昏	နေဝင်ရီတရော		
-391	dust	2	DUST	dust	dust	ᴅᴜꜱᴛ	4			Tiny particles of earth or other matter that settle on surfaces or are stirred up by movement.	埃	धूल		灰尘	ဖုန်မှုန့်		
-392	ear::ring			earring	earring	ᴇᴀʀʀɪɴɢ	4										
-393	arm.:elbow	981	ELBOW	elbow	elbow	ᴇʟʙᴏᴡ	4		body parts	The joint between the forearm and the upper arm.	ひじ	कोहनी	কুহুনি	肘部	တံတောင်ဆစ်		
-394	brother:elder	1759	OLDER BROTHER	elder brother	elder.brother	ᴇʟᴅᴇʀ.ʙʀᴏᴛʜᴇʀ	4		kinship	A male with more years of age than one or more of his siblings.	兄	भाई		哥哥	အစ်ကိုအကြီး		
-395	elephant	1290	ELEPHANT	elephant	elephant	ᴇʟᴇᴘʜᴀɴᴛ	4		fauna	A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw. Elephants are the largest land animals now existing.	象	हाथी		大象	ဆင်		
-396	embers	67	EMBERS	embers	embers	ᴇᴍʙᴇʀꜱ	4			A small, glowing piece of coal or wood, as in a dying fire.							
-397	ereyesterday	1180	DAY BEFORE YESTERDAY	ereyesterday	ereyesterday	ᴇʀᴇʏᴇꜱᴛᴇʀᴅᴀʏ	4			The day before yesterday.	おととい	परसों		前天	မနေ့က		
-398	evening	1629	EVENING	evening	evening	ᴇᴠᴇɴɪɴɢ	4			That part of the day in which daylight decreases and the night falls.	夕方	शाम		晚上	ညနေ		
-399	eye::brow	1173	EYEBROW	eyebrow	eyebrow	ᴇʏᴇʙʀᴏᴡ	4		body parts	The hair that grows over the bone ridge above the eye socket.	まゆげ	भौं		眉毛	မျက်ခုံးမွေး		
-4	bridge	1011	BRIDGE	bridge	bridge	ʙʀɪᴅɢᴇ	1			A structure that spans and provides a passage over a road, railway, river, or some other obstacle.	橋	पुल		桥	တံတား		
-40	ash	646	ASH	ash	ash	ᴀꜱʜ	2			The powdery incombustible residue left after the burning of a substance. Additional terms for different types of ash may be present, such as the stringy ash left over from burning dry bamboo. This concept is only for the most basic powdery type, but other forms should be documented as such.	灰	राख	বলি	灰烬	ပြာ		ashes
-400	eye::lid	17	EYELID	eyelid	eyelid	ᴇʏᴇʟɪᴅ	4		body parts	Either of two movable folds of skin that cover and uncover the eye, protecting it from injury, dust, and light.	まぶた	पलक		眼皮	မျက်ခွံ		
-401	face	1560	FACE	face	face	ꜰᴀᴄᴇ	4		body parts	The front part of the head, featuring the eyes, nose, and mouth and the surrounding area.	顔	चेहरा		脸	မျက်နှာ		
-402	faeces..excrement	675	FAECES (EXCREMENT)	faeces (excrement)	faeces	ꜰᴀᴇᴄᴇꜱ	4			Substance that human and animal bodies release from time to time as a little pile of waste remaining from digestion, after it has been collected in the colon.	d						
-403	family..household	194	FAMILY	family (household)	family	ꜰᴀᴍɪʟʏ	4			A group comprising parents, offsprings and others closely related or associated with them.	家族	परिवार		家庭	မိသားစု		
-404	fence	1690	FENCE	fence	fence	ꜰᴇɴᴄᴇ	4			A barrier, railing, or other upright structure, typically of wood or wire, enclosing an area of land to mark a boundary, control access, or prevent escape.		बाड़		围栏	ခြံစည်းရိုး		
-405	firefly	206	FIREFLY	firefly	firefly	ꜰɪʀᴇꜰʟʏ	4		fauna	A nocturnal, bioluminescent beetle of the family Lampyridae.		जुगनू		萤火虫	ပိုးစုန်းကြူး		
-406	fire::place..hearth	185	FIREPLACE	fireplace (hearth)	fireplace	ꜰɪʀᴇᴘʟᴀᴄᴇ	4			The floor of a fireplace, usually made of brick or stone.		चूल्हा		炉灶	မီးဖို		
-407	tongs:fireplace	272	TONGS	fireplace tongs	fireplace.tongs	ꜰɪʀᴇᴘʟᴀᴄᴇ.ᴛᴏɴɢꜱ	4			A tool consisting of two long arms with a pivot joint, used for gripping and lifting objects.		चिमटा (chimtaa)		钳子	မီးညှပ်များ		
-408	flea	232	FLEA	flea	flea	ꜰʟᴇᴀ	4		fauna	Any of the wingless insects composing the order Siphonaptera; most are ectoparasites of mammals and birds. (Source: MGH)	蚤	उम्मड़		跳蚤	လှေး၊		
-409	leg.:foot	1301	FOOT	foot	foot	ꜰᴏᴏᴛ	4		body parts	The part of a human’s body below the ankle that is used in order to stand and walk.	足	पैर		脚	ခြေ		foot
-41	bamboo	1927	BAMBOO	bamboo	bamboo	ʙᴀᴍʙᴏᴏ	2		flora	A group of woody perennial evergreen plants in the true grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae.	竹	बांस	ভেতি	竹子	ဝါး		bamboo
-410	forest	420	FOREST	forest	forest	ꜰᴏʀᴇꜱᴛ	4			A vegetation community dominated by trees and other woody shrubs, growing close enough together that the tree tops touch or overlap, creating various degrees of shade on the forest floor.	森	जंगल		森林	တော၊ တော		
-411	fox	1312	FOX	fox	fox	ꜰᴏx	4		fauna	A carnivorous relatively small canine of the species Vulpes Vulpes.	狐	लोमड़ी		狐狸	မြေခွေး		
-412	freckle	530	FRECKLE	freckle	freckle	ꜰʀᴇᴄᴋʟᴇ	4		body parts	A small brownish or reddish pigmentation spot on the surface of the skin.							
-413	moon:full	3690	FULL MOON	full moon	full.moon	ꜰᴜʟʟ.ᴍᴏᴏɴ	4			The lunar phase when the moon is fully illuminated by the sun and appears in the sky as a full circle.		पूर्णिमा		满月	လပြည့်		
-414	granary	3657	GRANARY	granary	granary	ɢʀᴀɴᴀʀʏ	4			A building for storing threshed grain.		अनाजखाना		粮仓	ကျီ		
-415	gums	139	GUMS	gums	gums	ɢᴜᴍꜱ	4		body parts	The mucosal tissue that partly lies over the teeth in the mouth.		मुंह की मसूड़े		牙龈	သွားဖုံးများ		
-416	housefly..common	1504	FLY (INSECT)	housefly (common)	housefly	ʜᴏᴜꜱᴇꜰʟʏ	4		fauna	A common insect; any species of insect of the order Diptera.	蝿	मक्खी		家蝇	ယင်ကောင်		
-417	jaw	798	JAW	jaw	jaw	ᴊᴀᴡ	4		body parts	Either of the two opposable structures forming, or near the entrance to, the mouth.	あご	जबड़ा		下巴	မေးရိုး		
-418	leg.:knee	1371	KNEE	knee	knee	ᴋɴᴇᴇ	4		body parts	The joint between the thigh and the lower leg in humans.	ひざ	घुटना		膝盖	ဒူး		
-419	market	633	MARKET	market	market	ᴍᴀʀᴋᴇᴛ	4			Place of commercial activity in which articles are bought and sold.	市場	बाजार		市场	စျေးကွက်		
-42	bat..animal	1793	BAT	bat (animal)	bat	ʙᴀᴛ	2		fauna	A small, flying mammal in the order Chiroptera with wings consisting of skin stretched over a framework of bones, typically active at night.	蝙蝠	चमगादड़		蝙蝠	လင်းနို့		
-420	menstruation			menstruation	menstruation	ᴍᴇɴꜱᴛʀᴜᴀᴛɪᴏɴ	4										
-421	monkey..general	1350	MONKEY	monkey (general)	monkey	ᴍᴏɴᴋᴇʏ	4		fauna	A mammal with a long tail, a small face, and usually hands and feet adapted for grasping and climbing.	猿	बंदर		猴子	မျောက်		monkey
-422	morning	1339	MORNING	morning	morning	ᴍᴏʀɴɪɴɢ	4			The period of time from the start of the day (midnight) until midday (12:00).	朝	सुबह		早上	မနက်ခင်း		
-423	morung..dormitory			morung (dormitory)	morung	ᴍᴏʀᴜɴɢ	4										
-424	mosquito	1509	MOSQUITO	mosquito	mosquito	ᴍᴏꜱꞯᴜɪᴛᴏ	4		fauna	A small flying insect (of the family Culicidae) known for biting and sucking blood.	蚊	मच्छर		蚊子	ခြင်		
-425	necklace	1961	NECKLACE	necklace	necklace	ɴᴇᴄᴋʟᴀᴄᴇ	4			An article of jewelry that is worn around the neck.		हार		项链	လည်ဆွဲ		
-426	moon:new	3691	NEW MOON	new moon	new.moon	ɴᴇᴡ.ᴍᴏᴏɴ	4			The lunar phase when the moon appears in the sky as a slender crescent shortly after its conjunction with the sun.		जमीन		地面	မြေပြင်		
-427	poison..general	655	POISON	poison (general)	poison	ᴘᴏɪꜱᴏɴ	4										
-428	porcupine	2510	PORCUPINE	porcupine	porcupine	ᴘᴏʀᴄᴜᴘɪɴᴇ	4		fauna	Rodents with a coat of sharp spines, or quills, that protect against predators.		शहरा		豪猪	ဖြူကောင်		
-429	rib..bone	801	RIB	rib (bone)	rib	ʀɪʙ	4		body parts	One of the long curved bones which form the rib cage.	肋骨	पसली		肋骨	နံရိုး		
-43	bird..general.term	937	BIRD	bird (general term)	bird	ʙɪʀᴅ	2		fauna	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	鳥	पक्षी		鸟	ငှက်၊ ယေဘူယျ		bird
-430	roof..of.building	769	ROOF	roof (of building)	roof	ʀᴏᴏꜰ	4			The upper covering of a building or vehicle, typically supported by a framework.	屋根	छत		屋顶	အိမ်ခေါင်မိုး		
-431	arm.:shoulder	1482	SHOULDER	shoulder	shoulder	ꜱʜᴏᴜʟᴅᴇʀ	4		body parts	The joint connecting the upper arm and the torso, especially the top or outermost part.	肩	कंधा		肩膀	ပခုံး		
-432	son	1620	SON	son	son	ꜱᴏɴ	4		kinship	One's male child.	息子	बेटा		儿子	သား		child/son
-433	spicy..of.chilis	544	SPICY	spicy (of chilis)	spicy	ꜱᴘɪᴄʏ	4			Provoking a burning sensation due to the presence of chillies or similar hot spices.	苦い	मसालेदार		辣	ငရုတ်သီးမှအစပ်		
-434	taro..kochu	351	TARO	taro (kochu)	taro	ᴛᴀʀᴏ	4			A starchy root vegetable commonly used in cooking. This should be distinguished from other starchy roots used as a foodstuff.	さといも	अरबी		芋头	ပိန်းဥ		
-435	tattoo	68	TATTOO	tattoo	tattoo	ᴛᴀᴛᴛᴏᴏ	4		body parts	A marking made by inserting ink into the layers of skin to change the pigment permanently for decorative or other reasons.		गोदना		纹身	တက်တူး		
-436	tea..beverage	1373	TEA	tea (beverage)	tea	ᴛᴇᴀ	4		flora	A hot drink made by infusing dried leaves of the tea plant in boiling water. This should be the general category of drinks and not marked for the specific preparation of the tea leaves. A native or near native term is expected for all languages in the region. .	茶（飲料）	चाय		茶	လက်ဖက်ရည်		
-437	thief	1160	THIEF	thief	thief	ᴛʜɪᴇꜰ	4			Someone who takes property belonging to someone else with the intention of keeping it or selling it.		चोर		小偷	သူခိုး		
-438	angry:to.be	1826	ANGRY	to be angry	angry	ᴀɴɢʀʏ	4			Feeling or showing strong annoyance, displeasure, or hostility, usually toward someone or some thing.	怒る	गुस्सा	ৰাগী	生气	စိတ်ဆိုး		
-439	bad:to.be	1292	BAD	to be bad	bad	ʙᴀᴅ	4			Not good; unfavorable; negative.	悪い	बुरा होना	খৰাপ	不好	မကောင်းဘူး။		
-44	bone	1394	BONE	bone	bone	ʙᴏɴᴇ	2		body parts	Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.	骨	हड्डी		骨头	အရိုး		bone
-440	below..under:to.be	1485	BELOW OR UNDER	to be below (under)	below	ʙᴇʟᴏᴡ	4			Situated in a lower place than something else.		नीचे		下面	အောက်၊ အောက်		
-441	dirty:to.be	1230	DIRTY	to be dirty	dirty	ᴅɪʀᴛʏ	4			Covered with or containing unpleasant substances such as dirt or grime.	汚い	गंदा होना		脏	ညစ်ပတ်တယ်။		
-442	drunk:to.be	1463	DRUNK	to be drunk	drunk	ᴅʀᴜɴᴋ	4			Being in a temporary state in which one's physical and mental faculties are impaired due to excessive consumption of alcohol.	酒に酔う	नशेड़ा		醉	မူးသည်၊ မူးသည်။		
-443	dry:to.be	1398	DRY	to be dry	dry	ᴅʀʏ	4			To be lacking any discernable moisture.	乾いた	सुखाना		干	ခြောက်သွေ့ရန်		
-444	easy:to.be	686	EASY	to be easy	easy	ᴇᴀꜱʏ	4			Requiring little skill or effort; posing no difficulty.	易しい	आसान होना		容易	လွယ်ကူစေရန်		
-445	empty:to.be	1624	EMPTY	to be empty	empty	ᴇᴍᴘᴛʏ	4			To have nothing inside or to not be occupied by anyone or anything.	空っぽの	खाली होना		空	ဗလာဖြစ်		
-446	fast:to.be	1631	FAST	to be fast	fast	ꜰᴀꜱᴛ	4			Occurring or happening within a short time.	速い	तेज		快	မြန်တယ်၊ မြန်တယ်။		
-447	few..in.number:to.be	1242	FEW	to be few (in number)	few	ꜰᴇᴡ	4			A small number of, not many.	少ない	कुछ		少	အနည်းငယ်ဖြစ်ရန်		
-448	good:to.be	1035	GOOD	to be good	good	ɢᴏᴏᴅ	4			To be morally right or virtuous.	良い	अच्छा होना		好	ကောင်းဖို့		
-449	hard..firm:to.be	1884	HARD	to be hard (firm)	hard	ʜᴀʀᴅ	4			Resistant to pressure, not easily broken, bent, or pierced.	固い	कठोर होना		硬	ပျော့ပျောင်းသည်မဟုတ်။		
-45	alcohol:brewed	404	ALCOHOL (FERMENTED DRINK)	brewed alcohol	brewed.alcohol	ʙʀᴇᴡᴇᴅ.ᴀʟᴄᴏʜᴏʟ	2			A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).		सुराही दार शराब	জলকীয় দ্রব	酿造酒	အရက်ချက်		
-450	late:to.be	477	LATE	to be late	late	ʟᴀᴛᴇ	4			Occurring or arriving after the expected or usual time, or toward the end of a time period.		शाम होना		傍晚	နေ့ဘက်နောက်ကျမည်။		
-451	lost:to.be	3667	LOST	to be lost	lost	ʟᴏꜱᴛ	4			Not knowing where you are and unable to find the way.							
-452	many:to.be	1198	MANY	to be many	many	ᴍᴀɴʏ	4			An indefinite large number of.	多い	बहुत		许多	အများကြီး		
-453	narrow:to.be	1267	NARROW	to be narrow	narrow	ɴᴀʀʀᴏᴡ	4			Not wide, having little width or space between two sides or edges.	狭い	संकुचित होना		狭窄	ကျဉ်းမြောင်းသည်။		
-454	shallow:to.be	193	SHALLOW	to be shallow	shallow	ꜱʜᴀʟʟᴏᴡ	4			Having little depth, or being close to the surface of something.	浅い	कम गहराई वाला		浅的	တိမ်		
-455	straight:to.be	1404	STRAIGHT	to be straight	straight	ꜱᴛʀᴀɪɢʜᴛ	4			Not crooked or bent; having a constant direction throughout its length.	まっすぐな	सीधा होना		直	ဖြောင့်ဖို့		
-456	thin..people:to.be	1400	THIN (SLIM)	to be thin (people)	thin	ᴛʜɪɴ	4			Carrying little fat (of people).	やせた, 痩せた	पतला होना		瘦	ပိန်ဖို့၊ ပိန်တယ်။		
-457	thirsty:to.be	3474	BE THIRSTY	to be thirsty	thirsty	ᴛʜɪʀꜱᴛʏ	4			To suffer from thirst; to have a craving to drink, which is often accompanied by the feeling of dryness in the mouth and throat.	喉がかわいた	प्यासा होना		渴	ရေငတ်ဖို့၊		
-458	wet:to.be	1726	WET	to be wet	wet	ᴡᴇᴛ	4			To be covered or soaked with water or other liquids.	濡れた	गीला होना		湿的	စိုစွတ်ဖို့		
-459	beg:to	3534	BEG	to beg	beg	ʙᴇɢ	4			To ask for something, typically money or food, as charity or as a favor. This may be either due to need through poverty, or as an act of religious devotion such as among Buddhist monks.		भिख मांगना		乞讨	တောင်းရမ်းရန်		
-46	chili.pepper	919	CHILI PEPPER	chili pepper	chili.pepper	ᴄʜɪʟɪ.ᴘᴇᴘᴘᴇʀ	2		flora	Any fruit of a plant of the botanical genus Capsicum, noted for their spicy and burning flavour due to presence of capsaicin.	唐辛子	मिर्च		辣椒	ငရုတ်သီးမှုန့်		
-460	blow..wind:to	175	BLOW (OF WIND)	to blow (wind)	blow	ʙʟᴏᴡ	4			(Of the wind or a current of air) To move.	吹く	उड़ाना		吹	လေတိုက်ခြင်း၊		
-461	break..something:to	3020	BREAK (BREAKING)	to break (something)	break	ʙʀᴇᴀᴋ	4			To come apart or split into pieces (intransitive).	壊す	तोड़ना		打破	ချိုးရန်		
-462	bring:to	692	BRING	to bring	bring	ʙʀɪɴɢ	4			To transport toward somewhere; to take something or somebody with oneself somewhere.	持って来る	लाना		带来	ယူလာရန်		
-463	bury..deceased:to			to bury (deceased)	bury	ʙᴜʀʏ	4				埋葬する						
-464	bury..object:to	1719	BURY	to bury (object)	bury	ʙᴜʀʏ	4			To put in the ground and cover with earth.	埋葬する	दफ़नाना		埋	သင်္ဂြိုဟ်ရန်		
-465	chew:to	321	CHEW	to chew	chew	ᴄʜᴇᴡ	4			To crush with the teeth by repeated closing and opening of the jaws; done to food to soften it and break it down by the action of saliva before it is swallowed.	噛む	चबाना		咀嚼	ဝါးရန်		
-466	close..tr:to	–	–	to close (tr)	close	ᴄʟᴏꜱᴇ	4			To shut or cover the entrance or opening of something, preventing access or exit.	閉める	बंद करना		关闭	ပိတ်ရန်		
-467	come.back..return:to	581	COME BACK	to come back (return)	come.back	ᴄᴏᴍᴇ.ʙᴀᴄᴋ	4			To go there where one was before.	帰る・戻る	लौटना		回来	ပြန်လာရန် သို့မဟုတ် ပြန်လာရန်		
-468	cover:to	761	COVER	to cover	cover	ᴄᴏᴠᴇʀ	4			To place something over or upon to conceal or protect.	かぶせる	ढकना		盖	ဖုံးအုပ်ရန်		
-469	dance:to	1879	DANCE	to dance	dance	ᴅᴀɴᴄᴇ	4			To move with rhythmic steps or movements, especially in time to music.	踊る	नाचना		跳舞	ကခုန်ဖို့		
-47	cloud..rain	1489	CLOUD	cloud (rain)	cloud	ᴄʟᴏᴜᴅ	2			A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.	雲	बादल		云	တိမ်တိုက်		cloud
-470	desire..want:to	2117	DESIRE	to desire (want)	desire	ᴅᴇꜱɪʀᴇ	4			To want to do something, to wish for something to happen, or to have affection for someone.		इच्छा करना		渴望	ဆန္ဒရှိရန်		
-471	embrace..hug:to	928	EMBRACE	to embrace (hug)	embrace	ᴇᴍʙʀᴀᴄᴇ	4			To hold someone tightly in one's arms as a sign of affection or support.		गले लगाना		拥抱	ထွေးပွေ့ရန်		
-472	enter:to	749	ENTER	to enter	enter	ᴇɴᴛᴇʀ	4		verbs	To come or go into a place, such as a building or room.	入る	अंदर जाना		进入	ဝင်ရန်		
-473	flood:to	–	–	to flood	flood	ꜰʟᴏᴏᴅ	4			A large amount of water covering an area that is usually dry, due to high amounts of rain or snow runoff.		बाढ़		洪水	ရေလွှမ်းမိုး		
-474	flow..of.water:to	2003	FLOW	to flow (of water)	flow	ꜰʟᴏᴡ	4			To move as a fluid from one position to another (e.g. of water or of people).		बहना		流	စီးဆင်းရန်၊ ရေ		
-475	fold:to	1470	FOLD	to fold	fold	ꜰᴏʟᴅ	4			To bend a thin material (such as paper) over so that it comes in contact with itself.	折る	मोड़ना		折叠	ခေါက်ရန်၊ အထည်		
-476	hang..something:to	2884	HANG	to hang (something)	hang	ʜᴀɴɢ	4			Remain suspended to some point above.	掛ける	लटकना		悬挂	ဆွဲထားရန်		
-477	ignite..something:to	737	LIGHT (IGNITE)	to ignite (something)	ignite	ɪɢɴɪᴛᴇ	4			To start a fire or light a flame.	火をつける	जलना		点燃	မီးလောင်ရန်		
-478	lose..something:to	–	–	to lose (something)	lose	ʟᴏꜱᴇ	4			To be unable to find something; To be deprived of something which one once had.	失う	हारना		丢失	ဆုံးရှုံးရန်		
-479	mix:to	2017	MIX	to mix	mix	ᴍɪx	4				混ぜる						
-48	rice:cooked	1191	COOKED RICE	cooked rice	cooked.rice	ᴄᴏᴏᴋᴇᴅ.ʀɪᴄᴇ	2		rice	Rice that has been prepared by boiling or steaming until it is soft and edible.	ご飯	भात		熟饭	ထမင်း		rice (cooked)
-480	peel:to	275	PEEL	to peel	peel	ᴘᴇᴇʟ	4			To remove the outer layer or skin of something.	剥く	छिलना		剥皮	အခွံချွတ်ရန်		
-481	pound..of.rice:to	354	POUND	to pound (of rice)	pound	ᴘᴏᴜɴᴅ	4			To break into small pieces or powder by applying force with a tool, or to reduce something to small particles by rubbing it against a rough or hard surface.	搗く	पीसना		磨碎	ကြိတ်ဖို့၊		
-482	pour:to	1487	POUR	to pour	pour	ᴘᴏᴜʀ	4			To cause a liquid to flow out from a container.	注ぐ	डालना		倒	လောင်းရန်		
-483	pull:to	1455	PULL	to pull	pull	ᴘᴜʟʟ	4			To apply a force to (an object), in order that it moves towards the origin of the force that was applied.	ひっぱる	खींचना		拉	ဆွဲရန်		
-484	push:to	1452	PUSH	to push	push	ᴘᴜꜱʜ	4			To apply a force to (an object), in order that it moves away from the origin of the force that was applied.	押す	धक्का देना		推	တွန်းရန်		
-485	rule..lead:to	43	LEAD (GUIDE)	to rule (lead)	rule	ʀᴜʟᴇ	4			To guide by moving in front.		सीसा		铅	ခဲ ( Plumbum )		
-486	sharpen..edge:to			to sharpen (edge)	sharpen	ꜱʜᴀʀᴘᴇɴ	4										
-487	smell.bad:to	–	–	to smell bad	smell.bad	ꜱᴍᴇʟʟ.ʙᴀᴅ	4			To emit an unpleasant odor or stench.				臭	အနံ့ဆိုးဖို့		
-488	smell.good..fragrant:to	–	–	to smell good (fragrant)	smell.good	ꜱᴍᴇʟʟ.ɢᴏᴏᴅ	4			To emit a pleasant or desirable odor or fragrance.		सुगंधित होना		香	အနံ့ကောင်းဖို့		
-489	step:to	2065	STEP (VERB)	to step	step	ꜱᴛᴇᴘ	4			To move the foot in walking; to advance or recede by raising and moving one of the feet to another resting place, or by moving both feet in succession.		कदम रखना		迈步	ခြေတစ်လှမ်းယူရန်		
-49	pot:cooking	1462	POT	cooking pot	cooking.pot	ᴄᴏᴏᴋɪɴɢ.ᴘᴏᴛ	2			A vessel used for cooking or storing food or liquids.	つぼ	पतीला		烹饪锅	ဟင်းချက်အိုး		
-490	stick..glue:to			to stick (glue)	stick	ꜱᴛɪᴄᴋ	4										
-491	suck:to	1421	SUCK	to suck	suck	ꜱᴜᴄᴋ	4			To draw in a substance by creating a practical vacuum in the mouth, and as a result a difference in pressure.	吸う	चूसना		吸	စုတ်ဖို့		
-492	swallow:to	897	SWALLOW	to swallow	swallow	ꜱᴡᴀʟʟᴏᴡ	4			The reflex in the human body that makes something pass from the mouth to the pharynx and into the esophagus, with the shutting of the epiglottis.		निगलना		吞	မျိုချရန်		
-493	swell:to	1573	SWELL	to swell	swell	ꜱᴡᴇʟʟ	4			To become larger in size or volume, usually due to pressure or inflammation.	ふくらむ	सूजना		肿	ဖောရောင်ရန်		
-494	throw:to	1456	THROW	to throw	throw	ᴛʜʀᴏᴡ	4			To cause (an object) to move rapidly through the air, with the force of the hand or arm.	投げる	फेंकना (phenkna)		扔	ပစ်ရန်		
-495	twist:to	3236	TWIST (TOGETHER)	to twist	twist	ᴛᴡɪꜱᴛ	4			To wind several things around each other (e.g. in order to form a rope or thread).		घुमाना		扭转	လိမ်ဖို့		
-496	wide..broad:to.ve	1243	WIDE	to ve wide (broad)	ve.wide	ᴠᴇ.ᴡɪᴅᴇ	4			Having a large distance from one side to another, often relative to the object's length or size.	広い	चौड़ा		宽的	ကျယ်သည်ဖြစ်စေ ကျယ်သည်		
-497	wash.face:to	–	–	to wash face	wash.face	ᴡᴀꜱʜ.ꜰᴀᴄᴇ	4			To use water and clean one's face. This is often a distinct verb from other forms of wash.							
-498	wash.hair:to			to wash hair	wash.hair	ᴡᴀꜱʜ.ʜᴀɪʀ	4										
-499	wipe:to	1454	WIPE	to wipe	wipe	ᴡɪᴘᴇ	4			To move an object or utensil over a surface or other object while maintaining contact, in order that a substance be removed from its surface.	拭く	पोंछना		擦	သုတ်ရန်		
-5	eye	1248	EYE	eye	eye	ᴇʏᴇ	1		body parts	The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals and humans see.	目	आँख		眼睛	မျက်လုံး		eye
-50	0008.:eight	1705	EIGHT	eight	eight	ᴇɪɢʜᴛ	2		numbers	The natural number eight (8). // It should not include a numeral classifier, but instead be only the bare numeral.	八	आठ	আঠ	八	ရှစ်		eight
-500	tongs..general	272	TONGS	tongs (general)	tongs	ᴛᴏɴɢꜱ	4			In need of some rest or sleep, due to lack of sleep or as a result of hard work or physical activity.		थका देना (thaka dena)		累	တာယာ		
-501	vein..artery			vein (artery)	vein	ᴠᴇɪɴ	4										
-502	wall	3830	WALL	wall	wall	ᴡᴀʟʟ	4			A structure built to enclose or divide an area, usually made of brick or stone, but potentially other materials as well. This should be distinct from a fence.	壁	दीवार		墙	နံရံ		
-503	q.:when	1238	WHEN	when	when	ᴡʜᴇɴ	4				いつ						
-504	winter..cold.season	1471	WINTER	winter (cold season)	winter	ᴡɪɴᴛᴇʀ	4			The coldest season of the year, between autumn and spring.	冬	सर्दी		冬天	ဆောင်းရာသီ		
-505	arm.:wrist	799	WRIST	wrist	wrist	ᴡʀɪꜱᴛ	4		body parts	The joint connecting the hand and the forearm. This will typically be a compund involving the general hand/arm stem, and is likely to be entirely distinct from the term for elbow.	手首	कलाई का जोड़ा	কলাই	手腕	လက်ကောက်ဝတ်		
-51	father	1217	FATHER	father	father	ꜰᴀᴛʜᴇʀ	2			A male parent.	父	पिता		父亲	အဖေ		
-52	finger	1303	FINGER	finger	finger	ꜰɪɴɢᴇʀ	2		body parts	One of the long extremities of the hand that is used for gripping objects.	指	उंगली	আঙুল	手指	လက်ညှိုး		finger/toe
-53	0005.:five	493	FIVE	five	five	ꜰɪᴠᴇ	2		numbers	The default numeral for five (5). It should not include a numeral classifier, but instead be only the bare numeral.	五	पांच	পাঁচ	五	ငါး		five
-54	0004.:four	1500	FOUR	four	four	ꜰᴏᴜʀ	2		numbers	The default numeral for four (4). It should not include a numeral classifier, but instead be only the bare numeral.	四	चार	চাৰি	四	လေး		four
-55	heart	1223	HEART	heart	heart	ʜᴇᴀʀᴛ	2		body parts	A muscular organ that pumps blood through the body.	心臓	दिल		心脏	နှလုံး		heart
-56	horn..of.animal	1393	HORN (ANATOMY)	horn (of animal)	horn	ʜᴏʀɴ	2		body parts	A hard growth of keratin that protrudes from the top of the head of certain animals.	角	सींग		角	ဦးချို		horn
-57	iron	621	IRON	iron	iron	ɪʀᴏɴ	2			A malleable ductile silvery-white ferromagnetic metallic element with symbol Fe and atomic number 26, occurring principally in haematite and magnetite. It is widely used for structural and engineering purposes.	鉄	लोहा		铁	သံ		iron
-58	leg..lower.limb	2098	FOOT OR LEG	leg (lower limb)	leg	ʟᴇɢ	2										
-59	0009.:nine	1483	NINE	nine	nine	ɴɪɴᴇ	2		numbers	The default numeral for nine (9). It should not include a numeral classifier, but instead be only the bare numeral.	九	नौ	নৱ	九	ကိုး		nine
-6	fire	221	FIRE	fire	fire	ꜰɪʀᴇ	1			The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	火	आग		火	မီး		fire
-60	nose	1221	NOSE	nose	nose	ɴᴏꜱᴇ	2		body parts	The organ of the face used to breath and smell.	鼻	नाक		鼻子	နှာခေါင်း		nose
-61	0001.:one	1493	ONE	one	one	ᴏɴᴇ	2		numbers	The default numeral for one (1). // It should not include a numeral classifier, but instead be only the bare numeral.	一	एक	এক	一	တစ်		one
-62	pig..general	1337	PIG	pig (general)	pig	ᴘɪɢ	2		fauna	A common, four-legged animal (Sus scrofa) that has cloven hooves, bristles and a nose adapted for digging and is farmed by humans for its meat.	豚	सूअर		猪	ဝက်		pig
-63	rain	1253	RAIN (RAINING)	rain	rain	ʀᴀɪɴ	2				雨						
-64	river	666	RIVER	river	river	ʀɪᴠᴇʀ	2			A stream of water which flows in a channel from high ground to low ground and ultimately to a lake or the sea, except in a desert area where it may dwindle away to nothing.	川	नदी		河流	မြစ်		river/valley
-65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.	根	जड़		根	အမြစ်		root
-66	seed	714	SEED	seed	seed	ꜱᴇᴇᴅ	2		flora	A mature fertilized plant ovule, consisting of an embryo and its food store surrounded by a protective seed coat (testa).	種	बीज		种子	မျိုးစေ့		
-67	0007.:seven	1704	SEVEN	seven	seven	ꜱᴇᴠᴇɴ	2		numbers	The natural number seven (7). // It should not include a numeral classifier, but instead be only the bare numeral.	七	सात	সাত	七	ခုနှစ်		seven
-68	0006.:six	1703	SIX	six	six	ꜱɪx	2		numbers	The natural number six (6). // It should not include a numeral classifier, but instead be only the bare numeral.	六	छह	ছয়	六	ခြောက်ခဲ့သည်		six
-69	skin	763	SKIN	skin	skin	ꜱᴋɪɴ	2		body parts	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	皮膚	त्वचा		皮肤	အရေပြား		skin/bark
-7	flower	239	FLOWER	flower	flower	ꜰʟᴏᴡᴇʀ	1		flora	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	花	फूल		花	ပန်း		flower
-70	smoke	778	SMOKE (EXHAUST)	smoke	smoke	ꜱᴍᴏᴋᴇ	2			An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	煙	धुआं		烟	မီးခိုး		smoke
-71	spear	945	SPEAR	spear	spear	ꜱᴘᴇᴀʀ	2			a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.	槍	भाला		矛	လှံ		
-72	star	1430	STAR	star	star	ꜱᴛᴀʀ	2			A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	星	तारा		星星	ကြယ်ပွင့်		star
-73	stone	857	STONE	stone	stone	ꜱᴛᴏɴᴇ	2			A hard, naturally occurring mineral material often used for building, sculpture, or paving.	石	पत्थर		石头	ကျောက်		stone
-74	tail	1220	TAIL	tail	tail	ᴛᴀɪʟ	2		body parts	The appendage of an animal that is attached to its posterior and near the anus.	尻尾	पूंछ		尾巴	အမြီး		tail
-75	leech:terrestrial	2273	LEECH	terrestrial leech	terrestrial.leech	ᴛᴇʀʀᴇꜱᴛʀɪᴀʟ.ʟᴇᴇᴄʜ	2		fauna	Segmented worms that belong to the phylum Annelida and comprise the subclass Hirudinea.	蛭	ज़मीनी जुएँ		陆寄生	ကုန်းနေ မျှော့		leech
-76	0003.:three	492	THREE	three	three	ᴛʜʀᴇᴇ	2		numbers	The natural number three (3). // It should not include a numeral classifier, but instead be only the bare numeral.	三	तीन	তিনি	三	သုံး		three
-77	thunder	1150	THUNDER	thunder	thunder	ᴛʜᴜɴᴅᴇʀ	2			The large booming sound in the sky during storms, as caused by lightning heating the air around it to a very high temperature, causing it to rapidly expand and contract.	雷	गरज (garaj)		雷	မိုးကြိုး		
-78	tiger	846	TIGER	tiger	tiger	ᴛɪɢᴇʀ	2		fauna	Panthera tigris. A large, carnivorous feline with distinctive orange and black stripes. This concept may be understood by speakers as any large cat belonging to the genus Panthera, so care must be taken to avoid ambiguity.	虎	बाघ		老虎	ကျား		
-79	heavy:to.be	1210	HEAVY	to be heavy	heavy	ʜᴇᴀᴠʏ	2			Of a physical object, having great weight.	重い	भारी होना		重	လေးလံဖို့၊		heavy
-8	fruit	1507	FRUIT	fruit	fruit	ꜰʀᴜɪᴛ	1		flora	The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.	実	फल		水果	အသီး		fruit
-80	lightweight:to.be	1052	LIGHT (WEIGHT)	to be lightweight	lightweight	ʟɪɢʜᴛᴡᴇɪɢʜᴛ	2			With a small mass, little weight or density; the opposite of heavy.	軽い	हल्का होना		轻巧	ပေါ့ပါးစေရန်		lightweight
-81	ripe:to.be	178	RIPE	to be ripe	ripe	ʀɪᴘᴇ	2			To be fully developed or mature, and ready to be eaten or used.	熟する	पकना		成熟	မှည့်ရန်		ripe/well-cooked
-82	short..length:to.be	1645	SHORT	to be short (length)	short	ꜱʜᴏʀᴛ	2			Small in length by comparison.	短い	छोटा होना		短	အတိုအရှည်ဖြစ်ရမည်။		
-83	unripe:to.be	1958	UNRIPE	to be unripe	unripe	ᴜɴʀɪᴘᴇ	2			Of a fruit or vegetable that has not yet fully developed.		अपका		未熟的	မမှည့်သော		
-84	die:to	1494	DIE	to die	die	ᴅɪᴇ	2			To cease to live.	死ぬ	मरना		死	သေဖို့		die
-85	dig:to	1418	DIG	to dig	dig	ᴅɪɢ	2			To move earth, rocks, etc. out of the way, usually to create a hole.	掘る	खोदना		挖	တူးရန်		dig
-86	dream:to	1920	DREAM (SOMETHING)	to dream	dream	ᴅʀᴇᴀᴍ	2			To experience a series of images, thoughts, and sensations during sleep, often accompanied by emotions and creating a sense of reality.	夢を見る	सपना देखना		做梦	အိပ်မက်မက်ဖို့		dream
-87	fly:to	1441	FLY (MOVE THROUGH AIR)	to fly	fly	ꜰʟʏ	2			To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	飛ぶ	उड़ना		飞	ပျံသန်းရန်		fly
-88	give:to	1447	GIVE	to give	give	ɢɪᴠᴇ	2			To transfer the possession or holding (of an object) to another person.	与える	देना		给	ပေးရန်		give
-89	shoot..arrow:to	1172	SHOOT	to shoot (arrow)	shoot	ꜱʜᴏᴏᴛ	2			To fire a shot from a firearm, bow or other weapon.	撃つ	गोली चलाना		射击	ပစ်ရန်		shoot
-9	head	1256	HEAD	head	head	ʜᴇᴀᴅ	1		body parts	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	頭	सिर		头	ခေါင်း		head
-90	sit:to	1416	SIT	to sit	sit	ꜱɪᴛ	2			To be in a position with the upper body upright and the legs resting.	座る	बैठना		坐	ထိုင်ရန်		sit
-91	stand..in.place:to	1442	STAND	to stand (in place)	stand	ꜱᴛᴀɴᴅ	2			To assume an upright position on one's feet, often with the intention of remaining stationary for a period of time.	立つ	खड़े रहना		站	ရပ်တည်ရန်		stand
-92	vomit:to	1278	VOMIT	to vomit	vomit	ᴠᴏᴍɪᴛ	2			To forcefully expel the contents of one's stomach through the mouth, often as a result of illness or the ingestion of harmful substances.	吐く	उल्टी करना		呕吐	အော့အန်ခြင်း။		vomit
-93	walk:to	1443	WALK	to walk	walk	ᴡᴀʟᴋ	2			To move from one place to another by moving legs alternately, so that at least one foot is in contact with the floor or surface at any one time.	歩く	चलना		走路	လမ်းလျှောက်ရန်		
-94	weave..fabric:to	133	WEAVE	to weave (fabric)	weave	ᴡᴇᴀᴠᴇ	2			To create a fabric by interlacing threads.	織る	बुनना		编织	ရက်ကန်း		weave
-95	tomorrow	1329	TOMORROW	tomorrow	tomorrow	ᴛᴏᴍᴏʀʀᴏᴡ	2			The day after the present day.	明日	कल (kal)		明天	မနက်ဖြန်		
-96	tongue	1205	TONGUE	tongue	tongue	ᴛᴏɴɢᴜᴇ	2		body parts	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	舌	जीभ (jibh)		舌头	လျှာ		tongue
-97	0002.:two	1498	TWO	two	two	ᴛᴡᴏ	2		numbers	The natural number two (2). // It should not include a numeral classifier, but instead be only the bare numeral.	二	दो	দুই	二	နှစ်		two
-98	wind	960	WIND	wind	wind	ᴡɪɴᴅ	2			The natural movement of the air, especially in the form of a current blowing from a particular direction.	風	हवा		风	လေ		wind
-99	wing	1257	WING	wing	wing	ᴡɪɴɢ	3		body parts	The appendage of a bird or insect used for flying or gliding, typically consisting of a thin, lightweight membrane stretched over a framework of bones or cartilage.	翼	पंख		翅膀	တောင်ပံ		wing
+slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment	category	definition	japanese	hindi	assamese	mandarin	burmese	nagamese	SILCAWL	CALMSEA
+1	arm..uppper.limb	2121	ARM OR HAND	arm (uppper limb)	arm	ᴀʀᴍ	1		body parts	One of the two upper extremeties of the human body, extending from the shoulder to the wrist. This should be the most general term, and will often include the hand as well. A term for arm which does not include the hand is not expected.	腕	बांह	বাঁহ		လက်			hand/arm
+10	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	1			A building for human habitation, especially one that is lived in by a family or small group of people.	家	घर		房子	အိမ်		house	house
+100	yesterday	1174	YESTERDAY	yesterday	yesterday	ʏᴇꜱᴛᴇʀᴅᴀʏ	2			The day before today.	昨日	कल		昨天	မနေ့က		yesterday	
+101	accipitridae..raptor:::	2683	EAGLE OR HAWK	Accipitridae (raptor)	raptor	ʀᴀᴘᴛᴏʀ	3		fauna	A bird of prey with broad wings and a hooked bill. Kites are the most common which occur in the area. This should be the most general term for this class of birds, and not a compound term for a specific species. Any specific genera/species names should be noted separately.	鷹	चील		鹰	သိမ်းငှက်၊ လင်းယုန် သို့မဟုတ် စွန်ရဲ			
+102	animal..general	619	ANIMAL	animal (general)	animal	ᴀɴɪᴍᴀʟ	3		fauna	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	動物	जानवर	পশু	动物	တိရစ္ဆာန်		animal (tame/wild)	meat/animal
+103	leech:aquatic	949	WATER LEECH	aquatic leech	aquatic.leech	ᴀꞯᴜᴀᴛɪᴄ.ʟᴇᴇᴄʜ	3		fauna	A worm-like creature that lives in water and sucks blood from animals.	蛭	जल जुएँ		水蛭	ရေမျှော့		water leech	water leech
+104	arrow	977	ARROW	arrow	arrow	ᴀʀʀᴏᴡ	3			Pointed projectile that is shot with a bow.	矢	तीर	বাণ	箭头	မြှား		head of arrow	arrow
+105	axe..general	677	AXE	axe (general)	axe	ᴀxᴇ	3			A tool for felling trees or chopping wood consisting of a heavy metallic or stone head flattened to a blade on one side, and which is attached to a usually wooden handle.	斧	कुल्हाड़ी	ফাঁস	斧头	ပုဆိန်		axe	
+106	bamboo.shoot	2494	BAMBOO SHOOT	bamboo shoot	bamboo.shoot	ʙᴀᴍʙᴏᴏ.ꜱʜᴏᴏᴛ	3		flora	The edible shoots (new bamboo culms that come out of the ground) of many bamboo species // Often harvested as part of local cuisine, either used fresh, dried or fermented.	竹の子	बांस की खोखली	কাজি কেচেক	竹笋	မျှစ်		bamboo shoot (edible)	
+107	banana..fruit	868	BANANA	banana (fruit)	banana	ʙᴀɴᴀɴᴀ	3		flora	The fruit of the banana tree.	バナナ	केला	কল	香蕉	ငှက်ပျောသီး		banana (fruit)	plantain/banana
+108	banyan..tree	346	BANYAN	banyan (tree)	banyan	ʙᴀɴʏᴀɴ	3		flora	A large, tropical tree belonging to the genus Ficus, typically Ficus benghalensis, with aerial roots that grow into new trunks, often used for shade or as a spiritual symbol in many cultures.		बरगद		榕树	ညောင်ပင်			
+109	basket..general	1539	BASKET	basket (general)	basket	ʙᴀꜱᴋᴇᴛ	3	cf Chang _kam_	artefacts	The general term for any kind of basket, a container woven typically from cane or bamboo used to store or carry many different kinds of items or materials.	籠						basket	
+11	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	1			A system of communication using the spoken or signed word or using symbols that represent words, signs or sounds.	ことば	भाषा		语言	ဘာသာစကား		language	
+110	bean..general	832	BEAN	bean (general)	bean	ʙᴇᴀɴ	3			Any of various leguminous plants grown for their edible seeds and pods.	豆							peas, beans
+111	bear..animal	1820	BEAR	bear (animal)	bear	ʙᴇᴀʀ	3			A large beast of prey of the family Ursidae, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet.	熊	भालू		熊	ဝက်ဝံ		bear	bear
+112	belly..exterior	1251	BELLY	belly (exterior)	belly	ʙᴇʟʟʏ	3		body parts	The lower part of the front of the torso (or a comparable part of an animal), confined by the upper side by the midriff and the lowerside by the pelvis. Contains the intestines.	腹	पेट		腹部	ဗိုက်၊အပြင်		belly	belly (exterior)
+113	bone.marrow	1835	MARROW	bone marrow	bone.marrow	ʙᴏɴᴇ.ᴍᴀʀʀᴏᴡ	3		body parts	The spongy tissue in the hollow parts of bones.		हड्डी का मज्जा		骨髓	ရိုးတွင်းခြင်ဆီ			marrow
+114	bow	994	BOW	bow	bow	ʙᴏᴡ	3	this should be split between bow and crossbow probably.		A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows, or a weapon based on it, consisting of a bow mounted on a stock.	弓	धनुष		弓	လေးကို		bow	bow
+115	brain	1583	BRAIN	brain	brain	ʙʀᴀɪɴ	3		body parts	The organ of the central nervous system of an animal or human located in the skull that controls the actions and thoughts of the animal or human.	脳	मस्तिष्क		大脑	ဦးနှောက်		brain	brain
+116	tree.:branch	1531	BRANCH	branch	branch	ʙʀᴀɴᴄʜ	3			A woody offshoot of a tree or shrub.	枝	डाली		树枝	သစ်ကိုင်း		branch (tree)	branch
+117	breast	1402	BREAST	breast	breast	ʙʀᴇᴀꜱᴛ	3		body parts	The fleshy organ on the chest of a sexually mature human female containing mammary glands.	乳房	स्तन		乳房	ရင်သား		breast	vagina or breast/milk
+118	child..general	2099	CHILD	child (general)	child	ᴄʜɪʟᴅ	3			A young human being below the age of puberty or below the legal age of majority.	こども	बच्चा		儿童	ကလေး၊ မွေးကင်းစ			child/son
+119	claw..animal	72	CLAW	claw (animal)	claw	ᴄʟᴀᴡ	3		body parts	The hard, keratin part growing at the feet of animals.	爪	पंजा		爪子	ခြေသည်း		claw	nail/claw
+12	louse..head	1392	LOUSE	louse (head)	louse	ʟᴏᴜꜱᴇ	1		fauna	A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.	虱	जूं		虱子	ကြွက်			louse
+120	day::time	1225	DAY (NOT NIGHT)	daytime	daytime	ᴅᴀʏᴛɪᴍᴇ	3			The period between sunrise and sunset where one enjoys daylight.	昼	दिन का समय		白天	နေ့ဘက်		daytime	sun/day
+121	alcohol:distilled	842	LIQUOR	distilled alcohol	distilled.alcohol	ᴅɪꜱᴛɪʟʟᴇᴅ.ᴀʟᴄᴏʜᴏʟ	3			Alcoholic beverages made through distillation, such as whiskey or vodka. This will often be a borrowing, either from Tai or IA, though some varieties will retain a native form.	酒	अर्क	মদ	蒸馏酒	ပေါင်းခံအရက်			liquor
+122	dog	2009	DOG	dog	dog	ᴅᴏɢ	3		fauna	A domesticated carnivorous mammal, Canis familiaris, with a pointed snout, a long tail, and a coat of fur, often kept as a pet or trained for hunting or guarding.	犬	कुत्ता		狗	ခွေး		dog	dog
+123	ear	1247	EAR	ear	ear	ᴇᴀʀ	3		body parts	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	耳	कान		耳朵	နား		ear	ear/hear
+124	earth..area.or.plot	1228	EARTH (SOIL)	earth (area or plot)	earth	ᴇᴀʀᴛʜ	3			The soft and loose material forming a great part of the Earth surface.								earth
+125	east	1877	EAST	east	east	ᴇᴀꜱᴛ	3			One of the four principal compass points, specifically 90°, conventionally directed to the right on maps. The direction of the rising sun.	東	पूर्व		东	အရှေ့		east	
+126	egg..general	744	EGG	egg (general)	egg	ᴇɢɢ	3		body parts	The oval reproductive body laid by female birds, containing the embryo and nutrients for its growth.	卵	चिड़िया का अंडा		鸟蛋	ငှက်ဥ		egg	egg
+127	sister:elder	1758	OLDER SISTER	elder sister	elder.sister	ᴇʟᴅᴇʀ.ꜱɪꜱᴛᴇʀ	3		kinship	The female sibling who is older than oneself.	姉	दीदी		姐姐	အစ်မ			
+128	fat..substance	323	FAT (ORGANIC SUBSTANCE)	fat (substance)	fat	ꜰᴀᴛ	3			Oily substance as part of animal flesh.								fat/grease
+129	feather	1201	FEATHER	feather	feather	ꜰᴇᴀᴛʜᴇʀ	2		body parts	A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	羽毛	पंख		羽毛	အမွေး		feather (body hair)	
+13	moon	1313	MOON	moon	moon	ᴍᴏᴏɴ	1			A natural satellite of a planet.	月	चांद		月亮	လ		moon	moon
+130	festival	131	FESTIVAL	festival	festival	ꜰᴇꜱᴛɪᴠᴀʟ	3			A day or period of celebration, typically for religious, cultural, or historical reasons.	祭	त्योहार		节日	ပွဲတော်			
+131	finger::nail	1258	FINGERNAIL	fingernail	fingernail	ꜰɪɴɢᴇʀɴᴀɪʟ	3		body parts	The hard, flat, translucent covering near the tip of a human finger, useful for scratching and fine manipulation.	爪	नाखून		指甲	လက်သည်း		fingernail	
+132	fire::wood	10	FIREWOOD	firewood	firewood	ꜰɪʀᴇᴡᴏᴏᴅ	3			Wood intended to be burned.	薪	लकड़ी		柴火	ထင်း		firewood	
+133	fish	227	FISH	fish	fish	ꜰɪꜱʜ	3		fauna	A cold-blooded vertebrate animal that lives in water that moves with the help of fins and breathes using gills (Pisces).	魚	मछली		鱼	ငါး		fish (v)	fish
+134	net:fishing	2963	NET	fishing net	fishing.net	ꜰɪꜱʜɪɴɢ.ɴᴇᴛ	3			A piece of fabric or mesh made of threads, cords or ropes that are woven or knotted together with spaces between them, used for catching fish or other animals, or for protecting or separating things.	網	जाल		网	အသားတင်			
+135	fog..mist	249	FOG	fog (mist)	fog	ꜰᴏɢ	3			Water droplets or, rarely, ice crystals suspended in the air in sufficient concentration to reduce visibility appreciably.	霧	कोहरा		雾	မြူ၊ မြူ		mist/fog	
+136	head.:forehead	123	FOREHEAD	forehead	forehead	ꜰᴏʀᴇʜᴇᴀᴅ	3		body parts	The part of the face between the hairline and the eyebrows.	ひたい	माथा		前额	နဖူး		forehead	
+137	fowl	265	FOWL	fowl	fowl	ꜰᴏᴡʟ	3		fauna	A bird that is kept for its meat and eggs.								fowl
+138	frog	503	FROG	frog	frog	ꜰʀᴏɢ	3			Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	蛙	मेंढक		青蛙	ဖား		frog	frog
+139	gibbon:.hoolock	2511	GIBBON	gibbon	gibbon	ɢɪʙʙᴏɴ	3		fauna	Apes in the family Hylobatidae.		गिबन		长臂猿	မျောက်လွှဲကျော်		gibbon	
+14	mother	1216	MOTHER	mother	mother	ᴍᴏᴛʜᴇʀ	1			A woman who has at least one child.	母	मां		母亲	အမေ		mother	
+140	ginger	2500	GINGER	ginger	ginger	ɢɪɴɢᴇʀ	3		flora	A herbaceous perennial which grows annual stems about a meter tall bearing narrow green leaves and yellow flowers.	生姜	अदरक		姜	ဂျင်း		ginger	
+141	gold..metal	1369	GOLD	gold (metal)	gold	ɢᴏʟᴅ	3			A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.	金	सोना		黄金	ရွှေ		gold	
+142	gong	2502	GONG	gong	gong	ɢᴏɴɢ	3			An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.		घंटी		锣	ဂုံး		gong	
+143	grandchild			grandchild	grandchild	ɢʀᴀɴᴅᴄʜɪʟᴅ	3											
+144	grandfather	1383	GRANDFATHER	grandfather	grandfather	ɢʀᴀɴᴅꜰᴀᴛʜᴇʀ	3		kinship	The father of one of someone's parents.	祖父	दादा		爷爷	အဖိုး			
+145	grandmother	1496	GRANDMOTHER	grandmother	grandmother	ɢʀᴀɴᴅᴍᴏᴛʜᴇʀ	3		kinship	The mother of one of someone's parents.	祖母	दादी		奶奶	အဖွား			
+146	grass	606	GRASS	grass	grass	ɢʀᴀꜱꜱ	3		flora	A very large and widespread family of Monocotyledoneae, with more than 10.000 species, most of which are herbaceous, but a few are woody. The stems are jointed, the long, narrow leaves originating at the nodes. The flowers are inconspicuous, with a much reduced perianth, and are wind-pollinated or cleistogamous.	草			草	မြက်		grass (field/jungle)	grass
+147	grave!tomb	1773	GRAVE	grave, tomb	grave	ɢʀᴀᴠᴇ	3			A place (commonly marked with a headstone) where one or more people are buried (usually in a coffin underneath the ground).	墓	कब्र		坟墓	သင်္ချိုင်း၊ သင်္ချိုင်း		gravel	
+148	barbet:great	–	–	great barbet	great.barbet	ɢʀᴇᴀᴛ.ʙᴀʀʙᴇᴛ	3											
+149	hail..precipitation	609	HAIL	hail (precipitation)	hail	ʜᴀɪʟ	3			Precipitation in the form of balls or irregular lumps of ice.		बर्फ़ का गोला		冰雹	မိုးသီး		hail	
+15	person..human.being	683	PERSON	person (human being)	person	ᴘᴇʀꜱᴏɴ	1			A human being.	人間	व्यक्ति		人	လူ		person	person/human being
+150	hair:body	580	FUR	body hair	body.hair	ʙᴏᴅʏ.ʜᴀɪʀ	3		body parts	Hair which grows on the body. This will typically be the same term for humans and non-human mammals.	毛			毛皮	တိရစ္ဆာန်သားမွေး			hair (body)
+151	hair..of.head	2648	HAIR (HEAD)	hair (of head)	hair	ʜᴀɪʀ	3		body parts	Hair which grows on the head of humans. In many language varieties this will be a distinct stem from that of fur.	髪の毛	सिर के बाल		头发	ဦးခေါင်းဆံပင်		hair (head)	hair (head)
+152	hoe	284	HOE	hoe	hoe	ʜᴏᴇ	3				鍬						hoe (n)	
+153	honey	942	HONEY	honey	honey	ʜᴏɴᴇʏ	3			A viscous, sweet substance produced from nectar or honeydew by bees.	蜂蜜	शहद		蜜糖	ပျားရည်		honey	
+154	hornbill..general	3260	HORNBILL	hornbill (general)	hornbill	ʜᴏʀɴʙɪʟʟ	3		fauna	A bird characterized by a long, down-curved, and frequently colored beak.		बेंटेली		犀鸟	ငှက်ငယ်		hornbill	
+155	horse..general	615	HORSE	horse (general)	horse	ʜᴏʀꜱᴇ	3		fauna	A large animal with four legs of the Equus caballus species which people ride on or use for carrying things or pulling vehicles.	馬	घोड़ा		马	မြင်း		horse	horse
+156	hummingbird			hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ	3											
+157	0100.:hundred	1634	HUNDRED	hundred	hundred	ʜᴜɴᴅʀᴇᴅ	3		numbers	The natural number one hundred (100).		सौ	শত	百	ရာ		hundred (persons)	hundred
+158	rice..uncooked:husked	3289	UNCOOKED RICE	husked rice (uncooked)	husked.rice	ʜᴜꜱᴋᴇᴅ.ʀɪᴄᴇ	3		rice	Rice that has not been boiled or otherwise prepared for eating.								
+159	insect	620	INSECT	insect	insect	ɪɴꜱᴇᴄᴛ	3		fauna	A class of the Arthropoda typically having a segmented body with an external chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.	虫	कीट		昆虫	ပိုးမွှား		insect	insect, bug, vermin
+16	salt	1274	SALT	salt	salt	ꜱᴀʟᴛ	1			A crystalline substance consisting of sodium and chlorine, used for seasoning or preserving food, or for a variety of other industrial and household purposes.	塩	नमक		盐	ဆားငန်		salt	salt
+160	intestines	1991	INTESTINES	intestines	intestines	ɪɴᴛᴇꜱᴛɪɴᴇꜱ	3		body parts	The alimentary canal of an animal or human through which food passes after having passed all stomachs.	腸	अंतःशोषक		肠子	အူ		intestines	guts
+161	field:jhum	2794	FIELD (UPLAND)	jhum field	jhum.field	ᴊʜᴜᴍ.ꜰɪᴇʟᴅ	3			A type of slash-and-burn agriculture used in various parts of the world, in which the land is cleared of vegetation and burned to provide fertilizer.	焼畑	झुम का खेत		烧林放牧	ခုတ်ထစ်ခြင်းနှင့် မီးရှို့ခြင်းအကွက်		dry (burned) field	swidden
+162	joint..skeletal	999	JOINT	joint (skeletal)	joint	ᴊᴏɪɴᴛ	3		body parts	The point where two bones meet, allowing movement and flexibility.		जोड़		关节	ခန္ဓာကိုယ်၏အဆစ်		joint	joint
+163	juice..of.fruit	1499	JUICE	juice (of fruit)	juice	ᴊᴜɪᴄᴇ	3			The liquid that is produced by squeezing or crushing fruits or vegetables.		रस		果汁	ဖျော်ရည်		juice	medicine/juice
+164	jungle	3808	JUNGLE	jungle	jungle	ᴊᴜɴɢʟᴇ	3			Unmaintained wild forest or shrubland which has not im a state of cultivation. This can be part of old growth forest or the quickly speading vegetation which has taken over a fallow field.		मिट्टी		土壤	မြေဆီလွှာ			
+165	kalij.pheasant	3060	PHEASANT	kalij pheasant	kalij.pheasant	ᴋᴀʟɪᴊ.ᴘʜᴇᴀꜱᴀɴᴛ	3											
+166	knife	1352	KNIFE	knife	knife	ᴋɴɪꜰᴇ	3			A utensil consisting of a sharpened piece of hard material such as steel or other metal, ceramic, glass or stone, usually attached to a handle, that is formed in a manner that allows for cutting softer materials, especially meat or other food.	包丁	चाकू		刀	ဓား		knife/blade	
+167	ladder..stairs	2689	LADDER OR STAIRS	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	3			A series of steps or stairs that allow a person to move from one level or floor to another. This is meant primarily as the traditional log ladders, but this may differ based on differences in house construction practices.		सीढ़ियाँ		阶梯	လှေကားထစ်များ၊			
+168	lake	624	LAKE	lake	lake	ʟᴀᴋᴇ	3			An enclosed body of water, usually but not necessarily fresh water, from which the sea is excluded.		झील		湖泊	ရေကန်		lake	
+169	leaf..tree	628	LEAF	leaf (tree)	leaf	ʟᴇᴀꜰ	3		flora	The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	葉	पत्ता		叶子	အရွက်		leaf (tree)	leaf
+17	snake	730	SNAKE	snake	snake	ꜱɴᴀᴋᴇ	1		fauna	Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	蛇	साँप		蛇	မြွေ		snake	snake
+170	left.side	244	LEFT	left side	left.side	ʟᴇꜰᴛ.ꜱɪᴅᴇ	3			The side of the body to the west when facing north.	左	बाएं तरफ		左侧	ဘယ်ဘက်		left side	left side
+171	lightning..in.sky	1654	LIGHTNING	lightning (in sky)	lightning	ʟɪɢʜᴛɴɪɴɢ	3			The flash of light caused by the discharge of atmospheric electrical charge.		बिजली		闪电	လျှပ်စီးကြောင်း		lightning (flashing)	
+172	lip..of.mouth	478	LIP	lip (of mouth)	lip	ʟɪᴘ	3			Either of the two fleshy protrusions around the opening of the mouth.	唇	होंठ		嘴唇	နှုတ်ခမ်း			
+173	liver	1224	LIVER	liver	liver	ʟɪᴠᴇʀ	3		body parts	A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. Responsible for thousands of biochemical reactions.	肝臓	जिगर		肝脏	အသည်း		liver	liver
+174	loom:backstrap	–	–	backstrap loom	backstrap.loom	ʙᴀᴄᴋꜱᴛʀᴀᴘ.ʟᴏᴏᴍ	3			A frame or machine (made of wood or other material) in which a weaver forms cloth out of thread; a machine for interweaving yarn or threads into a fabric.		तकिया		织布机	ရက်ကန်းစင်			
+175	macaque:.stump.tailed	–	–	macaque	macaque	ᴍᴀᴄᴀꞯᴜᴇ	3											
+176	machete..dao	2680	MACHETE	machete (dao)	machete	ᴍᴀᴄʜᴇᴛᴇ	3			A large, heavy knife used for cutting through thick vegetation or used as a weapon. This concept should refer to the most typical cutting implement, known as the Dao or Dha in contact languages, which is widely carried, and not one of the various alternate forms used for chopping wood or other tasks.		तलवार		砍刀	ဓားခုတ်		machete, cutlass	
+177	man..male.person	1554	MAN	man (male person)	man	ᴍᴀɴ	3			An adult human male.	男	मनुष्य		男人	လူ		man	
+178	mat	195	MAT	mat	mat	ᴍᴀᴛ	3			A flat object laid on the floor to protect a person from the hard floor. Typically woven from cane, bamboo or fibers.	ござ	चटाई		席子	ဖျာ		mat	
+179	meat..flesh	634	MEAT	meat (flesh)	meat	ᴍᴇᴀᴛ	3			The edible flesh of animals, especially that of mammals.	肉	मांस		肉	အသား		meat/flesh (edible)	meat/animal
+18	sun	1343	SUN	sun	sun	ꜱᴜɴ	1			The particular star at the centre of our solar system, from which the Earth gets light and heat.	太陽	सूरज		太阳	နေ		sun	sun/day
+180	medicine	1372	MEDICINE	medicine	medicine	ᴍᴇᴅɪᴄɪɴᴇ	3			A substance or preparation used for the treatment or prevention of disease, or for maintaining or restoring health.	薬	दवा		药	ဆေးဝါး		medicine	medicine/juice
+181	milk	635	MILK	milk	milk	ᴍɪʟᴋ	3			The whitish fluid secreted by the mammary gland for the nourishment of the young; composed of carbohydrates, proteins, fats, mineral salts, vitamins, and antibodies.	乳	दूध		牛奶	နို့			vagina or breast/milk
+182	month	1370	MONTH	month	month	ᴍᴏɴᴛʜ	3			A period into which a year is divided, historically based on the phases of the moon. In the Gregorian calendar there are twelve months.	月	माह		月份	လ		month	
+183	mountain	639	MOUNTAIN	mountain	mountain	ᴍᴏᴜɴᴛᴀɪɴ	3			A feature of the earth's surface that rises high above the base and has generally steep slopes and a relatively small summit area.	山	पर्वत		山	တောင်		mountain	mountain
+184	mouth	674	MOUTH	mouth	mouth	ᴍᴏᴜᴛʜ	3		body parts	Opening in the lower half of a human face which is used for food ingestion and articulation.	口	मुंह		嘴巴	ပါးစပ်		mouth	mouth
+185	muroid	2139	MUROID (MOUSE OR RAT)	muroid	muroid	ᴍᴜʀᴏɪᴅ	3		fauna	A large superfamily of rodents, including hamsters, gerbils, true mice and rats, and many other relatives.		जंगली चूहा		啮齿类动物	ကြွက်၊အထွေထွေအသုံးအနှုန်း			rat/rodent
+186	mushroom..ground.type	–	–	mushroom (ground type)	mushroom	ᴍᴜꜱʜʀᴏᴏᴍ	3			A type of mushroom that grows in the soil, rather than on trees.		भूमधुमक		野菌	ကုန်းနေမှို			mushroom/fungus
+187	mushroom..tree.type	–	–	mushroom (tree type)	mushroom	ᴍᴜꜱʜʀᴏᴏᴍ	3			A type of mushroom that grows on or near trees, and often has a stalk and cap.		बरगद का छत्ता		树菌	သစ်ပင်မှို			mushroom/fungus
+188	name	1405	NAME	name	name	ɴᴀᴍᴇ	3			Any word or phrase which designates a particular person, place, class or thing.	名前	नाम		名字	နာမည်		name	name
+189	navel	1838	NAVEL	navel	navel	ɴᴀᴠᴇʟ	3		body parts	A scar where the umbilical cord was attached.	へそ	नाभि		肚脐	လည်ပင်း		navel	navel
+19	0010.:ten	1515	TEN	ten	ten	ᴛᴇɴ	1		numbers	The default numeral for ten (10). It should not include a numeral classifier, but instead be only the bare numeral.	十	दस	দহ	十	ဆယ်		ten (persons)	ten
+190	neck	1333	NECK	neck	neck	ɴᴇᴄᴋ	3		body parts	The part of the body (found in some animals, including humans) that connects the head and the trunk.	首	गला	ঘাল	脖子	လည်ပင်း		neck	neck
+191	needle	1382	NEEDLE (FOR SEWING)	needle	needle	ɴᴇᴇᴅʟᴇ	3			A thin, sharp implement used in sewing, knitting and acupuncture.	針	सुई		针	အပ်			needle
+192	night.time	1233	NIGHT	night time	night.time	ɴɪɢʜᴛ.ᴛɪᴍᴇ	3			The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.	夜	रात का समय		晚上	ညအချိန်		night	night
+193	noon..midday	12	MIDDAY	noon (midday)	noon	ɴᴏᴏɴ	3			Time of day when the sun is in its zenith.	正午	दोपहर		中午	နေ့လယ်၊ နေ့လယ်			
+194	oil..substance	2556	OIL (HYDROPHOBIC LIQUID)	oil (substance)	oil	ᴏɪʟ	3			A liquid or semi-solid substance that is used for frying, sautéing, or baking food, or for greasing pans or grills.	油	तेल		油	ချက်ပြုတ်ရန်အတွက် ဆီ သို့မဟုတ် ဆီ		oil	
+195	otter	15	OTTER	otter	otter	ᴏᴛᴛᴇʀ	3		fauna	Any of several aquatic, furbearing, weasellike mammals of the genus Lutra, having webbed feet and a long, slightly flattened tail.	カワウソ	ऊद		水獭	ဖျံ		otter	otter
+196	overmorrow	1179	DAY AFTER TOMORROW	overmorrow	overmorrow	ᴏᴠᴇʀᴍᴏʀʀᴏᴡ	3			On the day following tomorrow.	あさって	परसों		后天	မနက်ဖြန်			
+197	owl	735	OWL	owl	owl	ᴏᴡʟ	3		fauna	A solitary, mainly nocturnal bird of prey, belonging to the order Strigiformes; it has large forward-facing eyes and ears and a hawk-like beak, and it can turn its head 180 degrees around.		उल्लू		猫头鹰	ဇီးကွက်		owl	
+198	field:paddy	140	PADDY FIELD	paddy field	paddy.field	ᴘᴀᴅᴅʏ.ꜰɪᴇʟᴅ	3			A flooded field in which rice is grown.		धान का खेत		水稻田	လယ်ကွင်း		wet rice field	irrigated paddy field
+199	hand:palm.of	1183	PALM OF HAND	palm of hand	palm.of.hand	ᴘᴀʟᴍ.ᴏꜰ.ʜᴀɴᴅ	3		body parts	The inner and somewhat concave part of the human hand that extends from the wrist to the bases of the fingers.	手のひら	हथेली	হাতৰ তল	手掌	လက်ဖဝါး		palm	
+2	bee..general	665	BEE	bee (general)	bee	ʙᴇᴇ	1		fauna	Any pollenating flying insect belonging to the Anthophila clade within the order Hymenoptera. Typically having yellow and black colouring with a striped pattern on the abdoment.	蜂	मधुमक्खी		蜜蜂	ပျား		bee	bee
+20	thorn	124	THORN	thorn	thorn	ᴛʜᴏʀɴ	1		flora	A sharp, pointed projection on the stem or branch of a plant, developed as a form of defence from grazing animals.	棘	कांटा		刺	ဆူး		thorn	thorn (prick)
+200	pangolin	2508	PANGOLIN	pangolin	pangolin	ᴘᴀɴɢᴏʟɪɴ	3		fauna	Mammals of the order Pholidota. The one extant family, Manidae, has three genera: Manis which comprises four species living in Asia, Phataginus which comprises two species living in Africa, and Smutsia which comprises two species also living in Africa.		टिकटिकी		穿山甲	သင်းခွေချပ်		pangolin	
+201	path..road	2252	PATH	path (road)	path	ᴘᴀᴛʜ	3			A thoroughfare or track that is used for traveling from one place to another, typically by foot or vehicle.	道	सड़क		道路 / 路径	လမ်း သို့မဟုတ် လမ်း			road
+202	plains..lowlands	652	PLAIN	plains (lowlands)	plains	ᴘʟᴀɪɴꜱ	3			Land that is low or close to sea level.	野原，平原	निम्नभूमि		低地	မြေနိမ့်			
+203	rice.plant	2026	RICE PLANT	rice plant	rice.plant	ʀɪᴄᴇ.ᴘʟᴀɴᴛ	3		rice	An erect grass, Oryza sativa, that grows in East Asia on wet ground and has drooping flower spikes and yellow oblong edible grains that become white when polished.		धान		稻米	စပါးခွံ၊			rice (in fields)
+204	rope	1218	ROPE	rope	rope	ʀᴏᴘᴇ	3			Thick, strong string made of several strands that have been twisted together.	紐	रस्सी		绳子	ကြိုး		rope	
+205	ruler..chief	–	–	ruler (chief)	ruler	ʀᴜʟᴇʀ	3	CONCEPTICON has the measuring tool as the definition.		The person who has the highest authority in a group or organization.		मुखिया		首领	အကြီးအကဲ သို့မဟုတ် အုပ်ချုပ်သူ			
+206	saliva	1503	SALIVA	saliva	saliva	ꜱᴀʟɪᴠᴀ	3		body parts	The clear liquid that is secreted by glands in the mouth and is used to moisten food and aid in digestion.		लार		口水	တံတွေး		spit (noun)	
+207	shade..area	1388	SHADE	shade (area)	shade	ꜱʜᴀᴅᴇ	3			An area sheltered from direct sunlight, typically created by trees or other vegetation.		छाया		阴凉处	အရိပ်			shade/shadow
+208	shadow..of.something	2275	SHADOW	shadow (of something)	shadow	ꜱʜᴀᴅᴏᴡ	3			Darkness, where light (particularly sunlight) is blocked.	影	अचार		生米	မကျက်သောဆန်		shadow/shade	shade/shadow
+21	colour.:black:to.be	163	BLACK	to be black	black	ʙʟᴀᴄᴋ	1			Of the very darkest color owing to the absence of or complete absorption of light, the opposite of white.	黒い	काला		黑	အနက်ရောင်		black	black
+212	shield	1064	SHIELD	shield	shield	ꜱʜɪᴇʟᴅ	3			A device used to protect oneself or others from harm or danger when engaging in close combat. Typically woven from cane, carved from wood, or formed from toughened animal hide.		ढाल		盾牌	ဒိုင်း		shield (n)	
+213	silver	759	SILVER	silver	silver	ꜱɪʟᴠᴇʀ	3			A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	銀	चाँदी		银	ငွေ		silver	silver
+214	sky	1732	SKY	sky	sky	ꜱᴋʏ	3			The part of the earth's atmosphere and space outside it that is visible from earth's surface. During the day it is perceived as blue, and at night as black.	空	आकाश		天空	ကောင်းကင်		sky	sky
+215	snail	1543	SNAIL	snail	snail	ꜱɴᴀɪʟ	3		fauna	(Gastropoda) Ventral footed mollusk, including land snails, terrestrial pulmonate gastropod mollusks.	カタツムリ	घोंघा		蜗牛	ခရု		snail	
+216	snot..liquid.mucus	208	NASAL MUCUS (SNOT)	snot (liquid mucus)	snot	ꜱɴᴏᴛ	3		body parts	Mucus from the nose.	鼻水	नाक का मूसा		鼻涕	နှပ်		nasal mucus, snot	snot
+217	spider	843	SPIDER	spider	spider	ꜱᴘɪᴅᴇʀ	3		fauna	Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	蜘蛛	मकड़ी		蜘蛛	ပင့်ကူ		spider	
+218	spider::web	1065	SPIDER WEB	spiderweb	spiderweb	ꜱᴘɪᴅᴇʀᴡᴇʙ	3		fauna	A fine net of threads woven by a spider to catch insects.		मकड़ी का जाल		蜘蛛网	ပင့်ကူအိမ်ကွန်ယက်		spider web	
+219	stick..tree	1295	STICK	stick (tree)	stick	ꜱᴛɪᴄᴋ	3			A long, thin piece of wood, mainly left in the shape in which it grew, that does not bend.	杖, 棒	छड़ी		棍子	တုတ်			stick
+22	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	1		statives	A color resembling the hue of blood, fire, or a ripe tomato.	赤い	लाल		红色	အနီေရာင်		red	red
+220	ant.:termite	883	TERMITE	termite	termite	ᴛᴇʀᴍɪᴛᴇ	3		fauna	A soft-bodied insect of the order Isoptera; individuals feed on cellulose and live in colonies with a caste system comprising three types of functional individuals: sterile workers and soldiers, and the reproductives.		दीमक	হুঁটুল	白蚁	ခြကောင်		termite	
+221	1000.:thousand	1843	THOUSAND	thousand	thousand	ᴛʜᴏᴜꜱᴀɴᴅ	3		numbers	The natural number one thousand (1000).		हजार	হাজাৰ	千	ထောင်		thousand (persons)	
+222	thread..string	1161	THREAD	thread (string)	thread	ᴛʜʀᴇᴀᴅ	3			A long, thin and flexible form of material, generally with a round cross-section, used in sewing, weaving or in the construction of string.	糸	धागा (dhaaga)		线	ချည်		thread (n)	
+225	finger.:thumb	1781	THUMB	thumb	thumb	ᴛʜᴜᴍʙ	3			The shortest and thickest of the fingers that can be placed against the others in order to create a firm grip.		अंगूठा	আঙুঠ	拇指	လက်မ		thumb	
+226	ascend..move.up:to	705	GO UP (ASCEND)	to ascend (move up)	ascend	ᴀꜱᴄᴇɴᴅ	3			To move from a lower to a higher position by climbing. This should be distinct from the general go verbs which exist as part of systems of topographical deixis.	のぼる	चढ़ना		爬	တက်ရန် သို့မဟုတ် တက်ရန်		ascend, go up	climb, ascend
+227	awaken:to	1602	WAKE UP	to awaken	awaken	ᴀᴡᴀᴋᴇɴ	3			To stop sleeping and become conscious, to stir or come into awareness.	目覚める	जागना	জাগা	醒来	နိုးထရန်		wake up (intr)	awaken
+228	wash.:bathe:to	138	BATHE	to bathe	bathe	ʙᴀᴛʜᴇ	3			To clean oneself by immersion in water.		स्नान करना		洗澡	ရေချိုးရန်		to bathe	
+229	above:to.be	1741	ABOVE	to be above	above	ᴀʙᴏᴠᴇ	3			Situated in a higher place than something else.		ऊपर	উপৰ	上面	အထက်		over, above	
+23	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	1		statives	A color characterized by the presence of all wavelengths of visible light, often associated with purity or innocence.	白い	सफ़ेद		白色的	အဖြူ		white	white
+230	alive:to.be	1422	BE ALIVE	to be alive	alive	ᴀʟɪᴠᴇ	3			To have life and be living, not dead.	生きている	जीवित	জিৱন থাকিব	活着	အသက်ရှင်ဖို့		(be) alive	alive
+231	ashamed:to.be	1894	ASHAMED	to be ashamed	ashamed	ᴀꜱʜᴀᴍᴇᴅ	3			Feeling shame or guilt. This is distinct from being shy.	恥じる							ashamed
+232	big:to.be	1202	BIG	to be big	big	ʙɪɢ	3			Of great size or extent relative to some other thing.	大きい	बड़ा		大	ကြီးတယ်။		to be big	
+233	bitter:to.be	887	BITTER	to be bitter	bitter	ʙɪᴛᴛᴇʀ	3			Having an acrid taste, typical of citrus peel or bitter gourd Momordica charantia.	苦い	कड़वा		苦	ခါး		to be bitter	bitter
+234	born:to.be	1090	BE BORN	to be born	born	ʙᴏʀɴ	3			To come into existence, typically through childbirth.		जन्म लेना		出生	မွေးဖွားလာဖို့ရန်		(be) born	be born
+235	cold..of.items:to.be	1287	COLD	to be cold (of items)	cold	ᴄᴏʟᴅ	3			Having a low temperature.		ठंडा होना		寒冷	အေးဖို့		to be cool (water)	cold
+236	cold..of.weather:to.be	2483	COLD (OF WEATHER)	to be cold (of weather)	cold	ᴄᴏʟᴅ	3			Having a low temperature (of the weather).	寒い	ठंडा मौसम		寒冷的天气	ရာသီဥတုအေး		cold weather [cold season]	
+237	far:to.be	1406	FAR	to be far	far	ꜰᴀʀ	3			Having a large intervening distance with regard to something.	遠い	दूर		远	ဝေးဖို့		to be far (village many miles away)	far
+238	fat:to.be	1279	FAT (OBESE)	to be fat	fat	ꜰᴀᴛ	3			Carrying a larger-than-normal amount of fat or weight.	太った, 太い	मोटा		肥	အဆီကျဖို့		to be fat (person)	fat
+239	flat:to.be	1633	FLAT	to be flat	flat	ꜰʟᴀᴛ	3			Having an surface, without hills or bumps. Distinct from level. This concept may refer to any object and may be at any angle. It is distinct from level.	平たい	समतल		平的	ပြားချပ်		(be) flat	
+24	drink:to	1401	DRINK	to drink	drink	ᴅʀɪɴᴋ	1			To consume a liquid through the mouth.	飲む	पीना		喝	သောက်ရန်			drink
+240	full..container:to.be	1429	FULL	to be full (container)	full	ꜰᴜʟʟ	3			Containing the most or maximum amount possible in the given available space.	いっぱいの	भरा हुआ		满	ကွန်တိန်နာတစ်ခု၏အပြည့်		to be full (container)	full
+241	colour.:green:to.be	1425	GREEN	to be green	green	ɢʀᴇᴇɴ	3		statives	Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	緑の	हरा		绿色	အစိမ်းရောင်		green	
+242	happy:to.be	1495	HAPPY	to be happy	happy	ʜᴀᴘᴘʏ	3			Having a feeling of satisfaction, enjoyment or well-being, often arising from a positive situation or set of circumstances.	うれしい	खुश होना		开心	ပျော်ရွှင်ဖို့		(be) happy, (be) joyful	
+243	high:to.be	1265	HIGH	to be high	high	ʜɪɢʜ	3			Being in a position comparatively far above to the ground.	高い	उच्च होना		高	မြင့်မားရန်		(be) high	
+244	hot:to.be	1286	HOT	to be hot	hot	ʜᴏᴛ	3			Having, giving off, or producing a high degree of heat.	熱い							
+245	hungry:to.be	1533	BE HUNGRY	to be hungry	hungry	ʜᴜɴɢʀʏ	3			To be in need of food.	空腹である	भूख लगना		饥饿	ဆာလောင်မှုကိုခံစားရရန်		to be hungry	
+246	ill..sick:to.be	1847	SICK	to be ill (sick)	ill	ɪʟʟ	3			To be in poor health, suffering from a physical or mental condition that causes discomfort or pain.		बीमार होना		生病	နေမကောင်းဖြစ်ခြင်း။		(be) sick, (be) ill	ill
+247	itchy:to.be	149	ITCHY	to be itchy	itchy	ɪᴛᴄʜʏ	3			Having a sensation that provokes the need to scratch.	かゆい	खुजली होना		痒	ယားတယ်။			itchy
+248	long:to.be	1203	LONG	to be long	long	ʟᴏɴɢ	3			Having much distance from one terminating point on an object or an area to another terminating point.	長い	लम्बा		长	ရှည်		to be long	long/tall
+249	naked:to.be	590	NAKED	to be naked	naked	ɴᴀᴋᴇᴅ	3			Without clothing.	はだか	नंगा होना		裸露	အဝတ်အချည်းစည်းဖြစ်			
+25	sleep:to	1585	SLEEP	to sleep	sleep	ꜱʟᴇᴇᴘ	1			To rest in a state of decreased consciousness and reduced metabolism.	眠る	सोना		睡觉	အိပ်ရန်		to sleep	sleep/lie down
+250	near:to.be	1942	NEAR	to be near	near	ɴᴇᴀʀ	3			Not far distant in time or space or degree or circumstances.	横，側, 近い	पास होना		接近	နီးဖို့၊		to be near (village very near)	near
+251	new:to.be	1231	NEW	to be new	new	ɴᴇᴡ	3			Recently made, created or begun.	新しい	नया होना		新	အသစ်ဖြစ်ရန်		to be new (things)	new
+252	old..of.people:to.be	2112	OLD (AGED)	to be old (of people)	old	ᴏʟᴅ	3	Both CONCEPTICON forms refer to people, not things.		To have existed or been in use for a long time, having lived or existed for a long time.	年とった	पुराना होना		老	အသက်ကြီးရန်			old
+253	raw..uncooked:to.be	1959	RAW	to be raw (uncooked)	raw	ʀᴀᴡ	3			Of food, being either wholly or imcompletely cooked.	生の	कच्चा		生的	အစိမ်း၊ မပြုတ်			
+254	rotten:to.be	1728	ROTTEN	to be rotten	rotten	ʀᴏᴛᴛᴇɴ	3			Having changed its colour, smell or composition (partially or completely), due to being attacked and decomposed by microorganisms (relating to organic matter).	腐った	गला हुआ		腐烂的	ပုပ်ဖို့		to be rotten	
+255	rough:to.be	1923	ROUGH	to be rough	rough	ʀᴏᴜɢʜ	3			Having a texture that has much friction. Not smooth.	ざらざらな	रूखा		粗糙的	ကြမ်းတမ်းသည်		to be rough (road)	
+256	round:to.be	1395	ROUND	to be round	round	ʀᴏᴜɴᴅ	3			Circular or having a circular cross-section in at least one direction.	丸い	गोल		圆形的	ပတ်ပတ်လည်		to be round	round
+257	full.:satiated:to.be	106	SATIATED	to be satiated	satiated	ꜱᴀᴛɪᴀᴛᴇᴅ	3			Having eaten or drunk enough.	満腹である	भर जाना		饱	ပြည့်ဝ၊		to be full (after eating)	
+258	sharp..of.edge:to.be	1396	SHARP	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	3			Having a thin or narrow edge capable of cutting or slicing.	鋭い	तेज़		尖锐的边缘	အစွန်းတစ်ခု၏ချွန်ထက်		to be sharp	sharp
+259	sharp..of.point:to.be	–	–	to be sharp (of point)	sharp	ꜱʜᴀʀᴘ	3			Having a fine point or edge that is able to cut or pierce.		तीखा		尖锐的	ထက်မြက်သောအချက်၊			sharp
+26	weep..cry:to	1839	CRY	to weep (cry)	weep	ᴡᴇᴇᴘ	1			To shed tears in response to an emotional state, such as sadness, pain, or happiness.	泣く	रोना		哭泣	ငို၊ ငို			weep
+260	short..height:to.be	1645	SHORT	to be short (height)	short	ꜱʜᴏʀᴛ	3			Small in length by comparison.		छोटा होना		矮	လူတို			
+261	shy:to.be	487	SHY	to be shy	shy	ꜱʜʏ	3			To be hesitant or reserved in social situations, often due to timidity or lack of confidence. This is distinct from ashamed.		शर्मीला होना		害羞	ရှက်ဖို့ကောင်းတယ်။		(be) shy	
+262	slow:to.be	701	SLOW	to be slow	slow	ꜱʟᴏᴡ	3			With low speed.	ゆっくりと, おそい	धीमा		慢	နှေးနှေး		to be slow	
+263	small:to.be	1246	SMALL	to be small	small	ꜱᴍᴀʟʟ	3			Having a small size or dimensions, often relative to others of its kind.	小さい	छोटा होना		小	သေးငယ်ဖို့		to be small	
+264	smooth:to.be	1234	SMOOTH	to be smooth	smooth	ꜱᴍᴏᴏᴛʜ	3			Not rough; having a surface texture that lacks friction.	すべすべした	मुलायम होना		平滑	ချောမွေ့စေရန်		to be smooth (road)	
+265	soft:to.be	1856	SOFT	to be soft	soft	ꜱᴏꜰᴛ	3			A state of consistency allowing alterations of form with ease, no big force required, to bring things into something of this state (such as e.g. soaked loam or clay soil).	やわらかい	मुलायम होना		软	ပျော့ပျောင်းစေရန်		to be soft (cotton)	soft (to touch)
+266	sour:to.be	1906	SOUR	to be sour	sour	ꜱᴏᴜʀ	3			Having an acid, sharp or tangy taste.	すっぱい	खट्टा होना		酸	အချဉ်ဖြစ်ရန်		to be sour	sour
+267	strong:to.be	785	STRONG	to be strong	strong	ꜱᴛʀᴏɴɢ	3			Capable of producing great physical force.	強い	मजबूत होना		强	ခိုင်မာဖို့		to be strong	
+268	sweet:to.be	717	SWEET	to be sweet	sweet	ꜱᴡᴇᴇᴛ	3			Having the taste characteristic of sugar or honey.	甘い	मीठा होना		甜	မွှေးဖို့		to be sweet	sweet
+269	tall:to.be	711	TALL	to be tall	tall	ᴛᴀʟʟ	3			Having a large distance from the base to the top, often relative to other objects or structures.		ऊँचा		高	အရပ်မြင့်သည်ဖြစ်စေ၊		to be tall	long/tall
+27	tree	906	TREE	tree	tree	ᴛʀᴇᴇ	1		flora	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	木	पेड़ (ped)		树	သစ်ပင်		tree	tree/wood
+270	thick..of.material:to.be	1244	THICK	to be thick (of material)	thick	ᴛʜɪᴄᴋ	3			Relatively large distance from one surface to the opposite in its smallest solid dimension.	厚い	मोटा		厚	အထူ			thick
+271	thin..of.material:to.be	2306	THIN (OF LEAF AND CLOTH)	to be thin (of material)	thin	ᴛʜɪɴ	3			Having a small distance from one surface to another, often relative to the object's size.	薄い	पतला		瘦	ပိန်တယ်။			thin
+272	warm:to.be	1232	WARM	to be warm	warm	ᴡᴀʀᴍ	3			Having a temperature slightly higher than usual, still pleasant.	暖かい	गर्म होना		温暖	နွေးဖို့			warm
+273	weak:to.be	1601	WEAK	to be weak	weak	ᴡᴇᴀᴋ	3			To be lacking physical strength, or lacking strength or energy such as due to fatigue.	弱い	कमजोर होना		虚弱	အားနည်းဖို့၊		to be weak	
+274	bite:to	1403	BITE	to bite	bite	ʙɪᴛᴇ	3			Clamping the teeth hard on something.	かみつく	काटना		咬	ကိုက်ရန်			bite
+275	bloom:to	3287	BLOOM	to bloom	bloom	ʙʟᴏᴏᴍ	3		flora	To bear flowers or to start bearing flowers; to blossom.		खिलना		开花	ပန်းတစ်ပွင့်၊		(be) open [blossom]	
+276	blow..with.mouth:to	176	BLOW (WITH MOUTH)	to blow (with mouth)	blow	ʙʟᴏᴡ	3			To expel air through persed lips.		उड़ाना		吹	မှုတ်ရန်		blow (horn)	blow
+277	boil..liquid:to	792	BOIL (OF LIQUID)	to boil (liquid)	boil	ʙᴏɪʟ	3			To reach or cause to reach the temperature at which a liquid bubbles and turns to vapor by adding heat.	煮る	उबालना		煮沸	ပြုတ်ဖို့			cook/boil
+278	burn..intransitive:to	2102	BURN	to burn (intransitive)	burn	ʙᴜʀɴ	3			To put fire on something or to be on fire.		जलाना		烧	မီးရှို့ရန်		burn (intr), blaze	burn
+279	buy:to	1869	BUY	to buy	buy	ʙᴜʏ	3			To obtain in exchange for money or goods.	買う	ख़रीदना		买	ဝယ်ရန်		but	buy
+28	village	930	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	1			A small community of houses and other buildings, typically in a rural area, often organised under unified leadership and identifiable as a community.	村	गांव		村庄	ရွာ		villager	village
+280	carry..child.on.back:to			to carry (child on back)	carry	ᴄᴀʀʀʏ	3				背負う							
+281	cook..general:to	1100	COOK (SOMETHING)	to cook (general)	cook	ᴄᴏᴏᴋ	3			To prepare food by heating it.	料理する	पकाना		烹饪	ချက်ပြုတ်ရန်		to cook (rice)	cook/boil
+282	count:to	1420	COUNT	to count	count	ᴄᴏᴜɴᴛ	3			To determine the amount of something or to enumerate the digits of one's numeral system.	数える	गिनना		数数	ရေတွက်ရန်		to count	
+283	descend..move.down:to	2014	GO DOWN (DESCEND)	to descend (move down)	descend	ᴅᴇꜱᴄᴇɴᴅ	3			To move downward or to a lower place. Distinct from moving downriver, descent is opposite to the concept of climbing.	おりる	उतरना		下降	ဆင်းရန်		descend, go down	descend
+284	discard..throw.away:to	3696	THROW AWAY	to discard (throw away)	discard	ᴅɪꜱᴄᴀʀᴅ	3				捨てる						throw away, get rid of	
+285	eat:.hard:to	1336	EAT	to eat	eat	ᴇᴀᴛ	3		verbs	To take food into the body through the mouth and swallow it. As applies to hard foods such as curries.		खाना खाना		吃	စားရန်			eat
+286	eat:.soft:to	1336	EAT	to eat	eat	ᴇᴀᴛ	3		verbs	To take food into the body through the mouth and swallow it. As applies to rice and soft foots.		खाना खाना		吃	စားရန်			eat
+287	emerge:to	1076	EMERGE (APPEAR)	to emerge	emerge	ᴇᴍᴇʀɢᴇ	3			To come out from a hidden or enclosed place.		उभरना		浮现	ပေါ်ထွက်လာရန်			emerge
+288	extinguish..fire:to	127	EXTINGUISH	to extinguish (fire)	extinguish	ᴇxᴛɪɴɢᴜɪꜱʜ	3		verbs	To make something stop burning.	火を消す	बुझाना		熄灭	ငြိမ်းအေးရန်		to extinguish (fire)	extinguish
+289	fall..of.objects:to	1280	FALL	to fall (of objects)	fall	ꜰᴀʟʟ	3			To descend in free fall due to the effect of gravity.	落ちる	गिरना		落下	အရွက်များကဲ့သို့ ကြွေကျခြင်း၊		to fall (from a height)	fall (from a height)
+29	water	948	WATER	water	water	ᴡᴀᴛᴇʀ	1			Common liquid (H₂O) which forms rain, rivers, the sea, etc., and which makes up a large part of the bodies of organisms.	水							water
+290	fear:to	1419	FEAR (BE AFRAID)	to fear	fear	ꜰᴇᴀʀ	3			To be scared of; to have an uncontrollable emotion of anxiety about something that causes a scared reaction or frightening impression.	恐れる	डरना		害怕	ကြောက်ဖို့ကောင်းတယ်။		fear (n)	fear/frighten
+291	ferment..alcohol:to			to ferment (alcohol)	ferment	ꜰᴇʀᴍᴇɴᴛ	3											
+292	flee..run.away:to	956	FLEE	to flee (run away)	flee	ꜰʟᴇᴇ	3			Leaving a dangerous or unpleasant situation.	逃げる	भागना		奔跑 / 逃跑	ပြေး၊ ပြေး		flee, run away from	run/flee
+293	forget:to	1523	FORGET	to forget	forget	ꜰᴏʀɢᴇᴛ	3			To lose memory of something.	忘れる	भूलना		忘记	မေ့			forget
+294	go..general:to	695	GO	to go (general)	go	ɢᴏ	3			To get from one place to another by any means.	行く						go	
+295	go.downriver:to	–	–	to go downriver	go.downriver	ɢᴏ.ᴅᴏᴡɴʀɪᴠᴇʀ	3			To move in an upstream direction, such as along a river. Moving against the direction that water would flow. This is a part of topographical deixis common to the region.		ऊपर नदी में जाना		上游	အညာ			
+296	go.upriver:to	–	–	to go upriver	go.upriver	ɢᴏ.ᴜᴘʀɪᴠᴇʀ	3			To move in an downstream direction, such as along a river. Moving with the direction that water would flow. This is a part of topographical deixis common to the region.		नीचे नदी में जाना		下游	မြစ်ထဲဆင်းဖို့			
+297	grind:to	1033	GRIND	to grind	grind	ɢʀɪɴᴅ	3			To break something into small pieces by pressing it flat, or grinding it to powder.	すりつぶす						to grind	grind
+298	hear:to	1408	HEAR	to hear	hear	ʜᴇᴀʀ	3			To perceive sound with the ear, without necessarily paying attention to it.		सुनना		听	ကြားဖို့			ear/hear
+299	hit..something:to	1433	HIT	to hit (something)	hit	ʜɪᴛ	3			To hit against with a sharp blow or to impel, usually with a hand or weapon or to be forcefully or suddenly contacting, e.g. a tree falling down and hitting the ground.	殴る	मारना		打	ရိုက်နှက်ရန်			
+3	blood	946	BLOOD	blood	blood	ʙʟᴏᴏᴅ	1		body parts	A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	血	रक्त		血液	သွေး		blood	blood
+30	year	1226	YEAR	year	year	ʏᴇᴀʀ	1			The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	年	साल		年	တစ်နှစ်		year	year
+300	hunt:to	1435	HUNT	to hunt	hunt	ʜᴜɴᴛ	3			To chase down prey and (usually) kill it.	猟をする	शिकार करना		狩猎	အမဲလိုက်ရန်		chase (v)	drive/hunt
+301	kick..stationary.item:to	1135	KICK	to kick (stationary item)	kick	ᴋɪᴄᴋ	3			To strike something stationary with the foot.	蹴る	लात मारना		踢	ကန်ဖို့			kick
+302	kill:to	1417	KILL	to kill	kill	ᴋɪʟʟ	3			To put to death; to end a life.	殺す	मारना		杀	သတ်ရန်			kill
+303	kiss:to			to kiss	kiss	ᴋɪꜱꜱ	3											
+304	know..something:to	1410	KNOW (SOMETHING)	to know (something)	know	ᴋɴᴏᴡ	3			To have knowledge or comprehension of something through learning or experience.	知る	कुछ समझना		理解	တစ်ခုခုကိုနားလည်ရန်			know
+305	laugh:to	1355	LAUGH	to laugh	laugh	ʟᴀᴜɢʜ	3			To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.	笑う	हंसना		笑	ရယ်ဖို့			laugh
+306	lick:to	319	LICK	to lick	lick	ʟɪᴄᴋ	3			To pass the tongue over something in order to taste or wet it.	舐める	चाटना		舔	စို့ရန်			lick
+307	lie.down:to	215	LIE DOWN	to lie down	lie.down	ʟɪᴇ.ᴅᴏᴡɴ	3			(For a human or animal) to assume a horizontally extended position on a surface.	横たわる	लेट जाना		躺下	အိပ်ရန်		lie down	sleep/lie down
+308	listen:to	1608	LISTEN	to listen	listen	ʟɪꜱᴛᴇɴ	3			To perceive with the ear (paying attention to what is heard).	聞く							
+309	love:to	923	LOVE	to love	love	ʟᴏᴠᴇ	3			To have an intense feeling of affection and care towards another person.		प्यार करना		爱	ချစ်ဖို့		to love	
+31	1.du	2634	WE TWO	1 du	1.du	1.ᴅᴜ	2		pronouns	The speaker and exactly one other person. // The first person dual pronominal stem. In varieties which have this stem, it is typically derived from a proposed etymon #tsi. Varieties which lack stem suppletion for dual pronominal forms should have their compounds recorded as such.								
+310	perch:to	3682	PERCH (OF BIRD)	to perch	perch	ᴘᴇʀᴄʜ	3			To sit or rest on a perch or elevated spot, typically of a bird or other animal.		उड़ना		栖息	perch ရန်			
+311	pierce..puncture:to	398	PIERCE	to pierce (puncture)	pierce	ᴘɪᴇʀᴄᴇ	3			To make a hole or wound in something using a sharp object.	突き刺す	चुभाना		刺穿	ဖောက်ရန် သို့မဟုတ် ထိုးရန်		pierce (ears)	
+312	place..put:to	998	PUT	to place (put)	place	ᴘʟᴀᴄᴇ	3			To set or place an object somewhere.	置く	रखना		放	တစ်စုံတစ်ခုကို ထားရန်၊		put, place, set	put, place
+313	plant:to	1486	PLANT (SOMETHING)	to plant	plant	ᴘʟᴀɴᴛ	3			To put a plant in the ground so that it strikes root and grows.		लगाना		种植	စိုက်ပျိုးရန်		to plant	
+314	play..game:to	1413	PLAY	to play (game)	play	ᴘʟᴀʏ	3			To act in a manner such that one has fun; to engage in playful activities expressly for the purpose of recreation.	遊ぶ	खेलना		玩	ကစားရန်			
+315	release..let.go:to	1095	LET GO OR SET FREE	to release (let go)	release	ʀᴇʟᴇᴀꜱᴇ	3			To give freedom; to stop holding; to release from confinement or restraint.	放す	छोड़ना		放开	လွှတ်ရန် သို့မဟုတ် လွှတ်ရန်		to set free, let go (animal)	let go; set free; loosen
+316	roast:to	1962	ROAST (SOMETHING)	to roast	roast	ʀᴏᴀꜱᴛ	3			To expose to heat without adding fat or water until it is cooked, has a brown crust and becomes crispy.	焼く	भूनना		烤	ကင်ရန်		roast	
+317	rub:to	1449	RUB	to rub	rub	ʀᴜʙ	3			To move one's hand or an object over a surface or other object (maintaining constant contact and applying moderate pressure).	こする	रगड़ना		擦	ပွတ်ရန်		to rub/scrub	rub
+318	scrape..with.edge:to	1767	SCRAPE	to scrape (with edge)	scrape	ꜱᴄʀᴀᴘᴇ	3			To move an object against another object such that abrasion or minor cutting occurs.		खुरचना		抓 / 刮	ခြစ်ရန် သို့မဟုတ် ခြစ်ရန်		scrape (v)	scratch (scrape)
+319	scratch..with.nails:to	1436	SCRATCH	to scratch (with nails)	scratch	ꜱᴄʀᴀᴛᴄʜ	3			To rub or scrape (a part of the body) with a sharp object (e.g. to relieve an itching).	掻く	अनाज		稻	မကြေသေးသော ဆန်၊		scratch (v)	scratch (scrape)
+32	1.n.sg.excl	1130	WE (EXCLUSIVE)	1 n sg excl	1.n.sg.excl	1.ɴ.ꜱɢ.ᴇxᴄʟ	2		pronouns	Exclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.					ကျွန်တစ်ဦးတည်းနှင့်တကွ			
+320	see:to	1409	SEE	to see	see	ꜱᴇᴇ	3			To perceive with the eyes, or to comprehend mentally through observation or understanding.	見る	देखना		看	ကြည့်ရန်		to see	see
+321	sell:to	1571	SELL	to sell	sell	ꜱᴇʟʟ	3			To provide goods or services in exchange for money.	売る	बेचना		卖	ရောင်းရန်			sell
+322	sew:to	1457	SEW	to sew	sew	ꜱᴇᴡ	3			To pass thread repeatedly through fabric or a material, using a needle, in order to join two or more parts or to make a pattern or motif.	縫う	सीवना		缝 / 裁缝	ချုပ်ရန်			sew
+323	sing:to	1261	SING	to sing	sing	ꜱɪɴɢ	3			To produce musical sounds with one's voice, often in a rhythmic or melodic pattern.	歌う	गाना गाना		唱歌	သီချင်းသီဆိုရန်			
+324	sink:to	1088	SINK (DESCEND)	to sink	sink	ꜱɪɴᴋ	3			To go down in water, mud, quicksand etc. or to cause something to go down in it.	沈む	डूबना		下沉	နစ်မြုပ်ရန်			
+325	smell..something:to	1586	SMELL (PERCEIVE)	to smell (something)	smell	ꜱᴍᴇʟʟ	3			To perceive the presence of molecules in the air by inhaling them through the nose.	嗅ぐ, におう	सूंघना		闻	အနံ့ခံရန်			smell
+326	smoke:to	1689	SMOKE (INHALE)	to smoke	smoke	ꜱᴍᴏᴋᴇ	3			To inhale smoke from for example a cigarette or a cigar.		धूम्रपान करना		抽烟	ဆေးလိပ်သောက်ရန်			
+327	sow..crops:to	748	SOW SEEDS	to sow (crops)	sow	ꜱᴏᴡ	3			To scatter or disperse seeds on a field.	蒔く	बोना या बोवाई करना		播种	ကြဲရန်			
+328	speak:to	1623	SPEAK	to speak	speak	ꜱᴘᴇᴀᴋ	3			To communicate by the use of words.	話す	बोलना		说	ပြောရန် သို့မဟုတ် ပြောရန်			
+329	spit:to	1440	SPIT	to spit	spit	ꜱᴘɪᴛ	3			To forcefully evacuate saliva from the mouth.	つばを吐く	थूकना		吐	တံတွေးထွေးရန်			spit
+33	1.n.sg.incl	1131	WE (INCLUSIVE)	1 n sg incl	1.n.sg.incl	1.ɴ.ꜱɢ.ɪɴᴄʟ	2		pronouns	Inclusive form of the non-singular and non-dual pronominal stem. This should only be filled out for languages which have a suppletive clusivity distinction.					ကျွန်မှာတော့			
+330	squeeze:to	1414	SQUEEZE	to squeeze	squeeze	ꜱꞯᴜᴇᴇᴢᴇ	3			To apply pressure to something from two or more sides at once.	しぼる	दबाना		挤	ညှစ်ရန်			squeeze
+331	steal:to	713	STEAL	to steal	steal	ꜱᴛᴇᴀʟ	3			To take possession of property belonging to another without the consent of this owner; most typically when not observed, rather than by force.	盗む	चुराना		偷	ခိုးယူရန်			steal
+332	sting..of.bee:to	571	STING	to sting (of bee)	sting	ꜱᴛɪɴɢ	3			To hurt, usually by introducing poison or a sharp point, or both.		दर्द होना		叮	ကိုက်တယ်။		sting (v)	
+333	sweat:to	126	SWEAT (PERSPIRE)	to sweat	sweat	ꜱᴡᴇᴀᴛ	3			To excrete moisture from the skin through sweat glands, often as a result of physical exertion or high temperatures.		पसीना आना		出汗	ချွေးထွက်ဖို့		perspire, sweat (v)	sweat
+334	tether..goats:to			to tether (goats)	tether	ᴛᴇᴛʜᴇʀ	3											
+335	tie..general:to	1917	TIE	to tie (general)	tie	ᴛɪᴇ	3			To fasten or secure something by wrapping or looping a string, rope, or other material around it and knotting it.	結ぶ	बांधना		打结	ချည်ရန်			tie
+336	wash..general:to	1453	WASH	to wash (general)	wash	ᴡᴀꜱʜ	3			To remove dirt and grime from an object, using water (usually with soap).	洗う	धोना		洗	ဆေးကြောရန်		to wash (hands)	wash
+337	wash.clothes:to	3434	WASH (CLOTHES)	to wash clothes	wash.clothes	ᴡᴀꜱʜ.ᴄʟᴏᴛʜᴇꜱ	3			To clean pieces of clothing by using water and supplementary cleansing products as a part of hygiene routine.								
+338	weave..baskets:to			to weave (baskets)	weave	ᴡᴇᴀᴠᴇ	3											
+339	winnow:to	2462	WINNOWING	to winnow	winnow	ᴡɪɴɴᴏᴡ	3			To separate the chaff from grain using wind or air.		झाड़ना		簸箕	လှေ့ရန်		winnow (v)	
+34	1.sg	1209	I	1 sg	1.sg	1.ꜱɢ	2		pronouns	The first-person singular pronominal stem, typically a reflex of PTB *ŋa or *ka.	わたし						I (1s)	I
+340	today	1283	TODAY	today	today	ᴛᴏᴅᴀʏ	3			The present day, or the day that has recently occurred when uttered at night.	今日	आज (aaj)		今天	ဒီနေ့		today	
+341	toe	1389	TOE	toe	toe	ᴛᴏᴇ	3			One of the extremities of the foot.		पैर का अंगूठा (pair ka angutha)		脚趾	ခြေချောင်း		toe	finger/toe
+342	tooth..general	1380	TOOTH	tooth (general)	tooth	ᴛᴏᴏᴛʜ	3		body parts	A hard, calcareous structure present in the mouth of many vertebrate animals (including humans), generally used for eating.	歯	दाँत (daant)		牙齿	သွား		tooth	tooth
+343	tree.bark	1204	BARK	tree bark	tree.bark	ᴛʀᴇᴇ.ʙᴀʀᴋ	3		flora	The protective outer layer of a tree trunk composed of dead cells, often used for medicinal or decorative purposes.	樹皮	छाल (chaal)		树皮	သစ်ပင်အခေါက်		tree bark	skin/bark
+344	turtle..tortoise	112	TURTLE	turtle (tortoise)	turtle	ᴛᴜʀᴛʟᴇ	3		fauna	A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.	陸亀	कछुआ		龟	လိပ် သို့မဟုတ် လိပ်		turtle	
+345	0020.:twenty	1710	TWENTY	twenty	twenty	ᴛᴡᴇɴᴛʏ	3		numbers	The natural number twenty (20).		बीस	বিশ	二十	ပိသျှတ်		twenty (persons)	twenty/score
+346	rice..paddy:unhusked	2749	UNHUSKED RICE	unhusked rice (paddy)	unhusked.rice	ᴜɴʜᴜꜱᴋᴇᴅ.ʀɪᴄᴇ	3		rice	A flooded field in which rice is grown.	稲	धान का खेत		稻田	စပါး			
+347	urine	1142	URINE	urine	urine	ᴜʀɪɴᴇ	3			Liquid excrement consisting of water, salts and urea, which is made in the kidneys, stored in the bladder, then released through the urethra.	小便	मूत्र		尿	ဆီး		urine	
+348	valley	921	VALLEY	valley	valley	ᴠᴀʟʟᴇʏ	3			Any low-lying land bordered by higher ground; especially an elongate, relatively large, gently sloping depression of the Earth's surface, commonly situated between two mountains or between ranges of hills or mountains, and often containing a stream with an outlet.		घाटी (ghaati)		山谷	ချိုင့်ဝှမ်း		valley	river/valley
+349	vine..creeper	343	VINE	vine (creeper)	vine	ᴠɪɴᴇ	3		flora	Any plant with a growth habit of trailing or climbing stems or runners. Alternatively, any type of lianas.	つる	बेल		藤蔓	စပျစ်၊ တွား		vine	
+35	2.n.sg	1213	YOU	2 n sg	2.n.sg	2.ɴ.ꜱɢ	2		pronouns	Second person non-singular pronominal stem. This will not likely have a suppletive dual counterpart.	おまえたち				သင့်တော်တို့		you (2p)	
+350	waist	1681	WAIST	waist	waist	ᴡᴀɪꜱᴛ	3		body parts	The part of the body between the ribs and hips, typically the narrowest part of the torso.	腰	कमर		腰	ခါး		waist	
+351	west	1817	WEST	west	west	ᴡᴇꜱᴛ	3			One of the four principal compass points, specifically 270°, conventionally directed to the left on maps. The direction of the setting sun.	西	पश्चिम		西	အနောက်		west	
+352	woman..female.human	962	WOMAN	woman (female human)	woman	ᴡᴏᴍᴀɴ	3			An adult human member of the sex that produces ova and bears young.	女	महिला		女人	မိန်းမ		woman	
+353	wood	1803	WOOD	wood	wood	ᴡᴏᴏᴅ	3			The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.		लकड़ी		木头	သစ်သား			tree/wood
+354	worm..general	1219	WORM	worm (general)	worm	ᴡᴏʀᴍ	3		fauna	A generally tubular invertebrate of the annelid phylum.		कीड़ा		虫子	သန်ကောင်			
+355	sibling:younger			younger sibling	younger.sibling	ʏᴏᴜɴɢᴇʀ.ꜱɪʙʟɪɴɢ	3			Either sibling which is younger								
+356	afternoon	1807	AFTERNOON	afternoon	afternoon	ᴀꜰᴛᴇʀɴᴏᴏɴ	4			The part of the day which follows noon, between noon and evening.		दोपहर	বিলাস	下午	နေ့လည်		afternoon	
+357	amber	–	–	amber	amber	ᴀᴍʙᴇʀ	4			A hard, translucent fossilized resin, typically yellowish-brown in color. Used in some communities for ornaments such as earrings.		अंबर	বাঁশফুলীয়া	琥珀	ပယင်း			
+358	leg.:ankle	803	ANKLE	ankle	ankle	ᴀɴᴋʟᴇ	4		body parts	A joint formed where the foot and the leg meet.	足首	टखना	পা তল	脚踝	ခြေချင်းဝတ်		ankle	
+359	arm::pit	1886	ARMPIT	armpit	armpit	ᴀʀᴍᴘɪᴛ	4		body parts	The hollow beneath the junction of the arm and shoulder.	わきの下	बगल	কখেলা	腋窝	ချိုင်း		armpit	
+36	2.sg	1215	THOU	2 sg	2.sg	2.ꜱɢ	2		pronouns	The second-person singular pronominal stem, typically but not always a reflex of *naŋ.	おまえ						you (2s)	thou
+360	back..of.body	1291	BACK	back (of body)	back	ʙᴀᴄᴋ	4		body parts	The rear surface of the human body from the shoulders to the hips.	背中	पीठ	পিছলৈ	背部	လူသားကဲ့သို့ ကျော၊		back	
+361	bag	2468	BAG	bag	bag	ʙᴀɢ	4			A container made of flexible material with an opening at the top, used for carrying or storing items.	袋	थैला	থলতী	包	အိတ်		bag	
+362	banana.tree	1795	BANANA TREE	banana tree	banana.tree	ʙᴀɴᴀɴᴀ.ᴛʀᴇᴇ	4		flora	The tropical treelike plant which bears clusters of bananas. The plant, of the genus Musa, has large, elongated leaves.								
+363	bed	1663	BED	bed	bed	ʙᴇᴅ	4			A piece of furniture used for sleeping or resting, typically consisting of a mattress and a frame.	寝台	बिस्तर		床	အိပ်ရာ			
+364	bee::hive	88	BEEHIVE	beehive	beehive	ʙᴇᴇʜɪᴠᴇ	4		fauna	A structure that provides a natural habitation for bees; as in a hollow tree.							beehive	
+365	nest:bird	3549	BIRD NEST	bird nest	bird.nest	ʙɪʀᴅ.ɴᴇꜱᴛ	4			A nest in which birds lay and hatch their eggs.	巣							
+366	body	1480	BODY	body	body	ʙᴏᴅʏ	4		body parts	The physical structure of a human or animal, including the bones, flesh, and organs.	からだ	शरीर		身体	ခန္ဓာကိုယ်		body	
+367	bos.frontalis..mithun:::	–	–	Bos frontalis (mithun)	mithun	ᴍɪᴛʜᴜɴ	4		fauna	A member of the Bos genus having a large size and posessing characteristic horns with a wide base. Important draught animal for local agriculture.								
+368	bracelet	1754	BRACELET	bracelet	bracelet	ʙʀᴀᴄᴇʟᴇᴛ	4			Piece of jewellery worn around the wrist.		बांगड़ी		手镯	လက်ကောက်		bracelet	
+369	bubalus.bubalis..water.buffalo:::	2516	WATER BUFFALO	Bubalus bubalis (water buffalo)	water.buffalo	ᴡᴀᴛᴇʀ.ʙᴜꜰꜰᴀʟᴏ	4		fauna	A large bovid originating in South Asia, Southeast Asia, and China.	水牛							
+37	3.n.sg	817	THEY	3 n sg	3.n.sg	3.ɴ.ꜱɢ	2		pronouns	Third person non-singular pronominal stem, unmarked for gender. If gendered forms are attested they should be added under separate concepts.	彼ら，彼女ら				သူတို့		they (3p)	
+370	cane..rattan	2497	RATTAN	cane (rattan)	cane	ᴄᴀɴᴇ	4		flora	Material from rattan palms which is used to create furniture.	籐	साँई		藤条	ကြံ၊ ကြိမ်		cane/rattan	
+371	cattle..domestic	1153	CATTLE	cattle (domestic)	cattle	ᴄᴀᴛᴛʟᴇ	4		fauna	Domesticated bovine animals, including cows, steers and bulls, raised and bred on a ranch or farm.	牛	गाय		家牛	အိမ်မွေးနွား			
+372	cave	1155	CAVE	cave	cave	ᴄᴀᴠᴇ	4			A large underground chamber or network of chambers.		गुफा		洞穴	ဂူ		cave (natural)	
+373	cheek	1730	CHEEK	cheek	cheek	ᴄʜᴇᴇᴋ	4		body parts	The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.	頬						cheek	
+374	chest	1592	CHEST	chest	chest	ᴄʜᴇꜱᴛ	4		body parts	The portion of the body from the base of the neck to the top of the abdomen; the thorax.	胸	छाती		胸部	ရင်ဘတ်		chest	
+375	chin	1510	CHIN	chin	chin	ᴄʜɪɴ	4			The bottom of the face, below the mouth.		ठुड्डी		下巴	မေးစေ့		chin	
+376	cloth	1616	CLOTH	cloth	cloth	ᴄʟᴏᴛʜ	4			A woven fabric such as used in dressing, decorating, cleaning or other practical use.	布	कपड़ा		布料	အထည်		cloth	
+377	corpse	767	CORPSE	corpse	corpse	ᴄᴏʀᴘꜱᴇ	4		body parts	A dead body.		शव		尸体	အလောင်း		corpse	
+378	cotton	1850	COTTON	cotton	cotton	ᴄᴏᴛᴛᴏɴ	4		flora	Fiber obtained from plants of the genus Gossypium, used in making fabrics, cordage, and padding and for producing artificial fibers and cellulose.	綿	कपास		棉花	ဝါဂွမ်း		cotton	
+379	crab	2348	CRAB	crab	crab	ᴄʀᴀʙ	4		fauna	Decapod crustaceans of the infraorder Brachyura, which typically have a very short projecting tail (abdomen) (Greek: βραχύς / brachys = short, οὐρά / οura = tail), usually entirely hidden under the thorax.	蟹	केकड़ा		螃蟹	ဂဏန်း		crab	
+38	3.sg	262	HE OR SHE OR IT	3 sg	3.sg	3.ꜱɢ	2		pronouns	Third person singular pronominal stem. This may in some cases also be one of the demonstrative stems, as is the case in much of Bodo-Garo.	彼，彼女							
+380	cricket	2354	CRICKET	cricket	cricket	ᴄʀɪᴄᴋᴇᴛ	4		fauna	An insect related to grasshoppers but smaller in size and known for its distinctive chirping sound.		क्रिकेट		蟋蟀	ခရစ်ကတ်		cricket	
+381	bow.:crossbow	3193	CROSSBOW	crossbow	crossbow	ᴄʀᴏꜱꜱʙᴏᴡ	4			A weapon based on the bow, consisting of a bow mounted on a stock.							crossbow	
+382	cup..traditional	476	CUP	cup (traditional)	cup	ᴄᴜᴘ	4			A concave vessel for holding liquid, generally adorned with either a handle or a stem.	椀	कप		杯子	ခွက်		cup	
+383	dawn..before.sunrise	729	DAWN	dawn (before sunrise)	dawn	ᴅᴀᴡɴ	4			A period of time at the beginning of the day shortly before sunrise during which the light gradually becomes stronger.	あけがた	भोर		黎明	အရုဏ်တက်		dawn (before sunrise)	
+384	deer..general	1936	DEER	deer (general)	deer	ᴅᴇᴇʀ	4		fauna	The common name for 41 species of even-toed ungulates that compose the family Cervidae in the order Artiodactyla; males have antlers.	鹿	हिरण		鹿	သမင်			
+385	descendants	490	DESCENDANTS	descendants	descendants	ᴅᴇꜱᴄᴇɴᴅᴀɴᴛꜱ	4		kinship	One who is the progeny of someone at any distance of time.								
+386	dew	1977	DEW	dew	dew	ᴅᴇᴡ	4			Atmospheric moisture that condenses after a warm day and appears during the night on cool surfaces as small drops.		बरखा		露水	နှင်းရည်			
+387	door::way	1567	DOOR	doorway	doorway	ᴅᴏᴏʀᴡᴀʏ	4	Mismatch with CONCEPTICON		An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	戸			门户	တံခါးပေါက်		door	
+388	drum	908	DRUM	drum	drum	ᴅʀᴜᴍ	4			A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.		ढोल		鼓	ဒရမ်တစ်ခု		drum (musical instrument)	
+389	duck	1360	DUCK	duck	duck	ᴅᴜᴄᴋ	4		fauna	An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	アヒル	बत्ख		鸭子	ဘဲ			
+39	ant..general	587	ANT	ant (general)	ant	ᴀɴᴛ	2			Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	蟻	चींटी	পিঁপিলিকা	蚂蚁	ပုရွက်ဆိတ်		ant	ant
+390	dusk..just.after.sunset	2297	DUSK	dusk (just after sunset)	dusk	ᴅᴜꜱᴋ	4			The darkest stage of twilight in the evening.		अंधेरा		黄昏	နေဝင်ရီတရော		dusk, twilight (after sunset)	
+391	dust	2	DUST	dust	dust	ᴅᴜꜱᴛ	4			Tiny particles of earth or other matter that settle on surfaces or are stirred up by movement.	埃	धूल		灰尘	ဖုန်မှုန့်		dust	
+392	ear::ring			earring	earring	ᴇᴀʀʀɪɴɢ	4											
+393	arm.:elbow	981	ELBOW	elbow	elbow	ᴇʟʙᴏᴡ	4		body parts	The joint between the forearm and the upper arm.	ひじ	कोहनी	কুহুনি	肘部	တံတောင်ဆစ်		elbow	
+394	brother:elder	1759	OLDER BROTHER	elder brother	elder.brother	ᴇʟᴅᴇʀ.ʙʀᴏᴛʜᴇʀ	4		kinship	A male with more years of age than one or more of his siblings.	兄	भाई		哥哥	အစ်ကိုအကြီး			
+395	elephant	1290	ELEPHANT	elephant	elephant	ᴇʟᴇᴘʜᴀɴᴛ	4		fauna	A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw. Elephants are the largest land animals now existing.	象	हाथी		大象	ဆင်		elephant	
+396	embers	67	EMBERS	embers	embers	ᴇᴍʙᴇʀꜱ	4			A small, glowing piece of coal or wood, as in a dying fire.								
+397	ereyesterday	1180	DAY BEFORE YESTERDAY	ereyesterday	ereyesterday	ᴇʀᴇʏᴇꜱᴛᴇʀᴅᴀʏ	4			The day before yesterday.	おととい	परसों		前天	မနေ့က		day before yesterday	
+398	evening	1629	EVENING	evening	evening	ᴇᴠᴇɴɪɴɢ	4			That part of the day in which daylight decreases and the night falls.	夕方	शाम		晚上	ညနေ			
+399	eye::brow	1173	EYEBROW	eyebrow	eyebrow	ᴇʏᴇʙʀᴏᴡ	4		body parts	The hair that grows over the bone ridge above the eye socket.	まゆげ	भौं		眉毛	မျက်ခုံးမွေး		eyebrow	
+4	bridge	1011	BRIDGE	bridge	bridge	ʙʀɪᴅɢᴇ	1			A structure that spans and provides a passage over a road, railway, river, or some other obstacle.	橋	पुल		桥	တံတား		bridge	
+40	ash	646	ASH	ash	ash	ᴀꜱʜ	2			The powdery incombustible residue left after the burning of a substance. Additional terms for different types of ash may be present, such as the stringy ash left over from burning dry bamboo. This concept is only for the most basic powdery type, but other forms should be documented as such.	灰	राख	বলি	灰烬	ပြာ			ashes
+400	eye::lid	17	EYELID	eyelid	eyelid	ᴇʏᴇʟɪᴅ	4		body parts	Either of two movable folds of skin that cover and uncover the eye, protecting it from injury, dust, and light.	まぶた	पलक		眼皮	မျက်ခွံ		eyelid	
+401	face	1560	FACE	face	face	ꜰᴀᴄᴇ	4		body parts	The front part of the head, featuring the eyes, nose, and mouth and the surrounding area.	顔	चेहरा		脸	မျက်နှာ		face	
+402	faeces..excrement	675	FAECES (EXCREMENT)	faeces (excrement)	faeces	ꜰᴀᴇᴄᴇꜱ	4			Substance that human and animal bodies release from time to time as a little pile of waste remaining from digestion, after it has been collected in the colon.	d						excrement	
+403	family..household	194	FAMILY	family (household)	family	ꜰᴀᴍɪʟʏ	4			A group comprising parents, offsprings and others closely related or associated with them.	家族	परिवार		家庭	မိသားစု		family	
+404	fence	1690	FENCE	fence	fence	ꜰᴇɴᴄᴇ	4			A barrier, railing, or other upright structure, typically of wood or wire, enclosing an area of land to mark a boundary, control access, or prevent escape.		बाड़		围栏	ခြံစည်းရိုး		fence (n)	
+405	firefly	206	FIREFLY	firefly	firefly	ꜰɪʀᴇꜰʟʏ	4		fauna	A nocturnal, bioluminescent beetle of the family Lampyridae.		जुगनू		萤火虫	ပိုးစုန်းကြူး			
+406	fire::place..hearth	185	FIREPLACE	fireplace (hearth)	fireplace	ꜰɪʀᴇᴘʟᴀᴄᴇ	4			The floor of a fireplace, usually made of brick or stone.		चूल्हा		炉灶	မီးဖို		fireplace	
+407	tongs:fireplace	272	TONGS	fireplace tongs	fireplace.tongs	ꜰɪʀᴇᴘʟᴀᴄᴇ.ᴛᴏɴɢꜱ	4			A tool consisting of two long arms with a pivot joint, used for gripping and lifting objects.		चिमटा (chimtaa)		钳子	မီးညှပ်များ			
+408	flea	232	FLEA	flea	flea	ꜰʟᴇᴀ	4		fauna	Any of the wingless insects composing the order Siphonaptera; most are ectoparasites of mammals and birds. (Source: MGH)	蚤	उम्मड़		跳蚤	လှေး၊		flea	
+409	leg.:foot	1301	FOOT	foot	foot	ꜰᴏᴏᴛ	4		body parts	The part of a human’s body below the ankle that is used in order to stand and walk.	足	पैर		脚	ခြေ			foot
+41	bamboo	1927	BAMBOO	bamboo	bamboo	ʙᴀᴍʙᴏᴏ	2		flora	A group of woody perennial evergreen plants in the true grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae.	竹	बांस	ভেতি	竹子	ဝါး		bamboo plant (large)	bamboo
+410	forest	420	FOREST	forest	forest	ꜰᴏʀᴇꜱᴛ	4			A vegetation community dominated by trees and other woody shrubs, growing close enough together that the tree tops touch or overlap, creating various degrees of shade on the forest floor.	森	जंगल		森林	တော၊ တော		jungle/forest	
+411	fox	1312	FOX	fox	fox	ꜰᴏx	4		fauna	A carnivorous relatively small canine of the species Vulpes Vulpes.	狐	लोमड़ी		狐狸	မြေခွေး			
+412	freckle	530	FRECKLE	freckle	freckle	ꜰʀᴇᴄᴋʟᴇ	4		body parts	A small brownish or reddish pigmentation spot on the surface of the skin.								
+413	moon:full	3690	FULL MOON	full moon	full.moon	ꜰᴜʟʟ.ᴍᴏᴏɴ	4			The lunar phase when the moon is fully illuminated by the sun and appears in the sky as a full circle.		पूर्णिमा		满月	လပြည့်		full moon	
+414	granary	3657	GRANARY	granary	granary	ɢʀᴀɴᴀʀʏ	4			A building for storing threshed grain.		अनाजखाना		粮仓	ကျီ		granary (to store rice)	
+415	gums	139	GUMS	gums	gums	ɢᴜᴍꜱ	4		body parts	The mucosal tissue that partly lies over the teeth in the mouth.		मुंह की मसूड़े		牙龈	သွားဖုံးများ		gums	
+416	housefly..common	1504	FLY (INSECT)	housefly (common)	housefly	ʜᴏᴜꜱᴇꜰʟʏ	4		fauna	A common insect; any species of insect of the order Diptera.	蝿	मक्खी		家蝇	ယင်ကောင်		fly	
+417	jaw	798	JAW	jaw	jaw	ᴊᴀᴡ	4		body parts	Either of the two opposable structures forming, or near the entrance to, the mouth.	あご	जबड़ा		下巴	မေးရိုး		jaw	
+418	leg.:knee	1371	KNEE	knee	knee	ᴋɴᴇᴇ	4		body parts	The joint between the thigh and the lower leg in humans.	ひざ	घुटना		膝盖	ဒူး		knee	
+419	market	633	MARKET	market	market	ᴍᴀʀᴋᴇᴛ	4			Place of commercial activity in which articles are bought and sold.	市場	बाजार		市场	စျေးကွက်		market (n)	
+42	bat..animal	1793	BAT	bat (animal)	bat	ʙᴀᴛ	2		fauna	A small, flying mammal in the order Chiroptera with wings consisting of skin stretched over a framework of bones, typically active at night.	蝙蝠	चमगादड़		蝙蝠	လင်းနို့		bat	
+420	menstruation			menstruation	menstruation	ᴍᴇɴꜱᴛʀᴜᴀᴛɪᴏɴ	4											
+421	monkey..general	1350	MONKEY	monkey (general)	monkey	ᴍᴏɴᴋᴇʏ	4		fauna	A mammal with a long tail, a small face, and usually hands and feet adapted for grasping and climbing.	猿	बंदर		猴子	မျောက်		monkey	monkey
+422	morning	1339	MORNING	morning	morning	ᴍᴏʀɴɪɴɢ	4			The period of time from the start of the day (midnight) until midday (12:00).	朝	सुबह		早上	မနက်ခင်း		mourning	
+423	morung..dormitory			morung (dormitory)	morung	ᴍᴏʀᴜɴɢ	4											
+424	mosquito	1509	MOSQUITO	mosquito	mosquito	ᴍᴏꜱꞯᴜɪᴛᴏ	4		fauna	A small flying insect (of the family Culicidae) known for biting and sucking blood.	蚊	मच्छर		蚊子	ခြင်		mosquito	
+425	necklace	1961	NECKLACE	necklace	necklace	ɴᴇᴄᴋʟᴀᴄᴇ	4			An article of jewelry that is worn around the neck.		हार		项链	လည်ဆွဲ		necklace	
+426	moon:new	3691	NEW MOON	new moon	new.moon	ɴᴇᴡ.ᴍᴏᴏɴ	4			The lunar phase when the moon appears in the sky as a slender crescent shortly after its conjunction with the sun.		जमीन		地面	မြေပြင်		new moon	
+427	poison..general	655	POISON	poison (general)	poison	ᴘᴏɪꜱᴏɴ	4											
+428	porcupine	2510	PORCUPINE	porcupine	porcupine	ᴘᴏʀᴄᴜᴘɪɴᴇ	4		fauna	Rodents with a coat of sharp spines, or quills, that protect against predators.		शहरा		豪猪	ဖြူကောင်		porcupine	
+429	rib..bone	801	RIB	rib (bone)	rib	ʀɪʙ	4		body parts	One of the long curved bones which form the rib cage.	肋骨	पसली		肋骨	နံရိုး		rib	
+43	bird..general.term	937	BIRD	bird (general term)	bird	ʙɪʀᴅ	2		fauna	Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	鳥	पक्षी		鸟	ငှက်၊ ယေဘူယျ		bird	bird
+430	roof..of.building	769	ROOF	roof (of building)	roof	ʀᴏᴏꜰ	4			The upper covering of a building or vehicle, typically supported by a framework.	屋根	छत		屋顶	အိမ်ခေါင်မိုး		roof	
+431	arm.:shoulder	1482	SHOULDER	shoulder	shoulder	ꜱʜᴏᴜʟᴅᴇʀ	4		body parts	The joint connecting the upper arm and the torso, especially the top or outermost part.	肩	कंधा		肩膀	ပခုံး		shoulder	
+432	son	1620	SON	son	son	ꜱᴏɴ	4		kinship	One's male child.	息子	बेटा		儿子	သား		son	child/son
+433	spicy..of.chilis	544	SPICY	spicy (of chilis)	spicy	ꜱᴘɪᴄʏ	4			Provoking a burning sensation due to the presence of chillies or similar hot spices.	苦い	मसालेदार		辣	ငရုတ်သီးမှအစပ်		to be spicy	
+434	taro..kochu	351	TARO	taro (kochu)	taro	ᴛᴀʀᴏ	4			A starchy root vegetable commonly used in cooking. This should be distinguished from other starchy roots used as a foodstuff.	さといも	अरबी		芋头	ပိန်းဥ		cocoyam, taro	
+435	tattoo	68	TATTOO	tattoo	tattoo	ᴛᴀᴛᴛᴏᴏ	4		body parts	A marking made by inserting ink into the layers of skin to change the pigment permanently for decorative or other reasons.		गोदना		纹身	တက်တူး		tattoo(s)	
+436	tea..beverage	1373	TEA	tea (beverage)	tea	ᴛᴇᴀ	4		flora	A hot drink made by infusing dried leaves of the tea plant in boiling water. This should be the general category of drinks and not marked for the specific preparation of the tea leaves. A native or near native term is expected for all languages in the region. .	茶（飲料）	चाय		茶	လက်ဖက်ရည်		tea	
+437	thief	1160	THIEF	thief	thief	ᴛʜɪᴇꜰ	4			Someone who takes property belonging to someone else with the intention of keeping it or selling it.		चोर		小偷	သူခိုး		thief	
+438	angry:to.be	1826	ANGRY	to be angry	angry	ᴀɴɢʀʏ	4			Feeling or showing strong annoyance, displeasure, or hostility, usually toward someone or some thing.	怒る	गुस्सा	ৰাগী	生气	စိတ်ဆိုး		to be angry	
+439	bad:to.be	1292	BAD	to be bad	bad	ʙᴀᴅ	4			Not good; unfavorable; negative.	悪い	बुरा होना	খৰাপ	不好	မကောင်းဘူး။		to be bad	
+44	bone	1394	BONE	bone	bone	ʙᴏɴᴇ	2		body parts	Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.	骨	हड्डी		骨头	အရိုး		bone	bone
+440	below..under:to.be	1485	BELOW OR UNDER	to be below (under)	below	ʙᴇʟᴏᴡ	4			Situated in a lower place than something else.		नीचे		下面	အောက်၊ အောက်			
+441	dirty:to.be	1230	DIRTY	to be dirty	dirty	ᴅɪʀᴛʏ	4			Covered with or containing unpleasant substances such as dirt or grime.	汚い	गंदा होना		脏	ညစ်ပတ်တယ်။		to be dirty (clothes)	
+442	drunk:to.be	1463	DRUNK	to be drunk	drunk	ᴅʀᴜɴᴋ	4			Being in a temporary state in which one's physical and mental faculties are impaired due to excessive consumption of alcohol.	酒に酔う	नशेड़ा		醉	မူးသည်၊ မူးသည်။		to be drunk (alcohol)	
+443	dry:to.be	1398	DRY	to be dry	dry	ᴅʀʏ	4			To be lacking any discernable moisture.	乾いた	सुखाना		干	ခြောက်သွေ့ရန်		to be dry (rice)	
+444	easy:to.be	686	EASY	to be easy	easy	ᴇᴀꜱʏ	4			Requiring little skill or effort; posing no difficulty.	易しい	आसान होना		容易	လွယ်ကူစေရန်		to be easy	
+445	empty:to.be	1624	EMPTY	to be empty	empty	ᴇᴍᴘᴛʏ	4			To have nothing inside or to not be occupied by anyone or anything.	空っぽの	खाली होना		空	ဗလာဖြစ်		(be) empty	
+446	fast:to.be	1631	FAST	to be fast	fast	ꜰᴀꜱᴛ	4			Occurring or happening within a short time.	速い	तेज		快	မြန်တယ်၊ မြန်တယ်။		to be fast	
+447	few..in.number:to.be	1242	FEW	to be few (in number)	few	ꜰᴇᴡ	4			A small number of, not many.	少ない	कुछ		少	အနည်းငယ်ဖြစ်ရန်		to be few (people)	
+448	good:to.be	1035	GOOD	to be good	good	ɢᴏᴏᴅ	4			To be morally right or virtuous.	良い	अच्छा होना		好	ကောင်းဖို့		to be good	
+449	hard..firm:to.be	1884	HARD	to be hard (firm)	hard	ʜᴀʀᴅ	4			Resistant to pressure, not easily broken, bent, or pierced.	固い	कठोर होना		硬	ပျော့ပျောင်းသည်မဟုတ်။		to be hard (rock)	
+45	alcohol:brewed	404	ALCOHOL (FERMENTED DRINK)	brewed alcohol	brewed.alcohol	ʙʀᴇᴡᴇᴅ.ᴀʟᴄᴏʜᴏʟ	2			A fermented drink is a beverage containing alcohol because of a metabolic process that converts sugar to acids, gases and/or alcohol (e.g. beer or wine).		सुराही दार शराब	জলকীয় দ্রব	酿造酒	အရက်ချက်			
+450	late:to.be	477	LATE	to be late	late	ʟᴀᴛᴇ	4			Occurring or arriving after the expected or usual time, or toward the end of a time period.		शाम होना		傍晚	နေ့ဘက်နောက်ကျမည်။		late	
+451	lost:to.be	3667	LOST	to be lost	lost	ʟᴏꜱᴛ	4			Not knowing where you are and unable to find the way.							(be) lost	
+452	many:to.be	1198	MANY	to be many	many	ᴍᴀɴʏ	4			An indefinite large number of.	多い	बहुत		许多	အများကြီး			
+453	narrow:to.be	1267	NARROW	to be narrow	narrow	ɴᴀʀʀᴏᴡ	4			Not wide, having little width or space between two sides or edges.	狭い	संकुचित होना		狭窄	ကျဉ်းမြောင်းသည်။		to be narrow	
+454	shallow:to.be	193	SHALLOW	to be shallow	shallow	ꜱʜᴀʟʟᴏᴡ	4			Having little depth, or being close to the surface of something.	浅い	कम गहराई वाला		浅的	တိမ်		to be shallow	
+455	straight:to.be	1404	STRAIGHT	to be straight	straight	ꜱᴛʀᴀɪɢʜᴛ	4			Not crooked or bent; having a constant direction throughout its length.	まっすぐな	सीधा होना		直	ဖြောင့်ဖို့		to be straight (road)	
+456	thin..people:to.be	1400	THIN (SLIM)	to be thin (people)	thin	ᴛʜɪɴ	4			Carrying little fat (of people).	やせた, 痩せた	पतला होना		瘦	ပိန်ဖို့၊ ပိန်တယ်။		to be skinny (person)	
+457	thirsty:to.be	3474	BE THIRSTY	to be thirsty	thirsty	ᴛʜɪʀꜱᴛʏ	4			To suffer from thirst; to have a craving to drink, which is often accompanied by the feeling of dryness in the mouth and throat.	喉がかわいた	प्यासा होना		渴	ရေငတ်ဖို့၊			
+458	wet:to.be	1726	WET	to be wet	wet	ᴡᴇᴛ	4			To be covered or soaked with water or other liquids.	濡れた	गीला होना		湿的	စိုစွတ်ဖို့		to be wet (with water)	
+459	beg:to	3534	BEG	to beg	beg	ʙᴇɢ	4			To ask for something, typically money or food, as charity or as a favor. This may be either due to need through poverty, or as an act of religious devotion such as among Buddhist monks.		भिख मांगना		乞讨	တောင်းရမ်းရန်		beg (for money)	
+46	chili.pepper	919	CHILI PEPPER	chili pepper	chili.pepper	ᴄʜɪʟɪ.ᴘᴇᴘᴘᴇʀ	2		flora	Any fruit of a plant of the botanical genus Capsicum, noted for their spicy and burning flavour due to presence of capsaicin.	唐辛子	मिर्च		辣椒	ငရုတ်သီးမှုန့်		red pepper	
+460	blow..wind:to	175	BLOW (OF WIND)	to blow (wind)	blow	ʙʟᴏᴡ	4			(Of the wind or a current of air) To move.	吹く	उड़ाना		吹	လေတိုက်ခြင်း၊		blow (of wind) (v)	
+461	break..something:to	3020	BREAK (BREAKING)	to break (something)	break	ʙʀᴇᴀᴋ	4			To come apart or split into pieces (intransitive).	壊す	तोड़ना		打破	ချိုးရန်			
+462	bring:to	692	BRING	to bring	bring	ʙʀɪɴɢ	4			To transport toward somewhere; to take something or somebody with oneself somewhere.	持って来る	लाना		带来	ယူလာရန်			
+463	bury..deceased:to			to bury (deceased)	bury	ʙᴜʀʏ	4				埋葬する							
+464	bury..object:to	1719	BURY	to bury (object)	bury	ʙᴜʀʏ	4			To put in the ground and cover with earth.	埋葬する	दफ़नाना		埋	သင်္ဂြိုဟ်ရန်		to bury (a corpse)	
+465	chew:to	321	CHEW	to chew	chew	ᴄʜᴇᴡ	4			To crush with the teeth by repeated closing and opening of the jaws; done to food to soften it and break it down by the action of saliva before it is swallowed.	噛む	चबाना		咀嚼	ဝါးရန်		chew	
+466	close..tr:to	–	–	to close (tr)	close	ᴄʟᴏꜱᴇ	4			To shut or cover the entrance or opening of something, preventing access or exit.	閉める	बंद करना		关闭	ပိတ်ရန်			
+467	come.back..return:to	581	COME BACK	to come back (return)	come.back	ᴄᴏᴍᴇ.ʙᴀᴄᴋ	4			To go there where one was before.	帰る・戻る	लौटना		回来	ပြန်လာရန် သို့မဟုတ် ပြန်လာရန်			
+468	cover:to	761	COVER	to cover	cover	ᴄᴏᴠᴇʀ	4			To place something over or upon to conceal or protect.	かぶせる	ढकना		盖	ဖုံးအုပ်ရန်		cover (v)	
+469	dance:to	1879	DANCE	to dance	dance	ᴅᴀɴᴄᴇ	4			To move with rhythmic steps or movements, especially in time to music.	踊る	नाचना		跳舞	ကခုန်ဖို့			
+47	cloud..rain	1489	CLOUD	cloud (rain)	cloud	ᴄʟᴏᴜᴅ	2			A visible mass of condensed water vapor floating in the atmosphere, typically high above the ground.	雲	बादल		云	တိမ်တိုက်		cloud (rain)	cloud
+470	desire..want:to	2117	DESIRE	to desire (want)	desire	ᴅᴇꜱɪʀᴇ	4			To want to do something, to wish for something to happen, or to have affection for someone.		इच्छा करना		渴望	ဆန္ဒရှိရန်			
+471	embrace..hug:to	928	EMBRACE	to embrace (hug)	embrace	ᴇᴍʙʀᴀᴄᴇ	4			To hold someone tightly in one's arms as a sign of affection or support.		गले लगाना		拥抱	ထွေးပွေ့ရန်		embrace, hug (v)	
+472	enter:to	749	ENTER	to enter	enter	ᴇɴᴛᴇʀ	4		verbs	To come or go into a place, such as a building or room.	入る	अंदर जाना		进入	ဝင်ရန်		to enter (house)	
+473	flood:to	–	–	to flood	flood	ꜰʟᴏᴏᴅ	4			A large amount of water covering an area that is usually dry, due to high amounts of rain or snow runoff.		बाढ़		洪水	ရေလွှမ်းမိုး			
+474	flow..of.water:to	2003	FLOW	to flow (of water)	flow	ꜰʟᴏᴡ	4			To move as a fluid from one position to another (e.g. of water or of people).		बहना		流	စီးဆင်းရန်၊ ရေ		to flow (river)	
+475	fold:to	1470	FOLD	to fold	fold	ꜰᴏʟᴅ	4			To bend a thin material (such as paper) over so that it comes in contact with itself.	折る	मोड़ना		折叠	ခေါက်ရန်၊ အထည်		fold (v)	
+476	hang..something:to	2884	HANG	to hang (something)	hang	ʜᴀɴɢ	4			Remain suspended to some point above.	掛ける	लटकना		悬挂	ဆွဲထားရန်			
+477	ignite..something:to	737	LIGHT (IGNITE)	to ignite (something)	ignite	ɪɢɴɪᴛᴇ	4			To start a fire or light a flame.	火をつける	जलना		点燃	မီးလောင်ရန်		light (fire) (v)	
+478	lose..something:to	–	–	to lose (something)	lose	ʟᴏꜱᴇ	4			To be unable to find something; To be deprived of something which one once had.	失う	हारना		丢失	ဆုံးရှုံးရန်			
+479	mix:to	2017	MIX	to mix	mix	ᴍɪx	4				混ぜる						mix (v)	
+48	rice:cooked	1191	COOKED RICE	cooked rice	cooked.rice	ᴄᴏᴏᴋᴇᴅ.ʀɪᴄᴇ	2		rice	Rice that has been prepared by boiling or steaming until it is soft and edible.	ご飯	भात		熟饭	ထမင်း		cooked rice	rice (cooked)
+480	peel:to	275	PEEL	to peel	peel	ᴘᴇᴇʟ	4			To remove the outer layer or skin of something.	剥く	छिलना		剥皮	အခွံချွတ်ရန်		peel (v)	
+481	pound..of.rice:to	354	POUND	to pound (of rice)	pound	ᴘᴏᴜɴᴅ	4			To break into small pieces or powder by applying force with a tool, or to reduce something to small particles by rubbing it against a rough or hard surface.	搗く	पीसना		磨碎	ကြိတ်ဖို့၊			
+482	pour:to	1487	POUR	to pour	pour	ᴘᴏᴜʀ	4			To cause a liquid to flow out from a container.	注ぐ	डालना		倒	လောင်းရန်		pour	
+483	pull:to	1455	PULL	to pull	pull	ᴘᴜʟʟ	4			To apply a force to (an object), in order that it moves towards the origin of the force that was applied.	ひっぱる	खींचना		拉	ဆွဲရန်		to pull	
+484	push:to	1452	PUSH	to push	push	ᴘᴜꜱʜ	4			To apply a force to (an object), in order that it moves away from the origin of the force that was applied.	押す	धक्का देना		推	တွန်းရန်			
+485	rule..lead:to	43	LEAD (GUIDE)	to rule (lead)	rule	ʀᴜʟᴇ	4			To guide by moving in front.		सीसा		铅	ခဲ ( Plumbum )		lead, guide (v)	
+486	sharpen..edge:to			to sharpen (edge)	sharpen	ꜱʜᴀʀᴘᴇɴ	4											
+487	smell.bad:to	–	–	to smell bad	smell.bad	ꜱᴍᴇʟʟ.ʙᴀᴅ	4			To emit an unpleasant odor or stench.				臭	အနံ့ဆိုးဖို့			
+488	smell.good..fragrant:to	–	–	to smell good (fragrant)	smell.good	ꜱᴍᴇʟʟ.ɢᴏᴏᴅ	4			To emit a pleasant or desirable odor or fragrance.		सुगंधित होना		香	အနံ့ကောင်းဖို့			
+489	step:to	2065	STEP (VERB)	to step	step	ꜱᴛᴇᴘ	4			To move the foot in walking; to advance or recede by raising and moving one of the feet to another resting place, or by moving both feet in succession.		कदम रखना		迈步	ခြေတစ်လှမ်းယူရန်		step (v)	
+49	pot:cooking	1462	POT	cooking pot	cooking.pot	ᴄᴏᴏᴋɪɴɢ.ᴘᴏᴛ	2			A vessel used for cooking or storing food or liquids.	つぼ	पतीला		烹饪锅	ဟင်းချက်အိုး			
+490	stick..glue:to			to stick (glue)	stick	ꜱᴛɪᴄᴋ	4											
+491	suck:to	1421	SUCK	to suck	suck	ꜱᴜᴄᴋ	4			To draw in a substance by creating a practical vacuum in the mouth, and as a result a difference in pressure.	吸う	चूसना		吸	စုတ်ဖို့		to suck (milk)	
+492	swallow:to	897	SWALLOW	to swallow	swallow	ꜱᴡᴀʟʟᴏᴡ	4			The reflex in the human body that makes something pass from the mouth to the pharynx and into the esophagus, with the shutting of the epiglottis.		निगलना		吞	မျိုချရန်			
+493	swell:to	1573	SWELL	to swell	swell	ꜱᴡᴇʟʟ	4			To become larger in size or volume, usually due to pressure or inflammation.	ふくらむ	सूजना		肿	ဖောရောင်ရန်		swell (intr)	
+494	throw:to	1456	THROW	to throw	throw	ᴛʜʀᴏᴡ	4			To cause (an object) to move rapidly through the air, with the force of the hand or arm.	投げる	फेंकना (phenkna)		扔	ပစ်ရန်			
+495	twist:to	3236	TWIST (TOGETHER)	to twist	twist	ᴛᴡɪꜱᴛ	4			To wind several things around each other (e.g. in order to form a rope or thread).		घुमाना		扭转	လိမ်ဖို့			
+496	wide..broad:to.ve	1243	WIDE	to ve wide (broad)	ve.wide	ᴠᴇ.ᴡɪᴅᴇ	4			Having a large distance from one side to another, often relative to the object's length or size.	広い	चौड़ा		宽的	ကျယ်သည်ဖြစ်စေ ကျယ်သည်		to be wide/broad	
+497	wash.face:to	–	–	to wash face	wash.face	ᴡᴀꜱʜ.ꜰᴀᴄᴇ	4			To use water and clean one's face. This is often a distinct verb from other forms of wash.								
+498	wash.hair:to			to wash hair	wash.hair	ᴡᴀꜱʜ.ʜᴀɪʀ	4											
+499	wipe:to	1454	WIPE	to wipe	wipe	ᴡɪᴘᴇ	4			To move an object or utensil over a surface or other object while maintaining contact, in order that a substance be removed from its surface.	拭く	पोंछना		擦	သုတ်ရန်			
+5	eye	1248	EYE	eye	eye	ᴇʏᴇ	1		body parts	The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals and humans see.	目	आँख		眼睛	မျက်လုံး		eye	eye
+50	0008.:eight	1705	EIGHT	eight	eight	ᴇɪɢʜᴛ	2		numbers	The natural number eight (8). // It should not include a numeral classifier, but instead be only the bare numeral.	八	आठ	আঠ	八	ရှစ်		weight	eight
+500	tongs..general	272	TONGS	tongs (general)	tongs	ᴛᴏɴɢꜱ	4			In need of some rest or sleep, due to lack of sleep or as a result of hard work or physical activity.		थका देना (thaka dena)		累	တာယာ			
+501	vein..artery			vein (artery)	vein	ᴠᴇɪɴ	4											
+502	wall	3830	WALL	wall	wall	ᴡᴀʟʟ	4			A structure built to enclose or divide an area, usually made of brick or stone, but potentially other materials as well. This should be distinct from a fence.	壁	दीवार		墙	နံရံ			
+503	q.:when	1238	WHEN	when	when	ᴡʜᴇɴ	4				いつ						when (future)	
+504	winter..cold.season	1471	WINTER	winter (cold season)	winter	ᴡɪɴᴛᴇʀ	4			The coldest season of the year, between autumn and spring.	冬	सर्दी		冬天	ဆောင်းရာသီ			
+505	arm.:wrist	799	WRIST	wrist	wrist	ᴡʀɪꜱᴛ	4		body parts	The joint connecting the hand and the forearm. This will typically be a compund involving the general hand/arm stem, and is likely to be entirely distinct from the term for elbow.	手首	कलाई का जोड़ा	কলাই	手腕	လက်ကောက်ဝတ်		wrist	
+51	father	1217	FATHER	father	father	ꜰᴀᴛʜᴇʀ	2			A male parent.	父	पिता		父亲	အဖေ		father	
+52	finger	1303	FINGER	finger	finger	ꜰɪɴɢᴇʀ	2		body parts	One of the long extremities of the hand that is used for gripping objects.	指	उंगली	আঙুল	手指	လက်ညှိုး		finger	finger/toe
+53	0005.:five	493	FIVE	five	five	ꜰɪᴠᴇ	2		numbers	The default numeral for five (5). It should not include a numeral classifier, but instead be only the bare numeral.	五	पांच	পাঁচ	五	ငါး		five (persons)	five
+54	0004.:four	1500	FOUR	four	four	ꜰᴏᴜʀ	2		numbers	The default numeral for four (4). It should not include a numeral classifier, but instead be only the bare numeral.	四	चार	চাৰি	四	လေး		four (persons)	four
+55	heart	1223	HEART	heart	heart	ʜᴇᴀʀᴛ	2		body parts	A muscular organ that pumps blood through the body.	心臓	दिल		心脏	နှလုံး		heart	heart
+56	horn..of.animal	1393	HORN (ANATOMY)	horn (of animal)	horn	ʜᴏʀɴ	2		body parts	A hard growth of keratin that protrudes from the top of the head of certain animals.	角	सींग		角	ဦးချို		horn (of buffalo)	horn
+57	iron	621	IRON	iron	iron	ɪʀᴏɴ	2			A malleable ductile silvery-white ferromagnetic metallic element with symbol Fe and atomic number 26, occurring principally in haematite and magnetite. It is widely used for structural and engineering purposes.	鉄	लोहा		铁	သံ		iron	iron
+58	leg..lower.limb	2098	FOOT OR LEG	leg (lower limb)	leg	ʟᴇɢ	2											
+59	0009.:nine	1483	NINE	nine	nine	ɴɪɴᴇ	2		numbers	The default numeral for nine (9). It should not include a numeral classifier, but instead be only the bare numeral.	九	नौ	নৱ	九	ကိုး		nine (persons)	nine
+6	fire	221	FIRE	fire	fire	ꜰɪʀᴇ	1			The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	火	आग		火	မီး		fire	fire
+60	nose	1221	NOSE	nose	nose	ɴᴏꜱᴇ	2		body parts	The organ of the face used to breath and smell.	鼻	नाक		鼻子	နှာခေါင်း		nose	nose
+61	0001.:one	1493	ONE	one	one	ᴏɴᴇ	2		numbers	The default numeral for one (1). // It should not include a numeral classifier, but instead be only the bare numeral.	一	एक	এক	一	တစ်		one (person)	one
+62	pig..general	1337	PIG	pig (general)	pig	ᴘɪɢ	2		fauna	A common, four-legged animal (Sus scrofa) that has cloven hooves, bristles and a nose adapted for digging and is farmed by humans for its meat.	豚	सूअर		猪	ဝက်		pig	pig
+63	rain	1253	RAIN (RAINING)	rain	rain	ʀᴀɪɴ	2				雨							
+64	river	666	RIVER	river	river	ʀɪᴠᴇʀ	2			A stream of water which flows in a channel from high ground to low ground and ultimately to a lake or the sea, except in a desert area where it may dwindle away to nothing.	川	नदी		河流	မြစ်		driver	river/valley
+65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.	根	जड़		根	အမြစ်		root (tree)	root
+66	seed	714	SEED	seed	seed	ꜱᴇᴇᴅ	2		flora	A mature fertilized plant ovule, consisting of an embryo and its food store surrounded by a protective seed coat (testa).	種	बीज		种子	မျိုးစေ့		seed (tree)	
+67	0007.:seven	1704	SEVEN	seven	seven	ꜱᴇᴠᴇɴ	2		numbers	The natural number seven (7). // It should not include a numeral classifier, but instead be only the bare numeral.	七	सात	সাত	七	ခုနှစ်		seven (persons)	seven
+68	0006.:six	1703	SIX	six	six	ꜱɪx	2		numbers	The natural number six (6). // It should not include a numeral classifier, but instead be only the bare numeral.	六	छह	ছয়	六	ခြောက်ခဲ့သည်		six (persons)	six
+69	skin	763	SKIN	skin	skin	ꜱᴋɪɴ	2		body parts	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	皮膚	त्वचा		皮肤	အရေပြား		skin	skin/bark
+7	flower	239	FLOWER	flower	flower	ꜰʟᴏᴡᴇʀ	1		flora	The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	花	फूल		花	ပန်း		flower	flower
+70	smoke	778	SMOKE (EXHAUST)	smoke	smoke	ꜱᴍᴏᴋᴇ	2			An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	煙	धुआं		烟	မီးခိုး			smoke
+71	spear	945	SPEAR	spear	spear	ꜱᴘᴇᴀʀ	2			a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.	槍	भाला		矛	လှံ		spear	
+72	star	1430	STAR	star	star	ꜱᴛᴀʀ	2			A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	星	तारा		星星	ကြယ်ပွင့်		star	star
+73	stone	857	STONE	stone	stone	ꜱᴛᴏɴᴇ	2			A hard, naturally occurring mineral material often used for building, sculpture, or paving.	石	पत्थर		石头	ကျောက်		stone	stone
+74	tail	1220	TAIL	tail	tail	ᴛᴀɪʟ	2		body parts	The appendage of an animal that is attached to its posterior and near the anus.	尻尾	पूंछ		尾巴	အမြီး		tail	tail
+75	leech:terrestrial	2273	LEECH	terrestrial leech	terrestrial.leech	ᴛᴇʀʀᴇꜱᴛʀɪᴀʟ.ʟᴇᴇᴄʜ	2		fauna	Segmented worms that belong to the phylum Annelida and comprise the subclass Hirudinea.	蛭	ज़मीनी जुएँ		陆寄生	ကုန်းနေ မျှော့		land leech	leech
+76	0003.:three	492	THREE	three	three	ᴛʜʀᴇᴇ	2		numbers	The natural number three (3). // It should not include a numeral classifier, but instead be only the bare numeral.	三	तीन	তিনি	三	သုံး		three (persons)	three
+77	thunder	1150	THUNDER	thunder	thunder	ᴛʜᴜɴᴅᴇʀ	2			The large booming sound in the sky during storms, as caused by lightning heating the air around it to a very high temperature, causing it to rapidly expand and contract.	雷	गरज (garaj)		雷	မိုးကြိုး		thunder	
+78	tiger	846	TIGER	tiger	tiger	ᴛɪɢᴇʀ	2		fauna	Panthera tigris. A large, carnivorous feline with distinctive orange and black stripes. This concept may be understood by speakers as any large cat belonging to the genus Panthera, so care must be taken to avoid ambiguity.	虎	बाघ		老虎	ကျား		tiger	
+79	heavy:to.be	1210	HEAVY	to be heavy	heavy	ʜᴇᴀᴠʏ	2			Of a physical object, having great weight.	重い	भारी होना		重	လေးလံဖို့၊		to be heavy	heavy
+8	fruit	1507	FRUIT	fruit	fruit	ꜰʀᴜɪᴛ	1		flora	The sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food.	実	फल		水果	အသီး		fruit (tree)	fruit
+80	lightweight:to.be	1052	LIGHT (WEIGHT)	to be lightweight	lightweight	ʟɪɢʜᴛᴡᴇɪɢʜᴛ	2			With a small mass, little weight or density; the opposite of heavy.	軽い	हल्का होना		轻巧	ပေါ့ပါးစေရန်		to be light	lightweight
+81	ripe:to.be	178	RIPE	to be ripe	ripe	ʀɪᴘᴇ	2			To be fully developed or mature, and ready to be eaten or used.	熟する	पकना		成熟	မှည့်ရန်		to be ripe	ripe/well-cooked
+82	short..length:to.be	1645	SHORT	to be short (length)	short	ꜱʜᴏʀᴛ	2			Small in length by comparison.	短い	छोटा होना		短	အတိုအရှည်ဖြစ်ရမည်။		to be short (length)	
+83	unripe:to.be	1958	UNRIPE	to be unripe	unripe	ᴜɴʀɪᴘᴇ	2			Of a fruit or vegetable that has not yet fully developed.		अपका		未熟的	မမှည့်သော		(be) unripe	
+84	die:to	1494	DIE	to die	die	ᴅɪᴇ	2			To cease to live.	死ぬ	मरना		死	သေဖို့			die
+85	dig:to	1418	DIG	to dig	dig	ᴅɪɢ	2			To move earth, rocks, etc. out of the way, usually to create a hole.	掘る	खोदना		挖	တူးရန်		to dig (with a tool)	dig
+86	dream:to	1920	DREAM (SOMETHING)	to dream	dream	ᴅʀᴇᴀᴍ	2			To experience a series of images, thoughts, and sensations during sleep, often accompanied by emotions and creating a sense of reality.	夢を見る	सपना देखना		做梦	အိပ်မက်မက်ဖို့			dream
+87	fly:to	1441	FLY (MOVE THROUGH AIR)	to fly	fly	ꜰʟʏ	2			To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	飛ぶ	उड़ना		飞	ပျံသန်းရန်			fly
+88	give:to	1447	GIVE	to give	give	ɢɪᴠᴇ	2			To transfer the possession or holding (of an object) to another person.	与える	देना		给	ပေးရန်			give
+89	shoot..arrow:to	1172	SHOOT	to shoot (arrow)	shoot	ꜱʜᴏᴏᴛ	2			To fire a shot from a firearm, bow or other weapon.	撃つ	गोली चलाना		射击	ပစ်ရန်		to shoot (gun)	shoot
+9	head	1256	HEAD	head	head	ʜᴇᴀᴅ	1		body parts	The part of the body of an animal or human which contains the brain, mouth and main sense organs.	頭	सिर		头	ခေါင်း		head	head
+90	sit:to	1416	SIT	to sit	sit	ꜱɪᴛ	2			To be in a position with the upper body upright and the legs resting.	座る	बैठना		坐	ထိုင်ရန်		(be) seated	sit
+91	stand..in.place:to	1442	STAND	to stand (in place)	stand	ꜱᴛᴀɴᴅ	2			To assume an upright position on one's feet, often with the intention of remaining stationary for a period of time.	立つ	खड़े रहना		站	ရပ်တည်ရန်		to stand (remain)	stand
+92	vomit:to	1278	VOMIT	to vomit	vomit	ᴠᴏᴍɪᴛ	2			To forcefully expel the contents of one's stomach through the mouth, often as a result of illness or the ingestion of harmful substances.	吐く	उल्टी करना		呕吐	အော့အန်ခြင်း။			vomit
+93	walk:to	1443	WALK	to walk	walk	ᴡᴀʟᴋ	2			To move from one place to another by moving legs alternately, so that at least one foot is in contact with the floor or surface at any one time.	歩く	चलना		走路	လမ်းလျှောက်ရန်		to walk	
+94	weave..fabric:to	133	WEAVE	to weave (fabric)	weave	ᴡᴇᴀᴠᴇ	2			To create a fabric by interlacing threads.	織る	बुनना		编织	ရက်ကန်း		to weave (cloth)	weave
+95	tomorrow	1329	TOMORROW	tomorrow	tomorrow	ᴛᴏᴍᴏʀʀᴏᴡ	2			The day after the present day.	明日	कल (kal)		明天	မနက်ဖြန်		tomorrow	
+96	tongue	1205	TONGUE	tongue	tongue	ᴛᴏɴɢᴜᴇ	2		body parts	The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	舌	जीभ (jibh)		舌头	လျှာ		tongue	tongue
+97	0002.:two	1498	TWO	two	two	ᴛᴡᴏ	2		numbers	The natural number two (2). // It should not include a numeral classifier, but instead be only the bare numeral.	二	दो	দুই	二	နှစ်		two (persons)	two
+98	wind	960	WIND	wind	wind	ᴡɪɴᴅ	2			The natural movement of the air, especially in the form of a current blowing from a particular direction.	風	हवा		风	လေ		wind	wind
+99	wing	1257	WING	wing	wing	ᴡɪɴɢ	3		body parts	The appendage of a bird or insect used for flying or gliding, typically consisting of a thin, lightweight membrane stretched over a framework of bones or cartilage.	翼	पंख		翅膀	တောင်ပံ		wing	wing
