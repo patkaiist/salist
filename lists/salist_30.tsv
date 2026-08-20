@@ -1,31 +1,31 @@
 slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment	category	definition	japanese	hindi	assamese	mandarin	burmese	nagamese	SILCAWL	CALMSEA
-19	0010.:ten	1515	TEN	ten	ten	ᴛᴇɴ	1		numbers	The number that comes after nine and before eleven.	十	दस	দহ	十	ဆယ်		ten (persons)	ten
-1	arm..upper.limb	2121	ARM OR HAND	arm (upper limb)	arm	ᴀʀᴍ	1		body parts	The entire upper limb of the human body, extending from the shoulder to the wrist.	腕	बांह	বাঁহ		လက်			hand/arm
+19	0010.:ten	1515	TEN	ten	ten	ᴛᴇɴ	1		numbers	The number that comes after nine and before eleven.	十	दस	দহ	十	တစ်ဆယ်		ten (persons)	ten
+1	arm..upper.limb	2121	ARM OR HAND	arm (upper limb)	arm	ᴀʀᴍ	1		body parts	The entire upper limb of the human body, extending from the shoulder to the wrist.	腕	बांह	বাঁহ	手臂	လက်မောင်း			hand/arm
 2	bee..general	665	BEE	bee (general)	bee	ʙᴇᴇ	1		fauna	A flying insect that produces honey and lives in a colony or hive.	蜂	मधुमक्खी		蜜蜂	ပျား		bee	bee
 3	blood	946	BLOOD	blood	blood	ʙʟᴏᴏᴅ	1		body parts	The red liquid that flows through the veins and arteries of a human or animal body.	血	रक्त		血液	သွေး		blood	blood
-4	bridge	1011	BRIDGE	bridge	bridge	ʙʀɪᴅɢᴇ	1			A structure built over a river, road, or gap to allow people or vehicles to cross from one side to the other.	橋	पुल		桥	တံတား		bridge	
-21	colour.:black:to.be	163	BLACK	to be black	black	ʙʟᴀᴄᴋ	1			To have a color that is the darkest possible, such as the color of coal or night.	黒い	काला		黑	အနက်ရောင်		black	black
-22	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	1		statives	To have the color of blood or a ripe tomato.	赤い	लाल		红色	အနီေရာင်		red	red
-23	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	1		statives	To have the color of snow, milk, or a blank piece of paper.	白い	सफ़ेद		白色的	အဖြူ		white	white
-24	drink:to	1401	DRINK	to drink	drink	ᴅʀɪɴᴋ	1			To swallow a liquid through the mouth.	飲む	पीना		喝	သောက်ရန်			drink
+4	bridge	1011	BRIDGE	bridge	bridge	ʙʀɪᴅɢᴇ	1			A structure built over a river, road, or gap to allow people or vehicles to cross from one side to the other.	橋	पुल		橋	တံတား		bridge	
+21	colour.:black:to.be	163	BLACK	to be black	black	ʙʟᴀᴄᴋ	1			To have a color that is the darkest possible, such as the color of coal or night.	黒い	काला		黑	မည်းသည်		black	black
+22	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	1		statives	To have the color of blood or a ripe tomato.	赤い	लाल		紅色	နီသည်		red	red
+23	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	1		statives	To have the color of snow, milk, or a blank piece of paper.	白い	सफ़ेद		白色的	ဖြူသည်		white	white
+24	drink:to	1401	DRINK	to drink	drink	ᴅʀɪɴᴋ	1			To swallow a liquid through the mouth.	飲む	पीना		喝	သောက်သည်			drink
 5	eye	1248	EYE	eye	eye	ᴇʏᴇ	1		body parts	The organ on the face used for seeing and perceiving light.	目	आँख		眼睛	မျက်လုံး		eye	eye
 6	fire	221	FIRE	fire	fire	ꜰɪʀᴇ	1			The heat and light produced when something burns.	火	आग		火	မီး		fire	fire
 7	flower	239	FLOWER	flower	flower	ꜰʟᴏᴡᴇʀ	1		flora	The reproductive part of a plant, often colorful and fragrant, used for making seeds.	花	फूल		花	ပန်း		flower	flower
 8	fruit	1507	FRUIT	fruit	fruit	ꜰʀᴜɪᴛ	1		flora	The fleshy, edible part of a plant that contains seeds and grows from a flower.	実	फल		水果	အသီး		fruit (tree)	fruit
-9	head	1256	HEAD	head	head	ʜᴇᴀᴅ	1		body parts	The part of the body that contains the brain, eyes, nose, mouth, and ears, located at the very top of the neck.	頭	सिर		头	ခေါင်း		head	head
+9	head	1256	HEAD	head	head	ʜᴇᴀᴅ	1		body parts	The part of the body that contains the brain, eyes, nose, mouth, and ears, located at the very top of the neck.	頭	सिर		頭	ခေါင်း		head	head
 10	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	1			A permanent structure used as a place for people to live in.	家	घर		房子	အိမ်		house	house
-11	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	1			A system of sounds, words, and grammar used by a group of people to communicate.	ことば	भाषा		语言	ဘာသာစကား		language	
-12	louse..head	1392	LOUSE	louse (head)	louse	ʟᴏᴜꜱᴇ	1		fauna	A small, parasitic insect that lives on a human scalp and feeds on blood.	虱	जूं		虱子	ကြွက်			louse
+11	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	1			A system of sounds, words, and grammar used by a group of people to communicate.	ことば	भाषा		語言	ဘာသာစကား		language	
+12	louse..head	1392	LOUSE	louse (head)	louse	ʟᴏᴜꜱᴇ	1		fauna	A small, parasitic insect that lives on a human scalp and feeds on blood.	虱	जूं		頭蝨	သန်း			louse
 13	moon	1313	MOON	moon	moon	ᴍᴏᴏɴ	1			The natural satellite that orbits the Earth and is visible in the night sky.	月	चांद		月亮	လ		moon	moon
-14	mother	1216	MOTHER	mother	mother	ᴍᴏᴛʜᴇʀ	1			A female parent.	母	मां		母亲	အမေ		mother	
+14	mother	1216	MOTHER	mother	mother	ᴍᴏᴛʜᴇʀ	1			A female parent.	母	मां		母親	အမေ		mother	
 15	person..human.being	683	PERSON	person (human being)	person	ᴘᴇʀꜱᴏɴ	1			A human being.	人間	व्यक्ति		人	လူ		person	person/human being
-16	salt	1274	SALT	salt	salt	ꜱᴀʟᴛ	1			A white or translucent mineral used in small amounts to season or preserve food.	塩	नमक		盐	ဆားငန်		salt	salt
-25	sleep:to	1585	SLEEP	to sleep	sleep	ꜱʟᴇᴇᴘ	1			To be in a state of rest where the eyes are closed and the person is unconscious for a period of time.	眠る	सोना		睡觉	အိပ်ရန်		to sleep	sleep/lie down
+16	salt	1274	SALT	salt	salt	ꜱᴀʟᴛ	1			A white or translucent mineral used in small amounts to season or preserve food.	塩	नमक		鹽	ဆား		salt	salt
+25	sleep:to	1585	SLEEP	to sleep	sleep	ꜱʟᴇᴇᴘ	1			To be in a state of rest where the eyes are closed and the person is unconscious for a period of time.	眠る	सोना		睡覺	အိပ်သည်		to sleep	sleep/lie down
 17	snake	730	SNAKE	snake	snake	ꜱɴᴀᴋᴇ	1		fauna	A long, thin reptile that has no legs and moves by sliding its body along the ground.	蛇	साँप		蛇	မြွေ		snake	snake
-18	sun	1343	SUN	sun	sun	ꜱᴜɴ	1			The star at the center of the solar system that provides light and heat to the earth during the day.	太陽	सूरज		太阳	နေ		sun	sun/day
-20	thorn	124	THORN	thorn	thorn	ᴛʜᴏʀɴ	1		flora	A sharp, pointed part on a plant or stem that can prick or scratch the skin.	棘	कांटा		刺	ဆူး		thorn	thorn (prick)
-27	tree	906	TREE	tree	tree	ᴛʀᴇᴇ	1		flora	A large, perennial plant with a single woody stem or trunk that branches out into limbs and leaves.	木	पेड़ (ped)		树	သစ်ပင်		tree	tree/wood
-28	village	930	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	1			A small human settlement, typically located in a rural area, consisting of a group of houses and their inhabitants.	村	गांव		村庄	ရွာ		villager	village
-29	water	948	WATER	water	water	ᴡᴀᴛᴇʀ	1			The clear, colorless liquid that falls from the sky as rain and is necessary for all living things to drink.	水							water
-26	weep..cry:to	1839	CRY	to weep (cry)	weep	ᴡᴇᴇᴘ	1			To shed tears from the eyes, often as an expression of sadness, pain, or grief.	泣く	रोना		哭泣	ငို၊ ငို			weep
+18	sun	1343	SUN	sun	sun	ꜱᴜɴ	1			The star at the center of the solar system that provides light and heat to the earth during the day.	太陽	सूरज		太陽	နေ		sun	sun/day
+20	thorn	124	THORN	thorn	thorn	ᴛʜᴏʀɴ	1		flora	A sharp, pointed part on a plant or stem that can prick or scratch the skin.	棘	कांटा		植物的刺	ဆူး		thorn	thorn (prick)
+27	tree	906	TREE	tree	tree	ᴛʀᴇᴇ	1		flora	A large, perennial plant with a single woody stem or trunk that branches out into limbs and leaves.	木	पेड़ (ped)		樹	သစ်ပင်		tree	tree/wood
+28	village	930	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	1			A small human settlement, typically located in a rural area, consisting of a group of houses and their inhabitants.	村	गांव		村莊	ရွာ		villager	village
+29	water	948	WATER	water	water	ᴡᴀᴛᴇʀ	1			The clear, colorless liquid that falls from the sky as rain and is necessary for all living things to drink.	水			水	ရေ			water
+26	weep..cry:to	1839	CRY	to weep (cry)	weep	ᴡᴇᴇᴘ	1			To shed tears from the eyes, often as an expression of sadness, pain, or grief.	泣く	रोना		哭泣	ငိုသည်			weep
 30	year	1226	YEAR	year	year	ʏᴇᴀʀ	1			A single period of time that it takes for the earth to orbit around the sun.	年	साल		年	တစ်နှစ်		year	year
