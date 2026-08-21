@@ -2,10 +2,6 @@
 
 The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an multi-stage concept list designed for lexical data collection and comparison in the Patkai range and surrounding areas, specifically for languages which may be included within the the proposed Sal subfamily within Sino-Tibetan (Burling 1983). 
 
-## Cite
-
-[![DOI](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fdoi.json)](https://doi.org/10.5281/zenodo.18515381)
-
 #### Concepticon coverage
 
 [![30](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_30.json)](https://concepticon.clld.org/)
@@ -14,6 +10,11 @@ The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an mul
 [![500](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_500.json)](https://concepticon.clld.org/)
 [![1000](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_1000.json)](https://concepticon.clld.org/)
 [![full](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_full.json)](https://concepticon.clld.org/)
+
+## Cite
+
+[![DOI](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fdoi.json)](https://doi.org/10.5281/zenodo.18515381)
+
 
 Cite as:
 > Dam, Kellen Parker van (2026) Sal Area Lexical Inventory for Sino-Tibetan (SALIST) v1.0.2. Phonemica. https://doi.org/10.5281/zenodo.18515381
@@ -149,7 +150,6 @@ The concept is generated from the gloss in `F2` with this:
 ```
 
 Adjustments will be made to the glossing format, however, in order to simplify string lengths. This is a work in progress.
-
 
 ## References 
 
