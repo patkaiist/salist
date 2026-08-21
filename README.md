@@ -4,10 +4,10 @@ The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an mul
 
 ## Cite
 
-[![DOI](https://zenodo.org/badge/220643304.svg)](https://doi.org/10.5281/zenodo.18515381)
+[![DOI](https://zenodo.org/badge/18515381.svg)](https://doi.org/10.5281/zenodo.18515381)
 
 Cite as:
-> Dam, Kellen Parker van (2026) Sal Area Lexical Inventory for Sino-Tibetan (SALIST) v1.0.1. Phonemica. https://doi.org/10.5281/zenodo.18515404
+> Dam, Kellen Parker van (2026) Sal Area Lexical Inventory for Sino-Tibetan (SALIST) v1.0.1. Phonemica. https://doi.org/10.5281/zenodo.18515381
 
 ## Goals
 
