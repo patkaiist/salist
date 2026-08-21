@@ -67,7 +67,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 48	rice:cooked	1191	COOKED RICE	cooked rice	cooked.rice	ᴄᴏᴏᴋᴇᴅ.ʀɪᴄᴇ	2		rice	The substance made from grains of rice that has been boiled or steamed in water and is ready to eat.	ご飯	भात		熟飯	ထမင်း		cooked rice	rice (cooked)
 81	ripe:to.be	178	RIPE	to be ripe	ripe	ʀɪᴘᴇ	2			To reach a state of being fully grown, soft, and ready to be eaten, especially in the case of fruit or grain.	熟する	पकना		成熟（果實可吃）	မှည့်သည်		to be ripe	ripe/well-cooked
 64	river	666	RIVER	river	river	ʀɪᴠᴇʀ	2			A large, natural stream of water that flows continuously in a bed towards an ocean, sea, lake, or another river.	川	नदी		河流	မြစ်		driver	river/valley
-65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The part of a plant that grows underground, branching out from the stem or trunk to absorb water and nutrients from the soil.	木の根	जड़		樹根	သစ်မြစ်		root (tree)	root
+65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The part of a plant that grows underground, branching out from the stem or trunk to absorb water and nutrients from the soil.	木の根	जड़		樹根	သစ်မြစ်		root (tree)	root
 16	salt	1274	SALT	salt	salt	ꜱᴀʟᴛ	1			A white or translucent mineral used in small amounts to season or preserve food.	塩	नमक		鹽	ဆား		salt	salt
 66	seed	714	SEED	seed	seed	ꜱᴇᴇᴅ	2		flora	The small, hard part of a plant that can be planted in the ground to grow a new plant.	種	बीज		種子	မျိုးစေ့		seed (tree)	
 89	shoot..arrow:to	1172	SHOOT	to shoot (arrow)	shoot	ꜱʜᴏᴏᴛ	2			To propel an arrow from a bow using a string.	撃つ	गोली चलाना		射擊	မြားပစ်သည်		to shoot (gun)	shoot

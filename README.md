@@ -4,13 +4,15 @@ The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an mul
 
 ## Cite
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18515381.svg)](https://doi.org/10.5281/zenodo.18515381)
+[![DOI](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fdoi.json)](https://doi.org/10.5281/zenodo.18515381)
 
 #### Concepticon coverage
 
+[![30](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_30.json)](https://concepticon.clld.org/)
 [![100](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_100.json)](https://concepticon.clld.org/)
 [![350](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_350.json)](https://concepticon.clld.org/)
 [![500](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_500.json)](https://concepticon.clld.org/)
+[![1000](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_1000.json)](https://concepticon.clld.org/)
 [![full](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_full.json)](https://concepticon.clld.org/)
 
 Cite as:
@@ -85,49 +87,69 @@ An important principle of the system is that ambiguity is always avoided. Verbal
 
 ## Dot notation conventions
 
+Each separator does one job, and the **name** and **gloss** columns interpret several of them differently.
+
 ```
-:       swap order of items in the gloss or name
-:.      display only items to the left in the gloss or name
-.:      display only items to the right in the gloss or name
-::      separator for semantic concept sorting
-..      parenthetical in name
-:::     Linnean taxonomy formatting
-...     separate gloss form to the right of the ellipsis
+:       swap the order of the items on either side
+:.      keep only the item to the left
+.:      keep only the item to the right
+::      join the items with no separator (semantic concept sorting)
+..      parenthetical in the name, dropped from the gloss
+!       alternates: ", " in the name, only the leftmost item in the gloss
+...     the name takes the item to the left, the gloss the item to the right
+:::     Linnean taxonomy: capitalised, and the `..` parenthetical becomes the gloss
 ```
+
+Beyond the separators, the gloss is further reduced: a leading "to ", "to be " or "to have " is dropped, " of bird" is dropped, any remaining parenthetical is dropped, and the remaining spaces become dots. This is why `blunt..of.edge:to.be` gives the name "to be blunt (of edge)" but the gloss "blunt".
+
+The `concept` column of `concepts.tsv` is the gloss rendered in small capitals.
 
 The basic table looks like this, with all **name** and **gloss** values being automatically generated from the concept ID itself:
 
 | concept | name | gloss | conc_id | conc_name |
 |--------------------------|------------------------|---------------|--------:|-----------|
-| bee::hive | beehive | beehive | 88 | BEEHIVE |
-| bee.:hornet | hornet | hornet | 3261 | HORNET |
+| ant::hill | anthill | anthill | 1873 | ANTHILL |
+| ant.:termite | termite | termite | 883 | TERMITE |
+| bear!show..teeth:to | to bear, show (teeth) | bear | | |
 | bee..general | bee (general) | bee | 665 | BEE |
+| bee.:hornet | hornet | hornet | 3261 | HORNET |
 | big:to.be | to be big | big | 1202 | BIG |
-| bitter:to.be | to be bitter | bitter | 887 | BITTER |
 | blanket | blanket | blanket | 806 | BLANKET |
-| blind:to.be | to be blind | blind | | |
-| blood | blood | blood | 946 | BLOOD |
+| blind:to.be | to be blind | blind | 1653 | BLIND |
 | blunt..of.edge:to.be | to be blunt (of edge) | blunt | 379 | BLUNT |
-| blunt..of.point:to.be | to be blunt (of point) | blunt | 379 | BLUNT |
 | bone | bone | bone | 1394 | BONE |
-| bos.frontalis..mithun::: | _Bos frontalis (mithun)_ | bos.frontalis | – | – |
-| bos.gaurus..gaur::: | _Bos gaurus (gaur)_ | bos.gaurus | – | – |
+| bos.frontalis..mithun::: | _Bos frontalis (mithun)_ | mithun | – | – |
+| crest.of.bird | crest of bird | crest | 188 | COMB OF BIRD |
+| day:.classifier | day | day | 1260 | DAY (24 HOURS) |
+| here...prox.dem | here | prox.dem | 136 | HERE |
 
-The easiest way to use this right now is in a spreadsheet. In a spreadsheet, the concept value is easily converted to the name with this:
+The easiest way to use this right now is in a spreadsheet, with the concept ID in `B2`. The name is generated with this:
 
 ```
 =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(REGEXREPLACE(SUBSTITUTE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(IF(RIGHT(B2,3)=":::", UPPER(LEFT(B2,1))&MID(B2,2,LEN(B2)-4), B2),"([a-z]+)\.\.\.([a-zA-Z .]+)","$1"),"([0-9a-z.]+)\:\.([0-9a-z.]+)","$1"),"([0-9a-z.]+)\.\:([0-9a-z.]+)","$2"),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"([a-z. ,!]+)\:([a-z. ,!]+)","$2.$1"),"([0-9a-z.!]+)\.\.([0-9a-zA-Z.\/!]+)","$1 ($2)"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"."," "),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"!",", "),"india","India"),"chinese","Chinese"),"china","China")
 ```
 
-The value can be converted to the gloss with this:
+The gloss is generated with this:
 
 ```
 =SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(IF(AND(RIGHT(B2,3)=":::", REGEXMATCH(B2,"\.\.")),
-  REGEXEXTRACT(B2,".*\.\.([a-zA-Z0-9.]+):::"), REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(SUBSTITUTE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(IF(RIGHT(B2,3)=":::", UPPER(LEFT(B2,1))&MID(B2,2,LEN(B2)-4), B2),"\.\.\.","—"),"([0-9a-z.]+)\:\.([0-9a-z.]+)","$1"),"([0-9a-z.]+)\.\:([0-9a-z.]+)","$2"),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"([0-9a-z.]+)\.\.([0-9a-zA-Z.\/]+)","$1 ($2)"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"."," "),"^to be ",""),"^to have ","")," of bird",""),"^to ","")," ","."), "\.\([^)]*\)", ""),"([a-zA-Z0-9.]+)—([a-zA-Z.]+)","$2"),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"([0-9a-z.]+)\!([0-9a-z.]+)","$1")
+  REGEXEXTRACT(B2,".*\.\.([a-zA-Z0-9.]+):::"), REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(SUBSTITUTE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(REGEXREPLACE(IF(RIGHT(B2,3)=":::", UPPER(LEFT(B2,1))&MID(B2,2,LEN(B2)-4), B2),"\.\.\.","—"),"([0-9a-z.]+)\:\.([0-9a-z.]+)","$1"),"([0-9a-z.]+)\.\:([0-9a-z.]+)","$2"),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"([0-9a-z.]+)\.\.([0-9a-zA-Z.\/]+)","$1 ($2)"),"([a-z.]+)\:([a-z.]+)","$2.$1"),"."," ")
+,"^to be ",""),"^to have ","")," of bird",""),"^to ","")," ","."), "\.\([^)]*\)", ""),"([a-zA-Z0-9.]+)—([a-zA-Z.]+)","$2"),"([a-z.]+)\:\:([a-z.]+)","$1$2"),"([0-9a-z.]+)\!([0-9a-z.]+)","$1")
 ),"india","India"),"chinese","Chinese"),"china","China")
 ```
 
+The concept is generated from the gloss in `F2` with this:
+
+```
+=SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(LOWER(F2),"india","India"),"chinese","Chinese"),"china","China"),
+ "a", "ᴀ"), "b", "ʙ"), "c", "ᴄ"), "d", "ᴅ"), "e", "ᴇ"), "f", "ꜰ"), "g", 
+"ɢ"), "h", "ʜ"), "i", "ɪ"), "j", "ᴊ"), "k", "ᴋ"), "l", "ʟ"), "m", "ᴍ"), 
+"n", "ɴ"), "o", "ᴏ"), "p", "ᴘ"), "q", "ꞯ"), "r", "ʀ"), "s", "ꜱ"), "t", 
+"ᴛ"), "u", "ᴜ"), "v", "ᴠ"), "w", "ᴡ"), "x", "x"), "y", "ʏ"), "z", "ᴢ"), "é", "ᴇ́")
+```
+
 Adjustments will be made to the glossing format, however, in order to simplify string lengths. This is a work in progress.
+
 
 ## References 
 

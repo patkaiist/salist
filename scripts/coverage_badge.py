@@ -2,8 +2,16 @@ import csv
 import json
 import os
 
-LISTS = ["salist_100", "salist_350", "salist_500", "salist_full"]
+LISTS = [
+    "salist_30",
+    "salist_100",
+    "salist_350",
+    "salist_500",
+    "salist_1000",
+    "salist_full",
+]
 OUTPUT_DIR = "badges"
+CONCEPT_DOI = "10.5281/zenodo.18515381"
 EMPTY = {"", "-", "–", "—", "nan", "NA"}
 
 
@@ -15,6 +23,12 @@ def color(pct):
     if pct >= 70:
         return "orange"
     return "red"
+
+
+def write(name, badge):
+    with open(os.path.join(OUTPUT_DIR, f"{name}.json"), "w", encoding="utf-8") as f:
+        json.dump(badge, f, indent=2)
+        f.write("\n")
 
 
 def coverage(path):
@@ -40,11 +54,17 @@ def main():
             "color": color(pct),
         }
 
-        with open(os.path.join(OUTPUT_DIR, f"{name}.json"), "w", encoding="utf-8") as f:
-            json.dump(badge, f, indent=2)
-            f.write("\n")
-
+        write(name, badge)
         print(f"{label}: {badge['message']}")
+
+    doi = {
+        "schemaVersion": 1,
+        "label": "DOI",
+        "message": CONCEPT_DOI,
+        "color": "blue",
+    }
+    write("doi", doi)
+    print(f"DOI: {doi['message']}")
 
 
 if __name__ == "__main__":

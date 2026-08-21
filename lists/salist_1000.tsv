@@ -45,7 +45,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 790	afraid:to.be	1419	FEAR (BE AFRAID)	to be afraid	afraid	ᴀꜰʀᴀɪᴅ	5			To experience a feeling of fear, alarm, or anxiety in response to a perceived danger or threat.	怖がる			害怕				
 356	afternoon	1807	AFTERNOON	afternoon	afternoon	ᴀꜰᴛᴇʀɴᴏᴏɴ	4			The period of time from midday until the sun begins to set or evening begins.	午後	दोपहर	বিলাস	下午	နေ့လည်		afternoon	
 783	age..grow.old:to	–	–	to age (grow old)	age	ᴀɢᴇ	5			To undergo the natural process of growing older or becoming an elderly person.	年をとる	बूढ़ा होना		變老	အိုသည်			
-509	age..of.person	1789	AGE	age (of person)	age	ᴀɢᴇ	5			The number of years a person has lived from their birth until the present time.	年齢	उम्र	বয়স	年齡	အသက်အရွယ်			
+509	age..of.person	1789	AGE	age (of person)	age	ᴀɢᴇ	5			The number of years a person has lived from their birth until the present time.	年齢	उम्र	বয়স	年齡	အသက်အရွယ်			
 510	age..of.thing	1789	AGE	age (of thing)	age	ᴀɢᴇ	5			The length of time that an object or living thing has existed.	寿命			年歲	သက်တမ်း			
 45	alcohol:brewed	404	ALCOHOL (FERMENTED DRINK)	brewed alcohol	brewed.alcohol	ʙʀᴇᴡᴇᴅ.ᴀʟᴄᴏʜᴏʟ	2			A liquid drink produced by the fermentation of grains, fruit, or sugar.	醸造酒	सुराही दार शराब	জলকীয় দ্রব	釀造酒	အချဉ်ဖောက်အရက်			
 121	alcohol:distilled	842	LIQUOR	distilled alcohol	distilled.alcohol	ᴅɪꜱᴛɪʟʟᴇᴅ.ᴀʟᴄᴏʜᴏʟ	3			A liquid produced through a process of heating and cooling, often used as a strong alcoholic drink.	蒸留酒	अर्क	মদ	蒸餾酒	ပေါင်းခံအရက်			liquor
@@ -639,7 +639,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 689	palm.tree	1181	PALM TREE	palm tree	palm.tree	ᴘᴀʟᴍ.ᴛʀᴇᴇ	5		flora	A large tree with a single, unbranched trunk and long, fan-shaped or feather-like leaves at the top.	ヤシの木			棕櫚樹			oil palm	palm
 200	pangolin	2508	PANGOLIN	pangolin	pangolin	ᴘᴀɴɢᴏʟɪɴ	3		fauna	A scaly, nocturnal mammal that eats ants and termites and rolls into a ball for protection.	センザンコウ	टिकटिकी		穿山甲	သင်းခွေချပ်		pangolin	
 690	parents..general	505	PARENTS	parents (general)	parents	ᴘᴀʀᴇɴᴛꜱ	5		kinship	The male and female individuals who have produced or raised a person.	父母	माता-पिता		父母	မိဘ			
-742	path:side.of	–	–	side of path	side.of.path	ꜱɪᴅᴇ.ᴏꜰ.ᴘᴀᴛʜ	5			The area or ground immediately next to a trail or road.	道端	सड़क का किनारा		路旁	လမ်းဘေး			
+742	path:side.of	–	–	side of path	side.of.path	ꜱɪᴅᴇ.ᴏꜰ.ᴘᴀᴛʜ	5			The area or ground immediately next to a trail or road.	道端	सड़क का किनारा		路旁	လမ်းဘေး			
 201	path..road	2252	PATH	path (road)	path	ᴘᴀᴛʜ	3			A track or narrow way made for walking or traveling, often through a forest or field, that is smaller than a major road.	道	सड़क		道路 / 路徑	လမ်း			road
 910	pay:to	718	PAY	to pay	pay	ᴘᴀʏ	5			To give money to someone in exchange for goods, services, or a debt.	払う	भुगतान करना		付錢	ငွေပေးချေသည်			
 691	peacock	3382	PEACOCK	peacock	peacock	ᴘᴇᴀᴄᴏᴄᴋ	5		fauna	A large, colorful bird with a long tail of feathers that can be spread out into a fan shape.	孔雀	मोर		孔雀	ဒေါင်း			
@@ -718,12 +718,12 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 922	roll.down:to	827	ROLL	to roll down	roll.down	ʀᴏʟʟ.ᴅᴏᴡɴ	5			To move by turning over and over along a sloping surface or a hill.	転げ落ちる	ढेर करना		滾動	လှိမ့်ချသည်		roll	
 923	roll.up..mat:to	–	–	to roll up (mat)	roll.up	ʀᴏʟʟ.ᴜᴘ	5			To fold or turn a flexible surface, such as a floor covering, into a cylindrical shape for storage or to tidy a space.	巻き上げる	रोल करना		卷	ဖျာလိပ်သည်			
 430	roof..of.building	769	ROOF	roof (of building)	roof	ʀᴏᴏꜰ	4			The upper covering of a building or structure that protects the interior from rain and sun.	屋根	छत		屋頂	ခေါင်မိုး		roof	
-65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The part of a plant that grows underground, branching out from the stem or trunk to absorb water and nutrients from the soil.	木の根	जड़		樹根	သစ်မြစ်		root (tree)	root
+65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The part of a plant that grows underground, branching out from the stem or trunk to absorb water and nutrients from the soil.	木の根	जड़		樹根	သစ်မြစ်		root (tree)	root
 204	rope	1218	ROPE	rope	rope	ʀᴏᴘᴇ	3			A strong, thick cord made of twisted fibers or strands used for tying, pulling, or fastening things together.	紐	रस्सी		繩子	ကြိုး		rope	
 254	rotten:to.be	1728	ROTTEN	to be rotten	rotten	ʀᴏᴛᴛᴇɴ	3			To undergo a process of decay or decomposition, typically used for organic matter like food or wood, making it soft, smelly, or unfit for use.	腐った	गला हुआ		腐爛的	ပုပ်သည်		to be rotten	
 255	rough:to.be	1923	ROUGH	to be rough	rough	ʀᴏᴜɢʜ	3			To have an uneven, coarse, or bumpy surface rather than being smooth.	ざらざらな	रूखा		粗糙的	ကြမ်းတမ်းသည်		to be rough (road)	
 256	round:to.be	1395	ROUND	to be round	round	ʀᴏᴜɴᴅ	3			To have a shape that is circular or spherical, without any corners or straight edges.	丸い	गोल		圓形的	လုံးသည်		to be round	round
-317	rub:to	1449	RUB	to rub	rub	ʀᴜʙ	3			To move one's hand or an object repeatedly against a surface using pressure.	こする	रगड़ना		摩擦	ပွတ်သည်		to rub/scrub	rub
+317	rub:to	1449	RUB	to rub	rub	ʀᴜʙ	3			To move one's hand or an object repeatedly against a surface using pressure.	こする	रगड़ना		摩擦	ပွတ်သည်		to rub/scrub	rub
 485	rule..lead:to	43	LEAD (GUIDE)	to rule (lead)	rule	ʀᴜʟᴇ	4			To exercise authority or control over a group of people, such as a country, a community, or a territory.	治める	सीसा		領導	အုပ်ချုပ်သည်		lead, guide (v)	
 205	ruler..chief	–	–	ruler (chief)	ruler	ʀᴜʟᴇʀ	3	CONCEPTICON has the measuring tool as the definition.		A person who has political power and authority over a group of people or a territory.	首長	मुखिया		首領	အုပ်ချုပ်သူ			
 821	sacred:to.be	–	–	to be sacred	sacred	ꜱᴀᴄʀᴇᴅ	5			To be considered holy, divine, or worthy of religious veneration and respect.	神聖である	पवित्र		神聖的	မြင့်မြတ်သည်			
@@ -754,7 +754,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 207	shade..area	1388	SHADE	shade (area)	shade	ꜱʜᴀᴅᴇ	3			An area of ground or space that is kept dark and cool because an object is blocking the light from the sun.	日陰	छाया		陰涼處	အရိပ်			shade/shadow
 208	shadow..of.something	2275	SHADOW	shadow (of something)	shadow	ꜱʜᴀᴅᴏᴡ	3			A dark area or shape produced on a surface by an object that blocks light.	影	अचार		生米	မှောင်ရိပ်		shadow/shade	shade/shadow
 454	shallow:to.be	193	SHALLOW	to be shallow	shallow	ꜱʜᴀʟʟᴏᴡ	4			To have little depth or a low distance between the surface and the bottom.	浅い	कम गहराई वाला		淺的	တိမ်သည်		to be shallow	
-258	sharp..of.edge:to.be	1396	SHARP	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	3			To have a thin, fine edge capable of cutting easily.	鋭い	तेज़		尖銳的邊緣	ထက်သည်		to be sharp	sharp
+258	sharp..of.edge:to.be	1396	SHARP	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	3			To have a thin, fine edge capable of cutting easily.	鋭い	तेज़		尖銳的邊緣	ထက်သည်		to be sharp	sharp
 259	sharp..of.point:to.be	–	–	to be sharp (of point)	sharp	ꜱʜᴀʀᴘ	3			To have a fine, thin, or tapered edge or end that can easily cut or pierce something.	尖っている	तीखा		尖銳的	ချွန်သည်			sharp
 486	sharpen..edge:to	251	SHARPEN (SOMETHING)	to sharpen (edge)	sharpen	ꜱʜᴀʀᴘᴇɴ	4			To make a tool or a blade more effective by rubbing its edge against a hard surface.	研ぐ			磨利刀刃				
 926	shave..head:to	231	SHAVE	to shave (head)	shave	ꜱʜᴀᴠᴇ	5			To remove all the hair from a person's skull using a razor or a similar tool.	丸刈りにする	बाल बन्द करना		剃頭	ခေါင်းရိတ်သည်		to shave (beard)	

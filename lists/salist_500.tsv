@@ -362,12 +362,12 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 64	river	666	RIVER	river	river	ʀɪᴠᴇʀ	2			A large, natural stream of water that flows continuously in a bed towards an ocean, sea, lake, or another river.	川	नदी		河流	မြစ်		driver	river/valley
 316	roast:to	1962	ROAST (SOMETHING)	to roast	roast	ʀᴏᴀꜱᴛ	3			To cook food using dry heat, such as over an open fire or in an oven, without using water or oil.	あぶる	भूनना		烤	ကင်သည်		roast	
 430	roof..of.building	769	ROOF	roof (of building)	roof	ʀᴏᴏꜰ	4			The upper covering of a building or structure that protects the interior from rain and sun.	屋根	छत		屋頂	ခေါင်မိုး		roof	
-65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The part of a plant that grows underground, branching out from the stem or trunk to absorb water and nutrients from the soil.	木の根	जड़		樹根	သစ်မြစ်		root (tree)	root
+65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The part of a plant that grows underground, branching out from the stem or trunk to absorb water and nutrients from the soil.	木の根	जड़		樹根	သစ်မြစ်		root (tree)	root
 204	rope	1218	ROPE	rope	rope	ʀᴏᴘᴇ	3			A strong, thick cord made of twisted fibers or strands used for tying, pulling, or fastening things together.	紐	रस्सी		繩子	ကြိုး		rope	
 254	rotten:to.be	1728	ROTTEN	to be rotten	rotten	ʀᴏᴛᴛᴇɴ	3			To undergo a process of decay or decomposition, typically used for organic matter like food or wood, making it soft, smelly, or unfit for use.	腐った	गला हुआ		腐爛的	ပုပ်သည်		to be rotten	
 255	rough:to.be	1923	ROUGH	to be rough	rough	ʀᴏᴜɢʜ	3			To have an uneven, coarse, or bumpy surface rather than being smooth.	ざらざらな	रूखा		粗糙的	ကြမ်းတမ်းသည်		to be rough (road)	
 256	round:to.be	1395	ROUND	to be round	round	ʀᴏᴜɴᴅ	3			To have a shape that is circular or spherical, without any corners or straight edges.	丸い	गोल		圓形的	လုံးသည်		to be round	round
-317	rub:to	1449	RUB	to rub	rub	ʀᴜʙ	3			To move one's hand or an object repeatedly against a surface using pressure.	こする	रगड़ना		摩擦	ပွတ်သည်		to rub/scrub	rub
+317	rub:to	1449	RUB	to rub	rub	ʀᴜʙ	3			To move one's hand or an object repeatedly against a surface using pressure.	こする	रगड़ना		摩擦	ပွတ်သည်		to rub/scrub	rub
 485	rule..lead:to	43	LEAD (GUIDE)	to rule (lead)	rule	ʀᴜʟᴇ	4			To exercise authority or control over a group of people, such as a country, a community, or a territory.	治める	सीसा		領導	အုပ်ချုပ်သည်		lead, guide (v)	
 205	ruler..chief	–	–	ruler (chief)	ruler	ʀᴜʟᴇʀ	3	CONCEPTICON has the measuring tool as the definition.		A person who has political power and authority over a group of people or a territory.	首長	मुखिया		首領	အုပ်ချုပ်သူ			
 206	saliva	1503	SALIVA	saliva	saliva	ꜱᴀʟɪᴠᴀ	3		body parts	The watery liquid produced in the mouth by the salivary glands.	唾液	लार		口水	တံတွေး		spit (noun)	
@@ -381,7 +381,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 207	shade..area	1388	SHADE	shade (area)	shade	ꜱʜᴀᴅᴇ	3			An area of ground or space that is kept dark and cool because an object is blocking the light from the sun.	日陰	छाया		陰涼處	အရိပ်			shade/shadow
 208	shadow..of.something	2275	SHADOW	shadow (of something)	shadow	ꜱʜᴀᴅᴏᴡ	3			A dark area or shape produced on a surface by an object that blocks light.	影	अचार		生米	မှောင်ရိပ်		shadow/shade	shade/shadow
 454	shallow:to.be	193	SHALLOW	to be shallow	shallow	ꜱʜᴀʟʟᴏᴡ	4			To have little depth or a low distance between the surface and the bottom.	浅い	कम गहराई वाला		淺的	တိမ်သည်		to be shallow	
-258	sharp..of.edge:to.be	1396	SHARP	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	3			To have a thin, fine edge capable of cutting easily.	鋭い	तेज़		尖銳的邊緣	ထက်သည်		to be sharp	sharp
+258	sharp..of.edge:to.be	1396	SHARP	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	3			To have a thin, fine edge capable of cutting easily.	鋭い	तेज़		尖銳的邊緣	ထက်သည်		to be sharp	sharp
 259	sharp..of.point:to.be	–	–	to be sharp (of point)	sharp	ꜱʜᴀʀᴘ	3			To have a fine, thin, or tapered edge or end that can easily cut or pierce something.	尖っている	तीखा		尖銳的	ချွန်သည်			sharp
 486	sharpen..edge:to	251	SHARPEN (SOMETHING)	to sharpen (edge)	sharpen	ꜱʜᴀʀᴘᴇɴ	4			To make a tool or a blade more effective by rubbing its edge against a hard surface.	研ぐ			磨利刀刃				
 212	shield	1064	SHIELD	shield	shield	ꜱʜɪᴇʟᴅ	3			A piece of strong material, such as wood or metal, held or carried to protect a person from attacks or blows.	盾	ढाल		盾牌	ဒိုင်း		shield (n)	

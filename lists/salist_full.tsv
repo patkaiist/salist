@@ -111,7 +111,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 356	afternoon	1807	AFTERNOON	afternoon	afternoon	ᴀꜰᴛᴇʀɴᴏᴏɴ	4			The period of time from midday until the sun begins to set or evening begins.	午後	दोपहर	বিলাস	下午	နေ့လည်		afternoon	
 1138	again	204	AGAIN	again	again	ᴀɢᴀɪɴ	7			An occurrence of an event or action that has happened before.	また			再次	ထပ်		again	
 783	age..grow.old:to	–	–	to age (grow old)	age	ᴀɢᴇ	5			To undergo the natural process of growing older or becoming an elderly person.	年をとる	बूढ़ा होना		變老	အိုသည်			
-509	age..of.person	1789	AGE	age (of person)	age	ᴀɢᴇ	5			The number of years a person has lived from their birth until the present time.	年齢	उम्र	বয়স	年齡	အသက်အရွယ်			
+509	age..of.person	1789	AGE	age (of person)	age	ᴀɢᴇ	5			The number of years a person has lived from their birth until the present time.	年齢	उम्र	বয়স	年齡	အသက်အရွယ်			
 510	age..of.thing	1789	AGE	age (of thing)	age	ᴀɢᴇ	5			The length of time that an object or living thing has existed.	寿命			年歲	သက်တမ်း			
 2010	agree:to	3643	AGREE	to agree	agree	ᴀɢʀᴇᴇ	7			To express a shared opinion or to say yes to a suggestion or a proposal.	賛成する			同意	သဘောတူသည်			
 1012	agreement	3644	AGREEMENT	agreement	agreement	ᴀɢʀᴇᴇᴍᴇɴᴛ	6			A formal arrangement or a shared decision between two or more people or groups.	合意			協議				
@@ -277,6 +277,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 363	bed	1663	BED	bed	bed	ʙᴇᴅ	4			A piece of furniture used for sleeping or resting on.	寝台	बिस्तर		牀	အိပ်ရာ			
 1177	bedbug	1949	BEDBUG	bedbug	bedbug	ʙᴇᴅʙᴜɢ	7			A small, flat, parasitic insect that lives in furniture or bedding and feeds on the blood of humans or animals.	トコジラミ			臭蟲	ကြမ်းပိုး			
 364	bee::hive	88	BEEHIVE	beehive	beehive	ʙᴇᴇʜɪᴠᴇ	4		fauna	The structure built by bees to live in and store honey.	蜂の巣			蜂巢	ပျားအုံ		beehive	
+2831	bee.:hornet	3261	HORNET	hornet	hornet	ʜᴏʀɴᴇᴛ	7			A large, flying insect that belongs to the wasp family. They are typically characterized by their large size and their distinctive yellow and black body pattern.	スズメバチ			虎頭蜂				
 2	bee..general	665	BEE	bee (general)	bee	ʙᴇᴇ	1		fauna	A flying insect that produces honey and lives in a colony or hive.	蜂	मधुमक्खी		蜜蜂	ပျား		bee	bee
 527	bee.colony	–	–	bee colony	bee.colony	ʙᴇᴇ.ᴄᴏʟᴏɴʏ	5		fauna	A large group of social insects that live together in a single nest or hive.	ミツバチの群れ	मधुमक्खी का छत्ता		蜂窩	ပျားအုပ်စု			
 1178	before..in.time	1882	BEFORE	before (in time)	before	ʙᴇꜰᴏʀᴇ	7			An earlier time or a point in time that precedes another event or moment.	以前			之前	မတိုင်မီ			
@@ -992,8 +993,8 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 292	flee..run.away:to	956	FLEE	to flee (run away)	flee	ꜰʟᴇᴇ	3			To run or move quickly away from a place or a person, often because of danger, fear, or a desire to avoid being caught.	逃げる	भागना		奔跑 / 逃跑	ထွက်ပြေးသည်		flee, run away from	run/flee
 2074	flexible:to.be	1691	FLEXIBLE	to be flexible	flexible	ꜰʟᴇxɪʙʟᴇ	7			To bend easily without breaking.	よく曲がる			撓曲				
 877	float:to	1574	FLOAT	to float	float	ꜰʟᴏᴀᴛ	5			To rest or move on the surface of a liquid without sinking.	浮かぶ	तैरना		漂浮	ပေါလောပေါ်သည်			
-1433	flock.of.birds	2939	FLOCK (OF ANIMALS)	flock of birds	flocks	ꜰʟᴏᴄᴋꜱ	7			A large group of birds that fly or move together.	鳥の群れ			鳥群				
-1434	flock.of.sheep	2939	FLOCK (OF ANIMALS)	flock of sheep	flock.of.sheep	ꜰʟᴏᴄᴋ.ᴏꜰ.ꜱʜᴇᴇᴘ	7			A large group of sheep that live, eat, or move together.	羊の群れ			羊群				
+1433	flock..of.birds	2939	FLOCK (OF ANIMALS)	flock (of birds)	flock	ꜰʟᴏᴄᴋ	7			A large group of birds that fly or move together.	鳥の群れ			鳥群				
+1434	flock..of.sheep	2939	FLOCK (OF ANIMALS)	flock (of sheep)	flock	ꜰʟᴏᴄᴋ	7			A large group of sheep that live, eat, or move together.	羊の群れ			羊群				
 473	flood:to	–	–	to flood	flood	ꜰʟᴏᴏᴅ	4			To have a large amount of water cover an area of land that is usually dry.	浸水する	बाढ़		洪水	ရေလွှမ်းမိုးသည်			
 597	floor	1632	FLOOR	floor	floor	ꜰʟᴏᴏʀ	5			The flat, horizontal surface of a room or a building that people walk upon.	床	मंज़िल		地板	ကြမ်းပြင်		floor	
 1435	flour	1594	FLOUR	flour	flour	ꜰʟᴏᴜʀ	7			A powder made by grinding a grain, such as rice or wheat, used for cooking.	粉			粉末	ဂျုံမှုန့်		flour	
@@ -1777,7 +1778,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1741	passion.fruit			passion fruit	passion.fruit	ᴘᴀꜱꜱɪᴏɴ.ꜰʀᴜɪᴛ	7			A tropical fruit with a hard rind and a fleshy, pulpy interior containing many small, edible seeds.	パッションフルーツ			百香果				
 2451	paste:to			to paste	paste	ᴘᴀꜱᴛᴇ	7			To attach one thing to another surface using a sticky substance.	貼る			黏貼				
 1742	paste..substance			paste (substance)	paste	ᴘᴀꜱᴛᴇ	7			A thick, soft, and sticky substance used for sticking things together or as a food ingredient.	糊			糊狀物				
-742	path:side.of	–	–	side of path	side.of.path	ꜱɪᴅᴇ.ᴏꜰ.ᴘᴀᴛʜ	5			The area or ground immediately next to a trail or road.	道端	सड़क का किनारा		路旁	လမ်းဘေး			
+742	path:side.of	–	–	side of path	side.of.path	ꜱɪᴅᴇ.ᴏꜰ.ᴘᴀᴛʜ	5			The area or ground immediately next to a trail or road.	道端	सड़क का किनारा		路旁	လမ်းဘေး			
 201	path..road	2252	PATH	path (road)	path	ᴘᴀᴛʜ	3			A track or narrow way made for walking or traveling, often through a forest or field, that is smaller than a major road.	道	सड़क		道路 / 路徑	လမ်း			road
 2109	patient:to.be	3884	PATIENT	to be patient	patient	ᴘᴀᴛɪᴇɴᴛ	7			To be able to wait for a long time or endure difficult situations without becoming angry or upset.	我慢強い			有耐心				
 910	pay:to	718	PAY	to pay	pay	ᴘᴀʏ	5			To give money to someone in exchange for goods, services, or a debt.	払う	भुगतान करना		付錢	ငွေပေးချေသည်			
@@ -2038,16 +2039,16 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1608	room:main			main room	main.room	ᴍᴀɪɴ.ʀᴏᴏᴍ	7			The largest or most important room in a house, often used for social gatherings or as a central living area.	居間			大廳				
 1842	room..of.house	1450	ROOM	room (of house)	room	ʀᴏᴏᴍ	7			A single part of a building that is separated from other parts by walls.	部屋			房間	အခန်း		room	
 1844	root..plant	670	ROOT	root (plant)	root	ʀᴏᴏᴛ	7			The part of a plant that grows underground, typically branching out to absorb water and nutrients from the soil.	草の根			草木的根	အမြစ်			
-65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The part of a plant that grows underground, branching out from the stem or trunk to absorb water and nutrients from the soil.	木の根	जड़		樹根	သစ်မြစ်		root (tree)	root
+65	root..tree	670	ROOT	root (tree)	root	ʀᴏᴏᴛ	2		flora	The part of a plant that grows underground, branching out from the stem or trunk to absorb water and nutrients from the soil.	木の根	जड़		樹根	သစ်မြစ်		root (tree)	root
 204	rope	1218	ROPE	rope	rope	ʀᴏᴘᴇ	3			A strong, thick cord made of twisted fibers or strands used for tying, pulling, or fastening things together.	紐	रस्सी		繩子	ကြိုး		rope	
 1845	rosa.chinensis..china.rose:::			Rosa chinensis (China rose)	China.rose	Cʜɪɴᴀ.ʀᴏꜱᴇ	7			A type of flowering shrub in the rose family, often with thorns, known for its colorful blooms.	ノイバラ			月季				
-2512	rot..decay:to	2907	ROT	to rot (decay)	rot	ʀᴏᴛ	7			To undergo a process of decomposition or decay, typically caused by bacteria or fungi, resulting in a change of color, smell, or texture.	腐る	सड़ना		腐爛	ဆွေးမြေ့သည်			
+2512	rot..decay:to	2907	ROT	to rot (decay)	rot	ʀᴏᴛ	7			To undergo a process of decomposition or decay, typically caused by bacteria or fungi, resulting in a change of color, smell, or texture.	腐る	सड़ना		腐爛	ဆွေးမြေ့သည်			
 2513	rotate:to	1445	TURN (SOMETHING)	to rotate	rotate	ʀᴏᴛᴀᴛᴇ	7			To turn or move in a circular motion around a central point or axis.	回転する			旋轉	လည်သည်			
 254	rotten:to.be	1728	ROTTEN	to be rotten	rotten	ʀᴏᴛᴛᴇɴ	3			To undergo a process of decay or decomposition, typically used for organic matter like food or wood, making it soft, smelly, or unfit for use.	腐った	गला हुआ		腐爛的	ပုပ်သည်		to be rotten	
 255	rough:to.be	1923	ROUGH	to be rough	rough	ʀᴏᴜɢʜ	3			To have an uneven, coarse, or bumpy surface rather than being smooth.	ざらざらな	रूखा		粗糙的	ကြမ်းတမ်းသည်		to be rough (road)	
 256	round:to.be	1395	ROUND	to be round	round	ʀᴏᴜɴᴅ	3			To have a shape that is circular or spherical, without any corners or straight edges.	丸い	गोल		圓形的	လုံးသည်		to be round	round
 2514	row:to	1849	ROW	to row	row	ʀᴏᴡ	7			To move a small boat or vessel through water by using a tool with a handle and a flat blade.	船を漕ぐ			搖櫓划船	လှော်ခတ်သည်			
-317	rub:to	1449	RUB	to rub	rub	ʀᴜʙ	3			To move one's hand or an object repeatedly against a surface using pressure.	こする	रगड़ना		摩擦	ပွတ်သည်		to rub/scrub	rub
+317	rub:to	1449	RUB	to rub	rub	ʀᴜʙ	3			To move one's hand or an object repeatedly against a surface using pressure.	こする	रगड़ना		摩擦	ပွတ်သည်		to rub/scrub	rub
 2515	rub.gently:to			to rub gently	rub.gently	ʀᴜʙ.ɢᴇɴᴛʟʏ	7			To move a hand or a soft object repeatedly across a surface with light pressure.	擦る			輕撫				
 1846	rubber	4064	RUBBER	rubber	rubber	ʀᴜʙʙᴇʀ	7			A flexible, elastic material used for making things like tires, bands, or waterproof items.	ゴム			橡膠	ရော်ဘာ			
 2119	rubbery:to.be			to be rubbery	rubbery	ʀᴜʙʙᴇʀʏ	7			To have a texture that is flexible and elastic, similar to the material used for tires or elastic bands.	ゴムのような			有彈性				
@@ -2118,7 +2119,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 66	seed	714	SEED	seed	seed	ꜱᴇᴇᴅ	2		flora	The small, hard part of a plant that can be planted in the ground to grow a new plant.	種	बीज		種子	မျိုးစေ့		seed (tree)	
 2533	seize:to	855	SEIZE	to seize	seize	ꜱᴇɪᴢᴇ	7			To take hold of something or someone suddenly and with force.	掴む			抓住	ဖမ်းဆီးသည်			
 2372	seizure:to.have			to have seizure	seizure	ꜱᴇɪᴢᴜʀᴇ	7			To experience a sudden, uncontrolled contraction of muscles and a loss of consciousness, often caused by a medical condition in the brain.	発作を起こす			發作抽搐				
-1865	self	1993	SELF	self	self	ꜱᴇʟꜰ	7			A person's own identity or being, as distinct from others.	自分			自我	ကိုယ်		self	
+1866	self	1993	SELF	self	self	ꜱᴇʟꜰ	7			A person's own identity or being, as distinct from others.	自分			自我	ကိုယ်		self	
 2126	selfish:to.be			to be selfish	selfish	ꜱᴇʟꜰɪꜱʜ	7			To act or behave in a way that only considers one's own interests or needs without regard for others.	わがままである			自私				
 321	sell:to	1571	SELL	to sell	sell	ꜱᴇʟʟ	3			To give an object or service to another person in exchange for money or other goods.	売る	बेचना		賣	ရောင်းသည်			sell
 1867	seller			seller	seller	ꜱᴇʟʟᴇʀ	7			A person who gives an item or service to another person in exchange for money.	売り手			賣方	ရောင်းသူ			
@@ -2143,7 +2144,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 454	shallow:to.be	193	SHALLOW	to be shallow	shallow	ꜱʜᴀʟʟᴏᴡ	4			To have little depth or a low distance between the surface and the bottom.	浅い	कम गहराई वाला		淺的	တိမ်သည်		to be shallow	
 2543	shame:to			to shame	shame	ꜱʜᴀᴍᴇ	7			To feel or cause a sense of humiliation, guilt, or loss of face due to a perceived wrong or social failure.	恥をかかせる			羞辱	အရှက်ရစေသည်			
 2544	share:to	884	SHARE	to share	share	ꜱʜᴀʀᴇ	7			To divide a whole into parts so that others may have a portion of it.	分け合う			分享	မျှသည်			
-258	sharp..of.edge:to.be	1396	SHARP	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	3			To have a thin, fine edge capable of cutting easily.	鋭い	तेज़		尖銳的邊緣	ထက်သည်		to be sharp	sharp
+258	sharp..of.edge:to.be	1396	SHARP	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	3			To have a thin, fine edge capable of cutting easily.	鋭い	तेज़		尖銳的邊緣	ထက်သည်		to be sharp	sharp
 259	sharp..of.point:to.be	–	–	to be sharp (of point)	sharp	ꜱʜᴀʀᴘ	3			To have a fine, thin, or tapered edge or end that can easily cut or pierce something.	尖っている	तीखा		尖銳的	ချွန်သည်			sharp
 486	sharpen..edge:to	251	SHARPEN (SOMETHING)	to sharpen (edge)	sharpen	ꜱʜᴀʀᴘᴇɴ	4			To make a tool or a blade more effective by rubbing its edge against a hard surface.	研ぐ			磨利刀刃				
 2545	sharpen..point:to	251	SHARPEN (SOMETHING)	to sharpen (point)	sharpen	ꜱʜᴀʀᴘᴇɴ	7			To make a tool or an object, such as a knife or a needle, have a fine and cutting edge or a pointed tip.	尖らせる			磨尖				
