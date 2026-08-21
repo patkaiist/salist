@@ -8,12 +8,12 @@ EMPTY = {"", "-", "–", "—", "nan", "NA"}
 
 
 def color(pct):
-    if pct > 90:
+    if pct >= 95:
         return "brightgreen"
-    if pct > 80:
-        return "orange"
-    if pct > 70:
+    if pct >= 80:
         return "yellow"
+    if pct >= 70:
+        return "orange"
     return "red"
 
 

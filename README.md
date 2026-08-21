@@ -6,7 +6,7 @@ The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an mul
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18515381.svg)](https://doi.org/10.5281/zenodo.18515381)
 
-### Concepticon coverage
+#### Concepticon coverage
 
 [![100](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_100.json)](https://concepticon.clld.org/)
 [![350](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_350.json)](https://concepticon.clld.org/)
