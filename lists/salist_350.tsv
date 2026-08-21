@@ -100,7 +100,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 51	father	1217	FATHER	father	father	ꜰᴀᴛʜᴇʀ	2			A male parent.	父	पिता		父親	အဖေ		father	
 290	fear:to	1419	FEAR (BE AFRAID)	to fear	fear	ꜰᴇᴀʀ	3			To experience a strong, unpleasant emotion caused by the presence or possibility of danger, harm, or a threat.	恐れる	डरना		畏懼	ကြောက်ရွံ့သည်		fear (n)	fear/frighten
 129	feather	1201	FEATHER	feather	feather	ꜰᴇᴀᴛʜᴇʀ	2		body parts	A single, light part of a bird's body covering that is used for flight or warmth.	羽毛	पंख		羽毛	ငှက်မွေး		feather (body hair)	
-291	ferment..alcohol:to			to ferment (alcohol)	ferment	ꜰᴇʀᴍᴇɴᴛ	3			To undergo a chemical process where sugars are converted into alcohol by yeast, often resulting in a beverage.	醸造する			釀造	ကစော်ဖောက်သည်			
+291	ferment..alcohol:to	3652	FERMENT	to ferment (alcohol)	ferment	ꜰᴇʀᴍᴇɴᴛ	3			To undergo a chemical process where sugars are converted into alcohol by yeast, often resulting in a beverage.	醸造する			釀造	ကစော်ဖောက်သည်			
 130	festival	131	FESTIVAL	festival	festival	ꜰᴇꜱᴛɪᴠᴀʟ	3			A large, organized public celebration or social gathering, often involving traditional rituals, music, or food, held on a specific day or period.	祭	त्योहार		節日	ပွဲတော်			
 161	field:jhum	2794	FIELD (UPLAND)	jhum field	jhum.field	ᴊʜᴜᴍ.ꜰɪᴇʟᴅ	3			A piece of land used for farming that is created by cutting down forest vegetation and burning it.	焼畑	झुम का खेत		燒林放牧	တောင်ယာ		dry (burned) field	swidden
 198	field:paddy	140	PADDY FIELD	paddy field	paddy.field	ᴘᴀᴅᴅʏ.ꜰɪᴇʟᴅ	3			A piece of land covered in water where rice is grown.	水田	धान का खेत		水稻田	လယ်ကွင်း		wet rice field	irrigated paddy field
@@ -129,7 +129,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 296	go.upriver:to	–	–	to go upriver	go.upriver	ɢᴏ.ᴜᴘʀɪᴠᴇʀ	3			To move in the direction of the river's source, traveling against the flow of the water.	川をさかのぼる	नीचे नदी में जाना		下游	မြစ်အထက်သို့သွားသည်			
 141	gold..metal	1369	GOLD	gold (metal)	gold	ɢᴏʟᴅ	3			A yellow, heavy, precious metal that is used to make jewelry or coins.	金	सोना		黃金	ရွှေ		gold	
 142	gong	2502	GONG	gong	gong	ɢᴏɴɢ	3			A metal percussion instrument that is struck with a mallet to produce a loud, resonant sound.	銅鑼	घंटी		鑼	မောင်း		gong	
-143	grandchild			grandchild	grandchild	ɢʀᴀɴᴅᴄʜɪʟᴅ	3			The offspring of a person's child.	孫			孫子女	မြေး			
+143	grandchild	1617	GRANDCHILD	grandchild	grandchild	ɢʀᴀɴᴅᴄʜɪʟᴅ	3			The offspring of a person's child.	孫			孫子女	မြေး			
 144	grandfather	1383	GRANDFATHER	grandfather	grandfather	ɢʀᴀɴᴅꜰᴀᴛʜᴇʀ	3		kinship	The male parent of one's mother or father.	祖父	दादा		爺爺	အဖိုး			
 145	grandmother	1496	GRANDMOTHER	grandmother	grandmother	ɢʀᴀɴᴅᴍᴏᴛʜᴇʀ	3		kinship	The female parent of one's mother or father.	祖母	दादी		奶奶	အဖွား			
 146	grass	606	GRASS	grass	grass	ɢʀᴀꜱꜱ	3		flora	A green plant with narrow leaves that grows closely to the ground and covers fields or lawns.	草			草	မြက်		grass (field/jungle)	grass
@@ -154,7 +154,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 155	horse..general	615	HORSE	horse (general)	horse	ʜᴏʀꜱᴇ	3		fauna	A large, strong animal with four legs and a long mane, often used for riding or pulling heavy loads.	馬	घोड़ा		馬	မြင်း		horse	horse
 244	hot:to.be	1286	HOT	to be hot	hot	ʜᴏᴛ	3			To have a high temperature or to feel a high level of heat.	熱い			熱				
 10	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	1			A permanent structure used as a place for people to live in.	家	घर		房子	အိမ်		house	house
-156	hummingbird			hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ	3			A very small bird with rapidly beating wings that can hover in mid-air and feeds on the nectar of flowers.	ハチドリ			蜂鳥	ငှက်ပိတုန်း			
+156	hummingbird	1589	HUMMINGBIRD	hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ	3			A very small bird with rapidly beating wings that can hover in mid-air and feeds on the nectar of flowers.	ハチドリ			蜂鳥	ငှက်ပိတုန်း			
 245	hungry:to.be	1533	BE HUNGRY	to be hungry	hungry	ʜᴜɴɢʀʏ	3			To feel a physical need or desire to eat food.	空腹である	भूख लगना		飢餓	ဆာသည်		to be hungry	
 300	hunt:to	1435	HUNT	to hunt	hunt	ʜᴜɴᴛ	3			To chase, catch, or kill wild animals for food or for sport.	猟をする	शिकार करना		狩獵	အမဲလိုက်သည်		chase (v)	drive/hunt
 246	ill..sick:to.be	1847	SICK	to be ill (sick)	ill	ɪʟʟ	3			To experience a state of poor health or a physical or mental ailment that prevents normal functioning.	病気になる	बीमार होना		生病	နေမကောင်းဖြစ်သည်		(be) sick, (be) ill	ill
@@ -168,7 +168,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 165	kalij.pheasant	3060	PHEASANT	kalij pheasant	kalij.pheasant	ᴋᴀʟɪᴊ.ᴘʜᴇᴀꜱᴀɴᴛ	3			A large, ground-dwelling bird with colorful plumage, often found in forests, belonging to the pheasant family.	キジ			紅腹錦雞				
 301	kick..stationary.item:to	1135	KICK	to kick (stationary item)	kick	ᴋɪᴄᴋ	3			To strike a stationary object with the foot.	動かない物を蹴る	लात मारना		踢不動的東西	ခြေဖြင့်ကန်သည်			kick
 302	kill:to	1417	KILL	to kill	kill	ᴋɪʟʟ	3			To cause a living thing to die by means of an action or injury.	殺す	मारना		殺	သတ်သည်			kill
-303	kiss:to			to kiss	kiss	ᴋɪꜱꜱ	3			To press one's lips against another person or an object as a sign of affection, greeting, or passion.	キスする			吻	နမ်းသည်			
+303	kiss:to	578	KISS	to kiss	kiss	ᴋɪꜱꜱ	3			To press one's lips against another person or an object as a sign of affection, greeting, or passion.	キスする			吻	နမ်းသည်			
 166	knife	1352	KNIFE	knife	knife	ᴋɴɪꜰᴇ	3			A sharp tool used for cutting or slicing things.	包丁	चाकू		刀	ဓား		knife/blade	
 304	know..something:to	1410	KNOW (SOMETHING)	to know (something)	know	ᴋɴᴏᴡ	3			To have information or knowledge about a specific fact, object, or situation in one's mind.	知る	कुछ समझना		知道	သိသည်			know
 167	ladder..stairs	2689	LADDER OR STAIRS	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	3			A structure consisting of a series of steps or rungs used for climbing up or down between different levels.	階段	सीढ़ियाँ		階梯	လှေကား			
@@ -267,7 +267,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 260	short..height:to.be	1645	SHORT	to be short (height)	short	ꜱʜᴏʀᴛ	3			To have a small distance between the top of the head and the soles of the feet, especially when compared to others.	背が低い	छोटा होना		矮（身量短）	ပုသည်			
 82	short..length:to.be	1645	SHORT	to be short (length)	short	ꜱʜᴏʀᴛ	2			To have a small distance from one end to the other, rather than being long.	短い	छोटा होना		短	တိုသည်		to be short (length)	
 261	shy:to.be	487	SHY	to be shy	shy	ꜱʜʏ	3			To feel nervous, timid, or uncomfortable, especially when being around other people or in a social situation.	恥ずかしがる	शर्मीला होना		害羞	ရှက်သည်		(be) shy	
-355	sibling:younger			younger sibling	younger.sibling	ʏᴏᴜɴɢᴇʀ.ꜱɪʙʟɪɴɢ	3			A person who has the same parents as you but was born after you.	弟妹			弟妹				
+355	sibling:younger	427	YOUNGER SIBLING	younger sibling	younger.sibling	ʏᴏᴜɴɢᴇʀ.ꜱɪʙʟɪɴɢ	3			A person who has the same parents as you but was born after you.	弟妹			弟妹				
 213	silver	759	SILVER	silver	silver	ꜱɪʟᴠᴇʀ	3			A precious, shiny, grayish-white metal used for making jewelry or coins.	銀	चाँदी		銀	ငွေ		silver	silver
 323	sing:to	1261	SING	to sing	sing	ꜱɪɴɢ	3			To produce musical sounds with the voice, often following a melody or rhythm.	歌う	गाना गाना		唱歌	သီဆိုသည်			
 324	sink:to	1088	SINK (DESCEND)	to sink	sink	ꜱɪɴᴋ	3			To move or fall downward below the surface of a liquid.	沈む	डूबना		下沉	နစ်သည်			
@@ -306,7 +306,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 268	sweet:to.be	717	SWEET	to be sweet	sweet	ꜱᴡᴇᴇᴛ	3			To have a taste like sugar or honey rather than being salty, sour, or bitter.	甘い	मीठा होना		甜	ချိုသည်		to be sweet	sweet
 74	tail	1220	TAIL	tail	tail	ᴛᴀɪʟ	2		body parts	The posterior part of an animal's body that extends from the spine.	尻尾	पूंछ		尾巴	အမြီး		tail	tail
 269	tall:to.be	711	TALL	to be tall	tall	ᴛᴀʟʟ	3			To have a great vertical distance from the bottom to the top, such as a person or a tree.	背が高い	ऊँचा		高（身量長）	အရပ်ရှည်သည်		to be tall	long/tall
-334	tether..goats:to			to tether (goats)	tether	ᴛᴇᴛʜᴇʀ	3			To tie an animal, such as a goat, to a fixed object or a stake in the ground so that it can move around within a limited area but cannot wander away.	繋ぐ			拴	လံကြိုးဖြင့်ချည်သည်			
+334	tether..goats:to	2891	TIE UP (TETHER)	to tether (goats)	tether	ᴛᴇᴛʜᴇʀ	3			To tie an animal, such as a goat, to a fixed object or a stake in the ground so that it can move around within a limited area but cannot wander away.	繋ぐ			拴	လံကြိုးဖြင့်ချည်သည်			
 270	thick..of.material:to.be	1244	THICK	to be thick (of material)	thick	ᴛʜɪᴄᴋ	3			To have a large distance between opposite surfaces or a large width.	厚い	मोटा		厚	ထူသည်			thick
 271	thin..of.material:to.be	2306	THIN (OF LEAF AND CLOTH)	to be thin (of material)	thin	ᴛʜɪɴ	3			To have a very small distance between the two sides or surfaces of an object, such as a piece of cloth or a leaf.	薄い	पतला		薄	ပါးသည်			thin
 20	thorn	124	THORN	thorn	thorn	ᴛʜᴏʀɴ	1		flora	A sharp, pointed part on a plant or stem that can prick or scratch the skin.	棘	कांटा		植物的刺	ဆူး		thorn	thorn (prick)
@@ -337,7 +337,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 337	wash.clothes:to	3434	WASH (CLOTHES)	to wash clothes	wash.clothes	ᴡᴀꜱʜ.ᴄʟᴏᴛʜᴇꜱ	3			To clean garments or pieces of fabric using water and a cleaning agent.	洗濯する			洗衣				
 29	water	948	WATER	water	water	ᴡᴀᴛᴇʀ	1			The clear, colorless liquid that falls from the sky as rain and is necessary for all living things to drink.	水			水	ရေ			water
 273	weak:to.be	1601	WEAK	to be weak	weak	ᴡᴇᴀᴋ	3			To lack physical strength or power.	弱い	कमजोर होना		虛弱	အားနည်းသည်		to be weak	
-338	weave..baskets:to			to weave (baskets)	weave	ᴡᴇᴀᴠᴇ	3			To make a container or basket by interlacing strips of wood, bamboo, or other flexible materials.	籠を編む			編籃子	ခြင်းရက်သည်			
+338	weave..baskets:to	3296	WEAVE (BASKET)	to weave (baskets)	weave	ᴡᴇᴀᴠᴇ	3			To make a container or basket by interlacing strips of wood, bamboo, or other flexible materials.	籠を編む			編籃子	ခြင်းရက်သည်			
 94	weave..fabric:to	133	WEAVE	to weave (fabric)	weave	ᴡᴇᴀᴠᴇ	2			To make cloth or fabric by interlacing threads or fibers on a loom.	織る	बुनना		織布	ရက်ကန်းရက်သည်		to weave (cloth)	weave
 26	weep..cry:to	1839	CRY	to weep (cry)	weep	ᴡᴇᴇᴘ	1			To shed tears from the eyes, often as an expression of sadness, pain, or grief.	泣く	रोना		哭泣	ငိုသည်			weep
 351	west	1817	WEST	west	west	ᴡᴇꜱᴛ	3			The direction where the sun sets in the evening.	西	पश्चिम		西	အနောက်		west	
