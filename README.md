@@ -4,6 +4,8 @@ The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an mul
 
 #### Concepticon coverage
 
+Where possible, the concepts are mapped to those of the [CONCEPTICON](https://concepticon.clld.org/). Coverage is as follows:
+
 [![30](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_30.json)](https://concepticon.clld.org/)
 [![100](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_100.json)](https://concepticon.clld.org/)
 [![350](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_350.json)](https://concepticon.clld.org/)
@@ -44,7 +46,6 @@ Additionally, the concepts aim to track fine-grained semantic distinctions where
 | 877  | carry..on.shoulder:to   | to carry (on shoulder)   | carry |
 | 878  | carry..under.arm:to     | to carry (under arm)     | carry |
 
-Where possible, the concepts are cross-linked to those of the [CONCEPTICON](https://concepticon.clld.org/).
 
 ## Stages
 
