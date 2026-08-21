@@ -53,17 +53,12 @@ The concept list is divided into stages, with the shorder lists focused on conce
 
 SALIST 30 is specifically developed for the purposes of determining whether or not a given language of the region belongs to the Patkaian branch of Tibeto-Burman. SALIST 100 and above are for more general lexicostatistic comparisons and historical reconstruction.
 
-
 ## Design principles
 
 (This section is still being written)
 
 1. **Specificity is preferred over generality**, but not to the point of projecting it where it is not coded in the data. General terms should be used only in cases where specificity cannot be determined, as in "Greater hornbill" versus "hornbill (general)".
 2. **Verb stems take precendence over noun stems** in cases where a concept may occur as both in English. "To be hungry" is considered more basic than "hunger (sensation)". This is based on local typological features, where the latter is almost always derived from the former. However, verbs are always affixed with "to (be)".
-
-## Definitions
-
-Definitions are still being refined for concepts as our understanding of the regions languages improves. For the time being, we try to follow those given in [CONCEPTICON](https://concepticon.clld.org/) for parallel concpts.
 
 ## Structure
 
