@@ -4,7 +4,7 @@ on:
   push:
     branches: [master]
     paths:
-      - 'lists/salist_full.tsv'
+      - 'lists/*.tsv'
       - 'scripts/coverage_badge.py'
       - '.github/workflows/concepticon-badge.yml'
   workflow_dispatch:
@@ -28,10 +28,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet badge.json; then
+          git add badges
+          if git diff --cached --quiet; then
             echo "No change"
           else
-            git add badge.json
-            git commit -m "Update Concepticon coverage badge"
+            git commit -m "Update Concepticon coverage badges"
             git push
           fi

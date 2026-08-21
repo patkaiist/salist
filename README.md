@@ -5,7 +5,13 @@ The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an mul
 ## Cite
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18515381.svg)](https://doi.org/10.5281/zenodo.18515381)
-[![Concepticon](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadge.json)](https://concepticon.clld.org/)
+
+### Concepticon coverage
+
+[![100](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_100.json)](https://concepticon.clld.org/)
+[![350](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_350.json)](https://concepticon.clld.org/)
+[![500](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_500.json)](https://concepticon.clld.org/)
+[![full](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpatkaiist%2Fsalist%2Fmaster%2Fbadges%2Fsalist_full.json)](https://concepticon.clld.org/)
 
 Cite as:
 > Dam, Kellen Parker van (2026) Sal Area Lexical Inventory for Sino-Tibetan (SALIST) v1.0.2. Phonemica. https://doi.org/10.5281/zenodo.18515381

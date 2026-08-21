@@ -1,8 +1,9 @@
 import csv
 import json
+import os
 
-SOURCE = "lists/salist_full.tsv"
-OUTPUT = "badge.json"
+LISTS = ["salist_100", "salist_350", "salist_500", "salist_full"]
+OUTPUT_DIR = "badges"
 EMPTY = {"", "-", "–", "—", "nan", "NA"}
 
 
@@ -16,26 +17,34 @@ def color(pct):
     return "red"
 
 
-def main():
-    with open(SOURCE, newline="", encoding="utf-8") as f:
+def coverage(path):
+    with open(path, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f, delimiter="\t"))
-
     total = len(rows)
     mapped = sum(1 for r in rows if (r.get("concepticon_id") or "").strip() not in EMPTY)
-    pct = 100 * mapped / total if total else 0
+    return mapped, total
 
-    badge = {
-        "schemaVersion": 1,
-        "label": "Concepticon",
-        "message": f"{mapped}/{total} ({pct:.1f}%)",
-        "color": color(pct),
-    }
 
-    with open(OUTPUT, "w", encoding="utf-8") as f:
-        json.dump(badge, f, indent=2)
-        f.write("\n")
+def main():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    print(badge["message"])
+    for name in LISTS:
+        mapped, total = coverage(os.path.join("lists", f"{name}.tsv"))
+        pct = 100 * mapped / total if total else 0
+        label = name.split("_")[1]
+
+        badge = {
+            "schemaVersion": 1,
+            "label": label,
+            "message": f"{mapped}/{total} ({pct:.0f}%)",
+            "color": color(pct),
+        }
+
+        with open(os.path.join(OUTPUT_DIR, f"{name}.json"), "w", encoding="utf-8") as f:
+            json.dump(badge, f, indent=2)
+            f.write("\n")
+
+        print(f"{label}: {badge['message']}")
 
 
 if __name__ == "__main__":
