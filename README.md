@@ -3,8 +3,8 @@
 The _Sal Area Lexical Inventory for Sino-Tibetan_ (SALIST, "Sal-list") is an multi-stage concept list designed for lexical data collection and comparison in the Patkai range and surrounding areas, specifically for languages which may be included within the the proposed Sal subfamily within Sino-Tibetan (Burling 1983). 
 
 ## Cite
-
-[![DOI](https://zenodo.org/badge/22032517.svg)](https://doi.org/10.5281/zenodo.22032517)
+https://doi.org/10.5281/zenodo.22032517
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18515381.svg)](https://doi.org/10.5281/zenodo.18515381)
 
 Cite as:
 > Dam, Kellen Parker van (2026) Sal Area Lexical Inventory for Sino-Tibetan (SALIST) v1.0.1. Phonemica. https://doi.org/10.5281/zenodo.18515381
