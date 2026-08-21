@@ -1,0 +1,37 @@
+name: Concepticon coverage badge
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'lists/salist_full.tsv'
+      - 'scripts/coverage_badge.py'
+      - '.github/workflows/concepticon-badge.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: python scripts/coverage_badge.py
+
+      - name: Commit badge
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet badge.json; then
+            echo "No change"
+          else
+            git add badge.json
+            git commit -m "Update Concepticon coverage badge"
+            git push
+          fi
