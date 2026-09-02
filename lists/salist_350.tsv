@@ -16,6 +16,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 33	1.n.sg.incl	1131	WE (INCLUSIVE)	1 n sg incl	1.n.sg.incl	1.ɴ.ꜱɢ.ɪɴᴄʟ	2		pronouns	A group of people that includes the speaker and one or more other people.	私たち（相手を含む）			我們（含聽話人）	ကျွန်တော်တို့ (သင်လည်းပါ)			
 34	1.sg	1209	I	1 sg	1.sg	1.ꜱɢ	2		pronouns	The person who is speaking.	わたし			我			I (1s)	I
 221	1000.:thousand	1843	THOUSAND	thousand	thousand	ᴛʜᴏᴜꜱᴀɴᴅ	3		numbers	The number 1,000.	千	हजार	হাজাৰ	千	တစ်ထောင်		thousand (persons)	
+2814	2.du			2 du	2.du	2.ᴅᴜ	3			The listener and one other person.								
 35	2.n.sg	1213	YOU	2 n sg	2.n.sg	2.ɴ.ꜱɢ	2		pronouns	The person or people being spoken to.	おまえたち			你們	သင်တို့		you (2p)	
 36	2.sg	1215	THOU	2 sg	2.sg	2.ꜱɢ	2		pronouns	A person being spoken to, who is not the speaker.	おまえ			你			you (2s)	thou
 37	3.n.sg	817	THEY	3 n sg	3.n.sg	3.ɴ.ꜱɢ	2		pronouns	A group of people or things that does not include the speaker or the listener.	彼ら，彼女ら			他們	သူတို့		they (3p)	
@@ -116,7 +117,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 87	fly:to	1441	FLY (MOVE THROUGH AIR)	to fly	fly	ꜰʟʏ	2			To move through the air using wings or by means of flight.	飛ぶ	उड़ना		飛	ပျံသန်းသည်			fly
 135	fog..mist	249	FOG	fog (mist)	fog	ꜰᴏɢ	3			A thick cloud of tiny water droplets suspended in the air near the ground that makes it difficult to see clearly.	霧	कोहरा		霧	မြူ		mist/fog	
 293	forget:to	1523	FORGET	to forget	forget	ꜰᴏʀɢᴇᴛ	3			To fail to remember a piece of information or a past event.	忘れる	भूलना		忘記	မေ့သည်			forget
-137	fowl	265	FOWL	fowl	fowl	ꜰᴏᴡʟ	3		fauna	A bird that is kept on a farm for its meat or eggs.	家禽			家禽	ကြက်ငှက်			fowl
 138	frog	503	FROG	frog	frog	ꜰʀᴏɢ	3			An amphibian with smooth, moist skin and long hind legs used for jumping.	蛙	मेंढक		青蛙	ဖား		frog	frog
 8	fruit	1507	FRUIT	fruit	fruit	ꜰʀᴜɪᴛ	1		flora	The fleshy, edible part of a plant that contains seeds and grows from a flower.	実	फल		水果	အသီး		fruit (tree)	fruit
 257	full.:satiated:to.be	106	SATIATED	to be satiated	satiated	ꜱᴀᴛɪᴀᴛᴇᴅ	3			To feel completely full or satisfied after eating or drinking, such that one cannot consume any more.	満腹である	भर जाना		吃飽	ဗိုက်ပြည့်သည်		to be full (after eating)	

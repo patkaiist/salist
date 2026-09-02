@@ -70,7 +70,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 221	1000.:thousand	1843	THOUSAND	thousand	thousand	ᴛʜᴏᴜꜱᴀɴᴅ	3		numbers	The number 1,000.	千	हजार	হাজাৰ	千	တစ်ထောင်		thousand (persons)	
 1981	10000.:ten.thousand	2078	TEN THOUSAND	ten thousand	ten.thousand	ᴛᴇɴ.ᴛʜᴏᴜꜱᴀɴᴅ	7			The number that represents a unit of ten thousand (10,000).	万			萬				
 1542	100000.:hundred.thousand	3532	ONE HUNDRED THOUSAND	hundred thousand	hundred.thousand	ʜᴜɴᴅʀᴇᴅ.ᴛʜᴏᴜꜱᴀɴᴅ	7			The number consisting of a one followed by five zeros (100,000).	十万			十萬				
-2814	2.du						7											
+2814	2.du			2 du	2.du	2.ᴅᴜ	3			The listener and one other person.								
 35	2.n.sg	1213	YOU	2 n sg	2.n.sg	2.ɴ.ꜱɢ	2		pronouns	The person or people being spoken to.	おまえたち			你們	သင်တို့		you (2p)	
 36	2.sg	1215	THOU	2 sg	2.sg	2.ꜱɢ	2		pronouns	A person being spoken to, who is not the speaker.	おまえ			你			you (2s)	thou
 1131	2.sg.f	2105	FEMALE PERSON	2 sg f	2.sg.f	2.ꜱɢ.ꜰ	7			The person being spoken to, who is female and is not the speaker.	あなた			妳				
@@ -1027,7 +1027,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1447	fortune.teller			fortune teller	fortune.teller	ꜰᴏʀᴛᴜɴᴇ.ᴛᴇʟʟᴇʀ	7			A person who predicts a person's future or tells what will happen to them.	占い師			算命師				
 1457	forward..direction	2912	FORWARD	forward (direction)	forward	ꜰᴏʀᴡᴀʀᴅ	7			In a direction toward the front or the direction one is facing.	前方へ			向前	ရှေ့			
 1458	foundation			foundation	foundation	ꜰᴏᴜɴᴅᴀᴛɪᴏɴ	7			The solid base of a building or structure that is buried underground to support it.	基礎			地基	အုတ်မြစ်			
-137	fowl	265	FOWL	fowl	fowl	ꜰᴏᴡʟ	3		fauna	A bird that is kept on a farm for its meat or eggs.	家禽			家禽	ကြက်ငှက်			fowl
+137	fowl	265	FOWL	fowl	fowl	ꜰᴏᴡʟ	7		fauna	A bird that is kept on a farm for its meat or eggs.	家禽			家禽	ကြက်ငှက်			fowl
 411	fox	1312	FOX	fox	fox	ꜰᴏx	4		fauna	A small, wild carnivorous mammal with a pointed snout, a bushy tail, and a reddish-brown coat.	狐	लोमड़ी		狐狸	မြေခွေး			
 412	freckle	530	FRECKLE	freckle	freckle	ꜰʀᴇᴄᴋʟᴇ	4		body parts	A small, dark spot or mark on the skin, often caused by sun exposure.	そばかす			雀斑	တင်းတိပ်			
 2344	freeze:to	1431	FREEZE	to freeze	freeze	ꜰʀᴇᴇᴢᴇ	7			To undergo a change in state from a liquid to a solid due to a very low temperature.	凍る			結冰	ခဲသည်			
