@@ -321,7 +321,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2187	bite.off:to	1403	BITE	to bite off	bite.off	ʙɪᴛᴇ.ᴏꜰꜰ	7			To use teeth to separate a piece from a larger object or food item.	かじり取る			咬下				
 233	bitter:to.be	887	BITTER	to be bitter	bitter	ʙɪᴛᴛᴇʀ	3			To have a sharp, unpleasant taste on the tongue, such as the taste of unsweetened coffee or certain medicinal plants.	苦い	कड़वा		苦	ခါးသည်		to be bitter	bitter
 1193	bitter.gourd			bitter gourd	bitter.gourd	ʙɪᴛᴛᴇʀ.ɢᴏᴜʀᴅ	7			A green, oblong fruit with a bumpy or warty skin that has a very bitter taste when eaten.	ニガウリ			苦瓜				
-2779	black.magic	2222	CONJURE	black magic	black.magic	ʙʟᴀᴄᴋ.ᴍᴀɢɪᴄ	4			The use of supernatural powers or magic, often used to cause harm, illness, or bad luck to others.	魔術			巫術	စုန်းကဝေအတတ်			
+2779	hex:to	2222	CONJURE	to hex	hex	ʜᴇx	4			To cause ill fortune through supernatural means.	魔術			巫術	စုန်းကဝေအတတ်			
 1195	blacksmith	1001	BLACKSMITH	blacksmith	blacksmith	ʙʟᴀᴄᴋꜱᴍɪᴛʜ	7			A person who makes or repairs tools and objects made of metal by heating them in a fire and hammering them.	鍛冶屋			鐵匠	ပန်းပဲသမား			
 1196	bladder	1746	BLADDER	bladder	bladder	ʙʟᴀᴅᴅᴇʀ	7			An organ in the body that collects and holds urine before it is released from the body.	膀胱			膀胱	ဆီးအိမ်		bladder	
 1197	blade..of.grass	869	BLADE	blade (of grass)	blade	ʙʟᴀᴅᴇ	7			A single, long, narrow leaf of a grass plant.	草の葉			草葉				
@@ -527,7 +527,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1276	city	2547	CITY	city	city	ᴄɪᴛʏ	7			A large, permanent human settlement with many buildings, many people, and organized streets or infrastructure.	都市			城市	မြို့ကြီး			
 546	civet.cat	3157	CIVET	civet cat	civet.cat	ᴄɪᴠᴇᴛ.ᴄᴀᴛ	5			A small, nocturnal mammal with a strong scent produced by glands on its body, often found in forests and known for eating fruit.	ジャコウネコ	जंगली बिल्ली		狸貓				
 1277	clam	4156	CLAMS	clam	clam	ᴄʟᴀᴍ	7			A sea creature with a hard, two-part shell that lives in the sand or mud.	二枚貝			蛤蜊	ခုံးကောင်			
-1278	clan	302	CLAN	clan	clan	ᴄʟᴀɴ	7			A group of people who are believed to be descended from a common ancestor.	氏族			氏族	မျိုးနွယ်စု			
+1278	clan	302	CLAN	clan	clan	ᴄʟᴀɴ	3			A group of people who are believed to be descended from a common ancestor.	氏族			氏族	မျိုးနွယ်စု			
 2232	clap.hands:to	3110	CLAP	to clap hands	clap.hands	ᴄʟᴀᴘ.ʜᴀɴᴅꜱ	7			To strike the palms of both hands together to make a sound.	手を叩く			拍手				
 1279	class..school			class (school)	class	ᴄʟᴀꜱꜱ	7			A group of students who are taught together by a teacher in a school.	クラス			班級	အတန်း			
 119	claw..animal	72	CLAW	claw (animal)	claw	ᴄʟᴀᴡ	7		body parts	A sharp, curved nail on the foot of an animal, such as a bird, a cat, or a bear.	動物の爪	पंजा		爪子	ခြေသည်း		claw	nail/claw
@@ -692,7 +692,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 563	daughter.in.law	1057	DAUGHTER-IN-LAW	daughter in law	daughter.in.law	ᴅᴀᴜɢʜᴛᴇʀ.ɪɴ.ʟᴀᴡ	5			The female spouse of one's child.	嫁	बहु		兒媳	ချွေးမ		daughter-in-law	
 383	dawn..before.sunrise	729	DAWN	dawn (before sunrise)	dawn	ᴅᴀᴡɴ	4			The period of time when the sky first begins to lighten before the sun appears above the horizon.	あけがた	भोर		黎明	အရုဏ်တက်		dawn (before sunrise)	
 120	day::time	1225	DAY (NOT NIGHT)	daytime	daytime	ᴅᴀʏᴛɪᴍᴇ	3			The period of time when the sun is above the horizon and there is light in the sky, as opposed to the period of darkness at night.	昼	दिन का समय		白天	နေ့ဘက်		daytime	sun/day
-564	day:.classifier	1260	DAY (24 HOURS)	day	day	ᴅᴀʏ	5			A period of time lasting twenty-four hours, from one sunrise to the next.	日	दिन		天	ရက်			
+564	day:.classifier	1260	DAY (24 HOURS)	day	day	ᴅᴀʏ	3			A period of time lasting twenty-four hours, from one sunrise to the next.	日	दिन		天	ရက်			
 801	dead:to.be	1625	DEAD	to be dead	dead	ᴅᴇᴀᴅ	5			To no longer be alive or to have ceased all biological functions.	死んでいる			已死			(be) dead	
 802	deaf:to.be	996	DEAF	to be deaf	deaf	ᴅᴇᴀꜰ	5			To be unable to hear sounds.	つんぼ	बहरा होना		聾	နားမကြားသည်		to be deaf	
 1334	deaf.person	458	DEAF PERSON	deaf person	deaf.person	ᴅᴇᴀꜰ.ᴘᴇʀꜱᴏɴ	7			A person who is unable to hear sounds.	聾者			聾人				
@@ -1258,7 +1258,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1538	how..q	1239	HOW	how (q)	how	ʜᴏᴡ	7			In what manner or by what means does an action occur?	どうやって			怎麼（提問）	ဘယ်လို			
 1106	hum:to	3671	HUM	to hum	hum	ʜᴜᴍ	6			To make a continuous, low sound with the mouth closed, often by vibrating the vocal cords.	鼻歌を歌う			哼	တဝီဝီမြည်သည်			
 1086	humble:to.be	4069	HUMBLE	to be humble	humble	ʜᴜᴍʙʟᴇ	6			To act or feel modest and not proud, showing a lack of arrogance or superiority toward others.	謙虚である			謙虛				
-156	hummingbird	1589	HUMMINGBIRD	hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ	3			A very small bird with rapidly beating wings that can hover in mid-air and feeds on the nectar of flowers.	ハチドリ			蜂鳥	ငှက်ပိတုန်း			
+156	hummingbird	1589	HUMMINGBIRD	hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ	7			A very small bird with rapidly beating wings that can hover in mid-air and feeds on the nectar of flowers.	ハチドリ			蜂鳥	ငှက်ပိတုန်း			
 1027	hump..of.animal	534	HUMP	hump (of animal)	hump	ʜᴜᴍᴘ	6			A raised mass of flesh or fat on the back of an animal, such as a camel or certain breeds of cattle.	瘤			駝峰	အဖု			
 245	hungry:to.be	1533	BE HUNGRY	to be hungry	hungry	ʜᴜɴɢʀʏ	3			To feel a physical need or desire to eat food.	空腹である	भूख लगना		飢餓	ဆာသည်		to be hungry	
 300	hunt:to	1435	HUNT	to hunt	hunt	ʜᴜɴᴛ	3			To chase, catch, or kill wild animals for food or for sport.	猟をする	शिकार करना		狩獵	အမဲလိုက်သည်		chase (v)	drive/hunt
@@ -1372,7 +1372,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1563	knowledge	3874	KNOWLEDGE	knowledge	knowledge	ᴋɴᴏᴡʟᴇᴅɢᴇ	7			The information, facts, or skills acquired through experience or education.	知識			知識	အသိပညာ			
 1565	labour.pains			labour pains	labour.pains	ʟᴀʙᴏᴜʀ.ᴘᴀɪɴꜱ	7			The strong, rhythmic contractions of the uterus that occur during childbirth.	陣痛			陣痛				
 895	lack:to	2329	LACK (NOT HAVE)	to lack	lack	ʟᴀᴄᴋ	5			To not have something or to be without a specific thing that is needed or desired.	欠く	कुछ अभाव होना		缺乏	ချို့တဲ့သည်		lack (v)	
-167	ladder..stairs	2689	LADDER OR STAIRS	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	3			A structure consisting of a series of steps or rungs used for climbing up or down between different levels.	階段	सीढ़ियाँ		階梯	လှေကား			
+167	ladder..stairs	2689	LADDER OR STAIRS	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	5			A structure consisting of a series of steps or rungs used for climbing up or down between different levels.	階段	सीढ़ियाँ		階梯	လှေကား			
 1044	ladle	2657	LADLE	ladle	ladle	ʟᴀᴅʟᴇ	6			A large, deep-bowled spoon used for serving liquids such as soup or water.	おたま			湯勺	ယောက်ချို		ladle	
 168	lake	624	LAKE	lake	lake	ʟᴀᴋᴇ	3			A large body of water that is surrounded by land.	湖	झील		湖泊	ရေကန်		lake	
 1566	lamb	820	LAMB	lamb	lamb	ʟᴀᴍʙ	7			A young animal that is the offspring of a sheep.	子羊			羔羊				
@@ -1468,7 +1468,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 248	long:to.be	1203	LONG	to be long	long	ʟᴏɴɢ	3			To have a great distance from one end to the other, rather than being short.	長い	लम्बा		長	ရှည်သည်		to be long	long/tall
 2096	long..of.time:to.be	418	FOR A LONG TIME	to be long (of time)	long	ʟᴏɴɢ	7			To last for a great amount of time or a large number of years, days, or hours.	時間が長い			持久				
 2405	look.after:to			to look after	look.after	ʟᴏᴏᴋ.ᴀꜰᴛᴇʀ	7			To take care of someone or something, such as a child, an animal, or a plant, to ensure they are safe and healthy.	世話をする			照顧				
-899	look.at:to	1819	LOOK	to look at	look.at	ʟᴏᴏᴋ.ᴀᴛ	5			To direct one's eyes toward a specific object, person, or place.	見る	कुछ देखना		看	ကြည့်သည်		to look at	
+899	look.at:to	1819	LOOK	to look at	look.at	ʟᴏᴏᴋ.ᴀᴛ	4			To direct one's eyes toward a specific object, person, or place.	見る	कुछ देखना		看	ကြည့်သည်		to look at	
 900	look.for..seek:to	1468	LOOK FOR	to look for (seek)	look.for	ʟᴏᴏᴋ.ꜰᴏʀ	5			To search for something or someone that is lost or needed.	探す	खोजना		尋找	ရှာသည်		look for	
 2406	look.from.afar:to			to look from afar	look.from.afar	ʟᴏᴏᴋ.ꜰʀᴏᴍ.ᴀꜰᴀʀ	7			To direct one's sight toward something or someone that is at a great distance.	遠くから見る			遠眺				
 174	loom:backstrap	–	–	backstrap loom	backstrap.loom	ʙᴀᴄᴋꜱᴛʀᴀᴘ.ʟᴏᴏᴍ	3			A tool used for weaving fabric where one end is tied to a fixed object and the other end is secured around the waist of the weaver to provide tension.	腰機	तकिया		腰機	ရက်ကန်းစင်			
@@ -2353,7 +2353,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1941	stem..of.plant	2628	PLANT STEM	stem (of plant)	stem	ꜱᴛᴇᴍ	7			The main, central part of a plant that supports the leaves and branches and connects them to the roots.	茎			莖	ပင်စည်		stem, stalk (of corn, millet, etc.)	
 489	step:to.take	2065	STEP (VERB)	to take step	take.step	ᴛᴀᴋᴇ.ꜱᴛᴇᴘ	4			To lift a foot and place it down in a new position to move the body forward.	足を運ぶ	कदम रखना		邁步	ခြေလှမ်းလှမ်းသည်		step (v)	
 939	step.on:to	–	–	to step on	step.on	ꜱᴛᴇᴘ.ᴏɴ	5			To place one's foot on top of something.	踏む	कुछ पर कदम रखना		踩	ခြေဖြင့်နင်းသည်			
-490	stick..glue:to	254	STICKING	to stick (glue)	stick	ꜱᴛɪᴄᴋ	4			To join or attach two surfaces together using a sticky substance like resin, sap, or adhesive.	のりで付ける			黏上	ကပ်သည်			
+490	stick..glue:to	254	STICKING	to stick (glue)	stick	ꜱᴛɪᴄᴋ	5			To join or attach two surfaces together using a sticky substance like resin, sap, or adhesive.	のりで付ける			黏上	ကပ်သည်			
 219	stick..tree	1295	STICK	stick (tree)	stick	ꜱᴛɪᴄᴋ	3			A thin, woody piece of a plant or a tree that has fallen or been broken off.	杖, 棒	छड़ी		棍子	တုတ်			stick
 2134	sticky:to.be	3703	STICKY	to be sticky	sticky	ꜱᴛɪᴄᴋʏ	7			To have a surface that clings or adheres to other things when touched.	粘りつく			黏（有黏性）				
 1943	still..as.yet	2919	STILL (CONTINUING)	still (as yet)	still	ꜱᴛɪʟʟ	7			An event or state that began in the past and continues to happen at the present moment.	まだ			還				

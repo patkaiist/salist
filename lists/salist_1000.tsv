@@ -126,7 +126,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 43	bird..general.term	937	BIRD	bird (general term)	bird	ʙɪʀᴅ	2		fauna	A warm-blooded vertebrate animal that has feathers and wings, and typically lays eggs.	鳥	पक्षी		鳥	ငှက်		bird	bird
 274	bite:to	1403	BITE	to bite	bite	ʙɪᴛᴇ	3			To use the teeth to cut into or grip something.	かみつく	काटना		咬	ကိုက်သည်			bite
 233	bitter:to.be	887	BITTER	to be bitter	bitter	ʙɪᴛᴛᴇʀ	3			To have a sharp, unpleasant taste on the tongue, such as the taste of unsweetened coffee or certain medicinal plants.	苦い	कड़वा		苦	ခါးသည်		to be bitter	bitter
-2779	black.magic	2222	CONJURE	black magic	black.magic	ʙʟᴀᴄᴋ.ᴍᴀɢɪᴄ	4			The use of supernatural powers or magic, often used to cause harm, illness, or bad luck to others.	魔術			巫術	စုန်းကဝေအတတ်			
+2779	hex:to	2222	CONJURE	to hex	hex	ʜᴇx	4			To cause ill fortune through supernatural means.	魔術			巫術	စုန်းကဝေအတတ်			
 530	blanket	806	BLANKET	blanket	blanket	ʙʟᴀɴᴋᴇᴛ	5			A large piece of cloth or material used as a covering for warmth while sleeping or resting.	毛布	रजाई		毛毯	စောင်		blanket	
 794	blind:to.be	1653	BLIND	to be blind	blind	ʙʟɪɴᴅ	5			To be unable to see due to a physical condition or injury.	目が見えない	अंधा होना		失明	မျက်မမြင်ဖြစ်သည်		to be blind	
 2190	blink:to	1655	BLINK	to blink	blink	ʙʟɪɴᴋ	4			To close and open one's eyelids very quickly and repeatedly.	まばたきする			眨眼（雙眼）	မျက်တောင်ခတ်သည်			
@@ -195,6 +195,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 855	choose..between.things:to	1750	CHOOSE	to choose (between things)	choose	ᴄʜᴏᴏꜱᴇ	5			To select or pick one thing out of two or more possibilities.	選ぶ	चुनना		選擇	ရွေးချယ်သည်			
 545	cicada	2353	CICADA	cicada	cicada	ᴄɪᴄᴀᴅᴀ	5		fauna	An insect that lives in trees or bushes and makes a loud, buzzing sound by vibrating its wings or abdomen.	蝉	तिड्डी		蟬	ပုစဉ်းရင်ကွဲ			
 546	civet.cat	3157	CIVET	civet cat	civet.cat	ᴄɪᴠᴇᴛ.ᴄᴀᴛ	5			A small, nocturnal mammal with a strong scent produced by glands on its body, often found in forests and known for eating fruit.	ジャコウネコ	जंगली बिल्ली		狸貓				
+1278	clan	302	CLAN	clan	clan	ᴄʟᴀɴ	3			A group of people who are believed to be descended from a common ancestor.	氏族			氏族	မျိုးနွယ်စု			
 547	clay	1399	CLAY	clay	clay	ᴄʟᴀʏ	5			A fine-grained, heavy earth or soil that is sticky when wet and can be shaped into objects.	粘土	मिट्टी		黏土	ရွှံ့		clay	
 856	clean:to	2235	CLEAN (SOMETHING)	to clean	clean	ᴄʟᴇᴀɴ	5			To remove dirt, dust, or impurities from an object or a surface.	掃除する	साफ़ करना		清潔	သန့်ရှင်းအောင်လုပ်သည်			
 799	clear..in.meaning:to.be	–	–	to be clear (in meaning)	clear	ᴄʟᴇᴀʀ	5			To be easy to understand or unambiguous, such that there is no confusion about the intended message.	明快である	स्पष्ट होना		清晰	ရှင်းလင်းသည်			
@@ -250,7 +251,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 563	daughter.in.law	1057	DAUGHTER-IN-LAW	daughter in law	daughter.in.law	ᴅᴀᴜɢʜᴛᴇʀ.ɪɴ.ʟᴀᴡ	5			The female spouse of one's child.	嫁	बहु		兒媳	ချွေးမ		daughter-in-law	
 383	dawn..before.sunrise	729	DAWN	dawn (before sunrise)	dawn	ᴅᴀᴡɴ	4			The period of time when the sky first begins to lighten before the sun appears above the horizon.	あけがた	भोर		黎明	အရုဏ်တက်		dawn (before sunrise)	
 120	day::time	1225	DAY (NOT NIGHT)	daytime	daytime	ᴅᴀʏᴛɪᴍᴇ	3			The period of time when the sun is above the horizon and there is light in the sky, as opposed to the period of darkness at night.	昼	दिन का समय		白天	နေ့ဘက်		daytime	sun/day
-564	day:.classifier	1260	DAY (24 HOURS)	day	day	ᴅᴀʏ	5			A period of time lasting twenty-four hours, from one sunrise to the next.	日	दिन		天	ရက်			
+564	day:.classifier	1260	DAY (24 HOURS)	day	day	ᴅᴀʏ	3			A period of time lasting twenty-four hours, from one sunrise to the next.	日	दिन		天	ရက်			
 801	dead:to.be	1625	DEAD	to be dead	dead	ᴅᴇᴀᴅ	5			To no longer be alive or to have ceased all biological functions.	死んでいる			已死			(be) dead	
 802	deaf:to.be	996	DEAF	to be deaf	deaf	ᴅᴇᴀꜰ	5			To be unable to hear sounds.	つんぼ	बहरा होना		聾	နားမကြားသည်		to be deaf	
 523	deer:barking	3152	MUNTJACS	barking deer	barking.deer	ʙᴀʀᴋɪɴɢ.ᴅᴇᴇʀ	5		fauna	A small-sized deer that makes a loud, sharp sound like a dog when it is startled or threatened.	バブー	कसाई		麂	ဂျီ		barking deer	
@@ -458,7 +459,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 811	hot..of.weather:to.be	3693	HOT WEATHER	to be hot (of weather)	hot	ʜᴏᴛ	5			To describe the state of the air or the environment when it has a high temperature.	暑い	गर्म होना  मौसम का		炎熱	ပူသည်		hot weather [hot season]	
 10	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	1			A permanent structure used as a place for people to live in.	家	घर		房子	အိမ်		house	house
 416	housefly..common	1504	FLY (INSECT)	housefly (common)	housefly	ʜᴏᴜꜱᴇꜰʟʏ	4		fauna	A small flying insect with two wings that is commonly found near human dwellings and food.	蝿	मक्खी		家蠅	ယင်ကောင်		fly	
-156	hummingbird	1589	HUMMINGBIRD	hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ	3			A very small bird with rapidly beating wings that can hover in mid-air and feeds on the nectar of flowers.	ハチドリ			蜂鳥	ငှက်ပိတုန်း			
 245	hungry:to.be	1533	BE HUNGRY	to be hungry	hungry	ʜᴜɴɢʀʏ	3			To feel a physical need or desire to eat food.	空腹である	भूख लगना		飢餓	ဆာသည်		to be hungry	
 300	hunt:to	1435	HUNT	to hunt	hunt	ʜᴜɴᴛ	3			To chase, catch, or kill wild animals for food or for sport.	猟をする	शिकार करना		狩獵	အမဲလိုက်သည်		chase (v)	drive/hunt
 632	husband	1200	HUSBAND	husband	husband	ʜᴜꜱʙᴀɴᴅ	5			A man who is married to a woman.	夫	पति		丈夫	ခင်ပွန်း		husband	
@@ -496,7 +496,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 894	know..someone:to	2248	KNOW (SOMEBODY)	to know (someone)	know	ᴋɴᴏᴡ	5			To be acquainted with a person or to have a personal relationship with them.	知り合いである	कुछ जानना		認識	သိကျွမ်းသည်			
 304	know..something:to	1410	KNOW (SOMETHING)	to know (something)	know	ᴋɴᴏᴡ	3			To have information or knowledge about a specific fact, object, or situation in one's mind.	知る	कुछ समझना		知道	သိသည်			know
 895	lack:to	2329	LACK (NOT HAVE)	to lack	lack	ʟᴀᴄᴋ	5			To not have something or to be without a specific thing that is needed or desired.	欠く	कुछ अभाव होना		缺乏	ချို့တဲ့သည်		lack (v)	
-167	ladder..stairs	2689	LADDER OR STAIRS	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	3			A structure consisting of a series of steps or rungs used for climbing up or down between different levels.	階段	सीढ़ियाँ		階梯	လှေကား			
+167	ladder..stairs	2689	LADDER OR STAIRS	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	5			A structure consisting of a series of steps or rungs used for climbing up or down between different levels.	階段	सीढ़ियाँ		階梯	လှေကား			
 168	lake	624	LAKE	lake	lake	ʟᴀᴋᴇ	3			A large body of water that is surrounded by land.	湖	झील		湖泊	ရေကန်		lake	
 642	land..area	626	LAND	land (area)	land	ʟᴀɴᴅ	5			The solid part of the earth's surface that is not covered by water.	陸地	भूमि		土地	ကုန်းမြေ			
 11	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	1			A system of sounds, words, and grammar used by a group of people to communicate.	ことば	भाषा		語言	ဘာသာစကား		language	
@@ -535,7 +535,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 650	locust	810	LOCUST	locust	locust	ʟᴏᴄᴜꜱᴛ	5		fauna	A large, jumping insect that often travels in massive groups and can destroy crops.	イナゴ	टिड्डी		蝗蟲	ကျိုင်းကောင်		locust	
 651	log	–	–	log	log	ʟᴏɢ	5			A piece of wood that has been cut from a tree, typically in a cylindrical shape.	丸太	लॉग		圓木	သစ်လုံး			
 248	long:to.be	1203	LONG	to be long	long	ʟᴏɴɢ	3			To have a great distance from one end to the other, rather than being short.	長い	लम्बा		長	ရှည်သည်		to be long	long/tall
-899	look.at:to	1819	LOOK	to look at	look.at	ʟᴏᴏᴋ.ᴀᴛ	5			To direct one's eyes toward a specific object, person, or place.	見る	कुछ देखना		看	ကြည့်သည်		to look at	
+899	look.at:to	1819	LOOK	to look at	look.at	ʟᴏᴏᴋ.ᴀᴛ	4			To direct one's eyes toward a specific object, person, or place.	見る	कुछ देखना		看	ကြည့်သည်		to look at	
 900	look.for..seek:to	1468	LOOK FOR	to look for (seek)	look.for	ʟᴏᴏᴋ.ꜰᴏʀ	5			To search for something or someone that is lost or needed.	探す	खोजना		尋找	ရှာသည်		look for	
 174	loom:backstrap	–	–	backstrap loom	backstrap.loom	ʙᴀᴄᴋꜱᴛʀᴀᴘ.ʟᴏᴏᴍ	3			A tool used for weaving fabric where one end is tied to a fixed object and the other end is secured around the waist of the weaver to provide tension.	腰機	तकिया		腰機	ရက်ကန်းစင်			
 815	loose:to.be	2506	LOOSE	to be loose	loose	ʟᴏᴏꜱᴇ	5			To be in a state where something is not tight, fixed, or firmly attached.	ゆるい	ढीला होना		松	ချောင်သည်		to be loose	
@@ -838,7 +838,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 331	steal:to	713	STEAL	to steal	steal	ꜱᴛᴇᴀʟ	3			To take property or an object that belongs to someone else without their permission and without paying for it.	盗む	चुराना		偷	ခိုးယူသည်			steal
 489	step:to.take	2065	STEP (VERB)	to take step	take.step	ᴛᴀᴋᴇ.ꜱᴛᴇᴘ	4			To lift a foot and place it down in a new position to move the body forward.	足を運ぶ	कदम रखना		邁步	ခြေလှမ်းလှမ်းသည်		step (v)	
 939	step.on:to	–	–	to step on	step.on	ꜱᴛᴇᴘ.ᴏɴ	5			To place one's foot on top of something.	踏む	कुछ पर कदम रखना		踩	ခြေဖြင့်နင်းသည်			
-490	stick..glue:to	254	STICKING	to stick (glue)	stick	ꜱᴛɪᴄᴋ	4			To join or attach two surfaces together using a sticky substance like resin, sap, or adhesive.	のりで付ける			黏上	ကပ်သည်			
+490	stick..glue:to	254	STICKING	to stick (glue)	stick	ꜱᴛɪᴄᴋ	5			To join or attach two surfaces together using a sticky substance like resin, sap, or adhesive.	のりで付ける			黏上	ကပ်သည်			
 219	stick..tree	1295	STICK	stick (tree)	stick	ꜱᴛɪᴄᴋ	3			A thin, woody piece of a plant or a tree that has fallen or been broken off.	杖, 棒	छड़ी		棍子	တုတ်			stick
 332	sting..of.bee:to	571	STING	to sting (of bee)	sting	ꜱᴛɪɴɢ	3			To pierce the skin with a sharp organ to inject venom, specifically as an action performed by an insect like a bee or wasp.	蜂が刺す	दर्द होना		螫（蜜蜂）	ပျားတုပ်သည်		sting (v)	
 761	stomach..organ	819	STOMACH	stomach (organ)	stomach	ꜱᴛᴏᴍᴀᴄʜ	5		body parts	The hollow organ in the upper abdomen where food is held and digested.	胃	पेट		肚子	အစာအိမ်			

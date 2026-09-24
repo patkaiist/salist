@@ -69,7 +69,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 43	bird..general.term	937	BIRD	bird (general term)	bird	ʙɪʀᴅ	2		fauna	A warm-blooded vertebrate animal that has feathers and wings, and typically lays eggs.	鳥	पक्षी		鳥	ငှက်		bird	bird
 274	bite:to	1403	BITE	to bite	bite	ʙɪᴛᴇ	3			To use the teeth to cut into or grip something.	かみつく	काटना		咬	ကိုက်သည်			bite
 233	bitter:to.be	887	BITTER	to be bitter	bitter	ʙɪᴛᴛᴇʀ	3			To have a sharp, unpleasant taste on the tongue, such as the taste of unsweetened coffee or certain medicinal plants.	苦い	कड़वा		苦	ခါးသည်		to be bitter	bitter
-2779	black.magic	2222	CONJURE	black magic	black.magic	ʙʟᴀᴄᴋ.ᴍᴀɢɪᴄ	4			The use of supernatural powers or magic, often used to cause harm, illness, or bad luck to others.	魔術			巫術	စုန်းကဝေအတတ်			
+2779	hex:to	2222	CONJURE	to hex	hex	ʜᴇx	4			To cause ill fortune through supernatural means.	魔術			巫術	စုန်းကဝေအတတ်			
 2190	blink:to	1655	BLINK	to blink	blink	ʙʟɪɴᴋ	4			To close and open one's eyelids very quickly and repeatedly.	まばたきする			眨眼（雙眼）	မျက်တောင်ခတ်သည်			
 3	blood	946	BLOOD	blood	blood	ʙʟᴏᴏᴅ	1		body parts	The red liquid that flows through the veins and arteries of a human or animal body.	血	रक्त		血液	သွေး		blood	blood
 275	bloom:to	3287	BLOOM	to bloom	bloom	ʙʟᴏᴏᴍ	3		flora	To produce flowers on a stem or plant.	咲く	खिलना		開花	ပန်းပွင့်သည်		(be) open [blossom]	
@@ -105,6 +105,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 118	child..general	2099	CHILD	child (general)	child	ᴄʜɪʟᴅ	3			A young human being, typically from birth until the onset of adulthood.	こども	बच्चा		兒童	ကလေး			child/son
 46	chili.pepper	919	CHILI PEPPER	chili pepper	chili.pepper	ᴄʜɪʟɪ.ᴘᴇᴘᴘᴇʀ	2		flora	A small, often spicy fruit from a plant used in cooking to add heat to food.	唐辛子	मिर्च		辣椒	ငရုတ်သီး		red pepper	
 375	chin	1510	CHIN	chin	chin	ᴄʜɪɴ	4			The part of the face below the mouth and above the neck.	顎	ठुड्डी		下巴	မေးစေ့		chin	
+1278	clan	302	CLAN	clan	clan	ᴄʟᴀɴ	3			A group of people who are believed to be descended from a common ancestor.	氏族			氏族	မျိုးနွယ်စု			
 466	close..tr:to	–	–	to close (tr)	close	ᴄʟᴏꜱᴇ	4			To move a door, a window, or a lid so that an opening is no longer accessible.	閉める	बंद करना		關閉	ပိတ်သည်			
 376	cloth	1616	CLOTH	cloth	cloth	ᴄʟᴏᴛʜ	4			A piece of flexible material made by weaving or knitting fibers together, used for making clothes or other items.	布	कपड़ा		布料	အထည်		cloth	
 47	cloud..rain	1489	CLOUD	cloud (rain)	cloud	ᴄʟᴏᴜᴅ	2			A visible mass of water droplets or ice crystals suspended in the atmosphere, often associated with rain or weather changes.	雲	बादल		雲	တိမ်တိုက်		cloud (rain)	cloud
@@ -125,6 +126,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 469	dance:to	1879	DANCE	to dance	dance	ᴅᴀɴᴄᴇ	4			To move the body rhythmically, often to the sound of music.	踊る	नाचना		跳舞	ကသည်			
 383	dawn..before.sunrise	729	DAWN	dawn (before sunrise)	dawn	ᴅᴀᴡɴ	4			The period of time when the sky first begins to lighten before the sun appears above the horizon.	あけがた	भोर		黎明	အရုဏ်တက်		dawn (before sunrise)	
 120	day::time	1225	DAY (NOT NIGHT)	daytime	daytime	ᴅᴀʏᴛɪᴍᴇ	3			The period of time when the sun is above the horizon and there is light in the sky, as opposed to the period of darkness at night.	昼	दिन का समय		白天	နေ့ဘက်		daytime	sun/day
+564	day:.classifier	1260	DAY (24 HOURS)	day	day	ᴅᴀʏ	3			A period of time lasting twenty-four hours, from one sunrise to the next.	日	दिन		天	ရက်			
 384	deer..general	1936	DEER	deer (general)	deer	ᴅᴇᴇʀ	4		fauna	A hoofed mammal that typically has antlers and lives in forests or grasslands.	鹿	हिरण		鹿	သမင်			
 283	descend..move.down:to	2014	GO DOWN (DESCEND)	to descend (move down)	descend	ᴅᴇꜱᴄᴇɴᴅ	3			To move from a higher position to a lower position.	おりる	उतरना		下降	ဆင်းသည်		descend, go down	descend
 385	descendants	490	DESCENDANTS	descendants	descendants	ᴅᴇꜱᴄᴇɴᴅᴀɴᴛꜱ	4		kinship	The people, such as children, grandchildren, or great-grandchildren, who are born to a person.	子孫			後代				
@@ -247,7 +249,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 244	hot:to.be	1286	HOT	to be hot	hot	ʜᴏᴛ	3			To have a high temperature or to feel a high level of heat.	熱い			熱				
 10	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	1			A permanent structure used as a place for people to live in.	家	घर		房子	အိမ်		house	house
 416	housefly..common	1504	FLY (INSECT)	housefly (common)	housefly	ʜᴏᴜꜱᴇꜰʟʏ	4		fauna	A small flying insect with two wings that is commonly found near human dwellings and food.	蝿	मक्खी		家蠅	ယင်ကောင်		fly	
-156	hummingbird	1589	HUMMINGBIRD	hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ	3			A very small bird with rapidly beating wings that can hover in mid-air and feeds on the nectar of flowers.	ハチドリ			蜂鳥	ငှက်ပိတုန်း			
 245	hungry:to.be	1533	BE HUNGRY	to be hungry	hungry	ʜᴜɴɢʀʏ	3			To feel a physical need or desire to eat food.	空腹である	भूख लगना		飢餓	ဆာသည်		to be hungry	
 300	hunt:to	1435	HUNT	to hunt	hunt	ʜᴜɴᴛ	3			To chase, catch, or kill wild animals for food or for sport.	猟をする	शिकार करना		狩獵	အမဲလိုက်သည်		chase (v)	drive/hunt
 477	ignite..something:to	737	LIGHT (IGNITE)	to ignite (something)	ignite	ɪɢɴɪᴛᴇ	4			To cause something to start burning or catch fire.	火をつける	जलना		點燃	မီးရှို့သည်		light (fire) (v)	
@@ -264,7 +265,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 303	kiss:to	578	KISS	to kiss	kiss	ᴋɪꜱꜱ	3			To press one's lips against another person or an object as a sign of affection, greeting, or passion.	キスする			吻	နမ်းသည်			
 166	knife	1352	KNIFE	knife	knife	ᴋɴɪꜰᴇ	3			A sharp tool used for cutting or slicing things.	包丁	चाकू		刀	ဓား		knife/blade	
 304	know..something:to	1410	KNOW (SOMETHING)	to know (something)	know	ᴋɴᴏᴡ	3			To have information or knowledge about a specific fact, object, or situation in one's mind.	知る	कुछ समझना		知道	သိသည်			know
-167	ladder..stairs	2689	LADDER OR STAIRS	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	3			A structure consisting of a series of steps or rungs used for climbing up or down between different levels.	階段	सीढ़ियाँ		階梯	လှေကား			
 168	lake	624	LAKE	lake	lake	ʟᴀᴋᴇ	3			A large body of water that is surrounded by land.	湖	झील		湖泊	ရေကန်		lake	
 11	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	1			A system of sounds, words, and grammar used by a group of people to communicate.	ことば	भाषा		語言	ဘာသာစကား		language	
 450	late:to.be	477	LATE	to be late	late	ʟᴀᴛᴇ	4			To arrive at a place or finish an action after the expected or scheduled time.	遅れる	शाम होना		遲到	နောက်ကျသည်		late	
@@ -285,6 +285,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 308	listen:to	1608	LISTEN	to listen	listen	ʟɪꜱᴛᴇɴ	3			To direct one's attention toward a sound in order to hear it.	聞く			聆聽	နားထောင်သည်			
 173	liver	1224	LIVER	liver	liver	ʟɪᴠᴇʀ	3		body parts	The large, dark reddish-brown organ in the abdomen that filters blood and aids in digestion.	肝臓	जिगर		肝臟	အသည်း		liver	liver
 248	long:to.be	1203	LONG	to be long	long	ʟᴏɴɢ	3			To have a great distance from one end to the other, rather than being short.	長い	लम्बा		長	ရှည်သည်		to be long	long/tall
+899	look.at:to	1819	LOOK	to look at	look.at	ʟᴏᴏᴋ.ᴀᴛ	4			To direct one's eyes toward a specific object, person, or place.	見る	कुछ देखना		看	ကြည့်သည်		to look at	
 174	loom:backstrap	–	–	backstrap loom	backstrap.loom	ʙᴀᴄᴋꜱᴛʀᴀᴘ.ʟᴏᴏᴍ	3			A tool used for weaving fabric where one end is tied to a fixed object and the other end is secured around the waist of the weaver to provide tension.	腰機	तकिया		腰機	ရက်ကန်းစင်			
 478	lose..something:to	–	–	to lose (something)	lose	ʟᴏꜱᴇ	4			To no longer have or possess something that was previously held or owned.	失う	हारना		丟失	ပျောက်ဆုံးသည်			
 451	lost:to.be	3667	LOST	to be lost	lost	ʟᴏꜱᴛ	4			To be unable to find one's way or to be unable to return to a known location.	迷う			迷路			(be) lost	
@@ -425,7 +426,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 72	star	1430	STAR	star	star	ꜱᴛᴀʀ	2			A large, luminous ball of gas in space that shines in the night sky.	星	तारा		星星	ကြယ်ပွင့်		star	star
 331	steal:to	713	STEAL	to steal	steal	ꜱᴛᴇᴀʟ	3			To take property or an object that belongs to someone else without their permission and without paying for it.	盗む	चुराना		偷	ခိုးယူသည်			steal
 489	step:to.take	2065	STEP (VERB)	to take step	take.step	ᴛᴀᴋᴇ.ꜱᴛᴇᴘ	4			To lift a foot and place it down in a new position to move the body forward.	足を運ぶ	कदम रखना		邁步	ခြေလှမ်းလှမ်းသည်		step (v)	
-490	stick..glue:to	254	STICKING	to stick (glue)	stick	ꜱᴛɪᴄᴋ	4			To join or attach two surfaces together using a sticky substance like resin, sap, or adhesive.	のりで付ける			黏上	ကပ်သည်			
 219	stick..tree	1295	STICK	stick (tree)	stick	ꜱᴛɪᴄᴋ	3			A thin, woody piece of a plant or a tree that has fallen or been broken off.	杖, 棒	छड़ी		棍子	တုတ်			stick
 332	sting..of.bee:to	571	STING	to sting (of bee)	sting	ꜱᴛɪɴɢ	3			To pierce the skin with a sharp organ to inject venom, specifically as an action performed by an insect like a bee or wasp.	蜂が刺す	दर्द होना		螫（蜜蜂）	ပျားတုပ်သည်		sting (v)	
 73	stone	857	STONE	stone	stone	ꜱᴛᴏɴᴇ	2			A hard, solid, non-living mineral matter found in the ground or on the surface of the earth.	石	पत्थर		石頭	ကျောက်		stone	stone

@@ -70,6 +70,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 280	carry..on.back:to	465	CARRY ON BACK	to carry (on back)	carry	ᴄᴀʀʀʏ	3			To transport an object or a person by placing it on one's back and supporting it with the body or a strap.	背負う			背				
 118	child..general	2099	CHILD	child (general)	child	ᴄʜɪʟᴅ	3			A young human being, typically from birth until the onset of adulthood.	こども	बच्चा		兒童	ကလေး			child/son
 46	chili.pepper	919	CHILI PEPPER	chili pepper	chili.pepper	ᴄʜɪʟɪ.ᴘᴇᴘᴘᴇʀ	2		flora	A small, often spicy fruit from a plant used in cooking to add heat to food.	唐辛子	मिर्च		辣椒	ငရုတ်သီး		red pepper	
+1278	clan	302	CLAN	clan	clan	ᴄʟᴀɴ	3			A group of people who are believed to be descended from a common ancestor.	氏族			氏族	မျိုးနွယ်စု			
 47	cloud..rain	1489	CLOUD	cloud (rain)	cloud	ᴄʟᴏᴜᴅ	2			A visible mass of water droplets or ice crystals suspended in the atmosphere, often associated with rain or weather changes.	雲	बादल		雲	တိမ်တိုက်		cloud (rain)	cloud
 235	cold..of.items:to.be	1287	COLD	to be cold (of items)	cold	ᴄᴏʟᴅ	3			To have a low temperature, rather than a person feeling a sensation of low temperature.	冷たい	ठंडा होना		寒冷	အေးသည်		to be cool (water)	cold
 236	cold..of.weather:to.be	2483	COLD (OF WEATHER)	to be cold (of weather)	cold	ᴄᴏʟᴅ	3			To describe a low temperature in the air or the surrounding environment.	寒い	ठंडा मौसम		寒冷的天氣	ချမ်းသည်		cold weather [cold season]	
@@ -80,6 +81,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 281	cook..general:to	1100	COOK (SOMETHING)	to cook (general)	cook	ᴄᴏᴏᴋ	3			To prepare food for eating by applying heat.	料理する	पकाना		烹飪	ချက်ပြုတ်သည်		to cook (rice)	cook/boil
 282	count:to	1420	COUNT	to count	count	ᴄᴏᴜɴᴛ	3			To determine the total number of items in a group by assigning a number to each one.	数える	गिनना		數數	ရေတွက်သည်		to count	
 120	day::time	1225	DAY (NOT NIGHT)	daytime	daytime	ᴅᴀʏᴛɪᴍᴇ	3			The period of time when the sun is above the horizon and there is light in the sky, as opposed to the period of darkness at night.	昼	दिन का समय		白天	နေ့ဘက်		daytime	sun/day
+564	day:.classifier	1260	DAY (24 HOURS)	day	day	ᴅᴀʏ	3			A period of time lasting twenty-four hours, from one sunrise to the next.	日	दिन		天	ရက်			
 283	descend..move.down:to	2014	GO DOWN (DESCEND)	to descend (move down)	descend	ᴅᴇꜱᴄᴇɴᴅ	3			To move from a higher position to a lower position.	おりる	उतरना		下降	ဆင်းသည်		descend, go down	descend
 84	die:to	1494	DIE	to die	die	ᴅɪᴇ	2			To cease to live or to undergo the process of death.	死ぬ	मरना		死	သေသည်			die
 85	dig:to	1418	DIG	to dig	dig	ᴅɪɢ	2			To move earth, soil, or sand away from a place using a tool or hands to create a hole or a trench.	掘る	खोदना		挖	တူးသည်		to dig (with a tool)	dig
@@ -157,7 +159,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 155	horse..general	615	HORSE	horse (general)	horse	ʜᴏʀꜱᴇ	3		fauna	A large, strong animal with four legs and a long mane, often used for riding or pulling heavy loads.	馬	घोड़ा		馬	မြင်း		horse	horse
 244	hot:to.be	1286	HOT	to be hot	hot	ʜᴏᴛ	3			To have a high temperature or to feel a high level of heat.	熱い			熱				
 10	house	1252	HOUSE	house	house	ʜᴏᴜꜱᴇ	1			A permanent structure used as a place for people to live in.	家	घर		房子	အိမ်		house	house
-156	hummingbird	1589	HUMMINGBIRD	hummingbird	hummingbird	ʜᴜᴍᴍɪɴɢʙɪʀᴅ	3			A very small bird with rapidly beating wings that can hover in mid-air and feeds on the nectar of flowers.	ハチドリ			蜂鳥	ငှက်ပိတုန်း			
 245	hungry:to.be	1533	BE HUNGRY	to be hungry	hungry	ʜᴜɴɢʀʏ	3			To feel a physical need or desire to eat food.	空腹である	भूख लगना		飢餓	ဆာသည်		to be hungry	
 300	hunt:to	1435	HUNT	to hunt	hunt	ʜᴜɴᴛ	3			To chase, catch, or kill wild animals for food or for sport.	猟をする	शिकार करना		狩獵	အမဲလိုက်သည်		chase (v)	drive/hunt
 246	ill..sick:to.be	1847	SICK	to be ill (sick)	ill	ɪʟʟ	3			To experience a state of poor health or a physical or mental ailment that prevents normal functioning.	病気になる	बीमार होना		生病	နေမကောင်းဖြစ်သည်		(be) sick, (be) ill	ill
@@ -172,7 +173,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 303	kiss:to	578	KISS	to kiss	kiss	ᴋɪꜱꜱ	3			To press one's lips against another person or an object as a sign of affection, greeting, or passion.	キスする			吻	နမ်းသည်			
 166	knife	1352	KNIFE	knife	knife	ᴋɴɪꜰᴇ	3			A sharp tool used for cutting or slicing things.	包丁	चाकू		刀	ဓား		knife/blade	
 304	know..something:to	1410	KNOW (SOMETHING)	to know (something)	know	ᴋɴᴏᴡ	3			To have information or knowledge about a specific fact, object, or situation in one's mind.	知る	कुछ समझना		知道	သိသည်			know
-167	ladder..stairs	2689	LADDER OR STAIRS	ladder (stairs)	ladder	ʟᴀᴅᴅᴇʀ	3			A structure consisting of a series of steps or rungs used for climbing up or down between different levels.	階段	सीढ़ियाँ		階梯	လှေကား			
 168	lake	624	LAKE	lake	lake	ʟᴀᴋᴇ	3			A large body of water that is surrounded by land.	湖	झील		湖泊	ရေကန်		lake	
 11	language	1307	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	1			A system of sounds, words, and grammar used by a group of people to communicate.	ことば	भाषा		語言	ဘာသာစကား		language	
 305	laugh:to	1355	LAUGH	to laugh	laugh	ʟᴀᴜɢʜ	3			To make sounds and move the mouth or face in a way that shows amusement or joy.	笑う	हंसना		笑	ရယ်သည်			laugh
