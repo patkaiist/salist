@@ -54,11 +54,9 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 107	banana..fruit	868	BANANA	banana (fruit)	banana	ʙᴀɴᴀɴᴀ	3		flora	A long, soft fruit with a thick skin that is typically yellow when ripe and grows on a large herb-like plant.	バナナ	केला	কল	香蕉	ငှက်ပျောသီး		banana (fruit)	plantain/banana
 362	banana.tree	1795	BANANA TREE	banana tree	banana.tree	ʙᴀɴᴀɴᴀ.ᴛʀᴇᴇ	4		flora	The large, herbaceous plant with long, wide leaves that produces edible fruit.	バナナの木			香蕉樹				
 108	banyan..tree	346	BANYAN	banyan (tree)	banyan	ʙᴀɴʏᴀɴ	3		flora	A large tree that grows many roots from its branches down into the ground to form a new trunk.	ガジュマル	बरगद		榕樹	ညောင်ပင်			
-148	barbet:great	–	–	great barbet	great.barbet	ɢʀᴇᴀᴛ.ʙᴀʀʙᴇᴛ	3			A large, colorful tropical bird with a thick, fleshy beak and a prominent head, often seen in forested areas.	オオゴシキツグミ			大鸚哥				
 109	basket..general	1539	BASKET	basket (general)	basket	ʙᴀꜱᴋᴇᴛ	3	cf Chang _kam_	artefacts	A container made of woven plant materials, such as wood, bamboo, or cane, used for carrying or storing things.	籠			籃子	တောင်း		basket	
 42	bat..animal	1793	BAT	bat (animal)	bat	ʙᴀᴛ	2		fauna	A nocturnal flying mammal with wings formed by skin stretched between its fingers.	蝙蝠	चमगादड़		蝙蝠	လင်းနို့		bat	
 110	bean..general	832	BEAN	bean (general)	bean	ʙᴇᴀɴ	3			A seed of a plant from the legume family, often used as food.	豆			豆子	ပဲ			peas, beans
-111	bear..animal	1820	BEAR	bear (animal)	bear	ʙᴇᴀʀ	3			A large, heavy mammal with thick fur and strong limbs, often found in forests and known for eating honey or plants.	熊	भालू		熊	ဝက်ဝံ		bear	bear
 363	bed	1663	BED	bed	bed	ʙᴇᴅ	4			A piece of furniture used for sleeping or resting on.	寝台	बिस्तर		牀	အိပ်ရာ			
 364	bee::hive	88	BEEHIVE	beehive	beehive	ʙᴇᴇʜɪᴠᴇ	4		fauna	The structure built by bees to live in and store honey.	蜂の巣			蜂巢	ပျားအုံ		beehive	
 2	bee..general	665	BEE	bee (general)	bee	ʙᴇᴇ	1		fauna	A flying insect that produces honey and lives in a colony or hive.	蜂	मधुमक्खी		蜜蜂	ပျား		bee	bee
@@ -69,7 +67,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 43	bird..general.term	937	BIRD	bird (general term)	bird	ʙɪʀᴅ	2		fauna	A warm-blooded vertebrate animal that has feathers and wings, and typically lays eggs.	鳥	पक्षी		鳥	ငှက်		bird	bird
 274	bite:to	1403	BITE	to bite	bite	ʙɪᴛᴇ	3			To use the teeth to cut into or grip something.	かみつく	काटना		咬	ကိုက်သည်			bite
 233	bitter:to.be	887	BITTER	to be bitter	bitter	ʙɪᴛᴛᴇʀ	3			To have a sharp, unpleasant taste on the tongue, such as the taste of unsweetened coffee or certain medicinal plants.	苦い	कड़वा		苦	ခါးသည်		to be bitter	bitter
-2779	hex:to	2222	CONJURE	to hex	hex	ʜᴇx	4			To cause ill fortune through supernatural means.	魔術			巫術	စုန်းကဝေအတတ်			
+2779	hex:to	8	CURSE	to hex	hex	ʜᴇx	4			To cause ill fortune through supernatural means.	魔術			巫術	စုန်းကဝေအတတ်			
 2190	blink:to	1655	BLINK	to blink	blink	ʙʟɪɴᴋ	4			To close and open one's eyelids very quickly and repeatedly.	まばたきする			眨眼（雙眼）	မျက်တောင်ခတ်သည်			
 3	blood	946	BLOOD	blood	blood	ʙʟᴏᴏᴅ	1		body parts	The red liquid that flows through the veins and arteries of a human or animal body.	血	रक्त		血液	သွေး		blood	blood
 275	bloom:to	3287	BLOOM	to bloom	bloom	ʙʟᴏᴏᴍ	3		flora	To produce flowers on a stem or plant.	咲く	खिलना		開花	ပန်းပွင့်သည်		(be) open [blossom]	
@@ -82,7 +80,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 113	bone.marrow	1835	MARROW	bone marrow	bone.marrow	ʙᴏɴᴇ.ᴍᴀʀʀᴏᴡ	3		body parts	The soft, fatty or spongy substance found inside the center of a bone.	骨髄	हड्डी का मज्जा		骨髓	ရိုးတွင်းခြင်ဆီ			marrow
 234	born:to.be	1090	BE BORN	to be born	born	ʙᴏʀɴ	3			To come out from the mother's body into the world.	生まれる	जन्म लेना		出生	မွေးဖွားသည်		(be) born	be born
 367	bos.frontalis..mithun:::	–	–	Bos frontalis (mithun)	mithun	ᴍɪᴛʜᴜɴ	4		fauna	A large, heavy-bodied bovine that is often domesticated and used for ritual purposes, resembling a cross between a cow and a wild bison.	ミトゥン			密吞牛				
-114	bow	994	BOW	bow	bow	ʙᴏᴡ	3	this should be split between bow and crossbow probably.		"Since the prompt asks for a split between ""bow"" and ""crossbow,"" I will provide two separate definitions. **For the weapon used for shooting arrows:** A weapon consisting of a flexible piece of wood or material that is bent into a curve and used to launch an arrow by pulling a string. **For the weapon that uses a mechanical trigger mechanism:** A weapon used for shooting arrows that uses a mechanical device to hold and release the tension of the string."	弓	धनुष		弓	လေး		bow	bow
+114	bow	994	BOW	bow	bow	ʙᴏᴡ	3	this should be split between bow and crossbow probably.		A weapon consisting of a flexible piece of wood or material that is bent into a curve and used to launch an arrow by pulling a string.	弓	धनुष		弓	လေး		bow	bow
 368	bracelet	1754	BRACELET	bracelet	bracelet	ʙʀᴀᴄᴇʟᴇᴛ	4			A piece of jewelry worn around the wrist.	ブレスレット	बांगड़ी		手鏈	လက်ကောက်		bracelet	
 115	brain	1583	BRAIN	brain	brain	ʙʀᴀɪɴ	3		body parts	The organ inside the skull that controls thought, memory, and movement.	脳	मस्तिष्क		大腦	ဦးနှောက်		brain	brain
 461	break..something:to	3020	BREAK (BREAKING)	to break (something)	break	ʙʀᴇᴀᴋ	4			To cause a solid object to separate into two or more pieces, often by applying force or impact.	壊す	तोड़ना		打破	ချိုးသည်			
@@ -116,6 +114,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 22	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	1		statives	To have the color of blood or a ripe tomato.	赤い	लाल		紅色	နီသည်		red	red
 23	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	1		statives	To have the color of snow, milk, or a blank piece of paper.	白い	सफ़ेद		白色的	ဖြူသည်		white	white
 467	come.back..return:to	581	COME BACK	to come back (return)	come.back	ᴄᴏᴍᴇ.ʙᴀᴄᴋ	4			To move or travel from a place toward the place where one started or where one is currently located.	帰る・戻る	लौटना		回來	ပြန်လာသည်			
+859	compete:to	–	–	to compete	compete	ᴄᴏᴍᴘᴇᴛᴇ	3			To strive against others to win a prize, a position, or a goal in a game, sport, or contest.	競う	प्रतिस्पर्धा करना		競爭	ယှဉ်ပြိုင်သည်			
 281	cook..general:to	1100	COOK (SOMETHING)	to cook (general)	cook	ᴄᴏᴏᴋ	3			To prepare food for eating by applying heat.	料理する	पकाना		烹飪	ချက်ပြုတ်သည်		to cook (rice)	cook/boil
 377	corpse	767	CORPSE	corpse	corpse	ᴄᴏʀᴘꜱᴇ	4		body parts	The dead body of a human being that is no longer alive.	死体	शव		屍體	အလောင်း		corpse	
 378	cotton	1850	COTTON	cotton	cotton	ᴄᴏᴛᴛᴏɴ	4		flora	A soft, white fibrous material that grows in a boll around the seeds of a plant, used for making cloth or thread.	綿	कपास		棉花	ဝါဂွမ်း		cotton	
@@ -127,6 +126,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 383	dawn..before.sunrise	729	DAWN	dawn (before sunrise)	dawn	ᴅᴀᴡɴ	4			The period of time when the sky first begins to lighten before the sun appears above the horizon.	あけがた	भोर		黎明	အရုဏ်တက်		dawn (before sunrise)	
 120	day::time	1225	DAY (NOT NIGHT)	daytime	daytime	ᴅᴀʏᴛɪᴍᴇ	3			The period of time when the sun is above the horizon and there is light in the sky, as opposed to the period of darkness at night.	昼	दिन का समय		白天	နေ့ဘက်		daytime	sun/day
 564	day:.classifier	1260	DAY (24 HOURS)	day	day	ᴅᴀʏ	3			A period of time lasting twenty-four hours, from one sunrise to the next.	日	दिन		天	ရက်			
+2054	deep:to.be	1593	DEEP	to be deep	deep	ᴅᴇᴇᴘ	4			To extend far down from a surface or a top level.	深い			深			to be deep	
 384	deer..general	1936	DEER	deer (general)	deer	ᴅᴇᴇʀ	4		fauna	A hoofed mammal that typically has antlers and lives in forests or grasslands.	鹿	हिरण		鹿	သမင်			
 283	descend..move.down:to	2014	GO DOWN (DESCEND)	to descend (move down)	descend	ᴅᴇꜱᴄᴇɴᴅ	3			To move from a higher position to a lower position.	おりる	उतरना		下降	ဆင်းသည်		descend, go down	descend
 385	descendants	490	DESCENDANTS	descendants	descendants	ᴅᴇꜱᴄᴇɴᴅᴀɴᴛꜱ	4		kinship	The people, such as children, grandchildren, or great-grandchildren, who are born to a person.	子孫			後代				
@@ -139,7 +139,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 387	door::way	1567	DOOR	doorway	doorway	ᴅᴏᴏʀᴡᴀʏ	4	Mismatch with CONCEPTICON		An opening in a wall or partition that allows a person to enter or exit a room or building.	戸口			門戶	တံခါးပေါက်		door	
 86	dream:to	1920	DREAM (SOMETHING)	to dream	dream	ᴅʀᴇᴀᴍ	2			To experience mental images, stories, or sensations while sleeping.	夢を見る	सपना देखना		做夢	အိပ်မက်မက်သည်			dream
 24	drink:to	1401	DRINK	to drink	drink	ᴅʀɪɴᴋ	1			To swallow a liquid through the mouth.	飲む	पीना		喝	သောက်သည်			drink
-388	drum	908	DRUM	drum	drum	ᴅʀᴜᴍ	4			A percussion instrument that produces sound by striking a stretched membrane with a stick or the hands.	太鼓	ढोल		鼓	ဗုံ		drum (musical instrument)	
 442	drunk:to.be	1463	DRUNK	to be drunk	drunk	ᴅʀᴜɴᴋ	4			To be in a state of intoxication caused by consuming alcoholic beverages.	酒に酔う	नशेड़ा		醉	မူးသည်		to be drunk (alcohol)	
 389	duck	1360	DUCK	duck	duck	ᴅᴜᴄᴋ	4		fauna	A water bird with a broad, flat bill and webbed feet that typically lives near ponds or rivers.	アヒル	बत्ख		鴨子	ဘဲ			
 390	dusk..just.after.sunset	2297	DUSK	dusk (just after sunset)	dusk	ᴅᴜꜱᴋ	4			The period of time immediately after the sun has gone below the horizon but before it is completely dark.	夕暮れ	अंधेरा		黃昏	နေဝင်ရီတရော		dusk, twilight (after sunset)	
@@ -161,6 +160,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 472	enter:to	749	ENTER	to enter	enter	ᴇɴᴛᴇʀ	4		verbs	To move from the outside to the inside of a place, such as a room, a building, or a container.	入る	अंदर जाना		進入	ဝင်သည်		to enter (house)	
 397	ereyesterday	1180	DAY BEFORE YESTERDAY	ereyesterday	ereyesterday	ᴇʀᴇʏᴇꜱᴛᴇʀᴅᴀʏ	4			The day that occurred two days before today.	おととい	परसों		前天	တမြန်နေ့က		day before yesterday	
 398	evening	1629	EVENING	evening	evening	ᴇᴠᴇɴɪɴɢ	4			The period of time at the end of the day, occurring after the afternoon and before the night.	夕方	शाम		傍晚	ညနေ			
+2312	exist:to	1579	BE	to exist	exist	ᴇxɪꜱᴛ	3			To have reality or to be present in the world.	存在する			存在	တည်ရှိသည်			
 288	extinguish..fire:to	127	EXTINGUISH	to extinguish (fire)	extinguish	ᴇxᴛɪɴɢᴜɪꜱʜ	3		verbs	To make a fire stop burning by using water, sand, or by smothering it.	火を消す	बुझाना		熄滅	မီးငြှိမ်းသည်		to extinguish (fire)	extinguish
 5	eye	1248	EYE	eye	eye	ᴇʏᴇ	1		body parts	The organ on the face used for seeing and perceiving light.	目	आँख		眼睛	မျက်လုံး		eye	eye
 399	eye::brow	1173	EYEBROW	eyebrow	eyebrow	ᴇʏᴇʙʀᴏᴡ	4		body parts	The strip of hair growing on the bone above the eye.	まゆげ	भौं		眉毛	မျက်ခုံးမွေး		eyebrow	
@@ -284,6 +284,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 172	lip..of.mouth	478	LIP	lip (of mouth)	lip	ʟɪᴘ	3			The fleshy, flexible edges of the mouth that surround the opening.	唇	होंठ		嘴脣	နှုတ်ခမ်း			
 308	listen:to	1608	LISTEN	to listen	listen	ʟɪꜱᴛᴇɴ	3			To direct one's attention toward a sound in order to hear it.	聞く			聆聽	နားထောင်သည်			
 173	liver	1224	LIVER	liver	liver	ʟɪᴠᴇʀ	3		body parts	The large, dark reddish-brown organ in the abdomen that filters blood and aids in digestion.	肝臓	जिगर		肝臟	အသည်း		liver	liver
+649	lizard..general	632	LIZARD	lizard (general)	lizard	ʟɪᴢᴀʀᴅ	3		fauna	A reptile with a long body, four legs, and a tail, often found in warm environments or near human dwellings.	トカゲ	छिपकली		蜥蜴	ပုတ်သင်		house lizard	
 248	long:to.be	1203	LONG	to be long	long	ʟᴏɴɢ	3			To have a great distance from one end to the other, rather than being short.	長い	लम्बा		長	ရှည်သည်		to be long	long/tall
 899	look.at:to	1819	LOOK	to look at	look.at	ʟᴏᴏᴋ.ᴀᴛ	4			To direct one's eyes toward a specific object, person, or place.	見る	कुछ देखना		看	ကြည့်သည်		to look at	
 174	loom:backstrap	–	–	backstrap loom	backstrap.loom	ʙᴀᴄᴋꜱᴛʀᴀᴘ.ʟᴏᴏᴍ	3			A tool used for weaving fabric where one end is tied to a fixed object and the other end is secured around the waist of the weaver to provide tension.	腰機	तकिया		腰機	ရက်ကန်းစင်			
@@ -291,7 +292,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 451	lost:to.be	3667	LOST	to be lost	lost	ʟᴏꜱᴛ	4			To be unable to find one's way or to be unable to return to a known location.	迷う			迷路			(be) lost	
 12	louse..head	1392	LOUSE	louse (head)	louse	ʟᴏᴜꜱᴇ	1		fauna	A small, parasitic insect that lives on a human scalp and feeds on blood.	虱	जूं		頭蝨	သန်း			louse
 309	love:to	923	LOVE	to love	love	ʟᴏᴠᴇ	3			To feel a strong sense of affection, deep liking, or emotional attachment toward a person, animal, or thing.	愛する	प्यार करना		愛	ချစ်သည်		to love	
-175	macaque:.stump.tailed	–	–	macaque	macaque	ᴍᴀᴄᴀꞯᴜᴇ	3			A small to medium-sized monkey with a short tail that is often found in forests or near human settlements in Asia.	尾ていなしの猿			獼猴				
 176	machete..dao	2680	MACHETE	machete (dao)	machete	ᴍᴀᴄʜᴇᴛᴇ	3			A large, heavy knife used as a tool for cutting vegetation or wood.	山刀	तलवार		砍刀	တောခုတ်ဓား		machete, cutlass	
 177	man..male.person	1554	MAN	man (male person)	man	ᴍᴀɴ	3			An adult human male.	男	मनुष्य		男人	ယောက်ျား		man	
 452	many:to.be	1198	MANY	to be many	many	ᴍᴀɴʏ	4			To exist in a large number or a great quantity rather than being one or a few.	多い	बहुत		許多	များသည်			

@@ -42,11 +42,9 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 106	bamboo.shoot	2494	BAMBOO SHOOT	bamboo shoot	bamboo.shoot	ʙᴀᴍʙᴏᴏ.ꜱʜᴏᴏᴛ	3		flora	A young, edible part of a bamboo plant that grows above the ground.	竹の子	बांस की खोखली	কাজি কেচেক	竹筍	မျှစ်		bamboo shoot (edible)	
 107	banana..fruit	868	BANANA	banana (fruit)	banana	ʙᴀɴᴀɴᴀ	3		flora	A long, soft fruit with a thick skin that is typically yellow when ripe and grows on a large herb-like plant.	バナナ	केला	কল	香蕉	ငှက်ပျောသီး		banana (fruit)	plantain/banana
 108	banyan..tree	346	BANYAN	banyan (tree)	banyan	ʙᴀɴʏᴀɴ	3		flora	A large tree that grows many roots from its branches down into the ground to form a new trunk.	ガジュマル	बरगद		榕樹	ညောင်ပင်			
-148	barbet:great	–	–	great barbet	great.barbet	ɢʀᴇᴀᴛ.ʙᴀʀʙᴇᴛ	3			A large, colorful tropical bird with a thick, fleshy beak and a prominent head, often seen in forested areas.	オオゴシキツグミ			大鸚哥				
 109	basket..general	1539	BASKET	basket (general)	basket	ʙᴀꜱᴋᴇᴛ	3	cf Chang _kam_	artefacts	A container made of woven plant materials, such as wood, bamboo, or cane, used for carrying or storing things.	籠			籃子	တောင်း		basket	
 42	bat..animal	1793	BAT	bat (animal)	bat	ʙᴀᴛ	2		fauna	A nocturnal flying mammal with wings formed by skin stretched between its fingers.	蝙蝠	चमगादड़		蝙蝠	လင်းနို့		bat	
 110	bean..general	832	BEAN	bean (general)	bean	ʙᴇᴀɴ	3			A seed of a plant from the legume family, often used as food.	豆			豆子	ပဲ			peas, beans
-111	bear..animal	1820	BEAR	bear (animal)	bear	ʙᴇᴀʀ	3			A large, heavy mammal with thick fur and strong limbs, often found in forests and known for eating honey or plants.	熊	भालू		熊	ဝက်ဝံ		bear	bear
 2	bee..general	665	BEE	bee (general)	bee	ʙᴇᴇ	1		fauna	A flying insect that produces honey and lives in a colony or hive.	蜂	मधुमक्खी		蜜蜂	ပျား		bee	bee
 112	belly..exterior	1251	BELLY	belly (exterior)	belly	ʙᴇʟʟʏ	3		body parts	The front part of the body between the chest and the groin.	腹	पेट		腹部	ဗိုက်		belly	belly (exterior)
 232	big:to.be	1202	BIG	to be big	big	ʙɪɢ	3			To have a large size or great physical dimensions.	大きい	बड़ा		大	ကြီးသည်		to be big	
@@ -61,7 +59,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 44	bone	1394	BONE	bone	bone	ʙᴏɴᴇ	2		body parts	The hard, white, or yellowish structure that forms the skeleton inside a living body.	骨	हड्डी		骨頭	အရိုး		bone	bone
 113	bone.marrow	1835	MARROW	bone marrow	bone.marrow	ʙᴏɴᴇ.ᴍᴀʀʀᴏᴡ	3		body parts	The soft, fatty or spongy substance found inside the center of a bone.	骨髄	हड्डी का मज्जा		骨髓	ရိုးတွင်းခြင်ဆီ			marrow
 234	born:to.be	1090	BE BORN	to be born	born	ʙᴏʀɴ	3			To come out from the mother's body into the world.	生まれる	जन्म लेना		出生	မွေးဖွားသည်		(be) born	be born
-114	bow	994	BOW	bow	bow	ʙᴏᴡ	3	this should be split between bow and crossbow probably.		"Since the prompt asks for a split between ""bow"" and ""crossbow,"" I will provide two separate definitions. **For the weapon used for shooting arrows:** A weapon consisting of a flexible piece of wood or material that is bent into a curve and used to launch an arrow by pulling a string. **For the weapon that uses a mechanical trigger mechanism:** A weapon used for shooting arrows that uses a mechanical device to hold and release the tension of the string."	弓	धनुष		弓	လေး		bow	bow
+114	bow	994	BOW	bow	bow	ʙᴏᴡ	3	this should be split between bow and crossbow probably.		A weapon consisting of a flexible piece of wood or material that is bent into a curve and used to launch an arrow by pulling a string.	弓	धनुष		弓	လေး		bow	bow
 115	brain	1583	BRAIN	brain	brain	ʙʀᴀɪɴ	3		body parts	The organ inside the skull that controls thought, memory, and movement.	脳	मस्तिष्क		大腦	ဦးနှောက်		brain	brain
 117	breast	1402	BREAST	breast	breast	ʙʀᴇᴀꜱᴛ	3		body parts	The soft part of the chest on a human, used for producing milk for a baby.	乳房	स्तन		乳房	ရင်သား		breast	vagina or breast/milk
 4	bridge	1011	BRIDGE	bridge	bridge	ʙʀɪᴅɢᴇ	1			A structure built over a river, road, or gap to allow people or vehicles to cross from one side to the other.	橋	पुल		橋	တံတား		bridge	
@@ -78,6 +76,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 241	colour.:green:to.be	1425	GREEN	to be green	green	ɢʀᴇᴇɴ	3		statives	To have the color of grass, leaves, or emeralds.	緑の	हरा		綠色	စိမ်းသည်		green	
 22	colour.:red:to.be	156	RED	to be red	red	ʀᴇᴅ	1		statives	To have the color of blood or a ripe tomato.	赤い	लाल		紅色	နီသည်		red	red
 23	colour.:white:to.be	1335	WHITE	to be white	white	ᴡʜɪᴛᴇ	1		statives	To have the color of snow, milk, or a blank piece of paper.	白い	सफ़ेद		白色的	ဖြူသည်		white	white
+859	compete:to	–	–	to compete	compete	ᴄᴏᴍᴘᴇᴛᴇ	3			To strive against others to win a prize, a position, or a goal in a game, sport, or contest.	競う	प्रतिस्पर्धा करना		競爭	ယှဉ်ပြိုင်သည်			
 281	cook..general:to	1100	COOK (SOMETHING)	to cook (general)	cook	ᴄᴏᴏᴋ	3			To prepare food for eating by applying heat.	料理する	पकाना		烹飪	ချက်ပြုတ်သည်		to cook (rice)	cook/boil
 282	count:to	1420	COUNT	to count	count	ᴄᴏᴜɴᴛ	3			To determine the total number of items in a group by assigning a number to each one.	数える	गिनना		數數	ရေတွက်သည်		to count	
 120	day::time	1225	DAY (NOT NIGHT)	daytime	daytime	ᴅᴀʏᴛɪᴍᴇ	3			The period of time when the sun is above the horizon and there is light in the sky, as opposed to the period of darkness at night.	昼	दिन का समय		白天	နေ့ဘက်		daytime	sun/day
@@ -96,6 +95,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2835	eat.completely:to	–	–	to eat completely	eat.completely	ᴇᴀᴛ.ᴄᴏᴍᴘʟᴇᴛᴇʟʏ	3											
 126	egg..general	744	EGG	egg (general)	egg	ᴇɢɢ	3		body parts	An oval or round object produced by a bird, reptile, or fish, which contains a developing embryo and a yolk.	卵	चिड़िया का अंडा		蛋	ဥ		egg	egg
 287	emerge:to	1076	EMERGE (APPEAR)	to emerge	emerge	ᴇᴍᴇʀɢᴇ	3			To move from a hidden or internal place into view.	出現する	उभरना		浮現	ထင်ပေါ်လာသည်			emerge
+2312	exist:to	1579	BE	to exist	exist	ᴇxɪꜱᴛ	3			To have reality or to be present in the world.	存在する			存在	တည်ရှိသည်			
 288	extinguish..fire:to	127	EXTINGUISH	to extinguish (fire)	extinguish	ᴇxᴛɪɴɢᴜɪꜱʜ	3		verbs	To make a fire stop burning by using water, sand, or by smothering it.	火を消す	बुझाना		熄滅	မီးငြှိမ်းသည်		to extinguish (fire)	extinguish
 5	eye	1248	EYE	eye	eye	ᴇʏᴇ	1		body parts	The organ on the face used for seeing and perceiving light.	目	आँख		眼睛	မျက်လုံး		eye	eye
 289	fall..of.objects:to	1280	FALL	to fall (of objects)	fall	ꜰᴀʟʟ	3			To move downward from a higher position to a lower position due to gravity.	落ちる	गिरना		落下	ကြွေကျသည်		to fall (from a height)	fall (from a height)
@@ -188,11 +188,11 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 172	lip..of.mouth	478	LIP	lip (of mouth)	lip	ʟɪᴘ	3			The fleshy, flexible edges of the mouth that surround the opening.	唇	होंठ		嘴脣	နှုတ်ခမ်း			
 308	listen:to	1608	LISTEN	to listen	listen	ʟɪꜱᴛᴇɴ	3			To direct one's attention toward a sound in order to hear it.	聞く			聆聽	နားထောင်သည်			
 173	liver	1224	LIVER	liver	liver	ʟɪᴠᴇʀ	3		body parts	The large, dark reddish-brown organ in the abdomen that filters blood and aids in digestion.	肝臓	जिगर		肝臟	အသည်း		liver	liver
+649	lizard..general	632	LIZARD	lizard (general)	lizard	ʟɪᴢᴀʀᴅ	3		fauna	A reptile with a long body, four legs, and a tail, often found in warm environments or near human dwellings.	トカゲ	छिपकली		蜥蜴	ပုတ်သင်		house lizard	
 248	long:to.be	1203	LONG	to be long	long	ʟᴏɴɢ	3			To have a great distance from one end to the other, rather than being short.	長い	लम्बा		長	ရှည်သည်		to be long	long/tall
 174	loom:backstrap	–	–	backstrap loom	backstrap.loom	ʙᴀᴄᴋꜱᴛʀᴀᴘ.ʟᴏᴏᴍ	3			A tool used for weaving fabric where one end is tied to a fixed object and the other end is secured around the waist of the weaver to provide tension.	腰機	तकिया		腰機	ရက်ကန်းစင်			
 12	louse..head	1392	LOUSE	louse (head)	louse	ʟᴏᴜꜱᴇ	1		fauna	A small, parasitic insect that lives on a human scalp and feeds on blood.	虱	जूं		頭蝨	သန်း			louse
 309	love:to	923	LOVE	to love	love	ʟᴏᴠᴇ	3			To feel a strong sense of affection, deep liking, or emotional attachment toward a person, animal, or thing.	愛する	प्यार करना		愛	ချစ်သည်		to love	
-175	macaque:.stump.tailed	–	–	macaque	macaque	ᴍᴀᴄᴀꞯᴜᴇ	3			A small to medium-sized monkey with a short tail that is often found in forests or near human settlements in Asia.	尾ていなしの猿			獼猴				
 176	machete..dao	2680	MACHETE	machete (dao)	machete	ᴍᴀᴄʜᴇᴛᴇ	3			A large, heavy knife used as a tool for cutting vegetation or wood.	山刀	तलवार		砍刀	တောခုတ်ဓား		machete, cutlass	
 177	man..male.person	1554	MAN	man (male person)	man	ᴍᴀɴ	3			An adult human male.	男	मनुष्य		男人	ယောက်ျား		man	
 178	mat	195	MAT	mat	mat	ᴍᴀᴛ	3			A flat piece of material, such as fabric, straw, or plastic, used as a floor covering or to sit upon.	ござ	चटाई		席子	ဖျာ		mat	
