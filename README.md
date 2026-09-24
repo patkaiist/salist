@@ -19,7 +19,7 @@ Where possible, the concepts are mapped to those of the [CONCEPTICON](https://co
 
 
 Cite as:
-> Dam, Kellen Parker van (2026) Sal Area Lexical Inventory for Sino-Tibetan (SALIST) v1.0.2. Phonemica. https://doi.org/10.5281/zenodo.18515381
+> Dam, Kellen Parker van (2026) Sal Area Lexical Inventory for Sino-Tibetan (SALIST) v1.0.4. Phonemica. https://doi.org/10.5281/zenodo.18515381
 
 ## Goals
 
