@@ -86,11 +86,12 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1599	abdomen:lower			lower abdomen	lower.abdomen	ʟᴏᴡᴇʀ.ᴀʙᴅᴏᴍᴇɴ	7			The part of the belly located below the navel and above the pelvic area.	下腹部			小腹				
 2716	abdomen:upper			upper abdomen	upper.abdomen	ᴜᴘᴘᴇʀ.ᴀʙᴅᴏᴍᴇɴ	7			The part of the belly located between the chest and the navel.	上腹部			上腹部				
 2019	able:to.be	972	BE ABLE	to be able	able	ᴀʙʟᴇ	7			To have the power, skill, or opportunity to perform an action.	できる			能夠				
+2839	about	–	–	about	about	ᴀʙᴏᴜᴛ	4			Relating to a specific subject, or roughly approximating a number, time, or quantity.								
 229	above:to.be	1741	ABOVE	to be above	above	ᴀʙᴏᴠᴇ	3			To be in a higher position or at a higher level than something else, without necessarily touching it.	上にある	ऊपर	উপৰ	上面	အထက်တွင်ရှိသည်		over, above	
 1007	abscess	793	BOIL (OF SKIN)	abscess	abscess	ᴀʙꜱᴄᴇꜱꜱ	6			A painful swelling on or under the skin that is filled with pus.	膿瘍			膿腫	ပြည်တည်နာ			
 1065	abstain:to			to abstain	abstain	ᴀʙꜱᴛᴀɪɴ	6			To refrain from doing something, such as eating certain foods or engaging in specific behaviors.	控える			戒				
 2020	abundant:to.be	4082	ABUNDANCE	to be abundant	abundant	ᴀʙᴜɴᴅᴀɴᴛ	7			To exist in large quantities or to be present in a very high number.	豊富である			豐富				
-101	accipitridae..raptor:::	2683	EAGLE OR HAWK	Accipitridae (raptor)	raptor	ʀᴀᴘᴛᴏʀ	3		fauna	A bird of prey with large, strong wings and a hooked beak, used for hunting other animals.	鷹	चील		鷹	သိမ်းငှက်			
+101	accipitridae..raptor:::	2683	EAGLE OR HAWK	Accipitridae (raptor)	raptor	ʀᴀᴘᴛᴏʀ	7		fauna	A bird of prey with large, strong wings and a hooked beak, used for hunting other animals.	鷹	चील		鷹	သိမ်းငှက်			
 1066	accompany..someone:to	1542	ACCOMPANY	to accompany (someone)	accompany	ᴀᴄᴄᴏᴍᴘᴀɴʏ	6			To go somewhere together with another person, moving from one place to another at the same time.	連れて行く			陪同				
 1008	account..report			account (report)	account	ᴀᴄᴄᴏᴜɴᴛ	6			A spoken or written description of an event or series of events that happened.	報告			敘述				
 1067	accumulate..of.things:to			to accumulate (of things)	accumulate	ᴀᴄᴄᴜᴍᴜʟᴀᴛᴇ	6			To gradually increase in quantity or number over time, such as objects or substances being gathered together into a pile or mass.	蓄積する			堆積（逐漸增多）	စုပုံလာသည်			
@@ -108,7 +109,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1073	advise:to			to advise	advise	ᴀᴅᴠɪꜱᴇ	6			To give a suggestion or a recommendation about what someone should do in a specific situation.	助言する			建議	အကြံပြုသည်			
 790	afraid:to.be	1419	FEAR (BE AFRAID)	to be afraid	afraid	ᴀꜰʀᴀɪᴅ	5			To experience a feeling of fear, alarm, or anxiety in response to a perceived danger or threat.	怖がる			害怕				
 1137	after..in.time	1685	AFTER	after (in time)	after	ᴀꜰᴛᴇʀ	7			To occur or exist at a later time than a specific event or moment.	後で			之後				
-356	afternoon	1807	AFTERNOON	afternoon	afternoon	ᴀꜰᴛᴇʀɴᴏᴏɴ	4			The period of time from midday until the sun begins to set or evening begins.	午後	दोपहर	বিলাস	下午	နေ့လည်		afternoon	
+356	afternoon	1807	AFTERNOON	afternoon	afternoon	ᴀꜰᴛᴇʀɴᴏᴏɴ	7			The period of time from midday until the sun begins to set or evening begins.	午後	दोपहर	বিলাস	下午	နေ့လည်		afternoon	
 1138	again	204	AGAIN	again	again	ᴀɢᴀɪɴ	7			An occurrence of an event or action that has happened before.	また			再次	ထပ်		again	
 783	age..grow.old:to	–	–	to age (grow old)	age	ᴀɢᴇ	5			To undergo the natural process of growing older or becoming an elderly person.	年をとる	बूढ़ा होना		變老	အိုသည်			
 509	age..of.person	1789	AGE	age (of person)	age	ᴀɢᴇ	5			The number of years a person has lived from their birth until the present time.	年齢	उम्र	বয়স	年齡	အသက်အရွယ်			
@@ -132,12 +133,12 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2021	alone:to.be	1964	ALONE	to be alone	alone	ᴀʟᴏɴᴇ	7			To be in a state where no other people are present.	一人で			獨自一人			(be) alone	
 1143	already	2576	ALREADY	already	already	ᴀʟʀᴇᴀᴅʏ	6			An indication that an action or state has been completed or has occurred prior to the present moment.	もう			已經				
 1016	always	1676	ALWAYS	always	always	ᴀʟᴡᴀʏꜱ	6			At all times or on every occasion without exception.	いつも			總是	အမြဲတမ်း		always	
-357	amber	–	–	amber	amber	ᴀᴍʙᴇʀ	4			A hard, yellowish-brown fossilized resin from a tree that is often used as a gemstone or ornament.	琥珀	अंबर	বাঁশফুলীয়া	琥珀	ပယင်း			
+357	amber	–	–	amber	amber	ᴀᴍʙᴇʀ	7			A hard, yellowish-brown fossilized resin from a tree that is often used as a gemstone or ornament.	琥珀	अंबर	বাঁশফুলীয়া	琥珀	ပယင်း			
 1017	amulet	2804	AMULET	amulet	amulet	ᴀᴍᴜʟᴇᴛ	6			An object believed to have magical powers to protect the wearer or a place from evil or bad luck.	お守り			護身符	အဆောင်			
 2022	amusing..funny:to.be	4038	FUNNY	to be amusing (funny)	amusing	ᴀᴍᴜꜱɪɴɢ	7			To cause laughter or provide entertainment through humor.	面白い			有趣				
 1018	ancestor..forefather	1669	ANCESTORS	ancestor (forefather)	ancestor	ᴀɴᴄᴇꜱᴛᴏʀ	6			A person from whom one is descended, such as a great-grandparent or a person living many generations ago in a family line.	祖先の一人			祖先（單一先人）	ဘိုးဘေးဘီဘင်			
 512	ancestors..general	1669	ANCESTORS	ancestors (general)	ancestors	ᴀɴᴄᴇꜱᴛᴏʀꜱ	5			The people in a person's family line who lived in the past, especially those who are now deceased.	先祖	पूर्वज	পূৰ্বজ	歷代祖先	ဘိုးဘေး			
-1144	and..conj	1577	AND	and (conj)	and	ᴀɴᴅ	7			A word used to connect two or more words, phrases, or sentences that are of equal importance or part of a list.	と			和	နှင့်			
+1144	and..conj	1577	AND	and (conj)	and	ᴀɴᴅ	5			A word used to connect two or more words, phrases, or sentences that are of equal importance or part of a list.	と			和	နှင့်			
 438	angry:to.be	1826	ANGRY	to be angry	angry	ᴀɴɢʀʏ	4			To feel strong displeasure, hostility, or irritation toward a person or a situation.	怒る	गुस्सा	ৰাগী	生氣	စိတ်ဆိုးသည်		to be angry	
 587	animal..affix:female	3923	FEMALE ANIMAL	female animal (affix)	female.animal	ꜰᴇᴍᴀʟᴇ.ᴀɴɪᴍᴀʟ	5			A female of any species of animal.	雌（接辞）	मादा		女性	အမ			
 653	animal..affix:male	3924	MALE ANIMAL	male animal (affix)	male.animal	ᴍᴀʟᴇ.ᴀɴɪᴍᴀʟ	5			A non-female animal of the same species.	雄（接辞）			雄性（動物詞綴）				
@@ -166,9 +167,10 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 785	apologise:to	–	–	to apologise	apologise	ᴀᴘᴏʟᴏɢɪꜱᴇ	5			To express regret or ask for forgiveness after doing something wrong or causing offense.	謝る	माफ़ करना		對不起	တောင်းပန်သည်			
 786	appear:to	–	–	to appear	appear	ᴀᴘᴘᴇᴀʀ	5			To become visible or to come into sight from a state of being hidden or absent.	現れる	दिखाई देना	দৃষ্টা পোৱা	出現	ပေါ်လာသည်			
 1078	appear..like:to	1777	RESEMBLE	to appear (like)	appear	ᴀᴘᴘᴇᴀʀ	6			To look like or resemble someone or something else.	～のように見える			像				
-2011	appease:to			to appease	appease	ᴀᴘᴘᴇᴀꜱᴇ	7			To make someone calm or less angry, often by giving them something they want or by performing a specific action.	なだめる			安撫	ဖြေဖျောက်သည်			
+2011	appease:to	–	–	to appease	appease	ᴀᴘᴘᴇᴀꜱᴇ	7			To make someone calm or less angry, often by giving them something they want or by performing a specific action.	なだめる			安撫	ဖြေဖျောက်သည်			
 1151	apple..wild	1320	APPLE	apple (wild)	apple	ᴀᴘᴘʟᴇ	7			A small, edible fruit that grows on a tree in the wild, often considered more sour or bitter than a cultivated variety.	山林檎			野蘋果				
 1079	apply..ointment:to	3650	APPLY (OINTMENT)	to apply (ointment)	apply	ᴀᴘᴘʟʏ	6			To spread a substance, such as a cream, oil, or medicine, onto the skin of the body.	薬を塗る			塗藥	လူးသည်			
+499	apply.paint:to			to apply paint	apply.paint	ᴀᴘᴘʟʏ.ᴘᴀɪɴᴛ	4			To move a cloth, hand, or other tool across a surface to remove dirt, liquid, or dust.	拭く	पोंछना		擦拭	သုတ်သည်			
 1080	approach:to	1778	APPROACH	to approach	approach	ᴀᴘᴘʀᴏᴀᴄʜ	6			To move closer to a person, place, or thing in space or time.	近づく			靠近	ချဉ်းကပ်သည်			
 514	area.under.house	2632	AREA UNDER HOUSE	area under house	area.under.house	ᴀʀᴇᴀ.ᴜɴᴅᴇʀ.ʜᴏᴜꜱᴇ	5			The ground or floor space located directly beneath a building or dwelling.	床下			屋下空間	အိမ်အောက်		area under house	
 515	areca.nut	217	BETELNUT	areca nut	areca.nut	ᴀʀᴇᴄᴀ.ɴᴜᴛ	5	Concepticon has both BETEL NUTE and BETELNUT. This is marked as absent in Concepticon since betel is a different species, and the inconsistent labels in Concepticon create ambiguity.	flora	The seed of the Areca palm, often chewed with lime or betel leaf.	キンマ	सुपारी	তামুল	檳榔	ကွမ်းသီး			
@@ -180,21 +182,21 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 984	arm:upper	431	UPPER ARM	upper arm	upper.arm	ᴜᴘᴘᴇʀ.ᴀʀᴍ	4		body parts	The part of the limb between the shoulder and the elbow.	上腕	बांह की ऊपरी हिस्सा	ভুজা	上臂	လက်မောင်းရင်း			
 393	arm.:elbow	981	ELBOW	elbow	elbow	ᴇʟʙᴏᴡ	4		body parts	The joint in the middle of the arm that allows it to bend and straighten.	ひじ	कोहनी	কুহুনি	肘部	တံတောင်ဆစ်		elbow	
 635	arm.:elbow:inner	–	–	inner elbow	inner.elbow	ɪɴɴᴇʀ.ᴇʟʙᴏᴡ	5		body parts	The part of the arm located on the inside of the joint between the upper arm and the forearm.	肘の窪み	कोहनी का अंदरूंग		肘窩	တံတောင်ဆစ်အတွင်းဘက်			
-1723	arm.:elbow:outer			outer elbow	outer.elbow	ᴏᴜᴛᴇʀ.ᴇʟʙᴏᴡ	7			The part of the arm on the outside of the joint, opposite to the part where the palm of the hand faces.	肘の裏			肘尖				
+1723	arm.:elbow:outer	–	–	outer elbow	outer.elbow	ᴏᴜᴛᴇʀ.ᴇʟʙᴏᴡ	7			The part of the arm on the outside of the joint, opposite to the part where the palm of the hand faces.	肘の裏			肘尖				
 602	arm.:forearm	–	–	forearm	forearm	ꜰᴏʀᴇᴀʀᴍ	5		body parts	The part of the arm between the elbow and the wrist.	前腕	कलाई	কলাই	前臂	လက်ဖျံ			
 431	arm.:shoulder	1482	SHOULDER	shoulder	shoulder	ꜱʜᴏᴜʟᴅᴇʀ	4		body parts	The part of the body where the arm connects to the torso.	肩	कंधा		肩膀	ပခုံး		shoulder	
 1881	arm.:shoulder::blade	172	SHOULDERBLADE	shoulderblade	shoulderblade	ꜱʜᴏᴜʟᴅᴇʀʙʟᴀᴅᴇ	7			The flat, triangular bone located on the upper back, behind the armpit.	肩甲骨			肩胛骨				
 1983	arm.:tendons	1137	TENDON	tendons	tendons	ᴛᴇɴᴅᴏɴꜱ	7			The tough, strong cords of tissue that connect a muscle to a bone.	腱（複数）			肌腱（多條）				
-2709	arm.:ulnar.styloid.process			ulnar styloid process	ulnar.styloid.process	ᴜʟɴᴀʀ.ꜱᴛʏʟᴏɪᴅ.ᴘʀᴏᴄᴇꜱꜱ	7			The bony protrusion on the side of the wrist, located at the end of the bone on the pinky finger side.	尺骨茎状突起			尺骨莖突				
+2709	arm.:ulnar.styloid.process	–	–	ulnar styloid process	ulnar.styloid.process	ᴜʟɴᴀʀ.ꜱᴛʏʟᴏɪᴅ.ᴘʀᴏᴄᴇꜱꜱ	7			The bony protrusion on the side of the wrist, located at the end of the bone on the pinky finger side.	尺骨茎状突起			尺骨莖突				
 505	arm.:wrist	799	WRIST	wrist	wrist	ᴡʀɪꜱᴛ	4		body parts	The part of the arm that connects the hand to the rest of the limb.	手首	कलाई का जोड़ा	কলাই	手腕	လက်ကောက်ဝတ်		wrist	
-2792	arm.:wrist.creases			wrist creases	wrist.creases	ᴡʀɪꜱᴛ.ᴄʀᴇᴀꜱᴇꜱ	7			The lines or folds of skin located on the part of the arm where it connects to the hand.	手首のシワ			手腕紋				
+2792	arm.:wrist.creases	–	–	wrist creases	wrist.creases	ᴡʀɪꜱᴛ.ᴄʀᴇᴀꜱᴇꜱ	7			The lines or folds of skin located on the part of the arm where it connects to the hand.	手首のシワ			手腕紋				
 1	arm..upper.limb	2121	ARM OR HAND	arm (upper limb)	arm	ᴀʀᴍ	1		body parts	The entire upper limb of the human body, extending from the shoulder to the wrist.	腕	बांह	বাঁহ	手臂	လက်မောင်း			hand/arm
 1153	army..armed.force	1561	ARMY	army (armed force)	army	ᴀʀᴍʏ	7			A large, organized group of people trained to fight in a war using weapons.	軍隊			軍隊				
 2013	arrange:to	1568	ARRANGE	to arrange	arrange	ᴀʀʀᴀɴɢᴇ	7			To place objects in a specific order or a particular position.	並べる			排列	စီစဉ်သည်			
 787	arrive:to	1387	ARRIVE	to arrive	arrive	ᴀʀʀɪᴠᴇ	5			To reach a destination or a specific place after traveling or moving.	着く	पहुंचना	আহা	到達	ရောက်လာသည်		arrive	
 104	arrow	977	ARROW	arrow	arrow	ᴀʀʀᴏᴡ	3			A long, thin, pointed object that is shot through the air from a bow.	矢	तीर	বাণ	箭頭	မြား		head of arrow	arrow
-1154	arrow::head			arrowhead	arrowhead	ᴀʀʀᴏᴡʜᴇᴀᴅ	7			A pointed object, often made of stone or metal, attached to the end of a shaft to be used as a weapon for hunting or fighting.	矢尻			箭鏃	မြားဦး			
-1155	arum			arum	arum	ᴀʀᴜᴍ	7			A plant with a large, often heart-shaped leaf, typically belonging to the family Araceae and often used as a food source.	サトイモ			天南星				
+1154	arrow::head	–	–	arrowhead	arrowhead	ᴀʀʀᴏᴡʜᴇᴀᴅ	7			A pointed object, often made of stone or metal, attached to the end of a shaft to be used as a weapon for hunting or fighting.	矢尻			箭鏃	မြားဦး			
+1155	arum	–	–	arum	arum	ᴀʀᴜᴍ	7			A plant with a large, often heart-shaped leaf, typically belonging to the family Araceae and often used as a food source.	サトイモ			天南星				
 226	ascend..move.up:to	705	GO UP (ASCEND)	to ascend (move up)	ascend	ᴀꜱᴄᴇɴᴅ	3			To move from a lower position to a higher one.	のぼる	चढ़ना		上升	တက်သွားသည်		ascend, go up	climb, ascend
 40	ash	646	ASH	ash	ash	ᴀꜱʜ	2			The powdery residue left after a substance, such as wood or coal, has been burned.	灰	राख	বলি	灰燼	ပြာ			ashes
 516	ash..bamboo	–	–	ash (bamboo)	ash	ᴀꜱʜ	5			The powdery substance left behind after a plant or piece of wood has been burned.	竹の灰			竹灰				
@@ -217,7 +219,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 517	back..side.of.something	2323	BACK (PART)	back (side of something)	back	ʙᴀᴄᴋ	5			The side of a person or an object that is opposite the front.	後			背面	ကျောဘက်		back (of something)	
 1161	backbone..spine	805	SPINE	backbone (spine)	backbone	ʙᴀᴄᴋʙᴏɴᴇ	7			The series of bones that runs down the center of the back and protects the spinal cord.	脊椎			脊椎	ကျောရိုး			
 1162	backward..direction	2911	BACKWARD	backward (direction)	backward	ʙᴀᴄᴋᴡᴀʀᴅ	7			In a direction towards the rear or the back of a person or object.	後ろへ			向後	နောက်ပြန်			
-439	bad:to.be	1292	BAD	to be bad	bad	ʙᴀᴅ	4			To be of poor quality, unpleasant, or not good.	悪い	बुरा होना	খৰাপ	不好	ဆိုးသည်		to be bad	
+439	bad:to.be	1292	BAD	to be bad	bad	ʙᴀᴅ	6			To be of poor quality, unpleasant, or not good.	悪い	बुरा होना	খৰাপ	不好	ဆိုးသည်		to be bad	
 361	bag	2468	BAG	bag	bag	ʙᴀɢ	4			A container made of flexible material, such as cloth, leather, or plastic, used for carrying or storing things.	袋	थैला	থলতী	包	အိတ်		bag	
 1163	bait	2013	BAIT	bait	bait	ʙᴀɪᴛ	7			Something used to attract or lure an animal into a trap or a hook.	餌			餌	ငါးစာ			
 2016	bait:to			to bait	bait	ʙᴀɪᴛ	7			To place a small piece of food or a lure on a hook or inside a trap to attract and catch an animal.	餌を付ける			設餌				
@@ -264,7 +266,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 110	bean..general	832	BEAN	bean (general)	bean	ʙᴇᴀɴ	3			A seed of a plant from the legume family, often used as food.	豆			豆子	ပဲ			peas, beans
 1174	bean..long.green			bean (long green)	bean	ʙᴇᴀɴ	7			A long, narrow, green vegetable that is often eaten as a pod.	インゲン豆			四季豆				
 2174	bear!show..teeth:to			to bear, show (teeth)	bear	ʙᴇᴀʀ	7			To uncover the teeth of the mouth, often as a sign of anger, a smile, or a threat.	歯をむく			露出牙齒				
-111	bear..animal	1820	BEAR	bear (animal)	bear	ʙᴇᴀʀ	7			A large, heavy mammal with thick fur and strong limbs, often found in forests and known for eating honey or plants.	熊	भालू		熊	ဝက်ဝံ		bear	bear
+111	bear..animal	1820	BEAR	bear (animal)	bear	ʙᴇᴀʀ	4			A large, heavy mammal with thick fur and strong limbs, often found in forests and known for eating honey or plants.	熊	भालू		熊	ဝက်ဝံ		bear	bear
 2172	bear..burden:to			to bear (burden)	bear	ʙᴇᴀʀ	7			To carry a heavy object on one's back, shoulders, or in one's hands.	重荷を背負う			背負				
 2173	bear..child:to	1195	GIVE BIRTH	to bear (child)	bear	ʙᴇᴀʀ	7			To give birth to a baby or offspring.	子を産む			生孩子				
 838	bear..fruit:to	3054	BEAR FRUIT	to bear (fruit)	bear	ʙᴇᴀʀ	5			To produce or yield fruit from a plant or tree.	実を結ぶ			結果實				
@@ -285,7 +287,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1179	beggar	1934	BEGGAR	beggar	beggar	ʙᴇɢɢᴀʀ	7			A person who lives by asking others for money, food, or other necessities.	乞食			乞丐	သူတောင်းစား			
 2178	begin:to	1806	BEGIN	to begin	begin	ʙᴇɢɪɴ	7			To perform the first action of a process or a series of events.	はじめる			開始	စတင်သည်		begin	
 1180	beginning..start	1557	BEGINNING	beginning (start)	beginning	ʙᴇɢɪɴɴɪɴɢ	7			The first part or the earliest stage of an event, a process, or a period of time.	始まり			開端			beginning	
-793	behind..something:to.be	1686	BEHIND	to be behind (something)	behind	ʙᴇʜɪɴᴅ	5			To be located at the back of an object or person, rather than in front of it.	……の後ろにある	पीछे		後面	နောက်တွင်ရှိသည်		behind	
+793	behind..something:to.be	1686	BEHIND	to be behind (something)	behind	ʙᴇʜɪɴᴅ	3			To be located at the back of an object or person, rather than in front of it.	……の後ろにある	पीछे		後面	နောက်တွင်ရှိသည်		behind	
 2179	belch:to	2245	BELCH	to belch	belch	ʙᴇʟᴄʜ	7			To release gas from the stomach through the mouth, often making a loud sound.	ゲップする			打嗝（胃中氣體）	လေတက်သည်		belch	
 2180	believe:to	1890	BELIEVE	to believe	believe	ʙᴇʟɪᴇᴠᴇ	7			To accept that something is true or real, often without absolute proof.	信じる			相信	ယုံကြည်သည်		believe	
 1181	bell	2246	BELL	bell	bell	ʙᴇʟʟ	7			A metal object that makes a ringing sound when struck or shaken.	鐘			鐘	ခေါင်းလောင်း			
@@ -321,7 +323,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2187	bite.off:to	1403	BITE	to bite off	bite.off	ʙɪᴛᴇ.ᴏꜰꜰ	7			To use teeth to separate a piece from a larger object or food item.	かじり取る			咬下				
 233	bitter:to.be	887	BITTER	to be bitter	bitter	ʙɪᴛᴛᴇʀ	3			To have a sharp, unpleasant taste on the tongue, such as the taste of unsweetened coffee or certain medicinal plants.	苦い	कड़वा		苦	ခါးသည်		to be bitter	bitter
 1193	bitter.gourd			bitter gourd	bitter.gourd	ʙɪᴛᴛᴇʀ.ɢᴏᴜʀᴅ	7			A green, oblong fruit with a bumpy or warty skin that has a very bitter taste when eaten.	ニガウリ			苦瓜				
-2779	hex:to	8	CURSE	to hex	hex	ʜᴇx	4			To cause ill fortune through supernatural means.	魔術			巫術	စုန်းကဝေအတတ်			
 1195	blacksmith	1001	BLACKSMITH	blacksmith	blacksmith	ʙʟᴀᴄᴋꜱᴍɪᴛʜ	7			A person who makes or repairs tools and objects made of metal by heating them in a fire and hammering them.	鍛冶屋			鐵匠	ပန်းပဲသမား			
 1196	bladder	1746	BLADDER	bladder	bladder	ʙʟᴀᴅᴅᴇʀ	7			An organ in the body that collects and holds urine before it is released from the body.	膀胱			膀胱	ဆီးအိမ်		bladder	
 1197	blade..of.grass	869	BLADE	blade (of grass)	blade	ʙʟᴀᴅᴇ	7			A single, long, narrow leaf of a grass plant.	草の葉			草葉				
@@ -354,7 +355,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 44	bone	1394	BONE	bone	bone	ʙᴏɴᴇ	2		body parts	The hard, white, or yellowish structure that forms the skeleton inside a living body.	骨	हड्डी		骨頭	အရိုး		bone	bone
 1299	bone:cooked			cooked bone	cooked.bone	ᴄᴏᴏᴋᴇᴅ.ʙᴏɴᴇ	7			The hard, white part of an animal's skeleton that has been heated by fire or boiling water.	煮えた骨			熟骨				
 113	bone.marrow	1835	MARROW	bone marrow	bone.marrow	ʙᴏɴᴇ.ᴍᴀʀʀᴏᴡ	3		body parts	The soft, fatty or spongy substance found inside the center of a bone.	骨髄	हड्डी का मज्जा		骨髓	ရိုးတွင်းခြင်ဆီ			marrow
-1205	book	963	BOOK	book	book	ʙᴏᴏᴋ	7			A collection of written or printed pages bound together, often used for reading or recording information.	本			書	စာအုပ်			
+1205	book	963	BOOK	book	book	ʙᴏᴏᴋ	3			A collection of written or printed pages bound together, often used for reading or recording information.	本			書	စာအုပ်			
 234	born:to.be	1090	BE BORN	to be born	born	ʙᴏʀɴ	3			To come out from the mother's body into the world.	生まれる	जन्म लेना		出生	မွေးဖွားသည်		(be) born	be born
 2196	borrow:to	1823	BORROW	to borrow	borrow	ʙᴏʀʀᴏᴡ	7			To take something from another person with the intention of returning it later.	借りる			借	ချေးယူသည်		borrow	
 367	bos.frontalis..mithun:::	–	–	Bos frontalis (mithun)	mithun	ᴍɪᴛʜᴜɴ	4		fauna	A large, heavy-bodied bovine that is often domesticated and used for ritual purposes, resembling a cross between a cow and a wild bison.	ミトゥン			密吞牛				
@@ -372,7 +373,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1210	box..crate	1465	BOX	box (crate)	box	ʙᴏx	7			A large, sturdy container with flat sides, often made of wood or heavy plastic, used for storing or transporting goods.	箱			木箱	သေတ္တာ			
 2798	boy:young	1366	BOY	young boy	young.boy	ʏᴏᴜɴɢ.ʙᴏʏ	7			A male human child who has not yet reached adulthood.	少年			男孩			boy	
 1211	boyfriend			boyfriend	boyfriend	ʙᴏʏꜰʀɪᴇɴᴅ	7			A man with whom a person is involved in a romantic or sexual relationship, but is not married to.	彼氏			男友				
-368	bracelet	1754	BRACELET	bracelet	bracelet	ʙʀᴀᴄᴇʟᴇᴛ	4			A piece of jewelry worn around the wrist.	ブレスレット	बांगड़ी		手鏈	လက်ကောက်		bracelet	
+368	bracelet	1754	BRACELET	bracelet	bracelet	ʙʀᴀᴄᴇʟᴇᴛ	7			A piece of jewelry worn around the wrist.	ブレスレット	बांगड़ी		手鏈	လက်ကောက်		bracelet	
 2198	braid..plait:to	3295	BRAID (VERB)	to braid (plait)	braid	ʙʀᴀɪᴅ	7			To interweave three or more long strands of hair, rope, or fabric by crossing them over and under each other in a repetitive pattern.	三つ編みにする			編辮子				
 115	brain	1583	BRAIN	brain	brain	ʙʀᴀɪɴ	3		body parts	The organ inside the skull that controls thought, memory, and movement.	脳	मस्तिष्क		大腦	ဦးနှောက်		brain	brain
 2031	brave:to.be	3	BRAVE	to be brave	brave	ʙʀᴀᴠᴇ	7			To show courage or a lack of fear when facing danger, pain, or difficulty.	勇敢な			勇敢			(be) courageous, (be) brave	
@@ -385,6 +386,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1213	breastbone	2810	BREASTBONE	breastbone	breastbone	ʙʀᴇᴀꜱᴛʙᴏɴᴇ	7			The bone located in the middle of the chest that connects the ribs.	胸骨			胸骨	ရင်ညွန့်ရိုး			
 1214	breath	870	BREATH	breath	breath	ʙʀᴇᴀᴛʜ	7			The air that is taken into or sent out of the lungs during respiration.	呼吸			氣息				
 843	breathe:to	1407	BREATHE	to breathe	breathe	ʙʀᴇᴀᴛʜᴇ	5			To move air in and out of the lungs through the nose or mouth.	呼吸する	सांस लेना		呼吸	အသက်ရှူသည်		to breathe	
+2841	bribe:to			to bribe	bribe	ʙʀɪʙᴇ	7											
 1215	bride	1266	BRIDE	bride	bride	ʙʀɪᴅᴇ	7			A woman who is being married or has just been married.	花嫁			新娘	သတို့သမီး			
 1216	brideprice	3024	BRIDE PRICE	brideprice	brideprice	ʙʀɪᴅᴇᴘʀɪᴄᴇ	7			A payment, often consisting of goods or money, made by a man or his family to a woman's family at the time of marriage.	結納金			聘禮				
 4	bridge	1011	BRIDGE	bridge	bridge	ʙʀɪᴅɢᴇ	1			A structure built over a river, road, or gap to allow people or vehicles to cross from one side to the other.	橋	पुल		橋	တံတား		bridge	
@@ -393,6 +395,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 462	bring:to	692	BRING	to bring	bring	ʙʀɪɴɢ	4			To carry or move an object or person from one place toward the speaker or the current location.	持って来る	लाना		帶來	သယ်ဆောင်လာသည်			
 2203	broaden..widen:to			to broaden (widen)	broaden	ʙʀᴏᴀᴅᴇɴ	7			To make something wider or more expansive in distance from one side to the other.	広げる			拓寬				
 2032	broken..defective:to.be	588	BROKEN	to be broken (defective)	broken	ʙʀᴏᴋᴇɴ	7			To be in a state where something is no longer functional or in one piece due to damage or a flaw.	折れる			壞了				
+2842	brood:to	2075	BROOD (VERB)	to brood	brood	ʙʀᴏᴏᴅ	3			To sit on a clutch of eggs to incubate and hatch them, or to care for and warm young chicks.								
 535	broom	245	BROOM	broom	broom	ʙʀᴏᴏᴍ	5			A tool consisting of a handle with bristles or fibers at one end, used for sweeping floors or surfaces.	ほうき	झाड़ू		掃帚	တံမြက်စည်း		broom	
 1217	broth	1547	SOUP	broth	broth	ʙʀᴏᴛʜ	7			A liquid food made by boiling meat, fish, or vegetables in water.	出汁			高湯	ဟင်းချို			
 394	brother:elder	1759	OLDER BROTHER	elder brother	elder.brother	ᴇʟᴅᴇʀ.ʙʀᴏᴛʜᴇʀ	4		kinship	A male sibling who was born before the speaker.	兄	भाई		哥哥	အစ်ကို			
@@ -487,7 +490,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2224	change:to	1264	CHANGE	to change	change	ᴄʜᴀɴɢᴇ	7			To make something different from what it was before, or to become different.	変える			改變	ပြောင်းလဲသည်			
 1259	character..manner	1024	CHARACTER	character (manner)	character	ᴄʜᴀʀᴀᴄᴛᴇʀ	7			The typical qualities of a person's personality or their habitual way of behaving.	性格			性格				
 542	charcoal	1188	CHARCOAL	charcoal	charcoal	ᴄʜᴀʀᴄᴏᴀʟ	5			A black, hard substance made by burning wood in a space with very little air.	炭	अंगारे		炭	မီးသွေး		charcoal	
-2225	chase:to			to chase	chase	ᴄʜᴀꜱᴇ	7			To run after a person or an animal in order to catch or attack them.	追いかける			追逐	လိုက်ဖမ်းသည်			
+2225	chase:to			to chase	chase	ᴄʜᴀꜱᴇ	3			To run after a person or an animal in order to catch or attack them.	追いかける			追逐	လိုက်ဖမ်းသည်			
 1260	chayote			chayote	chayote	ᴄʜᴀʏᴏᴛᴇ	7			A green, pear-shaped fruit with a smooth or slightly bumpy skin that is often used as a vegetable in cooking.	チョウチョウカボチャ			佛手瓜				
 2034	cheap..in.quality:to.be	1887	CHEAP	to be cheap (in quality)	cheap	ᴄʜᴇᴀᴘ	7			To have a low value or worth because of poor quality or being poorly made.	質が悪い			劣質				
 2226	cheat:to	13	DECEIT	to cheat	cheat	ᴄʜᴇᴀᴛ	7			To act dishonestly or use deception to gain an advantage or take something from another person.	ごまかす			作弊	လိမ်လည်လှည့်စားသည်			
@@ -528,6 +531,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 546	civet.cat	3157	CIVET	civet cat	civet.cat	ᴄɪᴠᴇᴛ.ᴄᴀᴛ	5			A small, nocturnal mammal with a strong scent produced by glands on its body, often found in forests and known for eating fruit.	ジャコウネコ	जंगली बिल्ली		狸貓				
 1277	clam	4156	CLAMS	clam	clam	ᴄʟᴀᴍ	7			A sea creature with a hard, two-part shell that lives in the sand or mud.	二枚貝			蛤蜊	ခုံးကောင်			
 1278	clan	302	CLAN	clan	clan	ᴄʟᴀɴ	3			A group of people who are believed to be descended from a common ancestor.	氏族			氏族	မျိုးနွယ်စု			
+2844	clan:name.of	–	–	name of clan	name.of.clan	ɴᴀᴍᴇ.ᴏꜰ.ᴄʟᴀɴ	7											
 2232	clap.hands:to	3110	CLAP	to clap hands	clap.hands	ᴄʟᴀᴘ.ʜᴀɴᴅꜱ	7			To strike the palms of both hands together to make a sound.	手を叩く			拍手				
 1279	class..school			class (school)	class	ᴄʟᴀꜱꜱ	7			A group of students who are taught together by a teacher in a school.	クラス			班級	အတန်း			
 119	claw..animal	72	CLAW	claw (animal)	claw	ᴄʟᴀᴡ	7		body parts	A sharp, curved nail on the foot of an animal, such as a bird, a cat, or a bear.	動物の爪	पंजा		爪子	ခြေသည်း		claw	nail/claw
@@ -539,16 +543,17 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 799	clear..in.meaning:to.be	–	–	to be clear (in meaning)	clear	ᴄʟᴇᴀʀ	5			To be easy to understand or unambiguous, such that there is no confusion about the intended message.	明快である	स्पष्ट होना		清晰	ရှင်းလင်းသည်			
 2036	clear..of.sky:to.be	3710	CLEAR (TO SEE)	to be clear (of sky)	clear	ᴄʟᴇᴀʀ	7			To describe a sky that is free from clouds, rain, or haze.	晴れている			晴朗				
 2037	clear..of.water:to.be	3710	CLEAR (TO SEE)	to be clear (of water)	clear	ᴄʟᴇᴀʀ	7			To be transparent and free from any dirt, sediment, or cloudiness.	澄んでいる			清澈				
+2843	clear.jungle:to	–	–	to clear jungle	clear.jungle	ᴄʟᴇᴀʀ.ᴊᴜɴɢʟᴇ	3			To remove trees, bushes, and plants from a wild, overgrown forest.								
 2235	clear.land:to			to clear land	clear.land	ᴄʟᴇᴀʀ.ʟᴀɴᴅ	7			To remove vegetation, such as grass, shrubs, or trees, from a piece of ground to prepare it for farming or building.	開墾する			開墾				
 2038	clever:to.be	1310	CLEVER	to be clever	clever	ᴄʟᴇᴠᴇʀ	7			To possess a quick mind or the ability to learn and understand things easily.	利口			機靈				
 2817	climb..general:to	1102	CLIMB	to climb (general)	climb	ᴄʟɪᴍʙ	7			To move upward by using hands and feet, such as going up a tree, a mountain, or a ladder.	登る			攀登	တက်သည်			
 2236	climb..tree:to	1102	CLIMB	to climb (tree)	climb	ᴄʟɪᴍʙ	7			To move upward by using hands and feet to ascend a tree.	木に登る			爬樹				
-2237	climb..wall:to	1102	CLIMB	to climb (wall)	climb	ᴄʟɪᴍʙ	7			To move upward by using hands and feet to grip a vertical surface.	壁を登る			攀爬				
+2237	climb..wall:to	1102	CLIMB	to climb (wall)	climb	ᴄʟɪᴍʙ	4			To move upward by using hands and feet to grip a vertical surface.	壁を登る			攀爬				
 1281	clock	1323	CLOCK	clock	clock	ᴄʟᴏᴄᴋ	7			An instrument used for measuring and showing the passage of time.	時計			時鐘	နာရီ			
 2238	close..eyes:to	2211	CLOSE THE EYES	to close (eyes)	close	ᴄʟᴏꜱᴇ	7			To move the eyelids together so that the eyes are covered and no light can enter.	目を閉じる			閉眼	မျက်စိမှိတ်သည်			
-466	close..tr:to	–	–	to close (tr)	close	ᴄʟᴏꜱᴇ	4			To move a door, a window, or a lid so that an opening is no longer accessible.	閉める	बंद करना		關閉	ပိတ်သည်			
-376	cloth	1616	CLOTH	cloth	cloth	ᴄʟᴏᴛʜ	4			A piece of flexible material made by weaving or knitting fibers together, used for making clothes or other items.	布	कपड़ा		布料	အထည်		cloth	
-1282	clothing	1895	CLOTHES	clothing	clothing	ᴄʟᴏᴛʜɪɴɢ	7			The items of fabric or material worn on the body to cover it.	着物			衣服	အဝတ်အထည်		clothing	
+466	close..tr:to	–	–	to close (tr)	close	ᴄʟᴏꜱᴇ	6			To move a door, a window, or a lid so that an opening is no longer accessible.	閉める	बंद करना		關閉	ပိတ်သည်			
+376	cloth	1616	CLOTH	cloth	cloth	ᴄʟᴏᴛʜ	7			A piece of flexible material made by weaving or knitting fibers together, used for making clothes or other items.	布	कपड़ा		布料	အထည်		cloth	
+1282	clothing	1895	CLOTHES	clothing	clothing	ᴄʟᴏᴛʜɪɴɢ	4			The items of fabric or material worn on the body to cover it.	着物			衣服	အဝတ်အထည်		clothing	
 47	cloud..rain	1489	CLOUD	cloud (rain)	cloud	ᴄʟᴏᴜᴅ	2			A visible mass of water droplets or ice crystals suspended in the atmosphere, often associated with rain or weather changes.	雲	बादल		雲	တိမ်တိုက်		cloud (rain)	cloud
 2239	cluck..of.chicken:to	3683	CACKLE	to cluck (of chicken)	cluck	ᴄʟᴜᴄᴋ	7			To make the short, repetitive sound that a domestic bird like a hen makes.	つくつく鳴く			咯咯叫	ကတော်သည်			
 2039	clumsy:to.be	3900	CLUMSY	to be clumsy	clumsy	ᴄʟᴜᴍꜱʏ	7			To move or act in a way that lacks grace, often resulting in accidentally dropping or breaking things.	不器用である			笨拙				
@@ -667,7 +672,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2266	cultivate..farm:to	1541	CULTIVATE	to cultivate (farm)	cultivate	ᴄᴜʟᴛɪᴠᴀᴛᴇ	7			To prepare and tend to land or soil for the purpose of growing crops or plants.	耕作する			耕作	စိုက်ပျိုးသည်		cultivate, farm (v)	
 2049	cunning:to.be	2335	CUNNING	to be cunning	cunning	ᴄᴜɴɴɪɴɢ	7			To act in a clever, dishonest, or deceptive way to achieve a goal or trick others.	ずるい			狡猾				
 560	cup..modern	476	CUP	cup (modern)	cup	ᴄᴜᴘ	5			A small, open container used for drinking liquids, typically made of ceramic, glass, or metal.	コップ			杯子（現代）	ဖန်ခွက်			
-382	cup..traditional	476	CUP	cup (traditional)	cup	ᴄᴜᴘ	4			A small, open container used for drinking liquids, typically made of wood, clay, or metal rather than glass or plastic.	椀	कप		傳統木杯	ခွက်		cup	
+382	cup..traditional	476	CUP	cup (traditional)	cup	ᴄᴜᴘ	7			A small, open container used for drinking liquids, typically made of wood, clay, or metal rather than glass or plastic.	椀	कप		傳統木杯	ခွက်		cup	
 2267	cure..heal:to	499	CURE	to cure (heal)	cure	ᴄᴜʀᴇ	7			To restore a person to health after an illness or injury.	治す			醫治	ကုသသည်		heal (tr), cure (v)	
 2050	curious:to.be	3633	CURIOUS	to be curious	curious	ᴄᴜʀɪᴏᴜꜱ	7			To feel a strong desire to know or learn about something or someone.	好奇心が強い			好奇				
 1324	current..of.river	2935	CURRENT (STREAM)	current (of river)	current	ᴄᴜʀʀᴇɴᴛ	7			The continuous, directed movement of water in a river or stream.	流れ			水流	ရေစီးကြောင်း			
@@ -701,7 +706,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2270	deceive..someone:to	3230	DECEIVE	to deceive (someone)	deceive	ᴅᴇᴄᴇɪᴠᴇ	7			To make someone believe something that is not true in order to trick or mislead them.	騙す			欺騙	လှည့်စားသည်			
 2271	decide:to	685	DECIDE	to decide	decide	ᴅᴇᴄɪᴅᴇ	7			To make a choice or a final judgment after considering different possibilities.	決める			決定	ဆုံးဖြတ်သည်			
 2272	decorate:to	1739	DECORATE	to decorate	decorate	ᴅᴇᴄᴏʀᴀᴛᴇ	7			To make something look more beautiful or attractive by adding ornaments, colors, or extra items to it.	飾る			裝飾	အလှဆင်သည်			
-2273	decrease:to	2864	DECREASE	to decrease	decrease	ᴅᴇᴄʀᴇᴀꜱᴇ	7			To become or make smaller in size, amount, number, or intensity.	減る			減少	လျော့နည်းသည်		decrease (intr)	
+2273	decrease:to	2864	DECREASE	to decrease	decrease	ᴅᴇᴄʀᴇᴀꜱᴇ	4			To become or make smaller in size, amount, number, or intensity.	減る			減少	လျော့နည်းသည်		decrease (intr)	
 2054	deep:to.be	1593	DEEP	to be deep	deep	ᴅᴇᴇᴘ	4			To extend far down from a surface or a top level.	深い			深			to be deep	
 2274	deepen:to			to deepen	deepen	ᴅᴇᴇᴘᴇɴ	7			To make something have a greater distance from the surface or the top to the bottom.	深くする			加深				
 523	deer:barking	3152	MUNTJACS	barking deer	barking.deer	ʙᴀʀᴋɪɴɢ.ᴅᴇᴇʀ	5		fauna	A small-sized deer that makes a loud, sharp sound like a dog when it is startled or threatened.	バブー	कसाई		麂	ဂျီ		barking deer	
@@ -713,8 +718,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2055	defeated:to.be	3535	BE DEFEATED	to be defeated	defeated	ᴅᴇꜰᴇᴀᴛᴇᴅ	7			To be overcome or beaten in a struggle, such as a war, a competition, or a fight.	敗れる			戰敗				
 869	defecate:to	676	SHIT (DEFECATE)	to defecate	defecate	ᴅᴇꜰᴇᴄᴀᴛᴇ	5			To discharge feces from the body through the anus.	大便する			排便	မစင်စွန့်သည်			shit
 1337	deity..evil	3231	DEITY	deity (evil)	deity	ᴅᴇɪᴛʏ	7			A supernatural being or spirit that is considered harmful, malevolent, or bad.	悪神			邪神				
-1338	delay			delay	delay	ᴅᴇʟᴀʏ	7			To make something happen or arrive later than expected or later than a scheduled time.	遅れ			耽擱	နှောင့်နှေးခြင်း			
-2276	delay:to			to delay	delay	ᴅᴇʟᴀʏ	7			To make an action or an event happen at a later time than originally planned.	遅らせる			延遲	နှောင့်နှေးသည်			
+1338	delay:to			to delay	delay	ᴅᴇʟᴀʏ	4			To make something happen or arrive later than expected or later than a scheduled time.	遅れ			耽擱	နှောင့်နှေးခြင်း			
 565	demon	1973	DEMON	demon	demon	ᴅᴇᴍᴏɴ	5			A supernatural being, often malevolent or harmful, that is not a god or a human.	悪霊	राक्षस		魔鬼	နတ်ဆိုး		demon, evil spirit	
 1339	den..of.animal			den (of animal)	den	ᴅᴇɴ	7			A natural or artificial shelter used by a wild animal for sleeping or raising its young.	ねぐら			獸穴	သားရဲတွင်း			
 2277	deny:to	755	DENY	to deny	deny	ᴅᴇɴʏ	7			To state that a specific fact, claim, or accusation is not true.	否定する			否認	ငြင်းသည်			
@@ -754,7 +758,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1350	divorced.man			divorced man	divorced.man	ᴅɪᴠᴏʀᴄᴇᴅ.ᴍᴀɴ	7			A man who was previously married but has legally or formally ended the marriage.	離婚した男性			離婚男子				
 1351	divorced.woman			divorced woman	divorced.woman	ᴅɪᴠᴏʀᴄᴇᴅ.ᴡᴏᴍᴀɴ	7			A woman who was previously married but has legally or formally ended her marriage.	離婚した女性			離婚女子				
 2058	dizzy:to.be	2712	GET DIZZY	to be dizzy	dizzy	ᴅɪᴢᴢʏ	7			To feel a sensation of spinning or unsteadiness in the head, often causing a loss of balance.	めまいがする			頭暈				
-2287	do..make:to	2575	DO OR MAKE	to do (make)	do	ᴅᴏ	7			To perform an action, create something, or carry out a task.	こしらえる			做（製作）	ပြုလုပ်သည်			
+2287	do..make:to	2575	DO OR MAKE	to do (make)	do	ᴅᴏ	3			To perform an action, create something, or carry out a task.	こしらえる			做（製作）	ပြုလုပ်သည်			
 2288	do..something:to	2575	DO OR MAKE	to do (something)	do	ᴅᴏ	7			To perform an action, a task, or an activity.	する			做（某事）	လုပ်သည်		to do/make (something)	
 122	dog	2009	DOG	dog	dog	ᴅᴏɢ	3		fauna	A domesticated carnivorous mammal often kept as a pet or for guarding.	犬	कुत्ता		狗	ခွေး		dog	dog
 1810	dog.:puppy	74	PUPPY	puppy	puppy	ᴘᴜᴘᴘʏ	7			A young, juvenile dog.	子犬			小狗	ခွေးကလေး			
@@ -777,7 +781,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2296	drill:to			to drill	drill	ᴅʀɪʟʟ	7			To make a hole in a hard surface, such as wood, metal, or the ground, using a tool that rotates.	穴をあける			鑽				
 1361	drill.hole			drill hole	drill.hole	ᴅʀɪʟʟ.ʜᴏʟᴇ	7			A hole made in a hard surface, such as wood, metal, or stone, by a tool that rotates.	あけた穴			鑽出的孔				
 24	drink:to	1401	DRINK	to drink	drink	ᴅʀɪɴᴋ	1			To swallow a liquid through the mouth.	飲む	पीना		喝	သောက်သည်			drink
-2837	drink.completely:to	–	–	to drink completely	drink.completely	ᴅʀɪɴᴋ.ᴄᴏᴍᴘʟᴇᴛᴇʟʏ	6											
+2837	drink.completely:to	–	–	to drink completely	drink.completely	ᴅʀɪɴᴋ.ᴄᴏᴍᴘʟᴇᴛᴇʟʏ	4			To finish a beverage entirely.								
 2297	drip:to	808	DRIP (FALL IN GLOBULES)	to drip	drip	ᴅʀɪᴘ	7			To fall in small, separate drops of liquid, such as water from a leaking tap or rain from a leaf.	滴る			滴	တစ်စက်စက်ကျသည်			
 2298	drive..vehicle:to	741	DRIVE	to drive (vehicle)	drive	ᴅʀɪᴠᴇ	7			To operate and control a vehicle, such as a car, truck, or bus, in order to move it from one place to another.	運転する			駕駛	ယာဉ်မောင်းသည်			
 1362	drizzle..rain	1016	DRIZZLE	drizzle (rain)	drizzle	ᴅʀɪᴢᴢʟᴇ	7			Light rain consisting of very small, fine droplets that fall continuously.	霧雨			毛毛雨	မိုးဖွဲ			
@@ -804,12 +808,13 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2061	eager:to.be			to be eager	eager	ᴇᴀɢᴇʀ	7			To feel a strong, impatient desire or intense enthusiasm to do something or to have something.	熱望する			急切				
 123	ear	1247	EAR	ear	ear	ᴇᴀʀ	3		body parts	The organ on the side of the head used for hearing.	耳	कान		耳朵	နား		ear	ear/hear
 572	ear::lobe	18	EARLOBE	earlobe	earlobe	ᴇᴀʀʟᴏʙᴇ	5		body parts	The soft, fleshy lower part of the external ear located below the ear canal.	耳たぶ	कान का झुमका		耳垂	နားအူ			
-392	ear::ring	770	EARRING	earring	earring	ᴇᴀʀʀɪɴɢ	4			An ornament worn on the earlobe or through a piercing in the ear.	ピアス			耳環	နားကွင်း			
 1370	ear::wax	32	EARWAX	earwax	earwax	ᴇᴀʀᴡᴀx	7			A yellowish or brownish waxy substance found inside the ear canal.	耳垢			耳屎				
 2691	ear.:tragus			tragus	tragus	ᴛʀᴀɢᴜꜱ	7			The small, protruding piece of cartilage on the side of the outer ear, located just in front of the ear canal.	耳珠			耳屏				
 1368	ear..of.grain	3244	EAR (OF GRAIN)	ear (of grain)	ear	ᴇᴀʀ	7			The part of a cereal plant that contains the seeds or grains.	穀物の穂			穗	အနှံ			
 2062	earlier:to.be	–	–	to be earlier	earlier	ᴇᴀʀʟɪᴇʀ	7			To occur or happen at a time before a specific point or before another event.	前に			早於				
 2063	early:to.be	672	EARLY	to be early	early	ᴇᴀʀʟʏ	7			To arrive or occur before a specified or expected time.	早い			早			early	
+2840	earring..modern			earring (modern)	earring	ᴇᴀʀʀɪɴɢ	7											
+392	earring..traditional	770	EARRING	earring (traditional)	earring	ᴇᴀʀʀɪɴɢ	4			An ornament worn on the earlobe or through a piercing in the ear.	ピアス			耳環	နားကွင်း			
 124	earth..area.or.plot	1228	EARTH (SOIL)	earth (area or plot)	earth	ᴇᴀʀᴛʜ	3			The top layer of the ground consisting of dirt or soil, often used for planting or building.	土壌			一塊土地	မြေကွက်			earth
 574	earthquake	6	EARTHQUAKE	earthquake	earthquake	ᴇᴀʀᴛʜꞯᴜᴀᴋᴇ	5			A sudden shaking or movement of the ground caused by tectonic forces or volcanic activity.	地震	भूकंप		地震	ငလျင်			
 125	east	1877	EAST	east	east	ᴇᴀꜱᴛ	3			The direction where the sun rises in the morning.	東	पूर्व		東	အရှေ့		east	
@@ -817,7 +822,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 285	eat:.hard:to	1336	EAT	to eat	eat	ᴇᴀᴛ	3		verbs	To take food into the mouth, chew it, and swallow it.	食べる（硬いもの）	खाना खाना		吃（硬的食物）	ကိုက်စားသည်			eat
 286	eat:.soft:to	1336	EAT	to eat	eat	ᴇᴀᴛ	3		verbs	To take food into the mouth, chew it, and swallow it for nourishment.	食べる（軟らかいもの）	खाना खाना		吃（軟的食物）	ဝါးစားသည်			eat
 2304	eat..general:to	1336	EAT	to eat (general)	eat	ᴇᴀᴛ	7			To consume food by chewing and swallowing.	食べる			吃	စားသည်			
-2835	eat.completely:to	–	–	to eat completely	eat.completely	ᴇᴀᴛ.ᴄᴏᴍᴘʟᴇᴛᴇʟʏ	3											
+2835	eat.completely:to	–	–	to eat completely	eat.completely	ᴇᴀᴛ.ᴄᴏᴍᴘʟᴇᴛᴇʟʏ	3			To finish all of the food on your plate or to consume food entirely.								
 2305	echo:to			to echo	echo	ᴇᴄʜᴏ	7			To have a sound repeat after it has been made, as if reflected by a surface like a wall or a mountain.	響く			回聲	ပဲ့တင်ထပ်သည်			
 1371	eclipse..solar	2285	ECLIPSE	eclipse (solar)	eclipse	ᴇᴄʟɪᴘꜱᴇ	7			The event when the moon passes between the earth and the sun, causing the sun to be obscured or darkened.	日食			日食	နေကြတ်ခြင်း			
 2064	economical:to.be			to be economical	economical	ᴇᴄᴏɴᴏᴍɪᴄᴀʟ	7			To use money, time, or resources carefully and without waste.	節約する			節儉				
@@ -880,7 +885,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 875	explode:to	3976	EXPLODE	to explode	explode	ᴇxᴘʟᴏᴅᴇ	5			To burst or shatter suddenly and violently, often with a loud noise, due to internal pressure.	爆発する	फटना		爆炸	ပေါက်ကွဲသည်			
 288	extinguish..fire:to	127	EXTINGUISH	to extinguish (fire)	extinguish	ᴇxᴛɪɴɢᴜɪꜱʜ	3		verbs	To make a fire stop burning by using water, sand, or by smothering it.	火を消す	बुझाना		熄滅	မီးငြှိမ်းသည်		to extinguish (fire)	extinguish
 5	eye	1248	EYE	eye	eye	ᴇʏᴇ	1		body parts	The organ on the face used for seeing and perceiving light.	目	आँख		眼睛	မျက်လုံး		eye	eye
-399	eye::brow	1173	EYEBROW	eyebrow	eyebrow	ᴇʏᴇʙʀᴏᴡ	4		body parts	The strip of hair growing on the bone above the eye.	まゆげ	भौं		眉毛	မျက်ခုံးမွေး		eyebrow	
+399	eye::brow	1173	EYEBROW	eyebrow	eyebrow	ᴇʏᴇʙʀᴏᴡ	5		body parts	The strip of hair growing on the bone above the eye.	まゆげ	भौं		眉毛	မျက်ခုံးမွေး		eyebrow	
 586	eye::lash	1540	EYELASH	eyelash	eyelash	ᴇʏᴇʟᴀꜱʜ	5		body parts	A single hair growing along the edge of the eyelid.	まつげ	पलक की झपकी		睫毛	မျက်တောင်		eyelash	
 400	eye::lid	17	EYELID	eyelid	eyelid	ᴇʏᴇʟɪᴅ	4		body parts	The skin that covers and protects the eye, which can be raised or lowered.	まぶた	पलक		眼皮	မျက်ခွံ		eyelid	
 710	eye.:pupil	1658	PUPIL	pupil	pupil	ᴘᴜᴘɪʟ	5		body parts	The black, circular opening in the center of the eye.	瞳孔	पुपिल		瞳孔	သူငယ်အိမ်			
@@ -902,7 +907,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1398	fan	1971	FAN (OBJECT)	fan	fan	ꜰᴀɴ	7			A device used to create a current of air by waving it or by using a motor.	扇			扇子	ယပ်တောင်		fan (v)	
 2320	fan:to	360	FAN (ACTION)	to fan	fan	ꜰᴀɴ	7			To move air toward oneself or another object using a handheld tool or a piece of material.	仰ぐ			扇	ယပ်ခတ်သည်			
 1399	fan..bellows			fan (bellows)	fan	ꜰᴀɴ	7			A device used to blow air by hand, often made of leather or wood, to start or sustain a fire.	火起こしの送風具			手動送風器				
-237	far:to.be	1406	FAR	to be far	far	ꜰᴀʀ	3			To be at a great distance in space or time, rather than being near or close.	遠い	दूर		遠	ဝေးသည်		to be far (village many miles away)	far
+237	far:to.be	1406	FAR	to be far	far	ꜰᴀʀ	7			To be at a great distance in space or time, rather than being near or close.	遠い	दूर		遠	ဝေးသည်		to be far (village many miles away)	far
 1400	farmer	979	FARMER	farmer	farmer	ꜰᴀʀᴍᴇʀ	7			A person who works on a piece of land to grow crops or raise animals for food or sale.	農家			農民				
 2321	fart:to	1159	FART	to fart	fart	ꜰᴀʀᴛ	7			To expel gas from the body through the anus.	おならする			放屁	အီးပေါက်သည်		to fart	
 446	fast:to.be	1631	FAST	to be fast	fast	ꜰᴀꜱᴛ	4			To move or happen at a high speed, covering a distance in a short amount of time.	速い	तेज		快	မြန်သည်		to be fast	
@@ -954,7 +959,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2337	find:to	719	FIND	to find	find	ꜰɪɴᴅ	7			To come into possession of something that was lost or hidden, or to discover something by chance or through searching.	みつける			找到	တွေ့သည်		find	
 2338	fine..punishment:to			to fine (punishment)	fine	ꜰɪɴᴇ	7			To charge a person a specific amount of money as a punishment for breaking a law or a rule.	罰金を科す			罰款	ဒဏ်တပ်သည်			
 52	finger	1303	FINGER	finger	finger	ꜰɪɴɢᴇʀ	2		body parts	The long, slender part of a hand located between the palm and the tip.	指	उंगली	আঙুল	手指	လက်ချောင်း		finger	finger/toe
-131	finger::nail	1258	FINGERNAIL	fingernail	fingernail	ꜰɪɴɢᴇʀɴᴀɪʟ	3		body parts	The hard, protective plate located at the very tip of a finger.	指の爪	नाखून		指甲	လက်သည်း		fingernail	
+131	finger::nail	1258	FINGERNAIL	fingernail	fingernail	ꜰɪɴɢᴇʀɴᴀɪʟ	7		body parts	The hard, protective plate located at the very tip of a finger.	指の爪	नाखून		指甲	လက်သည်း		fingernail	
 1546	finger:index	577	FOREFINGER	index finger	index.finger	ɪɴᴅᴇx.ꜰɪɴɢᴇʀ	7			The digit on the hand located between the thumb and the middle finger.	人差し指			食指				
 1590	finger:little	2774	LITTLE FINGER	little finger	little.finger	ʟɪᴛᴛʟᴇ.ꜰɪɴɢᴇʀ	7			The smallest finger on the human hand, located next to the ring finger.	小指			小指				
 1641	finger:middle	3387	MIDDLE FINGER	middle finger	middle.finger	ᴍɪᴅᴅʟᴇ.ꜰɪɴɢᴇʀ	7			The third digit of the human hand, located between the index finger and the ring finger.	中指			中指				
@@ -966,7 +971,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 6	fire	221	FIRE	fire	fire	ꜰɪʀᴇ	1			The heat and light produced when something burns.	火	आग		火	မီး		fire	fire
 406	fire::place..hearth	185	FIREPLACE	fireplace (hearth)	fireplace	ꜰɪʀᴇᴘʟᴀᴄᴇ	4			A structure, often made of stone or brick, used for containing a fire for warmth or cooking inside a building.	炉	चूल्हा		爐竈	မီးဖို		fireplace	
 592	fire::place.shelf	–	–	fireplace shelf	fireplace.shelf	ꜰɪʀᴇᴘʟᴀᴄᴇ.ꜱʜᴇʟꜰ	5			A flat, horizontal surface attached to a wall above a hearth or a place for making a fire.	マントルピース	मंडप		爐架	မီးဖိုအထက်စင်			
-132	fire::wood	10	FIREWOOD	firewood	firewood	ꜰɪʀᴇᴡᴏᴏᴅ	3			Wood or other organic material that is used as fuel for making a fire.	薪	लकड़ी		柴火	ထင်း		firewood	
+132	fire::wood	10	FIREWOOD	firewood	firewood	ꜰɪʀᴇᴡᴏᴏᴅ	5			Wood or other organic material that is used as fuel for making a fire.	薪	लकड़ी		柴火	ထင်း		firewood	
 405	firefly	206	FIREFLY	firefly	firefly	ꜰɪʀᴇꜰʟʏ	4		fauna	A small insect that flies at night and produces a light from its body.	蛍	जुगनू		螢火蟲	ပိုးစုန်းကြူး			
 2073	firm:to.be	3003	SOLID	to be firm	firm	ꜰɪʀᴍ	7			To be hard or solid to the touch and not easily shaped or compressed.	硬い			堅硬				
 809	first:to.be	728	FIRST	to be first	first	ꜰɪʀꜱᴛ	5			To occupy the earliest position in a sequence, a list, or a race.	最初に	पहला		第一	ပထမဖြစ်သည်		(be) first	
@@ -995,7 +1000,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 408	flea	232	FLEA	flea	flea	ꜰʟᴇᴀ	4		fauna	A small, wingless, jumping insect that lives as a parasite on the skin of mammals or birds and sucks their blood.	蚤	उम्मड़		跳蚤	အလှေး		flea	
 292	flee..run.away:to	956	FLEE	to flee (run away)	flee	ꜰʟᴇᴇ	3			To run or move quickly away from a place or a person, often because of danger, fear, or a desire to avoid being caught.	逃げる	भागना		奔跑 / 逃跑	ထွက်ပြေးသည်		flee, run away from	run/flee
 2074	flexible:to.be	1691	FLEXIBLE	to be flexible	flexible	ꜰʟᴇxɪʙʟᴇ	7			To bend easily without breaking.	よく曲がる			撓曲				
-2833	flirt:to	494	FLIRT	to flirt	flirt	ꜰʟɪʀᴛ	4											
+2833	flirt:to	494	FLIRT	to flirt	flirt	ꜰʟɪʀᴛ	7			To show playful, romantic, or sexual interest in someone without a serious commitment or intention.								
 877	float:to	1574	FLOAT	to float	float	ꜰʟᴏᴀᴛ	5			To rest or move on the surface of a liquid without sinking.	浮かぶ	तैरना		漂浮	ပေါလောပေါ်သည်			
 1433	flock..of.birds	2939	FLOCK (OF ANIMALS)	flock (of birds)	flock	ꜰʟᴏᴄᴋ	7			A large group of birds that fly or move together.	鳥の群れ			鳥群				
 1434	flock..of.sheep	2939	FLOCK (OF ANIMALS)	flock (of sheep)	flock	ꜰʟᴏᴄᴋ	7			A large group of sheep that live, eat, or move together.	羊の群れ			羊群				
@@ -1007,7 +1012,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 536	flower.:bud	1684	BUD	bud	bud	ʙᴜᴅ	5		flora	A small, undeveloped part of a plant that will grow into a leaf or a flower.	蕾	कली		花蕾	ပန်းဖူး		bud	
 1436	flute	777	FLUTE	flute	flute	ꜰʟᴜᴛᴇ	7			A musical instrument consisting of a thin tube that produces sound when air is blown across a hole or through a mouthpiece.	笛			笛子	ပလွေ			
 87	fly:to	1441	FLY (MOVE THROUGH AIR)	to fly	fly	ꜰʟʏ	2			To move through the air using wings or by means of flight.	飛ぶ	उड़ना		飛	ပျံသန်းသည်			fly
-1437	foam	1768	FOAM	foam	foam	ꜰᴏᴀᴍ	7			A mass of small bubbles formed on the surface of a liquid, such as when soap is used or when a liquid is agitated.	泡立ち			泡沫	အမြှုပ်			
+1437	foam	1768	FOAM	foam	foam	ꜰᴏᴀᴍ	4			A mass of small bubbles formed on the surface of a liquid, such as when soap is used or when a liquid is agitated.	泡立ち			泡沫	အမြှုပ်			
 1438	foetus			foetus	foetus	ꜰᴏᴇᴛᴜꜱ	7			An unborn human or animal that is developing inside the mother's womb.	胎児			胎兒	သန္ဓေသား			
 135	fog..mist	249	FOG	fog (mist)	fog	ꜰᴏɢ	3			A thick cloud of tiny water droplets suspended in the air near the ground that makes it difficult to see clearly.	霧	कोहरा		霧	မြူ		mist/fog	
 475	fold:to	1470	FOLD	to fold	fold	ꜰᴏʟᴅ	4			To bend something, such as a piece of cloth or paper, so that one part lies on top of another.	折る	मोड़ना		摺疊	ခေါက်သည်		fold (v)	
@@ -1020,9 +1025,9 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 626	foot.:heel	980	HEEL	heel	heel	ʜᴇᴇʟ	3		body parts	The back part of a human foot, located below the ankle.	かかと	एड़ी		腳後跟	ဖနောင့်		heel	
 1442	football	4167	FOOTBALL (GAME)	football	football	ꜰᴏᴏᴛʙᴀʟʟ	7			A game played by two teams of players who move a ball between goals using their feet.	サッカー			足球	ဘောလုံးပွဲ			
 2342	forbid:to	83	FORBID	to forbid	forbid	ꜰᴏʀʙɪᴅ	7			To command that someone must not do a specific action or to prohibit an act by authority.	禁止する			禁止	ပိတ်ပင်သည်			
-410	forest	420	FOREST	forest	forest	ꜰᴏʀᴇꜱᴛ	4			A large area of land covered with many trees and thick vegetation.	森	जंगल		森林	သစ်တော		jungle/forest	
-1443	forest..thick	420	FOREST	forest (thick)	forest	ꜰᴏʀᴇꜱᴛ	7			A large area of land covered with many closely growing trees and dense vegetation.	密林			密林	တောအုပ်			
-1444	forest..wild	420	FOREST	forest (wild)	forest	ꜰᴏʀᴇꜱᴛ	7			A large area of land covered with many trees and natural vegetation, not used for farming or human settlement.	原生林			原始林	တော			
+410	forest	420	FOREST	forest	forest	ꜰᴏʀᴇꜱᴛ	7			A large area of land covered with many trees and thick vegetation.	森	जंगल		森林	သစ်တော		jungle/forest	
+1443	forest..thick	420	FOREST	forest (thick)	forest	ꜰᴏʀᴇꜱᴛ	3			A large area of land covered with many closely growing trees and dense vegetation.	密林			密林	တောအုပ်			
+1444	forest..wild.jungle	420	FOREST	forest (wild jungle)	forest	ꜰᴏʀᴇꜱᴛ	3			A large area of land covered with many trees and natural vegetation, not used for farming or human settlement.	原生林			原始林	တော			
 2343	forge:to	288	FORGE	to forge	forge	ꜰᴏʀɢᴇ	7			To shape or create an object, such as a tool or weapon, by heating metal and hitting it with a hammer.	鍛造する			鍛造				
 293	forget:to	1523	FORGET	to forget	forget	ꜰᴏʀɢᴇᴛ	3			To fail to remember a piece of information or a past event.	忘れる	भूलना		忘記	မေ့သည်			forget
 879	forgive:to	1528	FORGIVE	to forgive	forgive	ꜰᴏʀɢɪᴠᴇ	5			To stop feeling angry or resentful toward someone who has done something wrong or caused harm.	許す	माफ़ करना		原諒	ခွင့်လွှတ်သည်			
@@ -1086,9 +1091,9 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 881	go..level:to	–	–	to go (level)	go	ɢᴏ	5			To move from a lower position to a higher position, such as climbing a hill or ascending stairs.	上がる			上去				
 2352	go..to.work.fields:to	695	GO	to go (to work fields)	go	ɢᴏ	7			To travel or move from one's home to a place where crops are grown for the purpose of farming or manual labor.	畑へ行く			下田				
 882	go.around..circumvent:to	–	–	to go around (circumvent)	go.around	ɢᴏ.ᴀʀᴏᴜɴᴅ	5			To move in a circle or a curved path to avoid a central point or an obstacle.	迂回する	घूमना		繞路	ဝိုက်သွားသည်			
-295	go.downriver:to	–	–	to go downriver	go.downriver	ɢᴏ.ᴅᴏᴡɴʀɪᴠᴇʀ	3			To move in the direction that the water flows in a river.	下る	ऊपर नदी में जाना		上游	မြစ်အောက်သို့သွားသည်			
+295	go.downriver:to	–	–	to go downriver	go.downriver	ɢᴏ.ᴅᴏᴡɴʀɪᴠᴇʀ	7			To move in the direction that the water flows in a river.	下る	ऊपर नदी में जाना		上游	မြစ်အောက်သို့သွားသည်			
 2353	go.out..exit:to	1107	GO OUT	to go out (exit)	go.out	ɢᴏ.ᴏᴜᴛ	7			To move from the inside of a place, such as a house or a room, to the outside.	外へ出る			出去			to go out/exit (house)	
-296	go.upriver:to	–	–	to go upriver	go.upriver	ɢᴏ.ᴜᴘʀɪᴠᴇʀ	3			To move in the direction of the river's source, traveling against the flow of the water.	川をさかのぼる	नीचे नदी में जाना		下游	မြစ်အထက်သို့သွားသည်			
+296	go.upriver:to	–	–	to go upriver	go.upriver	ɢᴏ.ᴜᴘʀɪᴠᴇʀ	7			To move in the direction of the river's source, traveling against the flow of the water.	川をさかのぼる	नीचे नदी में जाना		下游	မြစ်အထက်သို့သွားသည်			
 1666	goat:mountain			mountain goat	mountain.goat	ᴍᴏᴜɴᴛᴀɪɴ.ɢᴏᴀᴛ	7			A wild, hoofed mammal that lives on high, rocky slopes and has thick fur.	野生の山羊			野山羊				
 1189	goat.:billy	2475	MALE GOAT	billy	billy	ʙɪʟʟʏ	7			A male goat.	雄山羊			公山羊	ဆိတ်ထီး			
 1352	goat.:doe			doe	doe	ᴅᴏᴇ	7			A female deer.	雌山羊			母山羊	ဆိတ်မ			
@@ -1127,7 +1132,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1489	groom	3282	GROOM	groom	groom	ɢʀᴏᴏᴍ	7			A man on the day of his wedding.	新郎			新郎				
 1490	ground	2159	GROUND	ground	ground	ɢʀᴏᴜɴᴅ	7			The solid surface of the earth under one's feet.	地面			地面	မြေပြင်			
 1491	group..of.animals	4103	GROUP	group (of animals)	group	ɢʀᴏᴜᴘ	7			A collection of several animals of the same species living or moving together.	群れ			群	အုပ်စု			
-620	group..of.people	–	–	group (of people)	group	ɢʀᴏᴜᴘ	5			A collection of several people who are together in one place or share a common purpose.	集団	लोगों का समूह		人羣	လူအုပ်စု			
+620	group..of.people	–	–	group (of people)	group	ɢʀᴏᴜᴘ	3			A collection of several people who are together in one place or share a common purpose.	集団	लोगों का समूह		人羣	လူအုပ်စု			
 884	grow..of.plants:to	479	GROW	to grow (of plants)	grow	ɢʀᴏᴡ	5			To increase in size or develop from a seed or sprout into a mature plant.	生える	उगना		生長	ကြီးထွားလာသည်			
 2357	grow.up:to	552	GROW UP	to grow up	grow.up	ɢʀᴏᴡ.ᴜᴘ	7			To change from a child or infant into an adult.	育つ			長大			grow up	
 1492	growl..of.dogs	3679	GROWL	growl (of dogs)	growl	ɢʀᴏᴡʟ	7			To make a low, guttural sound in the throat to express anger or a warning.	唸る			咆哮	မာန်ဖီသည်			
@@ -1203,6 +1208,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1521	here...prox.dem	136	HERE	here	prox.dem	ᴘʀᴏx.ᴅᴇᴍ	7			The location or place where the speaker is currently situated.	ここに			這裡	ဤနေရာ		here	
 1522	heron	758	HERON	heron	heron	ʜᴇʀᴏɴ	7			A large, long-legged water bird with a long, pointed bill that hunts in shallow water.	アオサギ			鷺	ငဟစ်ငှက်		heron	
 2377	hesitate:to	3629	HESITATE	to hesitate	hesitate	ʜᴇꜱɪᴛᴀᴛᴇ	7			To pause or delay in action or speech because of uncertainty, doubt, or indecision.	躊躇する			猶豫	ချီတုံချတုံဖြစ်သည်			
+2779	hex:to	8	CURSE	to hex	hex	ʜᴇx	4			To cause ill fortune through supernatural means.	魔術			巫術	စုန်းကဝေအတတ်			
 2378	hiccough:to	162	HICCOUGH	to hiccough	hiccough	ʜɪᴄᴄᴏᴜɢʜ	7			To experience sudden, involuntary contractions of the diaphragm that cause a short, sharp sound from the throat.	しゃっくりをする			打嗝（橫膈膜抽動）				
 627	hide..oneself	2485	HIDE (ONESELF)	hide (oneself)	hide	ʜɪᴅᴇ	5			To move out of sight or place oneself in a location where one cannot be seen by others.	隠れる	चिरा		飯糰	ပုန်းသည်		to hide oneself	hide
 1523	hide.and.seek..game			hide and seek (game)	hide.and.seek	ʜɪᴅᴇ.ᴀɴᴅ.ꜱᴇᴇᴋ	7			A game where one person closes their eyes and counts while others go to find a place to remain out of sight.	かくれんぼ			捉迷藏				
@@ -1218,7 +1224,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 299	hit..something:to	1433	HIT	to hit (something)	hit	ʜɪᴛ	3			To strike or deliver a blow to something or someone with a hand, a tool, or an object.	打つ	मारना		打擊	ရိုက်နှက်သည်			
 152	hoe	284	HOE	hoe	hoe	ʜᴏᴇ	3			A hand tool used for digging or moving soil, consisting of a long handle with a metal blade at one end.	鍬			鋤頭	ပေါက်ပြား		hoe (n)	
 1102	hoe:to			to hoe	hoe	ʜᴏᴇ	6			To use a long-handled tool with a metal blade to loosen or move soil in a field or garden.	鍬で耕す			鋤	ပေါက်ပြားနှင့်တူးသည်			
-2379	hold..between.legs:to			to hold (between legs)	hold	ʜᴏʟᴅ	7			To grip or secure an object between one's thighs or knees.	股で挟む			夾				
+2379	hold..between.legs:to			to hold (between legs)	hold	ʜᴏʟᴅ	4			To grip or secure an object between one's thighs or knees.	股で挟む			夾				
 888	hold..in.hand:to	1448	HOLD	to hold (in hand)	hold	ʜᴏʟᴅ	5			To grasp or keep an object in one's hand or between the fingers.	握る	पकड़ना		握住	ကိုင်ထားသည်		hold	
 629	hole..general	1667	HOLE	hole (general)	hole	ʜᴏʟᴇ	5			An empty space or opening in a solid object or surface.	穴	छेद		洞	အပေါက်		hole	
 1530	hole..in.fabric	1667	HOLE	hole (in fabric)	hole	ʜᴏʟᴇ	7			A gap or opening in a piece of cloth or clothing that was not intended to be there.	布の穴			破洞	အဝတ်ပေါက်			
@@ -1292,7 +1298,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2087	infertile..of.animal:to.be			to be infertile (of animal)	infertile	ɪɴꜰᴇʀᴛɪʟᴇ	7			To be unable to produce offspring or young.	子を産まない			不育				
 2088	infertile..of.people:to.be			to be infertile (of people)	infertile	ɪɴꜰᴇʀᴛɪʟᴇ	7			To be unable to have children or produce offspring.	不妊である			不孕				
 1092	infertile..of.soil:to.be			to be infertile (of soil)	infertile	ɪɴꜰᴇʀᴛɪʟᴇ	6			To describe land or earth that is unable to produce crops or plants.	不毛である			貧瘠				
-1031	information	4044	INFORMATION	information	information	ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ	6			The facts, data, or knowledge provided or learned about a specific subject or situation.	情報			資訊	အချက်အလက်			
+1031	information	4044	INFORMATION	information	information	ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ	4			The facts, data, or knowledge provided or learned about a specific subject or situation.	情報			資訊	အချက်အလက်			
 1032	inhabitant..resident	4048	INHABITANT	inhabitant (resident)	inhabitant	ɪɴʜᴀʙɪᴛᴀɴᴛ	6			A person who lives in a specific place or dwelling permanently or for a long time.	住民			居民				
 2381	inhale:to	2705	INHALE	to inhale	inhale	ɪɴʜᴀʟᴇ	7			To draw air or gas into the lungs through the nose or mouth.	息をすう			吸氣	ရှူသွင်းသည်			
 1112	inherit:to	3664	INHERIT	to inherit	inherit	ɪɴʜᴇʀɪᴛ	6			To receive property, money, or a title from someone after they have died.	相続する			繼承	အမွေဆက်ခံသည်			
@@ -1324,7 +1330,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 637	jackal	3313	JACKAL	jackal	jackal	ᴊᴀᴄᴋᴀʟ	5		fauna	A wild canine that looks similar to a dog or a wolf, often found in open areas or forests and known for scavenging.	ジャッカル	सियार		豺狼	ခွေးအ		jackal	
 1557	jackfruit	2655	JACKFRUIT	jackfruit	jackfruit	ᴊᴀᴄᴋꜰʀᴜɪᴛ	7			A large, heavy tropical fruit with a thick, bumpy, spiky skin and sweet, yellow flesh inside.	ジャックフルーツ			波羅蜜			jackfruit (fruit)	
 1034	jaggery			jaggery	jaggery	ᴊᴀɢɢᴇʀʏ	6			A type of unrefined sugar made from cooked juice, often in a solid block or lump, with a dark color and a rich flavor.	ジャグリ			黑糖				
-417	jaw	798	JAW	jaw	jaw	ᴊᴀᴡ	4		body parts	The part of the mouth consisting of the bone and teeth that allows for chewing and movement of the mouth.	あご	जबड़ा		顎	မေးရိုး		jaw	
+417	jaw	798	JAW	jaw	jaw	ᴊᴀᴡ	7		body parts	The part of the mouth consisting of the bone and teeth that allows for chewing and movement of the mouth.	あご	जबड़ा		顎	မေးရိုး		jaw	
 1096	jealous:to.be	2821	JEALOUS	to be jealous	jealous	ᴊᴇᴀʟᴏᴜꜱ	6			To feel resentment or anger toward someone because they have something you want, or because they are showing affection to another person.	嫉妬する			嫉妒				
 1035	jobs.tears			jobs tears	jobs.tears	ᴊᴏʙꜱ.ᴛᴇᴀʀꜱ	6			A tall, grain-bearing tropical plant from the family Poaceae, native to Southeast Asia	ハトムギ			薏苡				
 2385	join.together..something:to	1743	JOIN	to join together (something)	join.together	ᴊᴏɪɴ.ᴛᴏɢᴇᴛʜᴇʀ	7			To connect two or more separate things so that they become one unit or are held closely together.	つなぐ			連接				
@@ -1336,11 +1342,9 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 638	jug	270	JUG	jug	jug	ᴊᴜɢ	5			A container with a narrow neck and a handle, used for holding and pouring liquids.	水差し	जग		壺	ကရား			
 163	juice..of.fruit	1499	JUICE	juice (of fruit)	juice	ᴊᴜɪᴄᴇ	5			The liquid that is inside a fruit.	果汁	रस		果汁	ဖျော်ရည်		juice	medicine/juice
 889	jump:to	1829	JUMP	to jump	jump	ᴊᴜᴍᴘ	5			To push oneself off the ground or a surface using the legs to move into the air.	跳ぶ	कूदना		跳	ခုန်သည်		jump (v)	
-164	jungle	3808	JUNGLE	jungle	jungle	ᴊᴜɴɢʟᴇ	3			A dense, tropical forest area with thick vegetation and many trees.	ジャングル	मिट्टी		叢林	တောကြီးမျက်မည်း			
-566	jungle:dense			dense jungle	dense.jungle	ᴅᴇɴꜱᴇ.ᴊᴜɴɢʟᴇ	5			A forest area with very thick vegetation and many trees growing closely together.	深いジャングル			濃密叢林				
 1037	jurisdiction			jurisdiction	jurisdiction	ᴊᴜʀɪꜱᴅɪᴄᴛɪᴏɴ	6			The legal power or authority of a person, institution, or government to make decisions and enforce laws within a specific geographic area or over a specific group of people.	管轄権			管轄權	တရားစီရင်ပိုင်ခွင့်			
 639	jute..plant!fibre	–	–	jute (plant, fibre)	jute	ᴊᴜᴛᴇ	5		flora	A plant used to make coarse cloth or rope from its strong fibers.	黄麻	जूट		黃麻	ဂုန်လျှော်ပင်			
-165	kalij.pheasant	3060	PHEASANT	kalij pheasant	kalij.pheasant	ᴋᴀʟɪᴊ.ᴘʜᴇᴀꜱᴀɴᴛ	7			A large, ground-dwelling bird with colorful plumage, often found in forests, belonging to the pheasant family.	キジ			紅腹錦雞				
+165	kalij.pheasant	3060	PHEASANT	kalij pheasant	kalij.pheasant	ᴋᴀʟɪᴊ.ᴘʜᴇᴀꜱᴀɴᴛ	5			A large, ground-dwelling bird with colorful plumage, often found in forests, belonging to the pheasant family.	キジ			紅腹錦雞				
 640	kapok	2499	KAPOK TREE	kapok	kapok	ᴋᴀᴘᴏᴋ	5		flora	A tree that produces soft, white, fluffy fibers used for stuffing.	カポック	सेमल		木棉	လဲမှို့		kapok	
 890	keep:to	1477	KEEP	to keep	keep	ᴋᴇᴇᴘ	5			To retain possession of an object or to continue holding something in one's hands or control.	取っておく	रखना		保留	ထိန်းသိမ်းသည်		keep, save	
 2387	keep.separate:to			to keep separate	keep.separate	ᴋᴇᴇᴘ.ꜱᴇᴘᴀʀᴀᴛᴇ	7			To prevent two or more things from touching, mixing, or being together in one group.	別々にしておく			隔離				
@@ -1383,7 +1387,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1567	larynx	3714	LARYNX	larynx	larynx	ʟᴀʀʏɴx	7			The part of the throat that contains the vocal cords and is used for breathing and making sound.	喉頭			喉				
 2093	last:to.be	1529	LAST (FINAL)	to be last	last	ʟᴀꜱᴛ	7			To be at the end of a series, a sequence, or a group of things.	最後である			最後				
 2813	last.night			last night	last.night	ʟᴀꜱᴛ.ɴɪɢʜᴛ	7			The night or evening immediately preceding the current day.	昨夜			昨晚				
-450	late:to.be	477	LATE	to be late	late	ʟᴀᴛᴇ	4			To arrive at a place or finish an action after the expected or scheduled time.	遅れる	शाम होना		遲到	နောက်ကျသည်		late	
+450	late:to.be	477	LATE	to be late	late	ʟᴀᴛᴇ	7			To arrive at a place or finish an action after the expected or scheduled time.	遅れる	शाम होना		遲到	နောက်ကျသည်		late	
 2094	later:to.be	–	–	to be later	later	ʟᴀᴛᴇʀ	7			To occur or happen at a time after the present or after a specific point in time.	後になる			後來				
 1568	latrine!toilet	219	TOILET	latrine, toilet	latrine	ʟᴀᴛʀɪɴᴇ	7			A structure or place used for discharging human waste and urinating.	便所			廁所				
 305	laugh:to	1355	LAUGH	to laugh	laugh	ʟᴀᴜɢʜ	3			To make sounds and move the mouth or face in a way that shows amusement or joy.	笑う	हंसना		笑	ရယ်သည်			laugh
@@ -1422,7 +1426,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2397	lend:to	582	LEND	to lend	lend	ʟᴇɴᴅ	7			To give something to another person for a period of time, with the expectation that they will return it later.	貸す			借出	ချေးငှားသည်		lend	
 2398	lengthen..stretch:to	3700	LENGTHEN	to lengthen (stretch)	lengthen	ʟᴇɴɢᴛʜᴇɴ	7			To make something longer or more extended in distance or length.	伸ばす			拉長				
 1578	leopard	1139	LEOPARD	leopard	leopard	ʟᴇᴏᴘᴀʀᴅ	7			A large wild cat with a yellowish or tan coat covered in dark spots or rosettes.	ヒョウ			豹	ကျားသစ်			
-1579	leprosy	3624	LEPROSY	leprosy	leprosy	ʟᴇᴘʀᴏꜱʏ	7			A chronic infectious disease that causes skin lesions, nerve damage, and can lead to physical disfigurement.	ハンセン病			癩病	အနာကြီးရောဂါ			
+1579	leprosy	3624	LEPROSY	leprosy	leprosy	ʟᴇᴘʀᴏꜱʏ	4			A chronic infectious disease that causes skin lesions, nerve damage, and can lead to physical disfigurement.	ハンセン病			癩病	အနာကြီးရောဂါ			
 1580	letter..of.alphabet	1612	LETTER	letter (of alphabet)	letter	ʟᴇᴛᴛᴇʀ	7			A single character or symbol used in a writing system to represent a sound or a word.	文字			字母	စာလုံး			
 1581	letter..to.send	1612	LETTER	letter (to send)	letter	ʟᴇᴛᴛᴇʀ	7			To write a written message on paper or a similar material and send it to someone.	手紙を書く			寫信	စာ			
 814	level:to.be	–	–	to be level	level	ʟᴇᴠᴇʟ	5	different from CONCEPTICON		To be in a position where a surface is flat and horizontal, without any slopes, bumps, or curves.	平らである	समान		平坦	ညီညာသည်			
@@ -1430,7 +1434,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1582	liar	3470	LIAR	liar	liar	ʟɪᴀʀ	7			A person who tells things that are not true.	嘘つき			說謊者	လူလိမ်			
 306	lick:to	319	LICK	to lick	lick	ʟɪᴄᴋ	3			To pass the tongue over a surface, often to taste something or to clean it.	舐める	चाटना		舔	လျက်သည်			lick
 897	lie..decieve:to	601	LIE (MISLEAD)	to lie (decieve)	lie	ʟɪᴇ	5			To say something that is not true with the intention of tricking or deceiving someone.	嘘をつく	झूठ बोलना		撒謊	မုသားဆိုသည်		to lie/fib	
-307	lie.down:to	215	LIE DOWN	to lie down	lie.down	ʟɪᴇ.ᴅᴏᴡɴ	3			To move from a standing or sitting position into a horizontal position on a surface.	横たわる	लेट जाना		躺下	လှဲအိပ်သည်		lie down	sleep/lie down
+307	lie.down:to	215	LIE DOWN	to lie down	lie.down	ʟɪᴇ.ᴅᴏᴡɴ	7			To move from a standing or sitting position into a horizontal position on a surface.	横たわる	लेट जाना		躺下	လှဲအိပ်သည်		lie down	sleep/lie down
 2399	lie.down..older.people:to	215	LIE DOWN	to lie down (older people)	lie.down	ʟɪᴇ.ᴅᴏᴡɴ	7			To move from a standing or sitting position into a horizontal position on a surface, such as a bed or the ground.	横になる			躺下（老人用語）				
 1584	life..lifetime	210	LIFE	life (lifetime)	life	ʟɪꜰᴇ	7			The total duration of time from the moment of birth until the moment of death.	一生	जीवन		生命	ဘဝ		life	breath/life
 1585	life..of.someone	210	LIFE	life (of someone)	life	ʟɪꜰᴇ	7			The period of time from a person's birth until their death.	生涯			一生	အသက်			
@@ -1468,6 +1472,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 248	long:to.be	1203	LONG	to be long	long	ʟᴏɴɢ	3			To have a great distance from one end to the other, rather than being short.	長い	लम्बा		長	ရှည်သည်		to be long	long/tall
 2096	long..of.time:to.be	418	FOR A LONG TIME	to be long (of time)	long	ʟᴏɴɢ	7			To last for a great amount of time or a large number of years, days, or hours.	時間が長い			持久				
 2405	look.after:to			to look after	look.after	ʟᴏᴏᴋ.ᴀꜰᴛᴇʀ	7			To take care of someone or something, such as a child, an animal, or a plant, to ensure they are safe and healthy.	世話をする			照顧				
+2847	look.after:to			to look after	look.after	ʟᴏᴏᴋ.ᴀꜰᴛᴇʀ	7											
 899	look.at:to	1819	LOOK	to look at	look.at	ʟᴏᴏᴋ.ᴀᴛ	4			To direct one's eyes toward a specific object, person, or place.	見る	कुछ देखना		看	ကြည့်သည်		to look at	
 900	look.for..seek:to	1468	LOOK FOR	to look for (seek)	look.for	ʟᴏᴏᴋ.ꜰᴏʀ	5			To search for something or someone that is lost or needed.	探す	खोजना		尋找	ရှာသည်		look for	
 2406	look.from.afar:to			to look from afar	look.from.afar	ʟᴏᴏᴋ.ꜰʀᴏᴍ.ᴀꜰᴀʀ	7			To direct one's sight toward something or someone that is at a great distance.	遠くから見る			遠眺				
@@ -1478,7 +1483,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2407	loosen:to	1933	LOOSEN	to loosen	loosen	ʟᴏᴏꜱᴇɴ	7			To make something less tight or to release it from a state of being fixed or bound.	緩める			鬆開	ချောင်စေသည်			
 2408	lose..competition:to	1660	LOSE	to lose (competition)	lose	ʟᴏꜱᴇ	7			To be defeated in a game, a contest, or a match.	負ける			輸	ရှုံးသည်			
 478	lose..something:to	–	–	to lose (something)	lose	ʟᴏꜱᴇ	4			To no longer have or possess something that was previously held or owned.	失う	हारना		丟失	ပျောက်ဆုံးသည်			
-451	lost:to.be	3667	LOST	to be lost	lost	ʟᴏꜱᴛ	4			To be unable to find one's way or to be unable to return to a known location.	迷う			迷路			(be) lost	
+451	lost:to.be	3667	LOST	to be lost	lost	ʟᴏꜱᴛ	7			To be unable to find one's way or to be unable to return to a known location.	迷う			迷路			(be) lost	
 816	loud:to.be	377	LOUD	to be loud	loud	ʟᴏᴜᴅ	5			To produce a high volume of sound that is easily heard.	音が大きい	उच्छ्रण होना		大聲	အသံကျယ်သည်			
 12	louse..head	1392	LOUSE	louse (head)	louse	ʟᴏᴜꜱᴇ	1		fauna	A small, parasitic insect that lives on a human scalp and feeds on blood.	虱	जूं		頭蝨	သန်း			louse
 2808	louse..shirt	311	BODY LOUSE	louse (shirt)	louse	ʟᴏᴜꜱᴇ	7			A small, parasitic insect that lives on the human body and feeds on blood, specifically one that is found on clothing.	衣類のシラミ			體蝨				
@@ -1518,7 +1523,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1620	masculine			masculine	masculine	ᴍᴀꜱᴄᴜʟɪɴᴇ	7			A quality or characteristic associated with men or boys.	男性的な			陽剛	ပုလ္လိင်			
 1621	masculine.marker			masculine marker	masculine.marker	ᴍᴀꜱᴄᴜʟɪɴᴇ.ᴍᴀʀᴋᴇʀ	7			A grammatical element used to indicate that a person or noun is male.	男性標識			陽性標記				
 1622	mask	2005	MASK	mask	mask	ᴍᴀꜱᴋ	7			A covering worn over the face to hide a person's appearance.	仮面			面具	မျက်နှာဖုံး			
-2414	massage:to	3119	MASSAGE (SOMEBODY)	to massage	massage	ᴍᴀꜱꜱᴀɢᴇ	7			To rub or press a person's body with the hands to help them relax or relieve pain.	マッサージする			按摩	နှိပ်နယ်ပေးသည်			
+2414	massage:to	3119	MASSAGE (SOMEBODY)	to massage	massage	ᴍᴀꜱꜱᴀɢᴇ	3			To rub or press a person's body with the hands to help them relax or relieve pain.	マッサージする			按摩	နှိပ်နယ်ပေးသည်			
 1623	master..of.something	383	MASTER	master (of something)	master	ᴍᴀꜱᴛᴇʀ	7			A person who has complete control, ownership, or authority over someone or something.	主人			主人	သခင်		master	
 2415	master..something:to			to master (something)	master	ᴍᴀꜱᴛᴇʀ	7			To gain complete knowledge or skill in a particular subject or activity through study or practice.	習得する			精通				
 178	mat	195	MAT	mat	mat	ᴍᴀᴛ	3			A flat piece of material, such as fabric, straw, or plastic, used as a floor covering or to sit upon.	ござ	चटाई		席子	ဖျာ		mat	
@@ -1551,7 +1556,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1643	midwife	3859	MIDWIFE	midwife	midwife	ᴍɪᴅᴡɪꜰᴇ	7			A person, typically a woman, who assists a person during childbirth and provides care for the newborn.	助産師			助產士	လက်သည်			
 2099	mighty:to.be	3188	MIGHTY OR POWERFUL OR STRONG	to be mighty	mighty	ᴍɪɢʜᴛʏ	7			To possess great physical strength, power, or dominance over others.	強大である			強壯				
 2420	migrate:to			to migrate	migrate	ᴍɪɢʀᴀᴛᴇ	7			To move from one region or country to another, often to settle in a new place for a long period of time.	移住する			遷移	ပြောင်းရွှေ့နေထိုင်သည်			
-181	milk	635	MILK	milk	milk	ᴍɪʟᴋ	3			The white liquid produced by the mammary glands of mammals and used as food.	乳	दूध		牛奶	နို့			vagina or breast/milk
+181	milk	635	MILK	milk	milk	ᴍɪʟᴋ	5			The white liquid produced by the mammary glands of mammals and used as food.	乳	दूध		牛奶	နို့			vagina or breast/milk
 2421	milk:to	93	DRAW MILK	to milk	milk	ᴍɪʟᴋ	7			To draw liquid from the udder of a female animal, such as a cow or a goat.	搾る			擠奶	နို့ညှစ်သည်			
 658	mill	636	MILL	mill	mill	ᴍɪʟʟ	5			A machine or device used to crush, grind, or crush grains, seeds, or other materials into a powder or smaller pieces.	粉挽き機	आटा चक्की		磨坊	ကြိတ်ခွဲစက်			
 591	millet:finger	3265	FINGER MILLET	finger millet	finger.millet	ꜰɪɴɢᴇʀ.ᴍɪʟʟᴇᴛ	5		flora	A small, cereal grain used for food that grows on a stalk with several small, finger-like spikes.	シコクビエ			指粟				
@@ -1603,7 +1608,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 662	mortar	224	MORTAR	mortar	mortar	ᴍᴏʀᴛᴀʀ	5			A heavy, hollow container used for crushing or grinding substances such as grain or spices with a pestle.	臼	मोर्टार		研鉢	ကျည်ပွေ့ဆုံ		mortar (for peppers)	mortar
 1658	mortar..for.rice	224	MORTAR	mortar (for rice)	mortar	ᴍᴏʀᴛᴀʀ	7			A heavy, hollow container used for pounding grain or rice to remove the outer shell.	米搗き臼			臼	ဆုံ			
 1659	mortar..for.spices	224	MORTAR	mortar (for spices)	mortar	ᴍᴏʀᴛᴀʀ	7			A heavy, hollow bowl used for crushing or grinding substances such as spices or grains into a powder or paste.	すり鉢			研缽	ငရုတ်ဆုံ			
-423	morung..dormitory			morung (dormitory)	morung	ᴍᴏʀᴜɴɢ	4			A communal building used by young men for sleeping, social gatherings, and learning traditional customs.	集会所			青年宿舍				
+423	morung..dormitory	–	–	morung (dormitory)	morung	ᴍᴏʀᴜɴɢ	4			A communal building used by young men for sleeping, social gatherings, and learning traditional customs.	集会所			青年宿舍				
 424	mosquito	1509	MOSQUITO	mosquito	mosquito	ᴍᴏꜱꞯᴜɪᴛᴏ	4		fauna	A small flying insect that sucks blood from humans and animals.	蚊	मच्छर		蚊子	ခြင်		mosquito	
 1660	mosquito.net	2795	MOSQUITO NET	mosquito net	mosquito.net	ᴍᴏꜱꞯᴜɪᴛᴏ.ɴᴇᴛ	7			A thin, fabric covering used over a bed to protect a sleeping person from insects.	蚊帳			蚊帳				
 663	moth	2828	MOTH	moth	moth	ᴍᴏᴛʜ	5		fauna	An insect with wings that is often active at night and is frequently attracted to artificial light.	蛾	तितली		蛾子	ပိုးဖလံ		moth	
@@ -1677,7 +1682,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1680	never	1656	NEVER	never	never	ɴᴇᴠᴇʀ	7			An adverb used to indicate that an event or action has not happened at any time in the past, does not happen in the present, and will not happen in the future.	決して			從未	ဘယ်သောအခါမှ			
 251	new:to.be	1231	NEW	to be new	new	ɴᴇᴡ	3			To exist in a state of not being old, used, or previously existing.	新しい	नया होना		新	အသစ်ဖြစ်သည်		to be new (things)	new
 1682	news..new.information	2964	NEWS	news (new information)	news	ɴᴇᴡꜱ	7			The new information or recent events that are reported or told to people.	ニュース			新聞	သတင်း			
-1683	nibling	173	SIBLING'S CHILD	nibling	nibling	ɴɪʙʟɪɴɢ	7			The child of one's brother or sister.	甥または姪			兄弟姊妹的孩子				
+1683	nibling	173	SIBLING'S CHILD	nibling	nibling	ɴɪʙʟɪɴɢ	4			The child of one's brother or sister.	甥または姪			兄弟姊妹的孩子				
 1684	niece	1642	NIECE	niece	niece	ɴɪᴇᴄᴇ	7			A daughter of one's brother or sister.	姪			姪女	တူမ		niece	
 192	night.time	1233	NIGHT	night time	night.time	ɴɪɢʜᴛ.ᴛɪᴍᴇ	3			The period of darkness between sunset and sunrise.	夜	रात का समय		夜間	ညအချိန်		night	night
 1685	nipple	796	NIPPLE	nipple	nipple	ɴɪᴘᴘʟᴇ	7			The small, raised part on the front of a breast used for feeding an infant.	乳首			乳頭	နို့သီး			
@@ -1882,6 +1887,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1784	poke..with.finger			poke (with finger)	poke	ᴘᴏᴋᴇ	7			To press a finger into something or someone with a quick, light movement.	指で突く			用手指戳	လက်ညှိုးဖြင့်ထိုးသည်			
 1785	poke..with.stick			poke (with stick)	poke	ᴘᴏᴋᴇ	7			To prod or jab something or someone using a long, thin object such as a stick.	棒で突く			用棍子戳	တုတ်ဖြင့်ထိုးသည်			
 2476	polish:to	3659	POLISH (SOMETHING)	to polish	polish	ᴘᴏʟɪꜱʜ	7			To rub a surface with a cloth or tool to make it smooth and shiny.	磨く			擦亮	အရောင်တင်သည်			
+2845	politeness.marker	–	–	politeness marker	politeness.marker	ᴘᴏʟɪᴛᴇɴᴇꜱꜱ.ᴍᴀʀᴋᴇʀ	7			A word, phrase, or grammatical feature used to soften an utterance, show respect, and manage social relationships during communication.								
 1786	pomegranate	3732	POMEGRANATE	pomegranate	pomegranate	ᴘᴏᴍᴇɢʀᴀɴᴀᴛᴇ	7			A fruit with a hard, reddish skin that contains many small, juicy, edible red seeds.	ざくろ			石榴	သလဲသီး			
 1787	pomelo	3804	GRAPEFRUIT OR POMELO	pomelo	pomelo	ᴘᴏᴍᴇʟᴏ	7			A large, heavy citrus fruit with a thick, bitter rind and sweet, segmented flesh.	ポメロ			柚子				
 705	pond	2035	POND	pond	pond	ᴘᴏɴᴅ	5			A small body of still water, smaller than a lake.	池	तालाब		池塘	ရေအိုင်			
@@ -1925,8 +1931,8 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 820	proud:to.be	174	PROUD	to be proud	proud	ᴘʀᴏᴜᴅ	5			To feel a sense of satisfaction, pleasure, or self-importance because of one's own achievements, qualities, or the accomplishments of someone close to them.	誇りに思う	गर्व महसूस करना		驕傲	ဂုဏ်ယူသည်		(be) proud	
 1802	proverb	3646	PROVERB	proverb	proverb	ᴘʀᴏᴠᴇʀʙ	7			A short, traditional saying that expresses a general truth or a piece of advice based on common sense or experience.	諺			諺語	စကားပုံ			
 1806	puddle	2290	PUDDLE	puddle	puddle	ᴘᴜᴅᴅʟᴇ	7			A small pool of liquid, such as rainwater, that has collected on the ground.	水たまり			水窪	ဗွက်အိုင်			
-483	pull:to	1455	PULL	to pull	pull	ᴘᴜʟʟ	4			To exert force on an object to move it toward oneself or in a specific direction.	ひっぱる	खींचना		拉	ဆွဲသည်		to pull	
 2485	pull.out:to	2325	PULL OUT	to pull out	pull.out	ᴘᴜʟʟ.ᴏᴜᴛ	7			To move something from the inside of a container, a hole, or a surrounding mass to the outside.	引き抜く			拔出				
+483	pull.rope:to	1455	PULL	to pull rope	pull.rope	ᴘᴜʟʟ.ʀᴏᴘᴇ	4			To exert force on an object to move it toward oneself or in a specific direction.	ひっぱる	खींचना		拉	ဆွဲသည်		to pull	
 1808	pumpkin	864	PUMPKIN	pumpkin	pumpkin	ᴘᴜᴍᴘᴋɪɴ	7			A large, round fruit with a thick, hard rind and fleshy interior, often orange in color, used as a vegetable in cooking.	かぼちゃ			南瓜				
 2486	punish:to	3649	PUNISH	to punish	punish	ᴘᴜɴɪꜱʜ	7			To inflict a penalty or physical pain on someone as a consequence for a wrong or a crime.	罰する			懲罰	ပြစ်ဒဏ်ခတ်သည်			
 1809	punishment..penalty	390	PUNISHMENT	punishment (penalty)	punishment	ᴘᴜɴɪꜱʜᴍᴇɴᴛ	7			A penalty or negative consequence imposed on someone as a result of breaking a rule or committing a crime.	罰			處罰（名目）				
@@ -1962,7 +1968,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 714	rainbow	1733	RAINBOW	rainbow	rainbow	ʀᴀɪɴʙᴏᴡ	5			A multicolored arc of light appearing in the sky when sunlight shines through raindrops after a storm.	虹	इंद्रधनुष		彩虹	သက်တံ		rainbow	
 1818	raincoat	3712	RAINCOAT	raincoat	raincoat	ʀᴀɪɴᴄᴏᴀᴛ	7			A piece of waterproof clothing worn over the body to protect a person from getting wet when it is raining.	雨笠			雨衣	မိုးကာအကျႌ			
 2491	raise.child:to	2134	RAISE (BRING UP)	to raise child	raise.child	ʀᴀɪꜱᴇ.ᴄʜɪʟᴅ	7			To care for a young person and provide for their needs until they reach adulthood.	育てる, 飼う			養育				
-253	raw..uncooked:to.be	1959	RAW	to be raw (uncooked)	raw	ʀᴀᴡ	3			To be in a state where food has not been cooked by heat.	生の	कच्चा		生的	အစိမ်းဖြစ်သည်			
+253	raw..uncooked:to.be	1959	RAW	to be raw (uncooked)	raw	ʀᴀᴡ	5			To be in a state where food has not been cooked by heat.	生の	कच्चा		生的	အစိမ်းဖြစ်သည်			
 1819	razor	151	RAZOR	razor	razor	ʀᴀᴢᴏʀ	7			A sharp tool used for cutting hair or shaving skin.	カミソリ			剃刀	သင်တုန်းဓား			
 2492	read:to	724	READ	to read	read	ʀᴇᴀᴅ	7			To look at written symbols or characters and understand their meaning.	読む			閱讀	ဖတ်သည်			
 1820	really..truly			really (truly)	really	ʀᴇᴀʟʟʏ	7			To a high or intense degree; used to emphasize that a statement is true or to express a strong feeling.	本当に			真	တကယ်			
@@ -2023,7 +2029,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1836	right.side	1019	RIGHT	right side	right.side	ʀɪɢʜᴛ.ꜱɪᴅᴇ	7			The side of a person or object that is on the left of the left hand.	右	दाईं तरफ		右側	ညာဘက်			right side
 2118	rigid:to.be	4106	STIFF	to be rigid	rigid	ʀɪɢɪᴅ	7			To be stiff and unable to bend or change shape without breaking.	曲がらない			僵硬				
 2508	ring..bell:to	2875	RING (MAKE SOUND)	to ring (bell)	ring	ʀɪɴɢ	7			To make a sound by striking a metal object, such as a bell, with a hammer or a clapper.	鳴らす			敲鐘	ခေါင်းလောင်းတီးသည်			
-721	ring..on.finger	1374	RING	ring (on finger)	ring	ʀɪɴɢ	5			A circular band worn on a finger as an ornament or decoration.	指輪	अंगूठी		戒指	လက်စွပ်		ring	
+721	ring..on.finger	1374	RING	ring (on finger)	ring	ʀɪɴɢ	7			A circular band worn on a finger as an ornament or decoration.	指輪	अंगूठी		戒指	လက်စွပ်		ring	
 1837	ring..shape			ring (shape)	ring	ʀɪɴɢ	7			A circular object that forms a closed loop.	輪			圓環	အကွင်း			
 1838	ringworm	3171	RINGWORM	ringworm	ringworm	ʀɪɴɢᴡᴏʀᴍ	7			A circular skin infection that causes a red, itchy, or scaly patch on the body.	白癬			圓癣	ပွေးနာ			
 81	ripe:to.be	178	RIPE	to be ripe	ripe	ʀɪᴘᴇ	2			To reach a state of being fully grown, soft, and ready to be eaten, especially in the case of fruit or grain.	熟する	पकना		成熟（果實可吃）	မှည့်သည်		to be ripe	ripe/well-cooked
@@ -2039,7 +2045,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2511	roll.around:to			to roll around	roll.around	ʀᴏʟʟ.ᴀʀᴏᴜɴᴅ	7			To move one's body by turning over and over on a surface.	転げ回る			打滾				
 922	roll.down:to	827	ROLL	to roll down	roll.down	ʀᴏʟʟ.ᴅᴏᴡɴ	5			To move by turning over and over along a sloping surface or a hill.	転げ落ちる	ढेर करना		滾動	လှိမ့်ချသည်		roll	
 923	roll.up..mat:to	–	–	to roll up (mat)	roll.up	ʀᴏʟʟ.ᴜᴘ	5			To fold or turn a flexible surface, such as a floor covering, into a cylindrical shape for storage or to tidy a space.	巻き上げる	रोल करना		卷	ဖျာလိပ်သည်			
-430	roof..of.building	769	ROOF	roof (of building)	roof	ʀᴏᴏꜰ	4			The upper covering of a building or structure that protects the interior from rain and sun.	屋根	छत		屋頂	ခေါင်မိုး		roof	
+430	roof..of.building	769	ROOF	roof (of building)	roof	ʀᴏᴏꜰ	7			The upper covering of a building or structure that protects the interior from rain and sun.	屋根	छत		屋頂	ခေါင်မိုး		roof	
 1176	room:bed			bed room	bed.room	ʙᴇᴅ.ʀᴏᴏᴍ	7			A room in a house used primarily for sleeping.	寝室			臥室				
 1608	room:main			main room	main.room	ᴍᴀɪɴ.ʀᴏᴏᴍ	7			The largest or most important room in a house, often used for social gatherings or as a central living area.	居間			大廳				
 1842	room..of.house	1450	ROOM	room (of house)	room	ʀᴏᴏᴍ	7			A single part of a building that is separated from other parts by walls.	部屋			房間	အခန်း		room	
@@ -2142,16 +2148,16 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 925	settle..somwhere:to	–	–	to settle (somwhere)	settle	ꜱᴇᴛᴛʟᴇ	5			To move to a new place and make it one's permanent home.	定住する	निवास करना		定居	အခြေချသည်			
 322	sew:to	1457	SEW	to sew	sew	ꜱᴇᴡ	3			To join or attach pieces of fabric, leather, or other materials together using a needle and thread.	縫う	सीवना		縫 / 裁縫	ချုပ်သည်			sew
 2540	shade:to			to shade	shade	ꜱʜᴀᴅᴇ	7			To block the light from the sun or another bright source to create a dark or cool area.	陰を作る			遮蔽				
-207	shade..area	1388	SHADE	shade (area)	shade	ꜱʜᴀᴅᴇ	3			An area of ground or space that is kept dark and cool because an object is blocking the light from the sun.	日陰	छाया		陰涼處	အရိပ်			shade/shadow
+207	shade..area	1388	SHADE	shade (area)	shade	ꜱʜᴀᴅᴇ	7			An area of ground or space that is kept dark and cool because an object is blocking the light from the sun.	日陰	छाया		陰涼處	အရိပ်			shade/shadow
 208	shadow..of.something	2275	SHADOW	shadow (of something)	shadow	ꜱʜᴀᴅᴏᴡ	3			A dark area or shape produced on a surface by an object that blocks light.	影	अचार		生米	မှောင်ရိပ်		shadow/shade	shade/shadow
 2541	shake..shiver:to	1909	SHAKE	to shake (shiver)	shake	ꜱʜᴀᴋᴇ	7			To move the body with quick, involuntary movements, often caused by cold, fear, or illness.	震える			顫抖	တုန်သည်			
 2542	shake..something:to	1909	SHAKE	to shake (something)	shake	ꜱʜᴀᴋᴇ	7			To move something back and forth or up and down with quick, short movements.	振る			搖	ခါသည်		shake (tr)	
-454	shallow:to.be	193	SHALLOW	to be shallow	shallow	ꜱʜᴀʟʟᴏᴡ	4			To have little depth or a low distance between the surface and the bottom.	浅い	कम गहराई वाला		淺的	တိမ်သည်		to be shallow	
+454	shallow..of.water:to.be	193	SHALLOW	to be shallow (of water)	shallow	ꜱʜᴀʟʟᴏᴡ	7			To have little depth or a low distance between the surface and the bottom.	浅い	कम गहराई वाला		淺的	တိမ်သည်		to be shallow	
 2543	shame:to			to shame	shame	ꜱʜᴀᴍᴇ	7			To feel or cause a sense of humiliation, guilt, or loss of face due to a perceived wrong or social failure.	恥をかかせる			羞辱	အရှက်ရစေသည်			
 2544	share:to	884	SHARE	to share	share	ꜱʜᴀʀᴇ	7			To divide a whole into parts so that others may have a portion of it.	分け合う			分享	မျှသည်			
 258	sharp..of.edge:to.be	1396	SHARP	to be sharp (of edge)	sharp	ꜱʜᴀʀᴘ	3			To have a thin, fine edge capable of cutting easily.	鋭い	तेज़		尖銳的邊緣	ထက်သည်		to be sharp	sharp
 259	sharp..of.point:to.be	–	–	to be sharp (of point)	sharp	ꜱʜᴀʀᴘ	3			To have a fine, thin, or tapered edge or end that can easily cut or pierce something.	尖っている	तीखा		尖銳的	ချွန်သည်			sharp
-486	sharpen..edge:to	251	SHARPEN (SOMETHING)	to sharpen (edge)	sharpen	ꜱʜᴀʀᴘᴇɴ	4			To make a tool or a blade more effective by rubbing its edge against a hard surface.	研ぐ			磨利刀刃				
+486	sharpen..edge:to	251	SHARPEN (SOMETHING)	to sharpen (edge)	sharpen	ꜱʜᴀʀᴘᴇɴ	7			To make a tool or a blade more effective by rubbing its edge against a hard surface.	研ぐ			磨利刀刃				
 2545	sharpen..point:to	251	SHARPEN (SOMETHING)	to sharpen (point)	sharpen	ꜱʜᴀʀᴘᴇɴ	7			To make a tool or an object, such as a knife or a needle, have a fine and cutting edge or a pointed tip.	尖らせる			磨尖				
 2546	shave..beard:to	231	SHAVE	to shave (beard)	shave	ꜱʜᴀᴠᴇ	7			To remove hair from the face using a sharp tool.	髭を剃る			刮鬍子	မုတ်ဆိတ်ရိတ်သည်			
 926	shave..head:to	231	SHAVE	to shave (head)	shave	ꜱʜᴀᴠᴇ	5			To remove all the hair from a person's skull using a razor or a similar tool.	丸刈りにする	बाल बन्द करना		剃頭	ခေါင်းရိတ်သည်		to shave (beard)	
@@ -2207,7 +2213,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1889	sister.in.law	2317	SISTER-IN-LAW	sister in law	sister.in.law	ꜱɪꜱᴛᴇʀ.ɪɴ.ʟᴀᴡ	7			A woman who is the sister of one's spouse or the wife of one's brother.	義理の姉妹			姻親姊妹				
 1890	sisters	1263	SISTER	sisters	sisters	ꜱɪꜱᴛᴇʀꜱ	7			The female siblings of a person.	姉妹			姊妹				
 90	sit:to	1416	SIT	to sit	sit	ꜱɪᴛ	2			To rest the body on the buttocks or a seat rather than standing or lying down.	座る	बैठना		坐下	ထိုင်သည်		(be) seated	sit
-2551	sit.together.closely:to			to sit together closely	sit.together.closely	ꜱɪᴛ.ᴛᴏɢᴇᴛʜᴇʀ.ᴄʟᴏꜱᴇʟʏ	7			To sit or rest in a way that people are physically touching or have very little space between them.	寄り添って座る			擠坐				
+2551	sit.together.closely:to			to sit together closely	sit.together.closely	ꜱɪᴛ.ᴛᴏɢᴇᴛʜᴇʀ.ᴄʟᴏꜱᴇʟʏ	3			To sit or rest in a way that people are physically touching or have very little space between them.	寄り添って座る			擠坐				
 1891	skeleton	2668	SKELETON	skeleton	skeleton	ꜱᴋᴇʟᴇᴛᴏɴ	7			The bony structure that supports the body of a human or an animal.	骨格			骨骼	အရိုးစု			
 826	skilled:to.be	807	SKILLED	to be skilled	skilled	ꜱᴋɪʟʟᴇᴅ	5			To have the ability or expertise to perform a task or activity well.	上手である	कुशल होना		擅長	ကျွမ်းကျင်သည်			
 69	skin	763	SKIN	skin	skin	ꜱᴋɪɴ	2		body parts	The outer covering of a human or animal body.	皮膚	त्वचा		皮膚	အရေပြား		skin	skin/bark
@@ -2245,7 +2251,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 488	smell.good..fragrant:to	–	–	to smell good (fragrant)	smell.good	ꜱᴍᴇʟʟ.ɢᴏᴏᴅ	4			To have a pleasant or sweet scent.	香る	सुगंधित होना		香	မွှေးသည်			
 931	smile:to	1451	SMILE	to smile	smile	ꜱᴍɪʟᴇ	5			To turn up the corners of the mouth to show pleasure or happiness without opening the lips or showing teeth.	微笑む	मुस्कुराना		微笑	ပြုံးသည်			
 70	smoke	778	SMOKE (EXHAUST)	smoke	smoke	ꜱᴍᴏᴋᴇ	2			The visible gas or vapor produced when a substance burns, often seen coming from a fire or an engine.	煙	धुआं		煙	မီးခိုး			smoke
-326	smoke:to	1689	SMOKE (INHALE)	to smoke	smoke	ꜱᴍᴏᴋᴇ	3			To inhale and exhale the smoke from a burning substance, such as tobacco, through a pipe, cigarette, or similar device.	喫煙する	धूम्रपान करना		抽菸	ဆေးလိပ်သောက်သည်			
+326	smoke:to	1689	SMOKE (INHALE)	to smoke	smoke	ꜱᴍᴏᴋᴇ	5			To inhale and exhale the smoke from a burning substance, such as tobacco, through a pipe, cigarette, or similar device.	喫煙する	धूम्रपान करना		抽菸	ဆေးလိပ်သောက်သည်			
 2131	smoked:to.be			to be smoked	smoked	ꜱᴍᴏᴋᴇᴅ	7			To undergo a process of being preserved or cooked using smoke from a fire.	燻される			燻製				
 264	smooth:to.be	1234	SMOOTH	to be smooth	smooth	ꜱᴍᴏᴏᴛʜ	3			To have an even and level surface without any bumps, ridges, or roughness.	すべすべした	मुलायम होना		平滑	ချောမွေ့သည်		to be smooth (road)	
 2412	smooth:to.make			to make smooth	make.smooth	ᴍᴀᴋᴇ.ꜱᴍᴏᴏᴛʜ	7			To remove roughness or unevenness from a surface so that it becomes flat or level.	滑らかにする			磨平				
@@ -2273,6 +2279,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 432	son	1620	SON	son	son	ꜱᴏɴ	4		kinship	A male child or offspring in relation to his parents.	息子	बेटा		兒子	သား		son	child/son
 750	son.in.law	1056	SON-IN-LAW	son in law	son.in.law	ꜱᴏɴ.ɪɴ.ʟᴀᴡ	5		kinship	The male person who is married to one's daughter or a sibling's daughter.	婿	जमाई		女婿	သမက်		son-in-law	son-in-law
 751	song	1096	SONG	song	song	ꜱᴏɴɢ	5			A musical composition consisting of words that are sung rather than spoken.	歌	गीत		歌曲	သီချင်း		song	
+2846	soot	830	SOOT	soot	soot	ꜱᴏᴏᴛ	3			A fine black or brown powder made of carbon that forms when fuels like wood, coal, oil, or gas burn incompletely.								
 2132	sore:to.be			to be sore	sore	ꜱᴏʀᴇ	7			To feel physical pain or discomfort in a part of the body, often due to injury, overuse, or illness.	痛む			痠痛				
 1915	sore..on.body	51	SORE	sore (on body)	sore	ꜱᴏʀᴇ	7			A painful, red, or inflamed spot on the skin or a body part.	ただれ			瘡	အနာ			
 752	soul!spirit..of.living	811	SOUL	soul, spirit (of living)	soul	ꜱᴏᴜʟ	5			The non-physical part of a living person that is believed to exist separately from the body and remains after death.	魂	आत्मा		靈魂	ဝိညာဉ်		soul, spirit (of living person)	
@@ -2297,7 +2304,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1924	speed..velocity			speed (velocity)	speed	ꜱᴘᴇᴇᴅ	7			The rate at which an object moves or changes its position over a period of time.	速度			速度	အမြန်နှုန်း			
 433	spicy..of.chilis:to.be	544	SPICY	to be spicy (of chilis)	spicy	ꜱᴘɪᴄʏ	4			To have a strong, hot, or burning sensation in the mouth caused by eating a chili pepper.	辛い	मसालेदार		辣	စပ်သည်		to be spicy	
 217	spider	843	SPIDER	spider	spider	ꜱᴘɪᴅᴇʀ	3		fauna	An eight-legged arachnid that often spins a web to catch insects.	蜘蛛	मकड़ी		蜘蛛	ပင့်ကူ		spider	
-218	spider::web	1065	SPIDER WEB	spiderweb	spiderweb	ꜱᴘɪᴅᴇʀᴡᴇʙ	3		fauna	The silk structure spun by an arachnid to catch prey or move around.	蜘蛛の巣	मकड़ी का जाल		蜘蛛網	ပင့်ကူအိမ်		spider web	
+218	spider::web	1065	SPIDER WEB	spiderweb	spiderweb	ꜱᴘɪᴅᴇʀᴡᴇʙ	7		fauna	The silk structure spun by an arachnid to catch prey or move around.	蜘蛛の巣	मकड़ी का जाल		蜘蛛網	ပင့်ကူအိမ်		spider web	
 2568	spill..liquid:to	3130	SPILL (SOMETHING)	to spill (liquid)	spill	ꜱᴘɪʟʟ	7			To cause a liquid to flow or fall out of a container by accident.	こぼす			潑灑	ဖိတ်သည်		spill (liquid) (tr)	
 934	spin..cotton:to	–	–	to spin (cotton)	spin	ꜱᴘɪɴ	5			To turn raw fibers into thread or yarn by twisting them together using a tool.	紡ぐ	धुनाई करना		紡	ချည်ငင်သည်			
 756	spirit..deity	53	SPIRIT	spirit (deity)	spirit	ꜱᴘɪʀɪᴛ	5			A supernatural being or entity that is worshipped as a god or goddess.	神霊	आत्मा		精神	နတ်		spirit (of dead person) (invisible)	
@@ -2329,7 +2336,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1936	spy			spy	spy	ꜱᴘʏ	7			A person who secretly collects information about a person, country, or organization to use it for another party.	スパイ			間諜	သူလျှို			
 2579	spy.on:to			to spy on	spy.on	ꜱᴘʏ.ᴏɴ	7			To watch someone or a place secretly and continuously, often to gather information or find out what they are doing.	のぞき見る			監視				
 2580	squat:to			to squat	squat	ꜱꞯᴜᴀᴛ	7			To adopt a position where one is sitting on one's heels with the buttocks near the feet and the weight resting on the feet.	しゃがむ			蹲	ဆောင့်ကြောင့်ထိုင်သည်			
-330	squeeze:to	1414	SQUEEZE	to squeeze	squeeze	ꜱꞯᴜᴇᴇᴢᴇ	3			To apply pressure to an object between two surfaces, such as fingers or hands, often to extract liquid or to change its shape.	しぼる	दबाना		擠	ညှစ်သည်			squeeze
+330	squeeze.in.hand:to	1414	SQUEEZE	to squeeze in hand	squeeze.in.hand	ꜱꞯᴜᴇᴇᴢᴇ.ɪɴ.ʜᴀɴᴅ	3			To apply pressure to an object between two surfaces, such as fingers or hands, often to extract liquid or to change its shape.	しぼる	दबाना		擠	ညှစ်သည်			squeeze
 598	squirrel:flying	3271	FLYING SQUIRREL	flying squirrel	flying.squirrel	ꜰʟʏɪɴɢ.ꜱꞯᴜɪʀʀᴇʟ	5		fauna	A small rodent with a membrane of skin between its limbs that allows it to glide from tree to tree.	ムササビ	उड़ती गिलहरी		飛鼠	ရှဉ့်ပျံ			
 759	squirrel..general	1628	SQUIRREL	squirrel (general)	squirrel	ꜱꞯᴜɪʀʀᴇʟ	5		fauna	A small rodent with a long, bushy tail that lives in trees and eats nuts.	リス	गिलहरी		松鼠	ရှဉ့်		squirrel	
 2581	stab:to	1434	STAB	to stab	stab	ꜱᴛᴀʙ	7			To pierce or wound a person or animal with a sharp, pointed object such as a knife or a spear.	刃物で刺す			刺（用尖物）	ဓားဖြင့်ထိုးသည်			
@@ -2372,7 +2379,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 940	stop..moving:to	2880	HALT (STOP)	to stop (moving)	stop	ꜱᴛᴏᴘ	5			To cease all movement or motion.	止まる	कुछ नहीं करना		停	ရပ်တန့်သည်			
 2594	store:to			to store	store	ꜱᴛᴏʀᴇ	7			To keep or put things in a specific place for future use.	蓄える			儲存	သိုလှောင်သည်			
 1949	stork	3724	STORK	stork	stork	ꜱᴛᴏʀᴋ	7			A large, long-legged, long-necked bird that often lives near water and has a long, pointed beak.	コウノトリ			鷺鶿	ငှက်ကျား			
-762	storm	858	STORM	storm	storm	ꜱᴛᴏʀᴍ	5			A strong, violent movement of air often accompanied by heavy rain, wind, or thunder and lightning.	嵐	तूफान		暴風雨	မုန်တိုင်း			
+762	storm	858	STORM	storm	storm	ꜱᴛᴏʀᴍ	3			A strong, violent movement of air often accompanied by heavy rain, wind, or thunder and lightning.	嵐	तूफान		暴風雨	မုန်တိုင်း			
 1950	story..tale	2060	STORY	story (tale)	story	ꜱᴛᴏʀʏ	7			A spoken or written account of imaginary or real events, often used for entertainment or to pass on information.	物語			故事	ပုံပြင်			
 2595	straddle:to			to straddle	straddle	ꜱᴛʀᴀᴅᴅʟᴇ	7			To place one leg on each side of an object or a person.	またがる			跨	ခွသည်			
 455	straight:to.be	1404	STRAIGHT	to be straight	straight	ꜱᴛʀᴀɪɢʜᴛ	4			To be in a line that does not bend, curve, or turn.	まっすぐな	सीधा होना		直	ဖြောင့်သည်		to be straight (road)	
@@ -2398,7 +2405,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2605	subtract..take.away:to			to subtract (take away)	subtract	ꜱᴜʙᴛʀᴀᴄᴛ	7			To take a specific amount away from a larger total or number.	差し引く			減	နုတ်သည်			
 2606	succeed:to	1112	SUCCEED	to succeed	succeed	ꜱᴜᴄᴄᴇᴇᴅ	7			To achieve a desired goal or reach a successful result after effort or luck.	成功する			成功	အောင်မြင်သည်			
 491	suck:to	1421	SUCK	to suck	suck	ꜱᴜᴄᴋ	4			To draw a liquid or substance into the mouth by creating a vacuum with the lips or tongue.	吸う	चूसना		吸	စုပ်သည်		to suck (milk)	
-2140	sudden:to.be	2920	SUDDENLY	to be sudden	sudden	ꜱᴜᴅᴅᴇɴ	7			To happen quickly and unexpectedly, without any warning or prior indication.	突然である			突然				
+2140	sudden:to.be	2920	SUDDENLY	to be sudden	sudden	ꜱᴜᴅᴅᴇɴ	5			To happen quickly and unexpectedly, without any warning or prior indication.	突然である			突然				
 2607	suffer:to	1101	SUFFER	to suffer	suffer	ꜱᴜꜰꜰᴇʀ	7			To experience something unpleasant, such as pain, hardship, or misfortune.	苦しむ			受苦	ဒုက္ခရောက်သည်			
 1955	sugar	862	SUGAR	sugar	sugar	ꜱᴜɢᴀʀ	7			A sweet, crystalline substance extracted from plants like sugarcane or beets, used commonly as a sweetener in food and drinks.	砂糖			糖	သကြား		sugar	
 764	sugar::cane	146	SUGAR CANE	sugarcane	sugarcane	ꜱᴜɢᴀʀᴄᴀɴᴇ	5		flora	A tall, thick grass with a sweet, juicy stem used for making sugar or juice.	さとうきび	गन्ना		甘蔗	ကြံ		sugarcane	
@@ -2444,7 +2451,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2144	taboo:to.be			to be taboo	taboo	ᴛᴀʙᴏᴏ	7			To be forbidden or prohibited by social or religious custom, often because it is considered sacred, dangerous, or spiritually unclean.	禁忌とされる			忌諱				
 1970	tadpole	3979	TADPOLE	tadpole	tadpole	ᴛᴀᴅᴘᴏʟᴇ	7			The young, swimming stage of a frog or toad that has a long tail and breathes through gills.	オタマジャクシ			蝌蚪	ဖားလောင်း			
 74	tail	1220	TAIL	tail	tail	ᴛᴀɪʟ	2		body parts	The posterior part of an animal's body that extends from the spine.	尻尾	पूंछ		尾巴	အမြီး		tail	tail
-946	take:to	1749	TAKE	to take	take	ᴛᴀᴋᴇ	5			To grasp or reach for something with the hands and move it toward oneself or into one's possession.	手に取る	लेना		拿	ယူသည်			
+946	take:to	1749	TAKE	to take	take	ᴛᴀᴋᴇ	3			To grasp or reach for something with the hands and move it toward oneself or into one's possession.	手に取る	लेना		拿	ယူသည်			
 2616	take.action:to			to take action	take.action	ᴛᴀᴋᴇ.ᴀᴄᴛɪᴏɴ	7			To perform an act or to begin doing something in order to achieve a result.	行動する			採取行動				
 2617	take.off..clothes:to	3538	TAKE OFF	to take off (clothes)	take.off	ᴛᴀᴋᴇ.ᴏꜰꜰ	7			To remove a piece of clothing or an item worn on the body from one's skin.	脱ぐ			脫				
 2618	take.out..from.container:to	3654	TAKE OUT	to take out (from container)	take.out	ᴛᴀᴋᴇ.ᴏᴜᴛ	7			To remove something from inside a container or a vessel.	出す			取出				
@@ -2453,7 +2460,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2620	talk.in.sleep:to			to talk in sleep	talk.in.sleep	ᴛᴀʟᴋ.ɪɴ.ꜱʟᴇᴇᴘ	7			To speak or make vocal sounds while a person is asleep.	寝言を言う			說夢話				
 269	tall:to.be	711	TALL	to be tall	tall	ᴛᴀʟʟ	3			To have a great vertical distance from the bottom to the top, such as a person or a tree.	背が高い	ऊँचा		高（身量長）	အရပ်ရှည်သည်		to be tall	long/tall
 1972	tamarind..paste	35	TAMARIND	tamarind (paste)	tamarind	ᴛᴀᴍᴀʀɪɴᴅ	7			A thick, dark substance made from the pulp of a sour fruit used in cooking.	タマリンドペースト			羅望子醬				
-770	tamarind..pod	35	TAMARIND	tamarind (pod)	tamarind	ᴛᴀᴍᴀʀɪɴᴅ	5		flora	The fruit of a tropical tree that grows in a long, brown pod and has a sour, fleshy pulp used in cooking.	タマリンド	इमली		羅望子果莢	မန်ကျည်းသီး		tamarind tree	
+770	tamarind..pod	35	TAMARIND	tamarind (pod)	tamarind	ᴛᴀᴍᴀʀɪɴᴅ	7		flora	The fruit of a tropical tree that grows in a long, brown pod and has a sour, fleshy pulp used in cooking.	タマリンド	इमली		羅望子果莢	မန်ကျည်းသီး		tamarind tree	
 1973	tamarind..tree	35	TAMARIND	tamarind (tree)	tamarind	ᴛᴀᴍᴀʀɪɴᴅ	7			A tropical tree that produces edible, sour fruit in long pods.	タマリンドの木			羅望子樹				
 2621	tame:to	2838	TAME	to tame	tame	ᴛᴀᴍᴇ	7			To train a wild or undomesticated animal to be gentle and obedient to humans.	手懐ける			馴服	ယဉ်အောင်လုပ်သည်			
 1974	tapioca	3940	TAPIOCA	tapioca	tapioca	ᴛᴀᴘɪᴏᴄᴀ	7			A starchy white substance extracted from the root of a cassava plant, often used as a flour or in food products.	タピオカ			木薯粉	ပီလောပီနံ			
@@ -2524,7 +2531,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 1524	tide:high	613	HIGH TIDE	high tide	high.tide	ʜɪɢʜ.ᴛɪᴅᴇ	7			The period when the ocean or a river reaches its highest level during a cycle.	満潮			滿潮				
 1598	tide:low	1026	LOW TIDE	low tide	low.tide	ʟᴏᴡ.ᴛɪᴅᴇ	7			The period of time when the water level in the ocean or a large river is at its lowest point before it begins to rise again.	干潮			落潮				
 335	tie..general:to	1917	TIE	to tie (general)	tie	ᴛɪᴇ	3			To fasten or secure two or more things together using a cord, string, or rope.	結ぶ	बांधना		綁	ချည်သည်			tie
-2630	tie.up.hair:to			to tie up hair	tie.up.hair	ᴛɪᴇ.ᴜᴘ.ʜᴀɪʀ	7			To fasten or bind one's hair together, often using a string, band, or similar object, to keep it out of the face or in a specific style.	髪を結ぶ			紮頭髮				
+2630	tie.up.hair:to			to tie up hair	tie.up.hair	ᴛɪᴇ.ᴜᴘ.ʜᴀɪʀ	4			To fasten or bind one's hair together, often using a string, band, or similar object, to keep it out of the face or in a specific style.	髪を結ぶ			紮頭髮				
 78	tiger	846	TIGER	tiger	tiger	ᴛɪɢᴇʀ	2		fauna	A large, powerful wild cat with orange fur and dark stripes, often found in forests.	虎	बाघ		老虎	ကျား		tiger	
 2148	tight..fitting:to.be	3053	TIGHT	to be tight (fitting)	tight	ᴛɪɢʜᴛ	7			To be too small or narrow for a person or an object, such that it fits closely or restricts movement.	きつい			緊（穿戴）				
 2149	tight..of.rope:to.be	3053	TIGHT	to be tight (of rope)	tight	ᴛɪɢʜᴛ	7			To be pulled or stretched so that there is no slack or looseness in a cord or string.	ぴんと張る			繃緊				
@@ -2590,8 +2597,8 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 116	tree.:branch	1531	BRANCH	branch	branch	ʙʀᴀɴᴄʜ	3			A woody part of a tree that grows out from the main trunk or a larger limb.	枝	डाली		樹枝	သစ်ကိုင်း		branch (tree)	branch
 343	tree.bark	1204	BARK	tree bark	tree.bark	ᴛʀᴇᴇ.ʙᴀʀᴋ	3		flora	The hard, outer covering of the trunk and branches of a woody plant.	樹皮	छाल (chaal)		樹皮	သစ်ခေါက်		tree bark	skin/bark
 2696	tree.stump	241	TREE STUMP	tree stump	tree.stump	ᴛʀᴇᴇ.ꜱᴛᴜᴍᴘ	7			The part of a large woody plant that remains in the ground after the main stem has been cut or broken off.	切り株			樹樁				
-2697	tree.trunk	776	TRUNK OF TREE	tree trunk	tree.trunk	ᴛʀᴇᴇ.ᴛʀᴜɴᴋ	7			The thick, main wooden stem of a tree that grows above the ground.	幹			樹幹				
-977	tribe..ethnic.group	1549	TRIBE	tribe (ethnic group)	tribe	ᴛʀɪʙᴇ	5			A social group of people who share a common culture, language, or ancestry.	部族	जनजाति		部落	လူမျိုးနွယ်စု		tribe, ethnic group	
+2697	tree.trunk	776	TRUNK OF TREE	tree trunk	tree.trunk	ᴛʀᴇᴇ.ᴛʀᴜɴᴋ	3			The thick, main wooden stem of a tree that grows above the ground.	幹			樹幹				
+977	tribe..ethnic.group	1549	TRIBE	tribe (ethnic group)	tribe	ᴛʀɪʙᴇ	4			A social group of people who share a common culture, language, or ancestry.	部族	जनजाति		部落	လူမျိုးနွယ်စု		tribe, ethnic group	
 2452	tribute:to.pay			to pay tribute	pay.tribute	ᴘᴀʏ.ᴛʀɪʙᴜᴛᴇ	7			To give a gift or a portion of goods to a ruler or a powerful person as a sign of respect, submission, or political allegiance.	貢ぐ			進貢				
 978	trousers..pants	809	TROUSERS	trousers (pants)	trousers	ᴛʀᴏᴜꜱᴇʀꜱ	5			A garment worn on the lower body that covers each leg separately from the waist to the ankles.	ズボン	पतलून		褲子	ဘောင်းဘီရှည်		trousers	
 831	true:to.be	1657	TRUE	to be true	true	ᴛʀᴜᴇ	5			To correspond with reality or facts; to be correct and not false.	本当の	सही होना		真實	မှန်သည်			
@@ -2610,7 +2617,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 956	turn.back:to	–	–	to turn back	turn.back	ᴛᴜʀɴ.ʙᴀᴄᴋ	5			To reverse direction and move toward the place from which one came.	引き返す	मुड़ना		折返	ပြန်လှည့်သည်			
 957	turn.over..overturn:to	–	–	to turn over (overturn)	turn.over	ᴛᴜʀɴ.ᴏᴠᴇʀ	5			To cause a container, vehicle, or object to flip so that its bottom is now on top or its contents are spilled.	ひっくり返す	उलटना		翻倒	မှောက်လှန်သည်			
 2744	turtle:water			water turtle	water.turtle	ᴡᴀᴛᴇʀ.ᴛᴜʀᴛʟᴇ	7			A turtle or tortoise that lives in rivers, lakes, or oceans rather than on land.	水亀			水龜				
-344	turtle..tortoise	112	TURTLE	turtle (tortoise)	turtle	ᴛᴜʀᴛʟᴇ	3		fauna	A reptile with a hard shell on its back, often living in water or on land.	陸亀	कछुआ		龜	လိပ်		turtle	
+344	turtle..tortoise	112	TURTLE	turtle (tortoise)	turtle	ᴛᴜʀᴛʟᴇ	7		fauna	A reptile with a hard shell on its back, often living in water or on land.	陸亀	कछुआ		龜	လိပ်		turtle	
 2706	turtle.shell	598	SHELL	turtle shell	turtle.shell	ᴛᴜʀᴛʟᴇ.ꜱʜᴇʟʟ	7			The hard, bony outer covering of a turtle or tortoise.	甲羅			龜殼			shell (of turtle)	
 2707	twice	1546	TWICE	twice	twice	ᴛᴡɪᴄᴇ	7			A count of two occurrences of an event or action.	二回			兩次	နှစ်ကြိမ်			
 981	twig	3222	TWIG	twig	twig	ᴛᴡɪɢ	5			A very small, thin branch that grows from a tree or a shrub.	小枝	टहनी		細枝	သစ်ခက်			
@@ -2667,7 +2674,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 28	village	930	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	1			A small human settlement, typically located in a rural area, consisting of a group of houses and their inhabitants.	村	गांव		村莊	ရွာ		villager	village
 2725	village.association			village association	village.association	ᴠɪʟʟᴀɢᴇ.ᴀꜱꜱᴏᴄɪᴀᴛɪᴏɴ	7			An organization or group of people from the same local settlement who work together for common interests or community management.	自治会			村落協會				
 2726	village.head			village head	village.head	ᴠɪʟʟᴀɢᴇ.ʜᴇᴀᴅ	7			The person who is the leader or chief of a local community or settlement.	村長			村長				
-349	vine..creeper	343	VINE	vine (creeper)	vine	ᴠɪɴᴇ	3		flora	A plant with a long, flexible stem that grows along the ground or climbs up other plants or trees.	つる	बेल		藤蔓	နွယ်ပင်		vine	
+349	vine..creeper	343	VINE	vine (creeper)	vine	ᴠɪɴᴇ	7		flora	A plant with a long, flexible stem that grows along the ground or climbs up other plants or trees.	つる	बेल		藤蔓	နွယ်ပင်		vine	
 2166	violent:to.be	–	–	to be violent	violent	ᴠɪᴏʟᴇɴᴛ	7			To act in a way that causes physical harm, damage, or extreme aggression toward others.	乱暴な			暴力				
 2727	viper	2654	VIPER	viper	viper	ᴠɪᴘᴇʀ	7			A venomous snake with a triangular head and often distinct patterns on its skin.	クサリヘビ			蝰蛇	မြွေပွေး			
 2728	virgin	2298	VIRGIN	virgin	virgin	ᴠɪʀɢɪɴ	7			A person who has never had sexual intercourse.	童貞・処女			處女	ကညာ			
@@ -2768,7 +2775,7 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2664	wink:to			to wink	wink	ᴡɪɴᴋ	7			To close and quickly open one eye.	ウインクする			眨眼（單眼示意）				
 339	winnow:to	2462	WINNOWING	to winnow	winnow	ᴡɪɴɴᴏᴡ	3			To blow air through a mixture of grain and husks to separate the edible part from the waste.	籾を吹き分ける	झाड़ना		簸穀	လှေ့သည်		winnow (v)	
 504	winter..cold.season	1471	WINTER	winter (cold season)	winter	ᴡɪɴᴛᴇʀ	4			The coldest season of the year, occurring between autumn and spring.	冬	सर्दी		冬天	ဆောင်းရာသီ			
-499	wipe:to	1454	WIPE	to wipe	wipe	ᴡɪᴘᴇ	4			To move a cloth, hand, or other tool across a surface to remove dirt, liquid, or dust.	拭く	पोंछना		擦拭	သုတ်သည်			
+2838	wipe.off:to			to wipe off	wipe.off	ᴡɪᴘᴇ.ᴏꜰꜰ	4			To remove dirt, liquid, or another substance from a surface by rubbing it with a cloth, hand, or towel.								
 2775	wire	2631	WIRE	wire	wire	ᴡɪʀᴇ	7			A long, thin, flexible strand made of metal.	針金			金屬絲	ကြေးနန်းကြိုး			
 2776	wisdom	4040	WISDOM	wisdom	wisdom	ᴡɪꜱᴅᴏᴍ	7			The quality of having deep knowledge, experience, and good judgment.	知恵			智慧	ဉာဏ်ပညာ			
 836	wise:to.be	698	WISE	to be wise	wise	ᴡɪꜱᴇ	5			To possess or show great intelligence, good judgment, and deep understanding.	賢明	बुद्धिमान		明智的	ပညာရှိသည်		(be) wise	
@@ -2799,14 +2806,14 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 354	worm..general	1219	WORM	worm (general)	worm	ᴡᴏʀᴍ	3		fauna	An elongated, soft-bodied animal that crawls on or through the ground.	細長い虫	कीड़ा		蟲子	သန်ကောင်			
 2668	worry:to	150	WORRY	to worry	worry	ᴡᴏʀʀʏ	7			To feel or experience anxiety, nervousness, or mental distress about a potential problem or a future event.	心配する			擔心	ပူပန်သည်			
 2669	worship:to	257	WORSHIP	to worship	worship	ᴡᴏʀꜱʜɪᴘ	7			To show great respect or devotion to a deity, spirit, or divine being through prayer, rituals, or offerings.	崇拝する			崇拜	ကိုးကွယ်သည်			
-2670	wound:to			to wound	wound	ᴡᴏᴜɴᴅ	7			To cause an injury to a living body, often by cutting or piercing the skin.	傷つける			弄傷	ဒဏ်ရာရစေသည်			
+2670	wound:to	44	INJURE	to wound	wound	ᴡᴏᴜɴᴅ	7			To cause an injury to a living body, often by cutting or piercing the skin.	傷つける			弄傷	ဒဏ်ရာရစေသည်			
 2790	wound..injury	1109	WOUND	wound (injury)	wound	ᴡᴏᴜɴᴅ	7			An injury to the body, such as a cut or a puncture, that breaks the skin or tissue.	傷			傷口	အနာဒဏ်ရာ		wound, sore	
 967	wrap..cloth:to	1113	WRAP	to wrap (cloth)	wrap	ᴡʀᴀᴘ	5			To encircle or cover an object by folding or winding a piece of fabric around it.	包む	लपेटना		用布包	ထွေးပတ်သည်		wrap up (v)	
 2671	wrestle:to			to wrestle	wrestle	ᴡʀᴇꜱᴛʟᴇ	7			To engage in a physical struggle where two people try to throw or pin each other to the ground.	レスリングをする			摔跤	နပန်းလုံးသည်			
 2672	wring:to	3224	WRING	to wring	wring	ᴡʀɪɴɢ	7			To twist or squeeze a piece of cloth or hair with the hands to remove liquid.	絞る			擰	ညှစ်ထုတ်သည်			
 2791	wrinkle..on.skin	2294	WRINKLE	wrinkle (on skin)	wrinkle	ᴡʀɪɴᴋʟᴇ	7			A small line or fold on the surface of the skin, often caused by aging or repeated movement.	皺			皺紋	အရေးအကြောင်း			
 1001	wrist::band	3943	WRISTBAND	wristband	wristband	ᴡʀɪꜱᴛʙᴀɴᴅ	5			A strip of cloth, plastic, or leather worn around the wrist as an ornament or to identify a person.	リストバンド			腕帶				
-2673	write:to	1672	WRITE	to write	write	ᴡʀɪᴛᴇ	7			To mark words or symbols on a surface, such as paper or a digital screen, using a tool like a pen or pencil.	書く			寫	ရေးသည်		write (v)	
+2673	write:to	1672	WRITE	to write	write	ᴡʀɪᴛᴇ	4			To mark words or symbols on a surface, such as paper or a digital screen, using a tool like a pen or pencil.	書く			寫	ရေးသည်		write (v)	
 2793	yam	410	YAM	yam	yam	ʏᴀᴍ	7			A starchy, edible tuber with a thick skin, often grown as a root crop in tropical or subtropical regions.	山芋	सूखी शाकाहारी विशेषतः अफ़्रीकी खाद्य पदार्थ		洋芋	မျောက်ဥ		yam	
 1385	yam:elephant.foot			elephant foot yam	elephant.foot.yam	ᴇʟᴇᴘʜᴀɴᴛ.ꜰᴏᴏᴛ.ʏᴀᴍ	7			A large, edible tuber with a thick, starchy body that grows underground and is often used as a staple food.	ゾウの足のヤムイモ			大芋頭				
 968	yawn:to	1028	YAWN	to yawn	yawn	ʏᴀᴡɴ	5			To open the mouth wide and inhale deeply, often due to tiredness or boredom.	あくびする	ज़्यादा से ज़्यादा साँस लेना		打哈欠	သမ်းသည်			
@@ -2827,3 +2834,6 @@ slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment
 2805	youth..period			youth (period)	youth	ʏᴏᴜᴛʜ	7			The period of time when a person is young, typically between childhood and adulthood.	青年期			青少年時期	ငယ်ရွယ်ချိန်			
 2171	zealous:to.be	4060	PASSION	to be zealous	zealous	ᴢᴇᴀʟᴏᴜꜱ	7			To show great energy, passion, or intense enthusiasm for a particular activity, cause, or belief.	熱心である			熱衷				
 2806	zig.zag..pattern			zig zag (pattern)	zig.zag	ᴢɪɢ.ᴢᴀɢ	7			A pattern of lines that constantly change direction in sharp angles, moving back and forth like a series of connected V-shapes.	ジグザグ模様			鋸齒形				
+							7											
+							7											
+							7											
