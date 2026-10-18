@@ -1,0 +1,66 @@
+slno	concept_id	concepticon_id	concepticon_name	name	gloss	concept	stage	comment	category	definition	japanese	hindi	assamese	mandarin	burmese	nagamese	SILCAWL	CALMSEA
+395	elephant	1290.0	ELEPHANT	elephant	elephant	ᴇʟᴇᴘʜᴀɴᴛ	4		fauna	A large, heavy mammal with a long trunk and large tusks.	象	हाथी		大象	ဆင်		elephant	
+84	die:to	1494.0	DIE	to die	die	ᴅɪᴇ	2			To cease to live or to undergo the process of death.	死ぬ	मरना		死	သေသည်			die
+384	deer..general	1936.0	DEER	deer (general)	deer	ᴅᴇᴇʀ	4		fauna	A hoofed mammal that typically has antlers and lives in forests or grasslands.	鹿	हिरण		鹿	သမင်			
+72	star	1430.0	STAR	star	star	ꜱᴛᴀʀ	2			A large, luminous ball of gas in space that shines in the night sky.	星	तारा		星星	ကြယ်ပွင့်		star	star
+57	iron	621.0	IRON	iron	iron	ɪʀᴏɴ	2			A hard, heavy, dark grey metal used to make tools, weapons, or machinery.	鉄	लोहा		鐵	သံ		iron	iron
+373	cheek	1730.0	CHEEK	cheek	cheek	ᴄʜᴇᴇᴋ	4		body parts	The fleshy part of the face on either side of the nose and below the eyes.	頬			臉頰	ပါး		cheek	
+201	path..road	2252.0	PATH	path (road)	path	ᴘᴀᴛʜ	3			A track or narrow way made for walking or travelling, often through a forest or field, that is smaller than a major road.	道	सड़क		道路 / 路徑	လမ်း			road
+339	winnow:to	2462.0	WINNOWING	to winnow	winnow	ᴡɪɴɴᴏᴡ	3			To blow air through a mixture of grain and husks to separate the edible part from the waste.	籾を吹き分ける	झाड़ना		簸穀	လှေ့သည်		winnow (v)	
+377	corpse	767.0	CORPSE	corpse	corpse	ᴄᴏʀᴘꜱᴇ	4		body parts	The dead body of a human being that is no longer alive.	死体	शव		屍體	အလောင်း		corpse	
+111	bear..animal	1820.0	BEAR	bear (animal)	bear	ʙᴇᴀʀ	4			A large, heavy mammal with thick fur and strong limbs, often found in forests and known for eating honey or plants.	熊	भालू		熊	ဝက်ဝံ		bear	bear
+61	0001.:one	1493.0	ONE	one	one	ᴏɴᴇ	2		numbers	The number that comes after zero and before two.	一	एक	এক	一	တစ်		one (person)	one
+329	spit:to	1440.0	SPIT	to spit	spit	ꜱᴘɪᴛ	3			To eject saliva or a small amount of liquid from the mouth by force.	つばを吐く	थूकना		吐	တံတွေးထွေးသည်			spit
+355	sibling:younger	427.0	YOUNGER SIBLING	younger sibling	younger.sibling	ʏᴏᴜɴɢᴇʀ.ꜱɪʙʟɪɴɢ	3			A person who has the same parents as you but was born after you.	弟妹			弟妹				
+152	hoe	284.0	HOE	hoe	hoe	ʜᴏᴇ	3			A hand tool used for digging or moving soil, consisting of a long handle with a metal blade at one end.	鍬			鋤頭	ပေါက်ပြား		hoe (n)	
+333	sweat:to	126.0	SWEAT (PERSPIRE)	to sweat	sweat	ꜱᴡᴇᴀᴛ	3			To exude moisture from the pores of the skin, typically due to heat, physical exertion, or illness.	汗をかく	पसीना आना		出汗	ချွေးထွက်သည်		perspire, sweat (v)	sweat
+620	group..of.people			group (of people)	group	ɢʀᴏᴜᴘ	3			A collection of several people who are together in one place or share a common purpose.	集団	लोगों का समूह		人羣	လူအုပ်စု			
+43	bird..general.term	937.0	BIRD	bird (general term)	bird	ʙɪʀᴅ	2		fauna	A warm-blooded vertebrate animal that has feathers and wings, and typically lays eggs.	鳥	पक्षी		鳥	ငှက်		bird	bird
+278	burn..intransitive:to	2102.0	BURN	to burn (intransitive)	burn	ʙᴜʀɴ	3			To undergo a process of combustion or to be consumed by fire.	燃える	जलाना		燒著（自己燒）	လောင်သည်		burn (intr), blaze	burn
+143	grandchild	1617.0	GRANDCHILD	grandchild	grandchild	ɢʀᴀɴᴅᴄʜɪʟᴅ	3			The offspring of a person's child.	孫			孫子女	မြေး			
+467	come.back..return:to	581.0	COME BACK	to come back (return)	come.back	ᴄᴏᴍᴇ.ʙᴀᴄᴋ	4			To move or travel from a place towards the place where one started or where one is currently located.	帰る・戻る	लौटना		回來	ပြန်လာသည်			
+28	village	930.0	VILLAGE	village	village	ᴠɪʟʟᴀɢᴇ	1			A small human settlement, typically located in a rural area, consisting of a group of houses and their inhabitants.	村	गांव		村莊	ရွာ		villager	village
+11	language	1307.0	LANGUAGE	language	language	ʟᴀɴɢᴜᴀɢᴇ	1			A system of sounds, words, and grammar used by a group of people to communicate.	ことば	भाषा		語言	ဘာသာစကား		language	
+45	alcohol:brewed	404.0	ALCOHOL (FERMENTED DRINK)	brewed alcohol	brewed.alcohol	ʙʀᴇᴡᴇᴅ.ᴀʟᴄᴏʜᴏʟ	2			A liquid drink produced by the fermentation of grains, fruit, or sugar.	醸造酒	सुराही दार शराब	জলকীয় দ্রব	釀造酒	အချဉ်ဖောက်အရက်			
+73	stone	857.0	STONE	stone	stone	ꜱᴛᴏɴᴇ	2			A hard, solid, non-living mineral matter found in the ground or on the surface of the earth.	石	पत्थर		石頭	ကျောက်		stone	stone
+188	name	1405.0	NAME	name	name	ɴᴀᴍᴇ	3			A word or set of words used to identify a person, place, or thing.	名前	नाम		名字	နာမည်		name	name
+484	push:to	1452.0	PUSH	to push	push	ᴘᴜꜱʜ	4			To apply force against an object to move it away from oneself or to move it forward.	押す	धक्का देना		推	တွန်းသည်			
+394	brother:elder	1759.0	OLDER BROTHER	elder brother	elder.brother	ᴇʟᴅᴇʀ.ʙʀᴏᴛʜᴇʀ	4		kinship	A male sibling who was born before the speaker.	兄	भाई		哥哥	အစ်ကို			
+29	water	948.0	WATER	water	water	ᴡᴀᴛᴇʀ	1			The clear, colourless liquid that falls from the sky as rain and is necessary for all living things to drink.	水			水	ရေ			water
+471	embrace..hug:to	928.0	EMBRACE	to embrace (hug)	embrace	ᴇᴍʙʀᴀᴄᴇ	4			To wrap one's arms around a person's body to show affection or greeting.	抱きしめる	गले लगाना		擁抱	ပွေ့ဖက်သည်		embrace, hug (v)	
+2673	write:to	1672.0	WRITE	to write	write	ᴡʀɪᴛᴇ	4			To mark words or symbols on a surface, such as paper or a digital screen, using a tool like a pen or pencil.	書く			寫	ရေးသည်		write (v)	
+335	tie..general:to	1917.0	TIE	to tie (general)	tie	ᴛɪᴇ	3			To fasten or secure two or more things together using a cord, string, or rope.	結ぶ	बांधना		綁	ချည်သည်			tie
+8	fruit	1507.0	FRUIT	fruit	fruit	ꜰʀᴜɪᴛ	1		flora	The fleshy, edible part of a plant that contains seeds and grows from a flower.	実	फल		水果	အသီး		fruit (tree)	fruit
+337	wash.clothes:to	3434.0	WASH (CLOTHES)	to wash clothes	wash.clothes	ᴡᴀꜱʜ.ᴄʟᴏᴛʜᴇꜱ	3			To clean garments or pieces of fabric using water and a cleaning agent.	洗濯する			洗衣				
+287	emerge:to	1076.0	EMERGE (APPEAR)	to emerge	emerge	ᴇᴍᴇʀɢᴇ	3			To move from a hidden or internal place into view.	出現する	उभरना		浮現	ထင်ပေါ်လာသည်			emerge
+13	moon	1313.0	MOON	moon	moon	ᴍᴏᴏɴ	1			The natural satellite that orbits the Earth and is visible in the night sky.	月	चांद		月亮	လ		moon	moon
+2839	about			about	about	ᴀʙᴏᴜᴛ	4			Relating to a specific subject, or roughly approximating a number, time, or quantity.								
+5	eye	1248.0	EYE	eye	eye	ᴇʏᴇ	1		body parts	The organ on the face used for seeing and perceiving light.	目	आँख		眼睛	မျက်လုံး		eye	eye
+70	smoke	778.0	SMOKE (EXHAUST)	smoke	smoke	ꜱᴍᴏᴋᴇ	2			The visible gas or vapour produced when a substance burns, often seen coming from a fire or an engine.	煙	धुआं		煙	မီးခိုး			smoke
+97	0002.:two	1498.0	TWO	two	two	ᴛᴡᴏ	2		numbers	The number that comes after one and before three.	二	दो	দুই	二	နှစ်		two (persons)	two
+177	man..male.person	1554.0	MAN	man (male person)	man	ᴍᴀɴ	3			An adult human male.	男	मनुष्य		男人	ယောက်ျား		man	
+18	sun	1343.0	SUN	sun	sun	ꜱᴜɴ	1			The star at the centre of the solar system that provides light and heat to the earth during the day.	太陽	सूरज		太陽	နေ		sun	sun/day
+16	salt	1274.0	SALT	salt	salt	ꜱᴀʟᴛ	1			A white or translucent mineral used in small amounts to season or preserve food.	塩	नमक		鹽	ဆား		salt	salt
+55	heart	1223.0	HEART	heart	heart	ʜᴇᴀʀᴛ	2		body parts	The muscular organ inside the chest that pumps blood through the body.	心臓	दिल		心臟	နှလုံး		heart	heart
+51	father	1217.0	FATHER	father	father	ꜰᴀᴛʜᴇʀ	2			A male parent.	父	पिता		父親	အဖေ		father	
+428	porcupine	2510.0	PORCUPINE	porcupine	porcupine	ᴘᴏʀᴄᴜᴘɪɴᴇ	4		fauna	A large rodent that has many sharp, hard spines covering its body for protection.	ヤマアラシ	शहरा		豪豬	ဖြူကောင်		porcupine	
+208	shadow..of.something	2275.0	SHADOW	shadow (of something)	shadow	ꜱʜᴀᴅᴏᴡ	3			A dark area or shape produced on a surface by an object that blocks light.	影	अचार		生米	မှောင်ရိပ်		shadow/shade	shade/shadow
+363	bed	1663.0	BED	bed	bed	ʙᴇᴅ	4			A piece of furniture used for sleeping or resting on.	寝台	बिस्तर		牀	အိပ်ရာ			
+22	colour.:red:to.be	156.0	RED	to be red	red	ʀᴇᴅ	1		statives	To have the colour of blood or a ripe tomato.	赤い	लाल		紅色	နီသည်		red	red
+19	0010.:ten	1515.0	TEN	ten	ten	ᴛᴇɴ	1		numbers	The number that comes after nine and before eleven.	十	दस	দহ	十	တစ်ဆယ်		ten (persons)	ten
+121	alcohol:distilled	842.0	LIQUOR	distilled alcohol	distilled.alcohol	ᴅɪꜱᴛɪʟʟᴇᴅ.ᴀʟᴄᴏʜᴏʟ	3			A liquid produced through a process of heating and cooling, often used as a strong alcoholic drink.	蒸留酒	अर्क	মদ	蒸餾酒	ပေါင်းခံအရက်			liquor
+203	rice.plant	2026.0	RICE PLANT	rice plant	rice.plant	ʀɪᴄᴇ.ᴘʟᴀɴᴛ	3		rice	The plant that produces the grain used for food.	稲	धान		稻米	ကောက်ပင်			rice (in fields)
+79	heavy:to.be	1210.0	HEAVY	to be heavy	heavy	ʜᴇᴀᴠʏ	2			To have a great weight or to be difficult to lift.	重い	भारी होना		重	လေးသည်		to be heavy	heavy
+95	tomorrow	1329.0	TOMORROW	tomorrow	tomorrow	ᴛᴏᴍᴏʀʀᴏᴡ	2			The day after the current day.	明日	कल (kal)		明天	မနက်ဖြန်		tomorrow	
+67	0007.:seven	1704.0	SEVEN	seven	seven	ꜱᴇᴠᴇɴ	2		numbers	The number that comes after six and before eight.	七	सात	সাত	七	ခုနစ်		seven (persons)	seven
+300	hunt:to	1435.0	HUNT	to hunt	hunt	ʜᴜɴᴛ	3			To chase, catch, or kill wild animals for food or for sport.	猟をする	शिकार करना		狩獵	အမဲလိုက်သည်		chase (v)	drive/hunt
+2237	climb..wall:to	1102.0	CLIMB	to climb (wall)	climb	ᴄʟɪᴍʙ	4			To move upwards by using hands and feet to grip a vertical surface.	壁を登る			攀爬				
+227	awaken:to	1602.0	WAKE UP	to awaken	awaken	ᴀᴡᴀᴋᴇɴ	3			To stop sleeping and become conscious or alert.	目覚める	जागना	জাগা	醒來	နိုးသည်		wake up (intr)	awaken
+36	2.sg	1215.0	THOU	2 sg	2.sg	2.ꜱɢ	2		pronouns	The single person being spoken to.	おまえ			你			you (2s)	thou
+499	apply.paint:to	3122.0	PAINT (SOMETHING)	to apply paint	apply.paint	ᴀᴘᴘʟʏ.ᴘᴀɪɴᴛ	4			To spread paint or another colouring substance over a surface using a brush, hand, or other tool.	拭く	पोंछना		擦拭	သုတ်သည်			
+42	bat..animal	1793.0	BAT	bat (animal)	bat	ʙᴀᴛ	2		fauna	A nocturnal flying mammal with wings formed by skin stretched between its fingers.	蝙蝠	चमगादड़		蝙蝠	လင်းနို့		bat	
+1444	forest..wild.jungle	420.0	FOREST	forest (wild jungle)	forest	ꜰᴏʀᴇꜱᴛ	3			A large area of land covered with many trees and natural vegetation, not used for farming or human settlement.	原生林			原始林	တော			
+279	buy:to	1869.0	BUY	to buy	buy	ʙᴜʏ	3			To give money to someone in exchange for an object or a service.	買う	ख़रीदना		買	ဝယ်သည်		but	buy
+477	ignite..something:to	737.0	LIGHT (IGNITE)	to ignite (something)	ignite	ɪɢɴɪᴛᴇ	4			To cause something to start burning or catch fire.	火をつける	जलना		點燃	မီးရှို့သည်		light (fire) (v)	
+219	stick..tree	1295.0	STICK	stick (tree)	stick	ꜱᴛɪᴄᴋ	3			A thin, woody piece of a plant or a tree that has fallen or been broken off.	杖, 棒	छड़ी		棍子	တုတ်			stick
+160	intestines	1991.0	INTESTINES	intestines	intestines	ɪɴᴛᴇꜱᴛɪɴᴇꜱ	3		body parts	The long, tube-like organs inside the abdomen that process food after it is swallowed.	腸	अंतःशोषक		腸子	အူ		intestines	guts

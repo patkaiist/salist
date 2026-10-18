@@ -1,6 +1,13 @@
 import pandas as pd
 import os
 
+PROTOKHM_SLNOS = [
+    395, 84, 384, 72, 57, 373, 201, 339, 377, 111, 61, 329, 355, 152, 333, 620,
+    43, 278, 143, 467, 28, 11, 45, 73, 188, 484, 394, 29, 471, 2673, 335, 8,
+    337, 287, 13, 2839, 5, 70, 97, 177, 18, 16, 55, 51, 428, 208, 363, 22, 19,
+    121, 203, 79, 95, 67, 300, 2237, 227, 36, 499, 42, 1444, 279, 477, 219, 160,
+]
+
 def process_concepts():
     df = pd.read_csv('concepts.tsv', sep='\t')
 
@@ -48,6 +55,14 @@ def process_concepts():
 
         if row_count > 0:
             filtered_df.to_csv(filename, sep='\t', index=False)
+
+    order = {slno: i for i, slno in enumerate(PROTOKHM_SLNOS)}
+    protokhm_df = df[df['slno'].isin(order)].sort_values(
+        'slno', key=lambda s: s.map(order)
+    )
+    protokhm_df.to_csv(
+        os.path.join('lists', 'salist_protokhm.tsv'), sep='\t', index=False
+    )
 
 if __name__ == "__main__":
     process_concepts()
